@@ -1,7 +1,7 @@
 name: HTML Build
 on:
   push:
-    branches: develop
+    branches: master
 permissions:
   contents: read
   pages: write
