@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Volkman Farm</title>
+    <link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
+    <style>
+      html {
+        background-color: #fafad2;
+      }
+      h1 {
+        display: none;
+      }
+      ul {
+        display: block;
+        text-align: center;
+      }
+      ul li {
+        display: inline-block;
+      }
+      ul li:not(:first-child):before {
+        content: " · ";
+      }
+      ul li a {
+        color: #000;
+        font-family: 'Courier New', Courier, monospace;
+        text-underline-offset: 10px;
+      }
+      #logo {
+        display: block;
+        margin:50px auto 0;
+        width:60%;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Volkman Farm</h1>  
+      <img id="logo" src="/assets/logo.webp">
+      <ul>
+        <li><a href="/assets/volkman-price-list.pdf">microgreens</a></li>
+        <li><a href="/about/">about</a></li>
+      </ul>
+    </main>
+  </body>
+</html>

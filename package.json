@@ -1,0 +1,14 @@
+{
+  "name": "volkman.farm",
+  "version": "1.0.0",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "eleventy": "^1.0.7"
+  }
+}
