@@ -22,7 +22,7 @@ jobs:
       - name: Run build
         run: |
           npm install
-          11ty
+          npx @11ty/eleventy
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
   # Deployment job
