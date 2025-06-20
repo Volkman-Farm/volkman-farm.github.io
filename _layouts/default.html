@@ -1,14 +1,10 @@
----
-permalink: /
----
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Volkman Farm</title>
+    <title>{{ title }} · Volkman Farm</title>
     <link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
     <style>
       html {
@@ -33,6 +29,11 @@ permalink: /
         font-family: 'Courier New', Courier, monospace;
         text-underline-offset: 10px;
       }
+      p {
+        font-family: 'Courier New', Courier, monospace;
+        margin: 50px auto;
+        width: 60%;
+      }
       #logo {
         display: block;
         margin:50px auto 0;
@@ -42,12 +43,13 @@ permalink: /
   </head>
   <body>
     <main>
-      <h1>Volkman Farm</h1>  
-      <img id="logo" src="/assets/logo.webp">
+      <h1 style="display:none">{{ title }}</h1>  
+      <a href="/"><img id="logo" src="/assets/logo.webp"></a>
       <ul>
         <li><a href="/assets/volkman-price-list.pdf">microgreens</a></li>
         <li><a href="/about/">about</a></li>
       </ul>
+      {{ content }}
     </main>
   </body>
 </html>
