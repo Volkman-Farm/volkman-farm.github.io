@@ -7,42 +7,65 @@ greens:
     name: Arugula
     id: arugula
     fact: Arugula is great in salads!
+    amount: 4
   -
     name: Beet
     id: beet
-    fact: Can't beat that choice!
+    fact: Can't beet that choice!
+    amount: 4
   -
     name: Broccoli
     id: broccoli
     fact: Broccoleeeeeeeee
+    amount: 4
   -
     name: Cilantro
     id: cilantro
     fact: Taco time!
+    amount: 4
   -
     name: Kale
     id: kale
     fact: Kale yeah!
+    amount: 4
   -
     name: Kohlrabi
     id: kohlrabi
     fact: Chock full of vitamin C!
+    amount: 4
   -
     name: Mustard
     id: mustard
     fact: Gets that digestion on track.
+    amount: 4
   -
     name: Pea Tendril
     id: pea
     fact: Mmmmmmm potassium
+    amount: 4
   -
     name: Radish
     id: radish
     fact: Quite fiber-ous
+    amount: 4
   -
     name: Swiss Chard
     id: chard
     fact: Did someone say magnesi-YUM?
+    amount: 4
+locations:
+  -
+    id: far_north_orlando
+    area: Lake Mary, Sanford, Winter Springs, Oviedo
+    days: Friday mornings
+  -
+    id: north_orlando
+    area: Casselberry, Maitland, Winter Park, College Park
+    days: Monday & Wednesday evenings
+  -
+    id: downtown
+    area: Downtown
+    days: Sunday afternoons
 ---
 <form action="https://formsubmit.co/micros@volkman.farm" method="post">
   <p>Hey there!</p>
@@ -50,6 +73,7 @@ greens:
   <p>Which of our microgreens would you like to learn more about?</p>
   <p>
     <select id="greens" name="green" required>
+      <option disabled selected value> -- pick a green! -- </option>
       {% for green in greens %}
       <option value="{{ green.id }}">{{ green.name }}</option>
       {% endfor %}
@@ -57,13 +81,37 @@ greens:
   </p>
   <div id="step2" style="display:none">
     <p>Excellent choice! <span id="fact"></span></p>
-    <p>We'd love to share more with you! We're happy to set up an order for you, or just to chat about all the wondeful health benefits that await you. Would you mind sharing your email?</p>
+    <p>We'd love to share more with you! We're happy to set up an order for you, or just to chat about all the wondeful health benefits that await you. Generally customers will purchase <span id="amount"></span>oz of <span id="green"></span> a week. How much would you like?</p>
     <p>
-      <input id="consent" type="checkbox">
+      <select id="amount-select" name="amount-select" required>
+        <option disabled selected value> -- pick an amount! -- </option>
+        {% for i in (1..8) %}
+        <option value="{{ i }}">{{ i }}oz</option>
+        {% endfor %}
+      </select>
+    </p>
+  </div>
+  <div id="step3" style="display:none">
+    <p>Another excellent choice! It's clear this isn't your first rodeo. Now, since we're a small family-run business with 3 homeschooled children and busy schedules, we have to be intentional about the areas and dates that we serve. Which of the following locations/dates best suits you?</p>
+    <p>
+      <select id="location" name="location" required>
+        <option disabled selected value> -- pick a location! -- </option>
+        {% for location in locations %}
+        <optgroup label="{{ location.days }}">
+          <option value="{{ location.id }}">{{ location.area }}</option>
+        </optgroup>
+        {% endfor %}
+      </select>
+    </p>
+  </div>
+  <div id="step4" style="display:none">
+    <p>Now we're talking. Last question, would you mind sharing your email so we can chit-chat?</p>
+    <p>
+      <input id="consent" type="checkbox" name="consent" required>
       <label for="consent">It's cool that we send you some email</label>
     </p>
-    <p id="step3" style="display:none">
-      <input id="email" name="email" type="text" placeholder="crazy@about.microgreens">
+    <p id="step5" style="display:none">
+      <input id="email" name="email" type="text" size="46" placeholder="crazy@about.microgreens">
     </p>
     <p>
       <input type="submit" value="Let's chat"></input>
@@ -72,15 +120,31 @@ greens:
 </form>
 
 <script>
-  const greens = [{%- for green in greens -%}{ id: "{{ green.id }}", name: "{{ green.name }}", fact: "{{ green.fact }}" },{%- endfor -%}];
+  const greens = [{%- for green in greens -%}{ id: "{{ green.id }}", name: "{{ green.name }}", fact: "{{ green.fact }}", amount: "{{ green.amount }}" },{%- endfor -%}];
 
   document.getElementById('greens').addEventListener('change', e => {
     const green = greens.find(g => g.id == e.target.value);
     document.getElementById('fact').innerText = green.fact;
+    document.getElementById('amount').innerText = green.amount;
+    document.getElementById('green').innerText = green.name;
     document.getElementById('step2').style.display = 'block';
+    //document.getElementById('amount-select').value = green.amount;
+  });
+
+  document.getElementById('amount-select').addEventListener('change', e => {
+    document.getElementById('step3').style.display = 'block';
+  });
+
+  document.getElementById('location').addEventListener('change', e => {
+    document.getElementById('step4').style.display = 'block';
   });
 
   document.getElementById('consent').addEventListener('change', e => {
-    document.getElementById('step3').style.display = e.target.checked ? 'block' : 'none';
+    document.getElementById('step5').style.display = e.target.checked ? 'block' : 'none';
   });
 </script>
+  <!--
+  <div id="step4" style="display:none">
+    <p>Perfect. Now, where would you like your beautiful greens delivered?</p>
+  </div>
+  -->
