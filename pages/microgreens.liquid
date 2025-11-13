@@ -105,13 +105,16 @@ locations:
     </p>
   </div>
   <div id="step4" style="display:none">
-    <p>Now we're talking. Last question, would you mind sharing your email so we can chit-chat?</p>
+    <p>Now we're talking. Last question, would you mind sharing your phone number and email so we can chit-chat?</p>
+    <p>
+      <input id="phone" name="phone" type="tel" size="46" placeholder="867-5309" required>
+    </p>
+    <p>
+      <input id="email" name="email" type="email" size="46" placeholder="crazy@about.microgreens" required>
+    </p>
     <p>
       <input id="consent" type="checkbox" name="consent" required>
       <label for="consent">It's cool that we send you some email</label>
-    </p>
-    <p id="step5" style="display:none">
-      <input id="email" name="email" type="text" size="46" placeholder="crazy@about.microgreens">
     </p>
     <p>
       <input type="submit" value="Let's chat"></input>
@@ -137,10 +140,6 @@ locations:
 
   document.getElementById('location').addEventListener('change', e => {
     document.getElementById('step4').style.display = 'block';
-  });
-
-  document.getElementById('consent').addEventListener('change', e => {
-    document.getElementById('step5').style.display = e.target.checked ? 'block' : 'none';
   });
 </script>
   <!--
