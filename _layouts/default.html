@@ -11,7 +11,20 @@
         background-color: #fef6e9;
       }
       h1 {
-        display: none;
+        font-family: Georgia, 'Times New Roman', serif;
+        font-size: clamp(1.75rem, 4vw, 2.5rem);
+        font-weight: 600;
+        text-align: center;
+        margin: 30px auto 10px;
+        width: min(60ch, 92%);
+        line-height: 1.2;
+      }
+      h2 {
+        font-family: Georgia, 'Times New Roman', serif;
+        font-size: clamp(1.25rem, 3vw, 1.75rem);
+        text-align: center;
+        margin: 40px auto 10px;
+        width: min(60ch, 92%);
       }
       ul {
         display: block;
@@ -46,7 +59,7 @@
   </head>
   <body>
     <main>
-      <h1 style="display:none">{{ title }}</h1>  
+      <h1>{{ title }}</h1>
       <a href="/"><img id="logo" src="/assets/logo.webp"></a>
       <ul>
         <li><a href="/microgreens/">microgreens</a></li>
