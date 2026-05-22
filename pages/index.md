@@ -21,7 +21,7 @@ We're a family of five growing nutrient-dense microgreens right here in Orlando 
 
 ## How it works
 
-1. **Pick your green.** Ten varieties at $3.50/oz — arugula, beet, broccoli, cilantro, kale, kohlrabi, mustard, pea tendril, radish, and Swiss chard.
+1. **Pick your green.** [Ten varieties](/greens/) at $3.50/oz — arugula, beet, broccoli, cilantro, kale, kohlrabi, mustard, pea tendril, radish, and Swiss chard.
 2. **Pick your day.** We deliver to your neighborhood once a week.
 3. **We text you when we're on the way.** Pay on delivery — Venmo, Zelle, or cash. No subscription, cancel any week.
 

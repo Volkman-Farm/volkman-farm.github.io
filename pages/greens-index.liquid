@@ -1,0 +1,19 @@
+---
+title: All Ten Microgreen Varieties
+description: Browse all ten microgreen varieties Volkman Farm grows — arugula, beet, broccoli, cilantro, kale, kohlrabi, mustard, pea tendril, radish, and Swiss chard. $3.50/oz across the board.
+permalink: /greens/
+layout: default
+---
+
+<p>We grow ten varieties on rotation. Same price for every one: <strong>$3.50/oz</strong>, hand-delivered the morning of harvest. Click any variety to read about its flavor, nutrition, and the best ways to use it.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:20px;width:min(80ch,92%);margin:32px auto">
+{% for variety in varieties %}
+  <a href="/greens/{{ variety.slug }}/" style="display:block;padding:20px;background:var(--cream-shadow);border:2px solid var(--ink);text-decoration:none;color:var(--ink);font-family:'Courier New',Courier,monospace">
+    <strong style="font-family:Georgia,serif;font-size:1.2rem;display:block;margin-bottom:8px;color:var(--ink)">{{ variety.name }}</strong>
+    <span style="font-size:0.95rem;line-height:1.4;display:block">{{ variety.intro }}</span>
+  </a>
+{% endfor %}
+</div>
+
+<p class="cta-row"><a href="/microgreens/"><strong>Place an order →</strong></a></p>

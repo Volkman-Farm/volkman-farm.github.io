@@ -1,0 +1,72 @@
+---
+pagination:
+  data: varieties
+  size: 1
+  alias: variety
+permalink: "/greens/{{ variety.slug }}/"
+layout: default
+eleventyComputed:
+  title: "{{ variety.name }} Microgreens"
+  description: "{{ variety.name }} microgreens at $3.50/oz, hand-delivered weekly across the Orlando metro. {{ variety.intro }}"
+---
+
+<p style="text-align:center;font-style:italic;font-family:Georgia,serif;font-size:1.15rem">{{ variety.intro }}</p>
+
+<p class="cta-row"><a href="/microgreens/?green={{ variety.slug }}"><strong>Order {{ variety.name | downcase }} →</strong></a> · $3.50/oz</p>
+
+<h2>Flavor</h2>
+
+<p>{{ variety.flavor }}</p>
+
+<h2>Nutrition</h2>
+
+<p>{{ variety.nutrition }}</p>
+
+<h2>How to use {{ variety.name | downcase }} microgreens</h2>
+
+<p>{{ variety.usesLead }}</p>
+
+<ul style="font-family:'Courier New',Courier,monospace;width:min(60ch,92%);margin:16px auto;padding-left:20px;list-style:square">
+  {% for use in variety.uses %}
+  <li>{{ use }}</li>
+  {% endfor %}
+</ul>
+
+<h2>How we grow it</h2>
+
+<p>{{ variety.growNote }} We use organic, non-GMO seeds, filtered water, and harvest the morning of delivery — never refrigerated for days.</p>
+
+<p class="cta-row"><a href="/microgreens/?green={{ variety.slug }}"><strong>Add {{ variety.name | downcase }} to my weekly order →</strong></a></p>
+
+<p style="text-align:center;font-family:Georgia,serif;font-style:italic">Browse all <a href="/greens/">ten varieties</a> or check the <a href="/pricing/">pricing page</a>.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "{{ variety.name }} Microgreens",
+  "description": "{{ variety.intro }}",
+  "category": "Food/Produce/Microgreens",
+  "brand": {
+    "@type": "Brand",
+    "name": "Volkman Farm"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://volkman.farm/greens/{{ variety.slug }}/",
+    "priceCurrency": "USD",
+    "price": "3.50",
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "price": "3.50",
+      "priceCurrency": "USD",
+      "unitText": "ounce"
+    },
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@type": "LocalBusiness",
+      "name": "Volkman Farm"
+    }
+  }
+}
+</script>
