@@ -17,7 +17,7 @@ We're a family of five growing nutrient-dense microgreens right here in Orlando 
 
 **Up to 40x the nutrients of mature greens.** A handful of broccoli microgreens has the sulforaphane of a full head of broccoli. Toss them on eggs, tacos, avocado toast, salads, sandwiches — anywhere you'd use lettuce or herbs.
 
-**We deliver to your street, not a pickup lot.** Lake Mary, Sanford, Winter Springs, Oviedo, Casselberry, Maitland, Winter Park, College Park, and Downtown Orlando — one fixed day a week, porch drop, no contact needed.
+**We deliver to your street, not a pickup lot.** [Lake Mary](/delivery/lake-mary/), [Sanford](/delivery/sanford/), [Winter Springs](/delivery/winter-springs/), [Oviedo](/delivery/oviedo/), [Casselberry](/delivery/casselberry/), [Maitland](/delivery/maitland/), [Winter Park](/delivery/winter-park/), [College Park](/delivery/college-park/), and [Downtown Orlando](/delivery/downtown-orlando/) — one fixed day a week, porch drop, no contact needed.
 
 ## How it works
 

@@ -1,0 +1,41 @@
+---
+pagination:
+  data: cities
+  size: 1
+  alias: city
+permalink: "/delivery/{{ city.slug }}/"
+layout: default
+eleventyComputed:
+  title: "Microgreens Delivery in {{ city.name }}"
+  description: "Fresh microgreens delivered weekly to {{ city.fullName }} — $3.50/oz, ten varieties, harvested the morning of delivery. {{ city.route }}."
+---
+
+<p style="text-align:center;font-style:italic;font-family:Georgia,serif;font-size:1.15rem">Fresh, family-grown microgreens delivered to {{ city.name }} on our <strong>{{ city.route }}</strong>.</p>
+
+<p class="cta-row"><a href="/microgreens/"><strong>Place an order →</strong></a> · $3.50/oz across all ten varieties</p>
+
+<h2>Where we deliver in {{ city.name }}</h2>
+
+<p>{{ city.intro }}</p>
+
+<p>{{ city.landmarks }}</p>
+
+<h2>Your delivery day</h2>
+
+<p>{{ city.routine }}</p>
+
+<p>{{ city.name }} is part of our <strong>{{ city.route }}</strong>, which also covers {{ city.routeMates }}. One harvest, one route, hand-delivered.</p>
+
+<h2>What we grow</h2>
+
+<p>Ten varieties on rotation: <a href="/greens/arugula/">arugula</a>, <a href="/greens/beet/">beet</a>, <a href="/greens/broccoli/">broccoli</a>, <a href="/greens/cilantro/">cilantro</a>, <a href="/greens/kale/">kale</a>, <a href="/greens/kohlrabi/">kohlrabi</a>, <a href="/greens/mustard/">mustard</a>, <a href="/greens/pea/">pea tendril</a>, <a href="/greens/radish/">radish</a>, and <a href="/greens/chard/">Swiss chard</a>. Same price for every variety: $3.50/oz.</p>
+
+<h2>How it works in {{ city.name }}</h2>
+
+<p>Place an order through our order form. We'll text you to confirm your first delivery and the exact total. Pay on delivery — Venmo, Zelle, or cash. No subscription, no auto-charge, cancel any week.</p>
+
+<p>{{ city.closer }}</p>
+
+<p class="cta-row"><a href="/microgreens/"><strong>Order microgreens for {{ city.name }} →</strong></a></p>
+
+<p style="text-align:center;font-family:Georgia,serif;font-style:italic">See all <a href="/delivery/">nine delivery neighborhoods</a> or browse the <a href="/greens/">ten varieties</a>.</p>
