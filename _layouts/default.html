@@ -5,7 +5,67 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>{{ title }} · Volkman Farm</title>
+    <meta name="description" content="{{ description | default: 'Family-grown microgreens hand-delivered weekly across the Orlando metro — Lake Mary, Sanford, Winter Park, Oviedo, and more. Ten varieties, organic seeds, harvested the morning of delivery.' }}">
+    <link rel="canonical" href="https://volkman.farm{{ page.url }}">
+    <meta name="robots" content="index,follow,max-image-preview:large">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Volkman Farm">
+    <meta property="og:title" content="{{ title }} · Volkman Farm">
+    <meta property="og:description" content="{{ description | default: 'Family-grown microgreens hand-delivered weekly across the Orlando metro.' }}">
+    <meta property="og:url" content="https://volkman.farm{{ page.url }}">
+    <meta property="og:image" content="https://volkman.farm/assets/logo.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ title }} · Volkman Farm">
+    <meta name="twitter:description" content="{{ description | default: 'Family-grown microgreens hand-delivered weekly across the Orlando metro.' }}">
+    <meta name="twitter:image" content="https://volkman.farm/assets/logo.png">
     <link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "@id": "https://volkman.farm/#business",
+      "name": "Volkman Farm",
+      "description": "Family-run microgreens farm delivering weekly across the Orlando metro area.",
+      "image": "https://volkman.farm/assets/logo.png",
+      "logo": "https://volkman.farm/assets/logo.png",
+      "url": "https://volkman.farm",
+      "email": "micros@volkman.farm",
+      "priceRange": "$",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lake Mary",
+        "addressRegion": "FL",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {"@type": "City", "name": "Lake Mary"},
+        {"@type": "City", "name": "Sanford"},
+        {"@type": "City", "name": "Winter Springs"},
+        {"@type": "City", "name": "Oviedo"},
+        {"@type": "City", "name": "Casselberry"},
+        {"@type": "City", "name": "Maitland"},
+        {"@type": "City", "name": "Winter Park"},
+        {"@type": "Place", "name": "College Park, Orlando"},
+        {"@type": "Place", "name": "Downtown Orlando"}
+      ],
+      "makesOffer": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "3.50",
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "price": "3.50",
+          "priceCurrency": "USD",
+          "unitText": "ounce"
+        },
+        "itemOffered": {
+          "@type": "Product",
+          "name": "Fresh Microgreens",
+          "category": "Food"
+        }
+      }
+    }
+    </script>
     <style>
       html {
         background-color: #fef6e9;
