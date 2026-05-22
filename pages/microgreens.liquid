@@ -69,44 +69,43 @@ locations:
     days: Sunday afternoons
 ---
 <form action="https://formsubmit.co/micros@volkman.farm" method="post">
-  <p>Hey there!</p>
-  <p>We really love our microgreens, and would love to share that love with you. All microgreens are packed with nutrients and health benefits, so you can't really choose wrong.</p>
-  <p>Which of our microgreens would you like to learn more about?</p>
+  <p>Hey neighbor! We grow ten varieties of microgreens right here in Orlando — harvested the morning we deliver to you. $3.50/oz, pay on delivery (Venmo, Zelle, or cash). Let's get you started.</p>
+  <p>First — where are we delivering? We only run one route per neighborhood per week, so this tells us which day works.</p>
   <p>
-    <select id="greens" name="green" required>
-      <option disabled selected value> -- pick a green! -- </option>
-      {% for green in greens %}
-      <option value="{{ green.id }}">{{ green.name }}</option>
+    <select id="location" name="location" required>
+      <option disabled selected value> -- pick a location -- </option>
+      {% for location in locations %}
+      <optgroup label="{{ location.days }}">
+        <option value="{{ location.id }}">{{ location.area }}</option>
+      </optgroup>
       {% endfor %}
     </select>
   </p>
   <div id="step2" style="display:none">
-    <p>Excellent choice! <span id="fact"></span></p>
-    <p>We'd love to share more with you! We're happy to set up an order for you, or just to chat about all the wondeful health benefits that await you. Generally customers will purchase <span id="amount"></span>oz of <span id="green"></span> a week. How much would you like?</p>
+    <p>Great — we'll see you there. Which green would you like to start with?</p>
+    <p>
+      <select id="greens" name="green" required>
+        <option disabled selected value> -- pick a green -- </option>
+        {% for green in greens %}
+        <option value="{{ green.id }}">{{ green.name }}</option>
+        {% endfor %}
+      </select>
+    </p>
+  </div>
+  <div id="step3" style="display:none">
+    <p><span id="fact"></span></p>
+    <p>Most neighbors start with <span id="amount"></span>oz of <span id="green"></span> a week — enough to top dinners for two without anything going to waste. How much sounds right?</p>
     <p>
       <select id="amount-select" name="amount-select" required>
-        <option disabled selected value> -- pick an amount! -- </option>
+        <option disabled selected value> -- pick an amount -- </option>
         {% for i in (1..8) %}
         <option value="{{ i }}">{{ i }}oz</option>
         {% endfor %}
       </select>
     </p>
   </div>
-  <div id="step3" style="display:none">
-    <p>Another excellent choice! It's clear this isn't your first rodeo. Now, since we're a small family-run business with 3 homeschooled children and busy schedules, we have to be intentional about the areas and dates that we serve. Which of the following locations/dates best suits you?</p>
-    <p>
-      <select id="location" name="location" required>
-        <option disabled selected value> -- pick a location! -- </option>
-        {% for location in locations %}
-        <optgroup label="{{ location.days }}">
-          <option value="{{ location.id }}">{{ location.area }}</option>
-        </optgroup>
-        {% endfor %}
-      </select>
-    </p>
-  </div>
   <div id="step4" style="display:none">
-    <p>Now we're talking. Last question, would you mind sharing your phone number and email so we can chit-chat?</p>
+    <p>Last step. Drop your phone and email — we'll text you to confirm your first delivery day and the exact total. No subscription, no auto-charge, cancel any week.</p>
     <p>
       <input id="phone" name="phone" type="tel" size="46" placeholder="867-5309" required>
     </p>
@@ -115,10 +114,10 @@ locations:
     </p>
     <p>
       <input id="consent" type="checkbox" name="consent" required>
-      <label for="consent">It's cool that we send you some email</label>
+      <label for="consent">Okay to text and email me about my order and weekly availability.</label>
     </p>
     <p>
-      <input type="submit" value="Let's chat"></input>
+      <input type="submit" value="Send my order">
     </p>
   </div>
 </form>
@@ -126,25 +125,19 @@ locations:
 <script>
   const greens = [{%- for green in greens -%}{ id: "{{ green.id }}", name: "{{ green.name }}", fact: "{{ green.fact }}", amount: "{{ green.amount }}" },{%- endfor -%}];
 
+  document.getElementById('location').addEventListener('change', () => {
+    document.getElementById('step2').style.display = 'block';
+  });
+
   document.getElementById('greens').addEventListener('change', e => {
     const green = greens.find(g => g.id == e.target.value);
     document.getElementById('fact').innerText = green.fact;
     document.getElementById('amount').innerText = green.amount;
     document.getElementById('green').innerText = green.name;
-    document.getElementById('step2').style.display = 'block';
-    //document.getElementById('amount-select').value = green.amount;
-  });
-
-  document.getElementById('amount-select').addEventListener('change', e => {
     document.getElementById('step3').style.display = 'block';
   });
 
-  document.getElementById('location').addEventListener('change', e => {
+  document.getElementById('amount-select').addEventListener('change', () => {
     document.getElementById('step4').style.display = 'block';
   });
 </script>
-  <!--
-  <div id="step4" style="display:none">
-    <p>Perfect. Now, where would you like your beautiful greens delivered?</p>
-  </div>
-  -->
