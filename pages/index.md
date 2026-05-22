@@ -26,3 +26,7 @@ We're a family of five growing nutrient-dense microgreens right here in Orlando 
 3. **We text you when we're on the way.** Pay on delivery — Venmo, Zelle, or cash. [Standing weekly orders get 10% off](/subscribe/) — skip any week, cancel anytime.
 
 [**Start your order →**](/microgreens/)
+
+---
+
+*Are you a chef or restaurant?* We do [wholesale microgreens for Orlando-area kitchens](/restaurants/) — direct chef-to-grower, harvested the morning of service.
