@@ -7,7 +7,7 @@ greens:
   -
     name: Arugula
     id: arugula
-    fact: Bold and peppery — a handful turns plain eggs, pizza, or a sandwich into something restaurant-worthy.
+    fact: Bold and peppery. A handful turns plain eggs, pizza, or a sandwich into something restaurant-worthy.
     amount: 4
   -
     name: Beet
@@ -17,12 +17,12 @@ greens:
   -
     name: Broccoli
     id: broccoli
-    fact: Up to 40x the sulforaphane of mature broccoli. Mild flavor — sneak it into smoothies, eggs, or anywhere.
+    fact: Up to 40x the sulforaphane of mature broccoli. Mild flavor, so you can sneak it into smoothies, eggs, or anywhere.
     amount: 4
   -
     name: Cilantro
     id: cilantro
-    fact: All the cilantro punch, none of the chopping. Tacos, pho, guac, salsa verde — taco Tuesday upgraded.
+    fact: All the cilantro punch, none of the chopping. Tacos, pho, guac, salsa verde. Taco Tuesday upgraded.
     amount: 4
   -
     name: Kale
@@ -32,7 +32,7 @@ greens:
   -
     name: Kohlrabi
     id: kohlrabi
-    fact: Crisp, mild, slightly broccoli-sweet. Packed with vitamin C — perfect on slaws, sandwiches, and noodle bowls.
+    fact: Crisp, mild, slightly broccoli-sweet. Packed with vitamin C. Perfect on slaws, sandwiches, and noodle bowls.
     amount: 4
   -
     name: Mustard
@@ -42,17 +42,17 @@ greens:
   -
     name: Pea Tendril
     id: pea
-    fact: Sweet, crisp, like fresh-shelled peas. Loaded with potassium — gorgeous in stir-fries, ramen, and salads.
+    fact: Sweet, crisp, like fresh-shelled peas. Loaded with potassium. Gorgeous in stir-fries, ramen, and salads.
     amount: 4
   -
     name: Radish
     id: radish
-    fact: Spicy crunch that cuts through rich foods. Tacos, banh mi, avocado toast, ramen — instant upgrade.
+    fact: Spicy crunch that cuts through rich foods. Tacos, banh mi, avocado toast, ramen all get an instant upgrade.
     amount: 4
   -
     name: Swiss Chard
     id: chard
-    fact: Tender, mild, with neon-pink stems. Rich in magnesium — wilt into pasta or scatter raw on plated dishes.
+    fact: Tender, mild, with neon-pink stems. Rich in magnesium. Wilt into pasta or scatter raw on plated dishes.
     amount: 4
 locations:
   -
@@ -72,8 +72,8 @@ locations:
   <input type="hidden" name="_next" value="https://volkman.farm/thanks/">
   <input type="hidden" name="_subject" value="New microgreens order">
   <input type="text" name="_honey" style="display:none">
-  <p>Hey neighbor! We grow ten varieties of microgreens right here in Orlando — harvested the morning we deliver to you. $3.50/oz, pay on delivery (Venmo, Zelle, or cash). Let's get you started.</p>
-  <p>First — where are we delivering? We only run one route per neighborhood per week, so this tells us which day works.</p>
+  <p>Hey neighbor! We grow ten varieties of microgreens right here in Orlando, harvested the morning we deliver to you. $3.50/oz, pay on delivery (Venmo, Zelle, or cash). Let's get you started.</p>
+  <p>First, where are we delivering? We only run one route per neighborhood per week, so this tells us which day works.</p>
   <p>
     <select id="location" name="location" required>
       <option disabled selected value> -- pick a location -- </option>
@@ -85,7 +85,7 @@ locations:
     </select>
   </p>
   <div id="step2" style="display:none">
-    <p>Great — we'll see you there. Which green would you like to start with? <a href="/greens/">Read about each variety →</a></p>
+    <p>Great. We'll see you there. Which green would you like to start with? <a href="/greens/">Read about each variety →</a></p>
     <p>
       <select id="greens" name="green" required>
         <option disabled selected value> -- pick a green -- </option>
@@ -97,7 +97,7 @@ locations:
   </div>
   <div id="step3" style="display:none">
     <p><span id="fact"></span></p>
-    <p>Most neighbors start with <span id="amount"></span>oz of <span id="green"></span> a week — enough to top dinners for two without anything going to waste. How much sounds right?</p>
+    <p>Most neighbors start with <span id="amount"></span>oz of <span id="green"></span> a week. That's enough to top dinners for two without anything going to waste. How much sounds right?</p>
     <p>
       <select id="amount-select" name="amount-select" required>
         <option disabled selected value> -- pick an amount -- </option>
@@ -108,7 +108,7 @@ locations:
     </p>
   </div>
   <div id="step4" style="display:none">
-    <p>Last step. Drop your phone and email — we'll text you to confirm your first delivery day and the exact total. No subscription, no auto-charge, cancel any week.</p>
+    <p>Last step. Drop your phone and email so we can text you to confirm your first delivery day and the exact total. No subscription, no auto-charge, cancel any week.</p>
     <p>
       <input id="phone" name="phone" type="tel" size="46" placeholder="867-5309" required>
     </p>
@@ -117,7 +117,7 @@ locations:
     </p>
     <p>
       <input id="standing" type="checkbox" name="standing_order" value="yes">
-      <label for="standing">Make this a <a href="/subscribe/">weekly standing order</a> — 10% off, skip any week.</label>
+      <label for="standing">Make this a <a href="/subscribe/">weekly standing order</a> for 10% off, skip any week.</label>
     </p>
     <p>
       <input id="consent" type="checkbox" name="consent" required>
