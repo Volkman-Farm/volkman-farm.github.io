@@ -44,13 +44,23 @@ eleventyComputed:
 {
   "@context": "https://schema.org",
   "@type": "Product",
+  "@id": "https://volkman.farm/greens/{{ variety.slug }}/#product",
   "name": "{{ variety.name }} Microgreens",
   "description": "{{ variety.intro }}",
+  "sku": "VF-{{ variety.slug | upcase }}",
   "category": "Food/Produce/Microgreens",
+  "mainEntityOfPage": "https://volkman.farm/greens/{{ variety.slug }}/",
+  "image": "https://volkman.farm/assets/logo.png",
   "brand": {
     "@type": "Brand",
     "name": "Volkman Farm"
   },
+  "additionalProperty": [
+    { "@type": "PropertyValue", "name": "Cultivar", "value": "{{ variety.name }}" },
+    { "@type": "PropertyValue", "name": "Form", "value": "Microgreen, cut at harvest" },
+    { "@type": "PropertyValue", "name": "Seed", "value": "Organic, non-GMO" },
+    { "@type": "PropertyValue", "name": "Harvest", "value": "Morning of delivery" }
+  ],
   "offers": {
     "@type": "Offer",
     "url": "https://volkman.farm/greens/{{ variety.slug }}/",
@@ -63,8 +73,20 @@ eleventyComputed:
       "unitText": "ounce"
     },
     "availability": "https://schema.org/InStock",
+    "areaServed": [
+      {"@type": "City", "name": "Lake Mary"},
+      {"@type": "City", "name": "Sanford"},
+      {"@type": "City", "name": "Winter Springs"},
+      {"@type": "City", "name": "Oviedo"},
+      {"@type": "City", "name": "Casselberry"},
+      {"@type": "City", "name": "Maitland"},
+      {"@type": "City", "name": "Winter Park"},
+      {"@type": "Place", "name": "College Park, Orlando"},
+      {"@type": "Place", "name": "Downtown Orlando"}
+    ],
     "seller": {
       "@type": "LocalBusiness",
+      "@id": "https://volkman.farm/#business",
       "name": "Volkman Farm"
     }
   }
