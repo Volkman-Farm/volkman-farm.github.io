@@ -1,0 +1,586 @@
+/* ============================================================
+   Volkman Farm
+   Hand-rolled CSS. Mobile first. No frameworks. No build step.
+   Tokens at the top, primitives, components, page archetypes,
+   utilities at the bottom. Read top to bottom and you have the
+   whole system. See /DESIGN-SYSTEM.md for the spec.
+   ============================================================ */
+
+/* ---------- 1. Design tokens ---------- */
+:root {
+  /* Color */
+  --cream:        #fef6e9;  /* page background, single most identifying color */
+  --cream-shadow: #f0e6d0;  /* inputs, card surfaces, hover surfaces */
+  --ink:          #221d14;  /* body text, borders, primary logo color */
+  --sprout:       #4f6b30;  /* primary action, links, active states */
+  --sprout-deep:  #3d5224;  /* sprout pressed/hover-darken */
+  --radish:       #b04a30;  /* hover accent only, never primary CTA */
+  --beet:         #8a2f5a;  /* variety illustration only */
+  --chard:        #d49a1f;  /* variety illustration only */
+  --soil:         #5a4a36;  /* metadata, captions, footer copy */
+  --rule:         #c9bda3;  /* hairline rules, table borders, derived from soil + cream */
+
+  /* Type families.
+     Owner self-hosts Fraunces and JetBrains Mono in /assets/fonts/.
+     Until those are wired, the stack falls back to Georgia and Courier
+     so the site never flashes naked. */
+  --serif: 'Fraunces', Georgia, 'Times New Roman', serif;
+  --mono:  'JetBrains Mono', 'Courier Prime', 'Courier New', Courier, monospace;
+
+  /* Type scale (fluid, mobile first) */
+  --fs-h1:    clamp(2rem, 5.5vw, 3rem);
+  --fs-h2:    clamp(1.375rem, 3.75vw, 1.875rem);
+  --fs-h3:    clamp(1.125rem, 2.5vw, 1.375rem);
+  --fs-lead:  1.15rem;
+  --fs-body:  1.0625rem;
+  --fs-small: 0.875rem;
+  --fs-nav:   1rem;
+
+  /* Line heights */
+  --lh-tight:  1.1;
+  --lh-snug:   1.2;
+  --lh-normal: 1.4;
+  --lh-loose:  1.65;
+
+  /* Spacing scale (4pt base) */
+  --space-1:  4px;
+  --space-2:  8px;
+  --space-3:  12px;
+  --space-4:  16px;
+  --space-5:  24px;
+  --space-6:  32px;
+  --space-7:  48px;
+  --space-8:  64px;
+  --space-9:  96px;
+
+  /* Layout */
+  --measure:        60ch;   /* body copy column */
+  --measure-wide:   80ch;   /* grids and tables */
+  --gutter-mobile:  16px;
+  --gutter-desktop: 24px;
+
+  /* Borders */
+  --border-hair:  1px;
+  --border-rule:  2px;      /* card and input borders, prints clean */
+
+  /* Focus ring (sprout, 3px, 2px offset, meets WCAG AA on cream) */
+  --focus-ring:   3px solid var(--sprout);
+  --focus-offset: 2px;
+
+  /* Motion */
+  --t-fast:   120ms ease-out;
+  --t-normal: 200ms ease-out;
+
+  /* Z-index scale (small site, four lanes is plenty) */
+  --z-base:    0;
+  --z-raised:  10;
+  --z-sticky:  20;
+  --z-overlay: 30;
+}
+
+/* ---------- 2. Reset and base ---------- */
+*,
+*::before,
+*::after { box-sizing: border-box; }
+
+html {
+  background-color: var(--cream);
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0 var(--gutter-mobile) var(--space-8);
+  color: var(--ink);
+  background-color: var(--cream);
+  font-family: var(--mono);
+  font-size: var(--fs-body);
+  line-height: var(--lh-loose);
+  -webkit-font-smoothing: antialiased;
+}
+
+img { max-width: 100%; height: auto; display: block; }
+
+::selection { background: var(--sprout); color: var(--cream); }
+
+/* ---------- 3. Layout primitives ---------- */
+/* Every block of flowing content gets the same 60ch column.
+   The cream background is on <html>, so it extends behind everything
+   regardless of body padding. */
+main { display: block; }
+
+h1, h2, h3,
+p,
+main > ul, main > ol,
+main > hr,
+blockquote,
+table,
+.cta-row,
+form > p,
+form > div > p {
+  width: min(var(--measure), 92%);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Wider container for grids of cards. */
+.grid {
+  width: min(var(--measure-wide), 92%);
+  margin: var(--space-6) auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: var(--space-5);
+}
+
+/* ---------- 4. Typography ---------- */
+h1, h2, h3 {
+  font-family: var(--serif);
+  font-weight: 600;
+  text-align: center;
+  color: var(--ink);
+}
+
+h1 {
+  font-size: var(--fs-h1);
+  line-height: var(--lh-tight);
+  letter-spacing: -0.01em;
+  margin: var(--space-5) auto var(--space-2);
+}
+
+h2 {
+  font-size: var(--fs-h2);
+  line-height: var(--lh-snug);
+  letter-spacing: -0.005em;
+  margin: var(--space-7) auto var(--space-2);
+}
+
+h3 {
+  font-size: var(--fs-h3);
+  line-height: 1.3;
+  margin: var(--space-6) auto var(--space-1);
+}
+
+p {
+  margin: var(--space-4) auto;
+}
+
+/* The italic Georgia/Fraunces intro line used on variety, city, subscribe,
+   and restaurants pages. */
+.lead {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: var(--fs-lead);
+  text-align: center;
+  color: var(--ink);
+}
+
+small { font-size: var(--fs-small); color: var(--soil); }
+
+/* ---------- 5. Links ---------- */
+a {
+  color: var(--sprout);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-thickness: 1px;
+  transition: color var(--t-fast);
+}
+a:hover,
+a:focus-visible { color: var(--radish); }
+a:focus-visible {
+  outline: var(--focus-ring);
+  outline-offset: var(--focus-offset);
+  border-radius: 2px;
+}
+
+/* ---------- 6. Header (logo + nav) ---------- */
+#logo {
+  display: block;
+  margin: var(--space-7) auto var(--space-2);
+  width: min(55%, 220px);
+  height: auto;
+}
+
+nav[aria-label="Primary"] ul {
+  list-style: none;
+  padding: 0;
+  margin: var(--space-4) auto var(--space-6);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--space-2) var(--space-1);
+  width: min(var(--measure), 92%);
+}
+
+nav[aria-label="Primary"] li { display: inline-flex; align-items: center; }
+
+nav[aria-label="Primary"] li:not(:first-child)::before {
+  content: "·";
+  margin: 0 var(--space-3);
+  color: var(--sprout);
+}
+
+nav[aria-label="Primary"] a {
+  color: var(--ink);
+  font-family: var(--mono);
+  font-size: var(--fs-nav);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: lowercase;
+  text-decoration: underline;
+  text-underline-offset: 8px;
+}
+
+nav[aria-label="Primary"] a:hover,
+nav[aria-label="Primary"] a:focus-visible {
+  color: var(--sprout-deep);
+}
+
+nav[aria-label="Primary"] a[aria-current="page"] {
+  color: var(--sprout-deep);
+  text-decoration-thickness: 2px;
+}
+
+/* ---------- 7. CTA row ---------- */
+.cta-row {
+  text-align: center;
+  margin: var(--space-5) auto;
+}
+.cta-row a {
+  font-weight: 700;
+  color: var(--sprout-deep);
+}
+
+/* ---------- 8. Buttons ---------- */
+/* The submit button is the only "button" on the site. Everything else is a
+   text link with weight. Keep it that way. */
+input[type="submit"],
+.btn {
+  display: inline-block;
+  font-family: var(--mono);
+  font-size: var(--fs-nav);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: var(--cream);
+  background: var(--sprout);
+  border: var(--border-rule) solid var(--sprout);
+  padding: 14px 28px;
+  cursor: pointer;
+  min-width: 220px;
+  width: auto;
+  border-radius: 0;
+  transition: background var(--t-fast), border-color var(--t-fast);
+}
+
+input[type="submit"]:hover,
+.btn:hover {
+  background: var(--sprout-deep);
+  border-color: var(--sprout-deep);
+  color: var(--cream);
+}
+
+input[type="submit"]:focus-visible,
+.btn:focus-visible {
+  outline: var(--focus-ring);
+  outline-offset: var(--focus-offset);
+}
+
+input[type="submit"]:active,
+.btn:active {
+  background: var(--ink);
+  border-color: var(--ink);
+}
+
+input[type="submit"]:disabled,
+.btn[aria-disabled="true"] {
+  background: var(--cream-shadow);
+  color: var(--soil);
+  border-color: var(--soil);
+  cursor: not-allowed;
+}
+
+/* ---------- 9. Forms ---------- */
+input,
+select,
+textarea {
+  font-family: var(--mono);
+  font-size: 1.125rem;
+  line-height: 1.4;
+  padding: 10px 12px;
+  background: var(--cream-shadow);
+  border: var(--border-rule) solid var(--ink);
+  border-radius: 0;
+  color: var(--ink);
+  width: min(var(--measure), 92%);
+  display: block;
+  margin: var(--space-2) auto;
+  /* tap target: padding + line-height keeps us over 44px */
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  outline: var(--focus-ring);
+  outline-offset: var(--focus-offset);
+}
+
+input[aria-invalid="true"],
+select[aria-invalid="true"],
+textarea[aria-invalid="true"] {
+  border-color: var(--radish);
+}
+
+.form-error {
+  color: var(--radish);
+  font-size: var(--fs-small);
+  text-align: center;
+  margin-top: calc(var(--space-1) * -1);
+}
+
+/* Inline checkbox inside a flowing <p>. */
+input[type="checkbox"] {
+  width: auto;
+  display: inline-block;
+  transform: scale(1.4);
+  margin: 0 var(--space-2) 0 0;
+  vertical-align: middle;
+  accent-color: var(--sprout);
+}
+
+form p label { vertical-align: middle; }
+
+/* The label-above-input pattern used by the restaurants form.
+   Use a .field wrapper or rely on form > p > label[for]. */
+.field {
+  width: min(var(--measure), 92%);
+  margin: var(--space-3) auto;
+}
+.field label {
+  display: block;
+  font-family: var(--mono);
+  font-size: var(--fs-small);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--soil);
+  margin: 0 0 var(--space-1);
+}
+.field input,
+.field select,
+.field textarea {
+  width: 100%;
+  margin: 0;
+}
+
+/* Honeypot. Author hides via inline style today; this is the canonical hook. */
+.honeypot { display: none !important; }
+
+/* ---------- 10. Cards (variety + city grid tiles) ---------- */
+.card {
+  display: block;
+  padding: var(--space-5);
+  background: var(--cream-shadow);
+  border: var(--border-rule) solid var(--ink);
+  color: var(--ink);
+  text-decoration: none;
+  font-family: var(--mono);
+  transition: transform var(--t-fast), box-shadow var(--t-fast), background var(--t-fast);
+}
+
+.card:hover,
+.card:focus-visible {
+  background: var(--cream);
+  color: var(--ink);
+  transform: translate(-2px, -2px);
+  box-shadow: 4px 4px 0 0 var(--ink);
+}
+
+.card:focus-visible {
+  outline: var(--focus-ring);
+  outline-offset: var(--focus-offset);
+}
+
+.card__title {
+  display: block;
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 1.2rem;
+  margin-bottom: var(--space-2);
+  color: var(--ink);
+}
+
+.card__meta {
+  display: block;
+  font-size: var(--fs-small);
+  line-height: var(--lh-normal);
+  color: var(--soil);
+}
+
+/* ---------- 11. Lists ---------- */
+main > ul,
+main > ol {
+  padding-left: var(--space-5);
+  margin: var(--space-4) auto;
+}
+main > ul { list-style: square; }
+main > ul li::marker { color: var(--sprout); }
+main > ul li,
+main > ol li { margin: var(--space-1) 0; }
+
+/* Inline list inside flowing copy (variety page uses list-style: square). */
+.list-square {
+  list-style: square;
+  padding-left: var(--space-5);
+}
+
+/* ---------- 12. Tables (pricing) ---------- */
+table {
+  border-collapse: collapse;
+  font-family: var(--mono);
+  font-size: var(--fs-body);
+  margin: var(--space-6) auto;
+}
+th {
+  text-align: left;
+  padding: var(--space-2) var(--space-5) var(--space-2) 0;
+  border-bottom: var(--border-rule) solid var(--ink);
+  font-weight: 700;
+}
+th + th { text-align: right; padding-right: 0; }
+td {
+  padding: var(--space-2) var(--space-5) var(--space-2) 0;
+  border-bottom: var(--border-hair) solid var(--rule);
+}
+td + td { text-align: right; padding-right: 0; }
+
+/* ---------- 13. Horizontal rule ---------- */
+main > hr {
+  border: 0;
+  border-top: var(--border-hair) solid var(--rule);
+  margin: var(--space-7) auto;
+}
+
+/* ---------- 14. Blockquote / testimonial ---------- */
+blockquote {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 1.125rem;
+  line-height: 1.5;
+  padding: var(--space-2) var(--space-5);
+  border-left: 4px solid var(--sprout);
+  color: var(--ink);
+  width: min(var(--measure), 88%);
+  margin: var(--space-5) auto;
+}
+blockquote cite {
+  display: block;
+  font-style: normal;
+  font-family: var(--mono);
+  font-size: var(--fs-small);
+  color: var(--soil);
+  margin-top: var(--space-2);
+}
+
+/* ---------- 15. Footer ---------- */
+footer {
+  width: min(var(--measure), 92%);
+  margin: var(--space-9) auto 0;
+  padding-top: var(--space-6);
+  border-top: var(--border-hair) solid var(--ink);
+  text-align: center;
+}
+
+footer ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 auto var(--space-3);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--space-1);
+}
+footer li {
+  display: inline-flex;
+  align-items: center;
+  font-family: var(--mono);
+  font-size: 0.95rem;
+}
+footer li:not(:first-child)::before {
+  content: "·";
+  margin: 0 var(--space-3);
+  color: var(--sprout);
+}
+footer a {
+  color: var(--ink);
+  text-decoration: underline;
+  text-underline-offset: 6px;
+}
+footer a:hover,
+footer a:focus-visible { color: var(--sprout-deep); }
+footer p {
+  font-size: var(--fs-small);
+  margin: var(--space-2) auto 0;
+  color: var(--soil);
+}
+
+/* The square stamp mark. Inline SVG colors via currentColor. */
+.mark {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.125em;
+  color: var(--sprout);
+}
+
+/* ---------- 16. Wholesale / restaurants restraint ---------- */
+/* Per BRAND.md 10.3: cream, tray cream, ink, sprout, soil only.
+   No radish accent, no variety color. Drop the radish hover on links;
+   accent shifts to sprout-deep. Body class set in default.html when needed.
+   Today the restaurants page sits inside the same layout, so we scope by
+   page-state: any descendant of [data-page="wholesale"]. */
+[data-page="wholesale"] a:hover,
+[data-page="wholesale"] a:focus-visible {
+  color: var(--sprout-deep);
+}
+[data-page="wholesale"] .card:hover { background: var(--cream); }
+
+/* ---------- 17. Mobile tweaks ---------- */
+@media (max-width: 720px) {
+  body { padding: 0 12px var(--space-7); }
+  #logo { width: 60%; margin-top: var(--space-5); }
+  h1 { margin-top: var(--space-3); }
+  p,
+  input,
+  select,
+  textarea,
+  table,
+  blockquote,
+  main > ul,
+  main > ol,
+  main > hr,
+  .cta-row { width: 96%; }
+  nav[aria-label="Primary"] li:not(:first-child)::before { margin: 0 var(--space-2); }
+  .grid { gap: var(--space-4); }
+}
+
+/* ---------- 18. Larger screens ---------- */
+@media (min-width: 1024px) {
+  body { padding-left: var(--gutter-desktop); padding-right: var(--gutter-desktop); }
+}
+
+/* ---------- 19. Motion preferences ---------- */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ---------- 20. Print ---------- */
+@media print {
+  body { background: #fff; color: #000; padding: 0; }
+  nav, footer, .cta-row, input[type="submit"] { display: none; }
+  a { color: #000; text-decoration: underline; }
+}
