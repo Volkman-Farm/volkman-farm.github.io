@@ -10,7 +10,7 @@ eleventyComputed:
   description: "{{ variety.name }} microgreens at $3.50/oz, hand-delivered weekly across the Orlando metro. {{ variety.intro }}"
 ---
 
-<p style="text-align:center;font-style:italic;font-family:Georgia,serif;font-size:1.15rem">{{ variety.intro }}</p>
+<p class="lead">{{ variety.intro }}</p>
 
 <p class="cta-row"><a href="/microgreens/?green={{ variety.slug }}"><strong>Order {{ variety.name | downcase }} →</strong></a> · $3.50/oz</p>
 

@@ -5,7 +5,7 @@ permalink: /subscribe/
 layout: default
 ---
 
-<p style="text-align:center;font-style:italic;font-family:Georgia,serif;font-size:1.15rem">10% off every weekly delivery. No contract. Skip any week. Cancel anytime.</p>
+<p class="lead">Stand a weekly order, save 10%. Skip any week, cancel any week. No card on file, no subscription portal, no Bavarian fine print.</p>
 
 <p class="cta-row"><a href="/microgreens/"><strong>Start a weekly standing order →</strong></a></p>
 

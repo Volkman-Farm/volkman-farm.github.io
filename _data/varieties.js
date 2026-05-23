@@ -34,10 +34,10 @@ export default [
   {
     slug: "broccoli",
     name: "Broccoli",
-    intro: "Mild flavor, monster nutrition. Broccoli microgreens are the closest thing to a superfood we grow.",
+    intro: "Mild flavor, serious nutrition. The brassica that does the heavy lifting.",
     flavor: "Surprisingly mild. Slightly nutty, slightly grassy, none of the bitterness of full broccoli. Tasters often can't identify it blind.",
-    nutrition: "Studies have measured up to 40x the sulforaphane of mature broccoli, ounce for ounce. Sulforaphane is one of the most-researched plant compounds in nutrition science. Also high in vitamin C, vitamin K, and chlorophyll.",
-    usesLead: "Because the flavor is so mild, broccoli microgreens are the one variety you can sneak into almost anything.",
+    nutrition: "Broccoli microgreens carry up to 40x the sulforaphane of full-grown broccoli, ounce for ounce. Sulforaphane is one of the most-researched plant compounds in nutrition science. Also high in vitamin C, vitamin K, and chlorophyll.",
+    usesLead: "The flavor is mild enough to fold into eggs, a smoothie, or guac without anyone noticing. Frisch off the tray, into the pan.",
     uses: [
       "Blend a handful into a smoothie (you won't taste it)",
       "Stir into scrambled eggs or omelets",
