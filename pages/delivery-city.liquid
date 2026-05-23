@@ -39,3 +39,46 @@ eleventyComputed:
 <p class="cta-row"><a href="/microgreens/"><strong>Order microgreens for {{ city.name }} →</strong></a></p>
 
 <p style="text-align:center;font-family:Georgia,serif;font-style:italic">See all <a href="/delivery/">nine delivery neighborhoods</a> or browse the <a href="/greens/">ten varieties</a>.</p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://volkman.farm/delivery/{{ city.slug }}/#service",
+  "name": "Microgreens delivery in {{ city.name }}",
+  "description": "Volkman Farm hand-delivers fresh microgreens to {{ city.fullName }} on its {{ city.route }}.",
+  "serviceType": "Microgreens delivery",
+  "category": "Food delivery",
+  "url": "https://volkman.farm/delivery/{{ city.slug }}/",
+  "provider": {
+    "@type": "LocalBusiness",
+    "@id": "https://volkman.farm/#business",
+    "name": "Volkman Farm"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "{{ city.name }}",
+    "containedInPlace": {
+      "@type": "AdministrativeArea",
+      "name": "Florida"
+    }
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "price": "3.50",
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "price": "3.50",
+      "priceCurrency": "USD",
+      "unitText": "ounce"
+    },
+    "availability": "https://schema.org/InStock",
+    "itemOffered": {
+      "@type": "Product",
+      "name": "Fresh Microgreens",
+      "category": "Food/Produce/Microgreens"
+    }
+  }
+}
+</script>
