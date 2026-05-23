@@ -9,7 +9,7 @@ Harvested the morning we deliver. On your counter by dinner.
 
 We're a family of five growing nutrient-dense microgreens right here in Orlando, and hand-delivering them to your neighborhood the day we cut them. No grocery middleman. No plastic clamshell that's been sitting on a shelf since Tuesday.
 
-[**Place an order**](/microgreens/) · [**See prices**](/pricing/)
+[**For my kitchen →**](/microgreens/) · [**For my restaurant →**](/restaurants/)
 
 ## Why our greens
 
