@@ -183,6 +183,21 @@
       .cta-row { text-align: center; margin: 24px auto; width: min(60ch, 92%); }
       .cta-row a { font-weight: 700; }
       table { width: min(60ch, 92%); }
+      main > ul, main > ol {
+        font-family: var(--mono);
+        width: min(60ch, 92%);
+        margin: 16px auto;
+        padding-left: 24px;
+        line-height: 1.6;
+      }
+      main > ul li, main > ol li { margin: 6px 0; }
+      main > hr {
+        width: min(60ch, 92%);
+        margin: 40px auto;
+        border: 0;
+        border-top: 1px solid var(--ink);
+        opacity: 0.25;
+      }
       blockquote {
         font-family: var(--serif);
         font-style: italic;
@@ -197,6 +212,7 @@
         body { padding: 0 12px 48px; }
         #logo { width: 60%; margin-top: 24px; }
         p, input, select, textarea, table, blockquote { width: 96%; }
+        main > ul, main > ol, main > hr { width: 96%; }
         h1 { margin-top: 12px; }
         nav ul li:not(:first-child):before { margin: 0 6px; }
       }
