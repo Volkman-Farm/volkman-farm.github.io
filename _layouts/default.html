@@ -208,6 +208,40 @@
         border-left: 4px solid var(--sprout);
         color: var(--ink);
       }
+      footer {
+        margin: 80px auto 0;
+        padding-top: 32px;
+        width: min(60ch, 92%);
+        border-top: 1px solid var(--ink);
+        opacity: 0.85;
+        text-align: center;
+      }
+      footer ul {
+        list-style: none;
+        padding: 0;
+        margin: 0 auto 12px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 4px;
+      }
+      footer ul li { display: inline-flex; align-items: center; font-family: var(--mono); font-size: 0.95rem; }
+      footer ul li:not(:first-child):before {
+        content: "·";
+        margin: 0 10px;
+        color: var(--sprout);
+      }
+      footer ul li a {
+        color: var(--ink);
+        text-decoration: underline;
+        text-underline-offset: 6px;
+      }
+      footer p {
+        font-size: 0.85rem;
+        margin: 8px auto 0;
+        color: var(--ink);
+        opacity: 0.7;
+      }
       @media (max-width: 720px) {
         body { padding: 0 12px 48px; }
         #logo { width: 60%; margin-top: 24px; }
@@ -224,12 +258,22 @@
       <nav aria-label="Primary">
         <ul>
           <li><a href="/microgreens/">microgreens</a></li>
+          <li><a href="/greens/">greens</a></li>
+          <li><a href="/delivery/">delivery</a></li>
           <li><a href="/pricing/">pricing</a></li>
           <li><a href="/about/">about</a></li>
         </ul>
       </nav>
       <h1>{{ title }}</h1>
       {{ content }}
+      <footer>
+        <ul>
+          <li><a href="/subscribe/">subscribe &amp; save</a></li>
+          <li><a href="/restaurants/">for chefs</a></li>
+          <li><a href="mailto:micros@volkman.farm">micros@volkman.farm</a></li>
+        </ul>
+        <p>Volkman Farm — Lake Mary, FL · family-grown microgreens</p>
+      </footer>
     </main>
   </body>
 </html>
