@@ -481,6 +481,52 @@ blockquote cite {
   margin-top: var(--space-2);
 }
 
+/* ---------- 14b. FAQ disclosure ---------- */
+main > details {
+  font-family: var(--mono);
+  width: min(var(--measure), 92%);
+  margin: var(--space-2) auto;
+  padding: var(--space-3) var(--space-4);
+  background: var(--cream-shadow);
+  border-left: 4px solid var(--sprout);
+}
+main > details + details {
+  margin-top: var(--space-2);
+}
+main > details > summary {
+  cursor: pointer;
+  font-weight: 700;
+  list-style: none;
+  position: relative;
+  padding-right: var(--space-5);
+}
+main > details > summary::-webkit-details-marker {
+  display: none;
+}
+main > details > summary::after {
+  content: "+";
+  position: absolute;
+  right: 0;
+  top: 0;
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 1.25rem;
+  line-height: 1;
+  color: var(--sprout);
+  transition: transform 150ms ease;
+}
+main > details[open] > summary::after {
+  content: "−";
+}
+main > details > summary:focus-visible {
+  outline: 3px solid var(--sprout);
+  outline-offset: 2px;
+}
+main > details > p {
+  width: auto;
+  margin: var(--space-2) 0 0;
+}
+
 /* ---------- 15. Footer ---------- */
 footer {
   width: min(var(--measure), 92%);
