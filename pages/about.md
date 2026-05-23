@@ -1,6 +1,6 @@
 ---
 title: About Us
-description: Meet the homeschooling family behind Volkman Farm — growing organic microgreens in a converted backyard shed in Lake Mary and delivering across the Orlando metro.
+description: Meet the homeschooling family behind Volkman Farm — growing organic microgreens in a converted backyard shed in Sanford, FL and delivering across the Orlando metro.
 permalink: /about/
 layout: default
 ---

@@ -5,9 +5,9 @@ export default [
     fullName: "Lake Mary, FL",
     route: "Friday morning route",
     routeMates: "Sanford, Winter Springs, and Oviedo",
-    intro: "We live in Lake Mary, so this is our home turf. Most of our trays sit two blocks from your front door.",
+    intro: "Lake Mary sits right next door to us. Our Friday morning route swings south from Sanford and hits every Lake Mary neighborhood before continuing on.",
     landmarks: "We deliver throughout Lake Mary — Heathrow, the neighborhoods along Markham Woods Road, Greenwood Lakes, Timacuan, and everywhere between Lake Mary Boulevard and Rinehart.",
-    routine: "Our Friday route starts here. Greens come out of the trays Friday morning and are on your porch before lunch, so what you eat Friday night was still growing that morning.",
+    routine: "Friday mornings. Greens come out of the trays at sunrise and are on your porch within a few hours, so what you eat Friday night was still growing that morning.",
     closer: "If you're in a Lake Mary neighborhood we haven't hit yet, just tell us — we usually add stops on existing routes without any trouble."
   },
   {
@@ -16,10 +16,10 @@ export default [
     fullName: "Sanford, FL",
     route: "Friday morning route",
     routeMates: "Lake Mary, Winter Springs, and Oviedo",
-    intro: "Sanford sits a few miles up the road from us, so our Friday morning route swings through historic downtown and the neighborhoods around Lake Monroe.",
-    landmarks: "We deliver throughout Sanford — historic downtown near First Street and the Sanford Riverwalk, the Mayfair Market area, Lake Mary Boulevard corridor, and the residential neighborhoods around Lake Monroe.",
-    routine: "Friday morning, harvested the same day. If you're picking up dinner from one of the downtown spots Friday night, your greens will already be in your fridge.",
-    closer: "Several of our regulars are Sanford restaurant pros and home cooks who care about freshness. We're a phone call away."
+    intro: "Sanford is our home base. The shed we grow in is right here in town, so our Friday morning route starts a few blocks from where the trays were cut.",
+    landmarks: "We deliver throughout Sanford — historic downtown near First Street and the Sanford Riverwalk, the Mayfair Market area, the Lake Mary Boulevard corridor, and the residential neighborhoods around Lake Monroe.",
+    routine: "Friday mornings, harvested the same day. If you're picking up dinner from one of the downtown spots Friday night, your greens will already be in your fridge.",
+    closer: "Sanford is our neighborhood. If we share a street, we share a delivery day. Several of our regulars are restaurant pros and home cooks who care about freshness."
   },
   {
     slug: "winter-springs",

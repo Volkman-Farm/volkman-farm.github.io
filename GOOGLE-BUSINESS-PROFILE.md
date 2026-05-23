@@ -56,7 +56,7 @@ A complete profile ranks ~2x as well as a sparse one.
 
 - [ ] **From the business / Description (750 chars max):** Paste this draft:
 
-  > Volkman Farm is a family-run microgreens farm in Lake Mary, Florida. We grow ten varieties of organic microgreens — arugula, beet, broccoli, cilantro, kale, kohlrabi, mustard, pea tendril, radish, and Swiss chard — and hand-deliver them weekly to neighborhoods across the Orlando metro: Lake Mary, Sanford, Winter Springs, Oviedo, Casselberry, Maitland, Winter Park, College Park, and Downtown Orlando. Every clamshell is harvested the morning of delivery, so what reaches your kitchen has never been refrigerated for days. Pricing is a flat $3.50/oz. No subscriptions, no auto-charge, cancel any week. Order at volkman.farm/microgreens.
+  > Volkman Farm is a family-run microgreens farm in Sanford, Florida. We grow ten varieties of organic microgreens — arugula, beet, broccoli, cilantro, kale, kohlrabi, mustard, pea tendril, radish, and Swiss chard — and hand-deliver them weekly to neighborhoods across the Orlando metro: Lake Mary, Sanford, Winter Springs, Oviedo, Casselberry, Maitland, Winter Park, College Park, and Downtown Orlando. Every clamshell is harvested the morning of delivery, so what reaches your kitchen has never been refrigerated for days. Pricing is a flat $3.50/oz. No subscriptions, no auto-charge, cancel any week. Order at volkman.farm/microgreens.
 
 - [ ] **Photos (upload at least 5):**
   - Logo (square)
