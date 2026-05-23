@@ -1,84 +1,177 @@
 /* ============================================================
-   Volkman Farm
+   Volkman Farm  v2  Heritage Gator
    Hand-rolled CSS. Mobile first. No frameworks. No build step.
-   Tokens at the top, primitives, components, page archetypes,
-   utilities at the bottom. Read top to bottom and you have the
-   whole system. See /DESIGN-SYSTEM.md for the spec.
+
+   Read top to bottom and you have the whole system.
+   See /DESIGN-SYSTEM.md for the spec.
+
+     1. Fonts (self-hosted woff2)
+     2. Design tokens
+     3. Reset and base
+     4. Layout primitives
+     5. Typography
+     6. Eyebrow and banner
+     7. Links
+     8. Header (wordmark + monogram)
+     9. Primary nav
+    10. CTA row
+    11. Buttons
+    12. Forms
+    13. Cards
+    14. Lists and roundels
+    15. Tables (pricing)
+    16. Horizontal rule and laurel divider
+    17. Blockquote
+    18. FAQ disclosure
+    19. Mark utilities (gator hero, wordmark, monogram, shield)
+    20. Footer
+    21. Wholesale variant ([data-page="wholesale"])
+    22. Mobile tweaks
+    23. Larger screens
+    24. Motion preferences
+    25. Print
    ============================================================ */
 
-/* ---------- 1. Design tokens ---------- */
-:root {
-  /* Color */
-  --cream:        #fef6e9;  /* page background, single most identifying color */
-  --cream-shadow: #f0e6d0;  /* inputs, card surfaces, hover surfaces */
-  --ink:          #221d14;  /* body text, borders, primary logo color */
-  --sprout:       #4f6b30;  /* primary action, links, active states */
-  --sprout-deep:  #3d5224;  /* sprout pressed/hover-darken */
-  --radish:       #b04a30;  /* hover accent only, never primary CTA */
-  --beet:         #8a2f5a;  /* variety illustration only */
-  --chard:        #d49a1f;  /* variety illustration only */
-  --soil:         #5a4a36;  /* metadata, captions, footer copy */
-  --rule:         #c9bda3;  /* hairline rules, table borders, derived from soil + cream */
 
-  /* Type families.
-     Owner self-hosts Fraunces and JetBrains Mono in /assets/fonts/.
-     Until those are wired, the stack falls back to Georgia and Courier
-     so the site never flashes naked. */
-  --serif: 'Fraunces', Georgia, 'Times New Roman', serif;
-  --mono:  'JetBrains Mono', 'Courier Prime', 'Courier New', Courier, monospace;
+/* ---------- 1. Fonts (self-hosted woff2) ---------- */
+/* Owner places woff2 files in /assets/fonts/.
+   Bely Display (OFL)        bely-display-regular.woff2
+   Source Serif 4 (OFL)      source-serif-4-regular.woff2 + italic + 600
+   Inter (OFL)               inter-600.woff2 + inter-700.woff2
+
+   font-display: swap so the page never blocks on font load.
+   size-adjust on the serif fallback keeps the layout from shifting
+   when Source Serif takes over from Georgia. */
+
+@font-face {
+  font-family: 'Bely Display';
+  src: url('/assets/fonts/bely-display.woff2') format('woff2');
+  font-weight: 400 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Serif 4';
+  src: url('/assets/fonts/source-serif-4-regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Serif 4';
+  src: url('/assets/fonts/source-serif-4-italic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Serif 4';
+  src: url('/assets/fonts/source-serif-4-600.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('/assets/fonts/inter-600.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('/assets/fonts/inter-700.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+/* ---------- 2. Design tokens ---------- */
+:root {
+  /* Color (the six, extracted from the mark) */
+  --cream:    #f5ead3;
+  --ink:      #1f2419;
+  --alpine:   #3a5a2a;
+  --alpine-deep: #2d4720;     /* alpine pressed / hover-darken */
+  --olive:    #8a7e3a;
+  --burgundy: #6b2a2f;
+  --bark:     #5c4633;
+  --rule:     #c7b98f;        /* hairline, derived warm of cream */
+  --surface:  #ede0bf;        /* card / input surface, derived darker cream */
+
+  /* Type families */
+  --display: 'Bely Display', 'Source Serif 4', Georgia, 'Times New Roman', serif;
+  --body:    'Source Serif 4', Georgia, 'Times New Roman', serif;
+  --ui:      'Inter', system-ui, -apple-system, 'Segoe UI', Arial, sans-serif;
 
   /* Type scale (fluid, mobile first) */
-  --fs-h1:    clamp(2rem, 5.5vw, 3rem);
-  --fs-h2:    clamp(1.375rem, 3.75vw, 1.875rem);
-  --fs-h3:    clamp(1.125rem, 2.5vw, 1.375rem);
-  --fs-lead:  1.15rem;
+  --fs-h1:    clamp(2.25rem, 5.5vw, 3.25rem);
+  --fs-h2:    clamp(1.5rem,  3.75vw, 2rem);
+  --fs-h3:    clamp(1.2rem,  2.5vw,  1.4rem);
+  --fs-lead:  1.2rem;
   --fs-body:  1.0625rem;
   --fs-small: 0.875rem;
-  --fs-nav:   1rem;
+  --fs-ui:    0.95rem;
+  --fs-eyebrow: 0.8rem;
 
   /* Line heights */
-  --lh-tight:  1.1;
-  --lh-snug:   1.2;
-  --lh-normal: 1.4;
-  --lh-loose:  1.65;
+  --lh-h1:     1.05;
+  --lh-h2:     1.15;
+  --lh-h3:     1.25;
+  --lh-body:   1.6;
+  --lh-tight:  1.3;
+  --lh-snug:   1.4;
+
+  /* Letter spacing */
+  --ls-h1:      -0.015em;
+  --ls-h2:      -0.005em;
+  --ls-ui:      0.04em;
+  --ls-eyebrow: 0.18em;
 
   /* Spacing scale (4pt base) */
-  --space-1:  4px;
-  --space-2:  8px;
-  --space-3:  12px;
-  --space-4:  16px;
-  --space-5:  24px;
-  --space-6:  32px;
-  --space-7:  48px;
-  --space-8:  64px;
-  --space-9:  96px;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --space-8: 64px;
+  --space-9: 96px;
 
   /* Layout */
-  --measure:        60ch;   /* body copy column */
-  --measure-wide:   80ch;   /* grids and tables */
+  --measure:        60ch;
+  --measure-wide:   80ch;
   --gutter-mobile:  16px;
   --gutter-desktop: 24px;
 
   /* Borders */
   --border-hair:  1px;
-  --border-rule:  2px;      /* card and input borders, prints clean */
+  --border-rule:  2px;
 
-  /* Focus ring (sprout, 3px, 2px offset, meets WCAG AA on cream) */
-  --focus-ring:   3px solid var(--sprout);
+  /* Focus ring (alpine, 3px, 2px offset, AA on cream) */
+  --focus-ring:   3px solid var(--alpine);
   --focus-offset: 2px;
 
   /* Motion */
   --t-fast:   120ms ease-out;
   --t-normal: 200ms ease-out;
 
-  /* Z-index scale (small site, four lanes is plenty) */
+  /* Z-index lanes */
   --z-base:    0;
   --z-raised:  10;
   --z-sticky:  20;
   --z-overlay: 30;
 }
 
-/* ---------- 2. Reset and base ---------- */
+
+/* ---------- 3. Reset and base ---------- */
 *,
 *::before,
 *::after { box-sizing: border-box; }
@@ -93,22 +186,27 @@ body {
   padding: 0 var(--gutter-mobile) var(--space-8);
   color: var(--ink);
   background-color: var(--cream);
-  font-family: var(--mono);
+  font-family: var(--body);
   font-size: var(--fs-body);
-  line-height: var(--lh-loose);
+  line-height: var(--lh-body);
   -webkit-font-smoothing: antialiased;
+
+  /* Paper grain. A 2-3% opacity SVG noise tile.
+     Subtle enough that screenshots still read as flat cream. */
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' seed='4'/><feColorMatrix values='0 0 0 0 0.12  0 0 0 0 0.14  0 0 0 0 0.10  0 0 0 0.04 0'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+  background-repeat: repeat;
+  background-size: 160px 160px;
 }
 
 img { max-width: 100%; height: auto; display: block; }
 
-::selection { background: var(--sprout); color: var(--cream); }
+::selection { background: var(--alpine); color: var(--cream); }
 
-/* ---------- 3. Layout primitives ---------- */
-/* Every block of flowing content gets the same 60ch column.
-   The cream background is on <html>, so it extends behind everything
-   regardless of body padding. */
+
+/* ---------- 4. Layout primitives ---------- */
 main { display: block; }
 
+/* 60ch column for flowing content. */
 h1, h2, h3,
 p,
 main > ul, main > ol,
@@ -117,13 +215,14 @@ blockquote,
 table,
 .cta-row,
 form > p,
-form > div > p {
+form > div > p,
+main > details {
   width: min(var(--measure), 92%);
   margin-left: auto;
   margin-right: auto;
 }
 
-/* Wider container for grids of cards. */
+/* 80ch wide lane for grids of cards. */
 .grid {
   width: min(var(--measure-wide), 92%);
   margin: var(--space-6) auto;
@@ -132,78 +231,168 @@ form > div > p {
   gap: var(--space-5);
 }
 
-/* ---------- 4. Typography ---------- */
+
+/* ---------- 5. Typography ---------- */
 h1, h2, h3 {
-  font-family: var(--serif);
-  font-weight: 600;
-  text-align: center;
+  font-family: var(--display);
+  font-weight: 700;
   color: var(--ink);
+  text-align: center;
 }
 
 h1 {
   font-size: var(--fs-h1);
-  line-height: var(--lh-tight);
-  letter-spacing: -0.01em;
-  margin: var(--space-5) auto var(--space-2);
+  line-height: var(--lh-h1);
+  letter-spacing: var(--ls-h1);
+  margin: var(--space-5) auto var(--space-3);
 }
 
 h2 {
   font-size: var(--fs-h2);
-  line-height: var(--lh-snug);
-  letter-spacing: -0.005em;
-  margin: var(--space-7) auto var(--space-2);
+  line-height: var(--lh-h2);
+  letter-spacing: var(--ls-h2);
+  margin: var(--space-7) auto var(--space-3);
 }
 
 h3 {
   font-size: var(--fs-h3);
-  line-height: 1.3;
-  margin: var(--space-6) auto var(--space-1);
+  line-height: var(--lh-h3);
+  margin: var(--space-6) auto var(--space-2);
 }
 
 p {
   margin: var(--space-4) auto;
 }
 
-/* The italic Georgia/Fraunces intro line used on variety, city, subscribe,
-   and restaurants pages. */
+/* Lead line. The italic intro on variety, city, subscribe, restaurants. */
 .lead {
-  font-family: var(--serif);
+  font-family: var(--body);
   font-style: italic;
   font-size: var(--fs-lead);
+  line-height: var(--lh-snug);
   text-align: center;
   color: var(--ink);
 }
 
-small { font-size: var(--fs-small); color: var(--soil); }
+small { font-size: var(--fs-small); color: var(--bark); }
 
-/* ---------- 5. Links ---------- */
+
+/* ---------- 6. Eyebrow and banner ---------- */
+/* Eyebrow style: small uppercase Inter with heavy tracking, like
+   the banner ribbon on the mark. Use sparingly: page-section eyebrows
+   and the German-loan-word callouts. */
+.eyebrow {
+  display: block;
+  font-family: var(--ui);
+  font-size: var(--fs-eyebrow);
+  font-weight: 700;
+  line-height: var(--lh-tight);
+  letter-spacing: var(--ls-eyebrow);
+  text-transform: uppercase;
+  color: var(--alpine);
+  text-align: center;
+  margin: var(--space-6) auto var(--space-2);
+}
+
+.eyebrow--gold { color: var(--olive); }
+
+/* Banner ribbon. A heritage-gold ribbon container for a single
+   German loan-word callout. One per page max. */
+.banner {
+  position: relative;
+  display: block;
+  width: max-content;
+  max-width: 92%;
+  margin: var(--space-7) auto var(--space-5);
+  padding: var(--space-2) var(--space-6);
+  font-family: var(--ui);
+  font-size: var(--fs-eyebrow);
+  font-weight: 700;
+  letter-spacing: var(--ls-eyebrow);
+  text-transform: uppercase;
+  color: var(--cream);
+  background: var(--alpine);
+  text-align: center;
+}
+.banner::before,
+.banner::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  width: 14px;
+  height: 100%;
+  background: var(--alpine);
+  clip-path: polygon(0 0, 100% 50%, 0 100%);
+}
+.banner::before { left: -12px; transform: scaleX(-1); }
+.banner::after  { right: -12px; }
+
+
+/* ---------- 7. Links ---------- */
 a {
-  color: var(--sprout);
+  color: var(--alpine);
   text-decoration: underline;
   text-underline-offset: 4px;
   text-decoration-thickness: 1px;
   transition: color var(--t-fast);
 }
 a:hover,
-a:focus-visible { color: var(--radish); }
+a:focus-visible { color: var(--burgundy); }
 a:focus-visible {
   outline: var(--focus-ring);
   outline-offset: var(--focus-offset);
   border-radius: 2px;
 }
 
-/* ---------- 6. Header (logo + nav) ---------- */
-#logo {
-  display: block;
-  margin: var(--space-7) auto var(--space-2);
-  width: min(55%, 220px);
-  height: auto;
+
+/* ---------- 8. Header (wordmark + monogram) ---------- */
+.site-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-3);
+  margin: var(--space-6) auto var(--space-3);
+  padding: 0;
 }
 
+.site-header__home {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-3);
+  text-decoration: none;
+}
+.site-header__home:hover .site-header__wordmark,
+.site-header__home:focus-visible .site-header__wordmark { filter: none; }
+
+.site-header__monogram {
+  display: block;
+  width: 44px;
+  height: 44px;
+  color: var(--alpine);
+  flex: 0 0 auto;
+}
+
+.site-header__wordmark {
+  display: block;
+  height: clamp(32px, 6vw, 48px);
+  width: auto;
+}
+
+/* Laurel-and-shield rule under the wordmark, echoes the mark. */
+.site-header__rule {
+  display: block;
+  width: min(220px, 60%);
+  height: 18px;
+  margin: var(--space-2) auto var(--space-3);
+  color: var(--alpine);
+}
+
+
+/* ---------- 9. Primary nav ---------- */
 nav[aria-label="Primary"] ul {
   list-style: none;
   padding: 0;
-  margin: var(--space-4) auto var(--space-6);
+  margin: var(--space-3) auto var(--space-6);
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -214,69 +403,74 @@ nav[aria-label="Primary"] ul {
 nav[aria-label="Primary"] li { display: inline-flex; align-items: center; }
 
 nav[aria-label="Primary"] li:not(:first-child)::before {
-  content: "·";
+  content: "";
+  display: inline-block;
+  width: 4px;
+  height: 4px;
   margin: 0 var(--space-3);
-  color: var(--sprout);
+  background: var(--olive);
+  transform: rotate(45deg);
 }
 
 nav[aria-label="Primary"] a {
+  font-family: var(--ui);
+  font-size: var(--fs-ui);
+  font-weight: 600;
+  letter-spacing: var(--ls-eyebrow);
+  text-transform: uppercase;
   color: var(--ink);
-  font-family: var(--mono);
-  font-size: var(--fs-nav);
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: lowercase;
-  text-decoration: underline;
-  text-underline-offset: 8px;
+  text-decoration: none;
 }
 
 nav[aria-label="Primary"] a:hover,
 nav[aria-label="Primary"] a:focus-visible {
-  color: var(--sprout-deep);
+  color: var(--alpine);
 }
 
 nav[aria-label="Primary"] a[aria-current="page"] {
-  color: var(--sprout-deep);
-  text-decoration-thickness: 2px;
+  color: var(--alpine-deep);
+  border-bottom: 2px solid var(--alpine);
+  padding-bottom: 2px;
 }
 
-/* ---------- 7. CTA row ---------- */
+
+/* ---------- 10. CTA row ---------- */
 .cta-row {
   text-align: center;
   margin: var(--space-5) auto;
+  font-family: var(--body);
 }
 .cta-row a {
-  font-weight: 700;
-  color: var(--sprout-deep);
+  font-weight: 600;
+  color: var(--alpine-deep);
 }
 
-/* ---------- 8. Buttons ---------- */
-/* The submit button is the only "button" on the site. Everything else is a
-   text link with weight. Keep it that way. */
+
+/* ---------- 11. Buttons ---------- */
 input[type="submit"],
 .btn {
   display: inline-block;
-  font-family: var(--mono);
-  font-size: var(--fs-nav);
-  font-weight: 700;
-  letter-spacing: 0.08em;
+  font-family: var(--ui);
+  font-size: var(--fs-ui);
+  font-weight: 600;
+  letter-spacing: var(--ls-ui);
   text-transform: uppercase;
   text-decoration: none;
   color: var(--cream);
-  background: var(--sprout);
-  border: var(--border-rule) solid var(--sprout);
+  background: var(--alpine);
+  border: var(--border-rule) solid var(--alpine);
   padding: 14px 28px;
   cursor: pointer;
   min-width: 220px;
   width: auto;
-  border-radius: 0;
-  transition: background var(--t-fast), border-color var(--t-fast);
+  border-radius: 2px;
+  transition: background var(--t-fast), border-color var(--t-fast), color var(--t-fast);
 }
 
 input[type="submit"]:hover,
 .btn:hover {
-  background: var(--sprout-deep);
-  border-color: var(--sprout-deep);
+  background: var(--alpine-deep);
+  border-color: var(--alpine-deep);
   color: var(--cream);
 }
 
@@ -294,29 +488,42 @@ input[type="submit"]:active,
 
 input[type="submit"]:disabled,
 .btn[aria-disabled="true"] {
-  background: var(--cream-shadow);
-  color: var(--soil);
-  border-color: var(--soil);
+  background: var(--surface);
+  color: var(--bark);
+  border-color: var(--bark);
   cursor: not-allowed;
 }
 
-/* ---------- 9. Forms ---------- */
+/* Secondary, used for "Read about each variety" style supporting actions. */
+.btn--secondary {
+  background: transparent;
+  color: var(--alpine);
+  border-color: var(--alpine);
+}
+.btn--secondary:hover {
+  background: var(--alpine);
+  color: var(--cream);
+}
+
+
+/* ---------- 12. Forms ---------- */
 input,
 select,
 textarea {
-  font-family: var(--mono);
-  font-size: 1.125rem;
-  line-height: 1.4;
-  padding: 10px 12px;
-  background: var(--cream-shadow);
+  font-family: var(--body);
+  font-size: 1.0625rem;
+  line-height: 1.45;
+  padding: 12px 14px;
+  background: var(--surface);
   border: var(--border-rule) solid var(--ink);
-  border-radius: 0;
+  border-radius: 2px;
   color: var(--ink);
   width: min(var(--measure), 92%);
   display: block;
   margin: var(--space-2) auto;
-  /* tap target: padding + line-height keeps us over 44px */
 }
+
+select { font-family: var(--ui); font-weight: 600; }
 
 input:focus,
 select:focus,
@@ -328,11 +535,13 @@ textarea:focus {
 input[aria-invalid="true"],
 select[aria-invalid="true"],
 textarea[aria-invalid="true"] {
-  border-color: var(--radish);
+  border-color: var(--burgundy);
 }
 
 .form-error {
-  color: var(--radish);
+  color: var(--burgundy);
+  font-family: var(--ui);
+  font-weight: 600;
   font-size: var(--fs-small);
   text-align: center;
   margin-top: calc(var(--space-1) * -1);
@@ -345,24 +554,24 @@ input[type="checkbox"] {
   transform: scale(1.4);
   margin: 0 var(--space-2) 0 0;
   vertical-align: middle;
-  accent-color: var(--sprout);
+  accent-color: var(--alpine);
 }
 
 form p label { vertical-align: middle; }
 
-/* The label-above-input pattern used by the restaurants form.
-   Use a .field wrapper or rely on form > p > label[for]. */
+/* Label-above-input pattern (restaurants form). */
 .field {
   width: min(var(--measure), 92%);
   margin: var(--space-3) auto;
 }
 .field label {
   display: block;
-  font-family: var(--mono);
+  font-family: var(--ui);
   font-size: var(--fs-small);
-  letter-spacing: 0.04em;
+  font-weight: 600;
+  letter-spacing: var(--ls-ui);
   text-transform: uppercase;
-  color: var(--soil);
+  color: var(--bark);
   margin: 0 0 var(--space-1);
 }
 .field input,
@@ -372,19 +581,35 @@ form p label { vertical-align: middle; }
   margin: 0;
 }
 
-/* Honeypot. Author hides via inline style today; this is the canonical hook. */
+/* Honeypot. */
 .honeypot { display: none !important; }
 
-/* ---------- 10. Cards (variety + city grid tiles) ---------- */
+
+/* ---------- 13. Cards (variety + city tiles) ---------- */
 .card {
   display: block;
   padding: var(--space-5);
-  background: var(--cream-shadow);
+  background: var(--surface);
   border: var(--border-rule) solid var(--ink);
+  border-radius: 2px;
   color: var(--ink);
   text-decoration: none;
-  font-family: var(--mono);
+  font-family: var(--body);
+  position: relative;
   transition: transform var(--t-fast), box-shadow var(--t-fast), background var(--t-fast);
+}
+
+/* Heritage roundel in the corner. A small olive circle with a single dot. */
+.card::before {
+  content: "";
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--olive);
+  opacity: 0.7;
 }
 
 .card:hover,
@@ -392,7 +617,7 @@ form p label { vertical-align: middle; }
   background: var(--cream);
   color: var(--ink);
   transform: translate(-2px, -2px);
-  box-shadow: 4px 4px 0 0 var(--ink);
+  box-shadow: 4px 4px 0 0 var(--alpine);
 }
 
 .card:focus-visible {
@@ -402,9 +627,10 @@ form p label { vertical-align: middle; }
 
 .card__title {
   display: block;
-  font-family: var(--serif);
-  font-weight: 600;
-  font-size: 1.2rem;
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 1.25rem;
+  line-height: 1.2;
   margin-bottom: var(--space-2);
   color: var(--ink);
 }
@@ -412,62 +638,121 @@ form p label { vertical-align: middle; }
 .card__meta {
   display: block;
   font-size: var(--fs-small);
-  line-height: var(--lh-normal);
-  color: var(--soil);
+  line-height: var(--lh-snug);
+  color: var(--bark);
 }
 
-/* ---------- 11. Lists ---------- */
+
+/* ---------- 14. Lists and roundels ---------- */
 main > ul,
 main > ol {
   padding-left: var(--space-5);
   margin: var(--space-4) auto;
 }
 main > ul { list-style: square; }
-main > ul li::marker { color: var(--sprout); }
+main > ul li::marker { color: var(--alpine); }
 main > ul li,
 main > ol li { margin: var(--space-1) 0; }
 
-/* Inline list inside flowing copy (variety page uses list-style: square). */
+/* Square-bullet list inside flowing copy. */
 .list-square {
   list-style: square;
   padding-left: var(--space-5);
 }
+.list-square li::marker { color: var(--alpine); }
 
-/* ---------- 12. Tables (pricing) ---------- */
+/* Numbered roundels for "How it works" style ordered lists.
+   <ol class="roundels"> with Roman numerals rendered via counter. */
+.roundels {
+  list-style: none;
+  padding-left: 0;
+  counter-reset: roundel;
+}
+.roundels li {
+  position: relative;
+  padding-left: 56px;
+  margin: var(--space-4) 0;
+  counter-increment: roundel;
+}
+.roundels li::before {
+  content: counter(roundel, upper-roman);
+  position: absolute;
+  left: 0;
+  top: -2px;
+  width: 40px;
+  height: 40px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: var(--alpine);
+  background: transparent;
+  border: var(--border-rule) solid var(--alpine);
+  border-radius: 50%;
+}
+
+
+/* ---------- 15. Tables (pricing) ---------- */
 table {
   border-collapse: collapse;
-  font-family: var(--mono);
+  font-family: var(--body);
   font-size: var(--fs-body);
   margin: var(--space-6) auto;
 }
 th {
+  font-family: var(--ui);
+  font-size: var(--fs-small);
+  letter-spacing: var(--ls-ui);
+  text-transform: uppercase;
   text-align: left;
   padding: var(--space-2) var(--space-5) var(--space-2) 0;
   border-bottom: var(--border-rule) solid var(--ink);
   font-weight: 700;
+  color: var(--ink);
 }
 th + th { text-align: right; padding-right: 0; }
 td {
-  padding: var(--space-2) var(--space-5) var(--space-2) 0;
+  padding: var(--space-3) var(--space-5) var(--space-3) 0;
   border-bottom: var(--border-hair) solid var(--rule);
 }
-td + td { text-align: right; padding-right: 0; }
+td + td { text-align: right; padding-right: 0; font-family: var(--ui); font-weight: 600; }
 
-/* ---------- 13. Horizontal rule ---------- */
+
+/* ---------- 16. Horizontal rule and laurel divider ---------- */
 main > hr {
   border: 0;
   border-top: var(--border-hair) solid var(--rule);
   margin: var(--space-7) auto;
 }
 
-/* ---------- 14. Blockquote / testimonial ---------- */
+/* Decorative laurel divider. Render as <hr class="laurel"> on
+   heritage-leaning pages (homepage, about, variety). The SVG is
+   declared via background-image; swap the data URI if the
+   monogram artwork is refined. */
+hr.laurel {
+  border: 0;
+  height: 28px;
+  width: min(120px, 60%);
+  margin: var(--space-7) auto;
+  background-color: transparent;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 28' fill='none' stroke='%233a5a2a' stroke-width='1.4' stroke-linecap='round'><path d='M60 14 c -8 -2 -16 -2 -22 0'/><path d='M60 14 c 8 -2 16 -2 22 0'/><path d='M40 10 c 0 -3 -3 -5 -6 -5'/><path d='M44 8 c 0 -3 -3 -5 -6 -5'/><path d='M48 7 c 0 -3 -3 -5 -6 -5'/><path d='M40 18 c 0 3 -3 5 -6 5'/><path d='M44 20 c 0 3 -3 5 -6 5'/><path d='M48 21 c 0 3 -3 5 -6 5'/><path d='M80 10 c 0 -3 3 -5 6 -5'/><path d='M76 8 c 0 -3 3 -5 6 -5'/><path d='M72 7 c 0 -3 3 -5 6 -5'/><path d='M80 18 c 0 3 3 5 6 5'/><path d='M76 20 c 0 3 3 5 6 5'/><path d='M72 21 c 0 3 3 5 6 5'/><circle cx='60' cy='14' r='3' fill='%238a7e3a' stroke='none'/></svg>");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+
+/* ---------- 17. Blockquote / testimonial ---------- */
 blockquote {
-  font-family: var(--serif);
+  font-family: var(--display);
+  font-weight: 400;
   font-style: italic;
-  font-size: 1.125rem;
-  line-height: 1.5;
+  font-size: 1.25rem;
+  line-height: 1.45;
   padding: var(--space-2) var(--space-5);
-  border-left: 4px solid var(--sprout);
+  border-left: 4px solid var(--alpine);
   color: var(--ink);
   width: min(var(--measure), 88%);
   margin: var(--space-5) auto;
@@ -475,65 +760,119 @@ blockquote {
 blockquote cite {
   display: block;
   font-style: normal;
-  font-family: var(--mono);
+  font-family: var(--ui);
+  font-weight: 600;
   font-size: var(--fs-small);
-  color: var(--soil);
+  letter-spacing: var(--ls-ui);
+  text-transform: uppercase;
+  color: var(--bark);
   margin-top: var(--space-2);
 }
 
-/* ---------- 14b. FAQ disclosure ---------- */
+
+/* ---------- 18. FAQ disclosure ---------- */
 main > details {
-  font-family: var(--mono);
-  width: min(var(--measure), 92%);
+  font-family: var(--body);
   margin: var(--space-2) auto;
   padding: var(--space-3) var(--space-4);
-  background: var(--cream-shadow);
-  border-left: 4px solid var(--sprout);
+  background: var(--surface);
+  border-left: 4px solid var(--alpine);
+  border-radius: 0 2px 2px 0;
 }
-main > details + details {
-  margin-top: var(--space-2);
-}
+main > details + details { margin-top: var(--space-2); }
+
 main > details > summary {
   cursor: pointer;
-  font-weight: 700;
+  font-family: var(--ui);
+  font-weight: 600;
+  font-size: var(--fs-ui);
+  letter-spacing: 0.01em;
   list-style: none;
   position: relative;
   padding-right: var(--space-5);
+  color: var(--ink);
 }
-main > details > summary::-webkit-details-marker {
-  display: none;
-}
+main > details > summary::-webkit-details-marker { display: none; }
 main > details > summary::after {
   content: "+";
   position: absolute;
   right: 0;
   top: 0;
-  font-family: var(--serif);
-  font-weight: 600;
-  font-size: 1.25rem;
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 1.35rem;
   line-height: 1;
-  color: var(--sprout);
+  color: var(--alpine);
   transition: transform 150ms ease;
 }
-main > details[open] > summary::after {
-  content: "−";
-}
+main > details[open] > summary::after { content: "\2212"; } /* − */
 main > details > summary:focus-visible {
-  outline: 3px solid var(--sprout);
-  outline-offset: 2px;
+  outline: var(--focus-ring);
+  outline-offset: var(--focus-offset);
 }
 main > details > p {
   width: auto;
   margin: var(--space-2) 0 0;
 }
 
-/* ---------- 15. Footer ---------- */
+
+/* ---------- 19. Mark utilities ---------- */
+/* The gator hero. Used once per page maximum, only on home + about. */
+.mark-hero {
+  display: block;
+  width: min(420px, 70%);
+  height: auto;
+  margin: var(--space-5) auto var(--space-4);
+}
+
+@media (max-width: 720px) {
+  .mark-hero { width: min(320px, 78%); }
+}
+
+/* The wordmark image, used standalone where a smaller heritage signal
+   is wanted (footer, label-style sections). */
+.wordmark {
+  display: block;
+  height: clamp(28px, 4.5vw, 40px);
+  width: auto;
+  margin: 0 auto;
+}
+
+/* The laurel-V monogram, sized via parent (svg uses currentColor). */
+.monogram {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  color: var(--alpine);
+  vertical-align: -0.15em;
+}
+
+/* The small Florida shield. Used on About and wholesale as a
+   credibility stamp. Drop inline SVG in markup; this sizes it. */
+.shield {
+  display: inline-block;
+  width: 28px;
+  height: 32px;
+  color: var(--alpine);
+  vertical-align: middle;
+}
+
+
+/* ---------- 20. Footer ---------- */
 footer {
   width: min(var(--measure), 92%);
   margin: var(--space-9) auto 0;
   padding-top: var(--space-6);
-  border-top: var(--border-hair) solid var(--ink);
+  border-top: var(--border-hair) solid var(--rule);
   text-align: center;
+}
+
+footer .monogram {
+  width: 40px;
+  height: 40px;
+  margin: 0 auto var(--space-3);
+  color: var(--alpine);
+  vertical-align: baseline;
 }
 
 footer ul {
@@ -548,52 +887,79 @@ footer ul {
 footer li {
   display: inline-flex;
   align-items: center;
-  font-family: var(--mono);
-  font-size: 0.95rem;
+  font-family: var(--ui);
+  font-size: var(--fs-small);
+  font-weight: 600;
+  letter-spacing: var(--ls-ui);
+  text-transform: uppercase;
 }
 footer li:not(:first-child)::before {
-  content: "·";
+  content: "";
+  display: inline-block;
+  width: 4px;
+  height: 4px;
   margin: 0 var(--space-3);
-  color: var(--sprout);
+  background: var(--olive);
+  transform: rotate(45deg);
 }
 footer a {
   color: var(--ink);
+  text-decoration: none;
+}
+footer a:hover,
+footer a:focus-visible {
+  color: var(--alpine);
   text-decoration: underline;
   text-underline-offset: 6px;
 }
-footer a:hover,
-footer a:focus-visible { color: var(--sprout-deep); }
 footer p {
+  font-family: var(--body);
   font-size: var(--fs-small);
+  font-weight: 400;
+  letter-spacing: 0;
+  text-transform: none;
   margin: var(--space-2) auto 0;
-  color: var(--soil);
+  color: var(--bark);
 }
 
-/* The square stamp mark. Inline SVG colors via currentColor. */
-.mark {
-  display: inline-block;
-  width: 1em;
-  height: 1em;
-  vertical-align: -0.125em;
-  color: var(--sprout);
-}
 
-/* ---------- 16. Wholesale / restaurants restraint ---------- */
-/* Per BRAND.md 10.3: cream, tray cream, ink, sprout, soil only.
-   No radish accent, no variety color. Drop the radish hover on links;
-   accent shifts to sprout-deep. Body class set in default.html when needed.
-   Today the restaurants page sits inside the same layout, so we scope by
-   page-state: any descendant of [data-page="wholesale"]. */
+/* ---------- 21. Wholesale variant ---------- */
+/* Per BRAND.md 10.3, the wholesale page uses: cream, ink, alpine, bark.
+   No burgundy. No olive. No gator. The body gets
+   data-page="wholesale" via the layout. */
+[data-page="wholesale"] {
+  /* Override the burgundy hover with alpine-deep. */
+}
 [data-page="wholesale"] a:hover,
 [data-page="wholesale"] a:focus-visible {
-  color: var(--sprout-deep);
+  color: var(--alpine-deep);
 }
-[data-page="wholesale"] .card:hover { background: var(--cream); }
+[data-page="wholesale"] .eyebrow,
+[data-page="wholesale"] .banner,
+[data-page="wholesale"] .mark-hero,
+[data-page="wholesale"] hr.laurel,
+[data-page="wholesale"] .card::before {
+  display: none;
+}
+[data-page="wholesale"] input[aria-invalid="true"],
+[data-page="wholesale"] select[aria-invalid="true"],
+[data-page="wholesale"] textarea[aria-invalid="true"] {
+  border-color: var(--ink);
+}
+[data-page="wholesale"] .form-error { color: var(--ink); }
+[data-page="wholesale"] nav[aria-label="Primary"] li:not(:first-child)::before {
+  background: var(--alpine);
+}
+[data-page="wholesale"] footer li:not(:first-child)::before {
+  background: var(--alpine);
+}
 
-/* ---------- 17. Mobile tweaks ---------- */
+
+/* ---------- 22. Mobile tweaks ---------- */
 @media (max-width: 720px) {
   body { padding: 0 12px var(--space-7); }
-  #logo { width: 60%; margin-top: var(--space-5); }
+  .site-header { gap: var(--space-2); margin-top: var(--space-4); }
+  .site-header__monogram { width: 36px; height: 36px; }
   h1 { margin-top: var(--space-3); }
   p,
   input,
@@ -604,17 +970,22 @@ footer p {
   main > ul,
   main > ol,
   main > hr,
+  main > details,
   .cta-row { width: 96%; }
   nav[aria-label="Primary"] li:not(:first-child)::before { margin: 0 var(--space-2); }
   .grid { gap: var(--space-4); }
+  .roundels li { padding-left: 48px; }
+  .roundels li::before { width: 36px; height: 36px; font-size: 0.95rem; }
 }
 
-/* ---------- 18. Larger screens ---------- */
+
+/* ---------- 23. Larger screens ---------- */
 @media (min-width: 1024px) {
   body { padding-left: var(--gutter-desktop); padding-right: var(--gutter-desktop); }
 }
 
-/* ---------- 19. Motion preferences ---------- */
+
+/* ---------- 24. Motion preferences ---------- */
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,
@@ -624,9 +995,16 @@ footer p {
   }
 }
 
-/* ---------- 20. Print ---------- */
+
+/* ---------- 25. Print ---------- */
 @media print {
-  body { background: #fff; color: #000; padding: 0; }
-  nav, footer, .cta-row, input[type="submit"] { display: none; }
+  body {
+    background: #fff;
+    color: #000;
+    padding: 0;
+    background-image: none;
+  }
+  nav, footer, .cta-row, input[type="submit"], .banner { display: none; }
   a { color: #000; text-decoration: underline; }
+  .mark-hero { width: 220px; }
 }
