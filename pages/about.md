@@ -15,4 +15,4 @@ We also work with [local restaurants](/restaurants/) on standing wholesale order
 
 Ready to share the table?
 
-[**Start an order →**](/microgreens/)
+[**Start an order →**](/order/)

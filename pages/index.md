@@ -9,7 +9,7 @@ Frisch gezüchtet. Hand-delivered. Alive this morning. Yours by dinner.
 
 Five Volkmans live in Sanford. We grow ten varieties of microgreens in a shed out back, cut them the morning we deliver, and hand them to neighbors across the Orlando metro. No grocery middleman. No plastic clamshell from Tuesday.
 
-[**For my kitchen →**](/microgreens/) · [**For my restaurant →**](/restaurants/)
+[**For my kitchen →**](/order/) · [**For my restaurant →**](/restaurants/)
 
 ## Why our greens
 
@@ -25,7 +25,7 @@ Five Volkmans live in Sanford. We grow ten varieties of microgreens in a shed ou
 2. **Pick your day.** We deliver to your neighborhood once a week.
 3. **We text you when we're on the way.** Pay on delivery (Venmo, Zelle, or cash). [Stand a weekly order, save 10%](/subscribe/). Skip any week, cancel any week. No card on file, no subscription portal, no Bavarian fine print.
 
-[**Start your order →**](/microgreens/)
+[**Start your order →**](/order/)
 
 ## Common questions
 

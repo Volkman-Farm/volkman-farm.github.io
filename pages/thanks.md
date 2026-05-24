@@ -8,7 +8,7 @@ eleventyExcludeFromCollections: true
 
 Your order is in. We'll text you within a day to confirm your first delivery, the exact total, and any questions about your greens.
 
-In the meantime, if you want to peek at what else we grow, [here are all ten varieties](/microgreens/) and [our pricing](/pricing/).
+In the meantime, if you want to peek at what else we grow, [here are all ten varieties](/order/) and [our pricing](/pricing/).
 
 Thanks for supporting a small family farm.
 

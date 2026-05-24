@@ -347,7 +347,7 @@ Why it ranks
 ### 4. Phone-only or DM-only order paths with no on-page form
 - **Site that does it badly:** Orlando Microgreens runs on email and Facebook. Tiny Leaf Micro Green Farm requires WhatsApp or messenger for orders. Harvest Greens Farm requires submitting contact details for "personalized outreach."
 - **Why it hurts them:** Every step between "I want greens" and "order placed" is a customer dropped. A customer who has to email is a customer who often does not.
-- **What Volkman should learn:** Keep the on-page progressive form on `/microgreens/`. The four-step inline pattern in DESIGN-SYSTEM.md is the correct answer. Do not regress to a contact form.
+- **What Volkman should learn:** Keep the on-page progressive form on `/order/`. The four-step inline pattern in DESIGN-SYSTEM.md is the correct answer. Do not regress to a contact form.
 
 ### 5. Subscription-only models that hide the unit price
 - **Site that does it badly:** Brickell Micro Farms gates pricing inside subscription tier dropdowns ($11.75-$18.75 per 60g, but the customer has to math to compare). Kyrios Farm requires committing to a subscription plus a $5 fee under $20.
@@ -385,7 +385,7 @@ Why it ranks
 
 ### 2. Audience-segmented dual CTA on the home page
 - **Pattern source:** Mountain Man's three-path nav (Retail / Restaurant / Residential), reduced to two paths for Volkman.
-- **Why it translates:** Volkman's home page already has two CTAs at the top ("Place an order," "See prices"). Replacing those with `For my kitchen` and `For my restaurant`, each linking to its own destination (`/microgreens/` and `/restaurants/`), makes the audience split structural rather than incidental, and uses the existing two-CTA pattern.
+- **Why it translates:** Volkman's home page already has two CTAs at the top ("Place an order," "See prices"). Replacing those with `For my kitchen` and `For my restaurant`, each linking to its own destination (`/order/` and `/restaurants/`), makes the audience split structural rather than incidental, and uses the existing two-CTA pattern.
 - **BRAND.md alignment:** Supports decision 10.3 ("Wholesale visual identity. Distinct"). The two CTAs can carry slightly different visual weight, with the residential one being the sprout-green primary and the restaurant one being the more restrained sprout-deep secondary text link. DESIGN-SYSTEM.md section 3 already has the CTA row pattern.
 - **Shape:** one afternoon of copy edit and CSS tweak. Ships immediately.
 

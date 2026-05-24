@@ -7,7 +7,7 @@ layout: default
 
 <p class="lead">Stand a weekly order, save 10%. Skip any week, cancel any week. No card on file, no subscription portal, no Bavarian fine print.</p>
 
-<p class="cta-row"><a href="/microgreens/"><strong>Start a weekly standing order →</strong></a></p>
+<p class="cta-row"><a href="/order/"><strong>Start a weekly standing order →</strong></a></p>
 
 ## How it works
 
@@ -39,6 +39,6 @@ If you decide standing orders aren't for you, just tell us. There's no contract 
 
 <h2>Ready?</h2>
 
-<p class="cta-row"><a href="/microgreens/"><strong>Place your first weekly order →</strong></a></p>
+<p class="cta-row"><a href="/order/"><strong>Place your first weekly order →</strong></a></p>
 
 <p style="text-align:center;font-family:Georgia,serif;font-style:italic">Questions? Email <a href="mailto:micros@volkman.farm">micros@volkman.farm</a>. We read every one.</p>
