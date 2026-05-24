@@ -191,15 +191,15 @@ The blackletter wordmark on the mark is a character mark, not a system face. We 
 
 **Locked pairing (replaces the v1 Fraunces + JetBrains Mono pairing entirely):**
 
-- **Display (h1, h2, h3, blockquote): Bely Display** (Roxane Gataud, OFL, free). Slightly idiosyncratic, with a touch of old-world flavor that complements the blackletter wordmark without competing with it. Use at 700 weight, tight line-height (1.05 for h1, 1.15 for h2), letter-spacing -0.015em for h1.
+- **Display (h1, h2, h3, blockquote): DM Serif Display** (Colophon Foundry, OFL, free via Google Fonts). High-contrast transitional serif. Confident broadsheet-headline character that complements the blackletter wordmark without competing with it. Single weight (400) at large sizes carries plenty of weight. Letter-spacing -0.015em for h1.
 - **Body: Source Serif 4** (Adobe, OFL). A modern transitional serif with strong italics, real small caps, and excellent legibility at long line lengths. It carries the heritage feel without going antique. Replaces the typewriter mono entirely. The v1 mono no longer fits the new visual mood; the cream paper now reads as parchment, and parchment with a typewriter is the wrong century.
 - **UI / labels / buttons: Inter** at 600. The one sans-serif in the system. Use only for button labels, nav items, form labels, and very small UI text where serif rendering gets fragile. Tracking 0.04em.
 
 **Why this pairing:**
 
-The blackletter wordmark + Bely Display + Source Serif body reads as "small German press shop with a Florida microgreens problem." Heritage without costume. Serif throughout the body (instead of mono) lets the page feel like a printed broadsheet, which matches the parchment cream and the banner motifs. The single sans for UI is the modern-life concession: form labels and buttons are easier to scan in a clean grotesque.
+The blackletter wordmark + DM Serif Display + Source Serif body reads as "small press shop with a Florida microgreens problem." Heritage without costume. Serif throughout the body (instead of mono) lets the page feel like a printed broadsheet, which matches the parchment cream and the banner motifs. The single sans for UI is the modern-life concession: form labels and buttons are easier to scan in a clean grotesque.
 
-**Why Bely over the Bely Display first-pick:** Bely Display is a stronger surface match but costs $50 to $200 to license desktop+web. Bely Display is free under the OFL and ships with enough heritage flavor that the trade-off is acceptable. If the brand ever wants to upgrade, Bely Display SemiBold is the drop-in replacement, no other system change required.
+**Why DM Serif Display:** The original pick was Bely Display, which turned out to be a paid TypeTogether font (not OFL as the first Brand Guardian draft claimed). DM Serif Display is the free OFL alternative with similar high-contrast confidence. If the brand ever wants to upgrade, Bely Display ($50 to $200 via TypeTogether) or Recoleta ($50 to $200 via Latinotype) are both one-line swaps in `main.css` and the layout preload tag.
 
 ### Type scale
 
@@ -207,9 +207,9 @@ Mobile-first, fluid via `clamp()`. All sizes in rem.
 
 | Token | Size | Line-height | Letter-spacing | Weight | Family |
 |---|---|---|---|---|---|
-| h1 | `clamp(2.25rem, 5.5vw, 3.25rem)` | 1.05 | -0.015em | 600 | Bely Display |
-| h2 | `clamp(1.5rem, 3.75vw, 2rem)` | 1.15 | -0.005em | 600 | Bely Display |
-| h3 | `clamp(1.2rem, 2.5vw, 1.4rem)` | 1.25 | 0 | 600 | Bely Display |
+| h1 | `clamp(2.25rem, 5.5vw, 3.25rem)` | 1.05 | -0.015em | 600 | DM Serif Display |
+| h2 | `clamp(1.5rem, 3.75vw, 2rem)` | 1.15 | -0.005em | 600 | DM Serif Display |
+| h3 | `clamp(1.2rem, 2.5vw, 1.4rem)` | 1.25 | 0 | 600 | DM Serif Display |
 | body | `1.0625rem` (17px) | 1.6 | 0 | 400 | Source Serif 4 |
 | body large | `1.15rem` | 1.55 | 0 | 400 | Source Serif 4 |
 | small | `0.875rem` | 1.5 | 0.005em | 400 | Source Serif 4 |
@@ -279,7 +279,7 @@ The motif vocabulary in v2 is heritage seal: banners, laurels, roundels, shields
 2. **The wordmark.** Always paired with the laurel-and-shield rule, exactly as on the mark.
 3. **The banner ribbon.** A flat SVG of the curved ribbon from the mark's top half. Used as a container for short German-loan-word callouts or short eyebrow labels. One per page max.
 4. **Laurel sprigs.** A flat SVG pair of laurel sprigs, used as section dividers between major content blocks on the homepage, About, and variety pages. Approximately 80px wide, centered. Heritage gold or Alpine green.
-5. **Numbered roundels.** Small circular badges (about 32-40px) with a Roman numeral (I, II, III) inside, set in Bely Display, ringed in Alpine. Used for ordered step lists (the "How it works" section) instead of plain numbered lists.
+5. **Numbered roundels.** Small circular badges (about 32-40px) with a Roman numeral (I, II, III) inside, set in DM Serif Display, ringed in Alpine. Used for ordered step lists (the "How it works" section) instead of plain numbered lists.
 6. **Small shields.** A flat SVG shield (the Florida-state-shape, ringed thin in Alpine, with a sprout in the center) used as a tiny credibility mark on the About page and the wholesale page. Inspired by the small green shield in the lower banner of the gator mark.
 7. **Square bullets.** Carried over from v1. Filled Alpine-green squares as list markers. Matches the tray-grid spirit and reads as small heritage stamps.
 
@@ -334,7 +334,7 @@ The owner has reviewed the v1 resolved-decisions list, kept what still holds, an
 5. **Logo system.** The full gator illustration at `assets/brand/volkman-mark.png` is the **primary brand mark**. The **wordmark alone** (the blackletter "Volkman Farm" extracted from the mark) is the **secondary, working mark** used in the site header, on the wholesale page, and in any space the full mark would be too whimsical or too detailed. The **tertiary mark** is the laurel-wreathed V monogram (or, as fallback, the gator-head spot mark), used at favicon size, on social avatars, and as a label-corner stamp.
 6. **Heritage authenticity.** The Volkman family has real German ancestry. The Bavarian motifs are not costume. Owner has confirmed permission to lean in. German loan words on the mark stay. The blackletter wordmark stays. The castle silhouette stays. The Florida palm trees on the other side of the mark stay because Florida is the present tense.
 7. **The mark is the anchor.** All v2 visual decisions derive from the mark. If a question arises that this document does not answer, the answer is whatever makes the mark feel more at home on the page.
-8. **Display typeface.** Bely Display (OFL, free) is the production display face. Recoleta SemiBold was the first-pick but was de-scoped on cost; if the brand later wants to upgrade, Recoleta is the drop-in replacement that requires no other system change.
+8. **Display typeface.** DM Serif Display (OFL, free via Google Fonts) is the production display face. Bely Display was the original Brand Guardian pick but turned out to be a paid TypeTogether font, not OFL. Recoleta SemiBold was the v1 first-pick before that. Either is a one-line swap if the brand ever wants to license a paid display face.
 9. **Secondary mark.** Laurel-wreathed V monogram is the locked secondary direction. UI Designer should propose a concrete version (SVG) the owner can review before merch or favicon usage. The cropped gator-head spot mark is shelved, not killed; it can come back later if the monogram does not earn its keep.
 
 ---

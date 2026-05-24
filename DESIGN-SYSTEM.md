@@ -30,15 +30,15 @@ Wholesale (`[data-page="wholesale"]`) restricts to cream, ink, alpine, alpine-de
 
 Three faces, all self-hosted woff2 under `/assets/fonts/`. Owner downloads:
 
-- **Bely Display** (Roxane Gataud, OFL, free). Display only. `bely-display.woff2`.
+- **DM Serif Display** (Roxane Gataud, OFL, free). Display only. `dm-serif-display.woff2`.
 - **Source Serif 4** (Adobe, OFL, free). Body. Regular, italic, 600. `source-serif-4-regular.woff2`, `-italic.woff2`, `-600.woff2`.
 - **Inter** (OFL, free). UI. 600 and 700. `inter-600.woff2`, `inter-700.woff2`.
 
 | Token | Size | Line-height | Tracking | Weight | Family |
 |---|---|---|---|---|---|
-| `--fs-h1` | `clamp(2.25rem, 5.5vw, 3.25rem)` | 1.05 | -0.015em | 700 | Bely Display |
-| `--fs-h2` | `clamp(1.5rem, 3.75vw, 2rem)` | 1.15 | -0.005em | 700 | Bely Display |
-| `--fs-h3` | `clamp(1.2rem, 2.5vw, 1.4rem)` | 1.25 | 0 | 700 | Bely Display |
+| `--fs-h1` | `clamp(2.25rem, 5.5vw, 3.25rem)` | 1.05 | -0.015em | 400 | DM Serif Display |
+| `--fs-h2` | `clamp(1.5rem, 3.75vw, 2rem)` | 1.15 | -0.005em | 400 | DM Serif Display |
+| `--fs-h3` | `clamp(1.2rem, 2.5vw, 1.4rem)` | 1.25 | 0 | 400 | DM Serif Display |
 | `--fs-body` | `1.0625rem` | 1.6 | 0 | 400 | Source Serif 4 |
 | `--fs-lead` | `1.2rem` italic | 1.4 | 0 | 400 italic | Source Serif 4 |
 | `--fs-small` | `0.875rem` | 1.5 | 0.005em | 400 | Source Serif 4 |
@@ -112,7 +112,7 @@ Inter caps, 600, tracking 0.18em, lowercase letters preserved from v1 copy. Sepa
 
 ### 3.4 Headings
 
-Bely Display, 700, centered. Tight line-height on h1 (1.05) and h2 (1.15), normal on h3 (1.25). Negative letter-spacing on h1 (-0.015em) and h2 (-0.005em) keeps the display weight from feeling soft.
+DM Serif Display, 400, centered. Tight line-height on h1 (1.05) and h2 (1.15), normal on h3 (1.25). Negative letter-spacing on h1 (-0.015em) and h2 (-0.005em) keeps the display weight from feeling soft.
 
 ### 3.5 Body links
 
@@ -144,7 +144,7 @@ Native input, scaled 1.4x, accent-color alpine. Wrapped inline in a `<p>` next t
 
 ### 3.12 Card (`.card`)
 
-Surface fill, 2px ink border, 2px radius, body font. Small olive roundel in the top-right corner (an absolutely positioned `::before`, 8px, 70% opacity). Hover lifts -2px/-2px with a 4px alpine drop-shadow (no blur, prints clean, reads as heritage stamp). Card titles use Bely Display at 700; card meta uses small bark text. The roundel does not appear on the wholesale page.
+Surface fill, 2px ink border, 2px radius, body font. Small olive roundel in the top-right corner (an absolutely positioned `::before`, 8px, 70% opacity). Hover lifts -2px/-2px with a 4px alpine drop-shadow (no blur, prints clean, reads as heritage stamp). Card titles use DM Serif Display at 400; card meta uses small bark text. The roundel does not appear on the wholesale page.
 
 ### 3.13 Variety hero
 
@@ -156,7 +156,7 @@ Variety pages keep the v1 structure: italic lead line, CTA row, then h2 sections
 
 ### 3.15 Body lists
 
-Top-level `<ul>` is square markers in alpine. Use `.list-square` for inline lists when the parent context needs the markers. The `.roundels` class converts an `<ol>` into Roman-numeral roundels (I, II, III in Bely Display, ringed alpine) for "How it works" sections.
+Top-level `<ul>` is square markers in alpine. Use `.list-square` for inline lists when the parent context needs the markers. The `.roundels` class converts an `<ol>` into Roman-numeral roundels (I, II, III in DM Serif Display 400, ringed alpine) for "How it works" sections.
 
 ### 3.16 Horizontal rule and laurel divider
 
@@ -164,11 +164,11 @@ Plain `<hr>` is hairline rule color, used between content sections that don't wa
 
 ### 3.17 Blockquote
 
-Bely Display italic at 1.25rem with a 4px alpine left rule. Cite block is Inter caps in bark.
+DM Serif Display italic at 1.25rem with a 4px alpine left rule. Cite block is Inter caps in bark.
 
 ### 3.18 FAQ disclosure (`<details>`/`<summary>`)
 
-Carry the v1 disclosure pattern forward: surface fill, 4px alpine left rule, Inter 600 summary text, alpine plus-to-minus indicator drawn in Bely Display. Used on pricing and restaurants.
+Carry the v1 disclosure pattern forward: surface fill, 4px alpine left rule, Inter 600 summary text, alpine plus-to-minus indicator drawn in DM Serif Display. Used on pricing and restaurants.
 
 ### 3.19 Eyebrow ribbon (`.banner`)
 
@@ -279,7 +279,7 @@ done
 
 The blackletter "Volkman Farm" extracted from the mark. Two paths:
 
-1. **Recommended:** commission a designer (4-8 hours) to redraw the wordmark cleanly in SVG with proper kerning, optical correction of the blackletter, and the "MICROGREENS" subline as Bely Display caps. Cost: ~$150-400 freelance, one-time.
+1. **Recommended:** commission a designer (4-8 hours) to redraw the wordmark cleanly in SVG with proper kerning, optical correction of the blackletter, and the "MICROGREENS" subline as DM Serif Display caps. Cost: ~$150-400 freelance, one-time.
 2. **Stopgap:** Inkscape's autotrace on a high-res crop of the wordmark area from the master PNG, manually cleaned. Result is acceptable for the header at small sizes; do not use on labels.
 
 Target file: `/assets/brand/wordmark.svg`. Until it ships, the layout's `onerror` falls back to `volkman-mark-600.png` cropped via CSS height. This is intentional fallback behavior, not a permanent state.
@@ -427,9 +427,9 @@ Inverse ratios:
 
 Numbered, sequential, each step under 30 minutes. Run them in this order.
 
-1. **Download the woff2 files.** Bely Display from Google Fonts ("Bely Display" by Roxane Gataud, OFL). Source Serif 4 from Adobe Fonts via Google Fonts ("Source Serif 4," 400, 400 italic, 600). Inter from rsms.me/inter or Google Fonts (600, 700). Save as woff2 only.
+1. **Fonts.** DM Serif Display already shipped at `/assets/fonts/dm-serif-display.woff2`. Pending: Source Serif 4 from https://github.com/adobe-fonts/source-serif/releases (400, 400 italic, 600). Inter from https://github.com/rsms/inter/releases (600, 700). Place as woff2 only.
 
-2. **Place fonts at `/assets/fonts/`.** Filenames must match the `@font-face` declarations in `main.css`: `bely-display.woff2`, `source-serif-4-regular.woff2`, `source-serif-4-italic.woff2`, `source-serif-4-600.woff2`, `inter-600.woff2`, `inter-700.woff2`.
+2. **Place fonts at `/assets/fonts/`.** Filenames must match the `@font-face` declarations in `main.css`: `dm-serif-display.woff2`, `source-serif-4-regular.woff2`, `source-serif-4-italic.woff2`, `source-serif-4-600.woff2`, `inter-600.woff2`, `inter-700.woff2`.
 
 3. **Replace `/assets/css/main.css`.** Already done as part of this design system delivery. Verify it loaded by running `npx @11ty/eleventy --serve` and confirming Source Serif is rendering (not Georgia fallback).
 
