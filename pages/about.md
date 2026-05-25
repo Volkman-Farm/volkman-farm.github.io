@@ -3,6 +3,7 @@ title: About Us
 description: Five Volkmans, a Sanford shed, and a Friday morning route. The German-Florida family behind Volkman Farm microgreens.
 permalink: /about/
 layout: default
+markHero: true
 ---
 
 Five Volkmans live in Sanford. Two parents, three kids, German on one side, Florida on the other, and a shed out back full of trays. We started growing microgreens because we wanted better food on our own table. The route grew from there.

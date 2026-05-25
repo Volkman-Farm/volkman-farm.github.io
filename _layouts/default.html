@@ -112,6 +112,12 @@
           <li><a href="/about/"{% if page.url == "/about/" %} aria-current="page"{% endif %}>about</a></li>
         </ul>
       </nav>
+      {% if markHero %}
+      <picture>
+        <source srcset="/assets/brand/volkman-mark-600.webp 600w, /assets/brand/volkman-mark-1200.webp 1200w" sizes="(max-width: 720px) 78vw, min(420px, 70vw)" type="image/webp">
+        <img class="mark-hero" src="/assets/brand/volkman-mark-1200.png" alt="Volkman Farm: an alligator in lederhosen holding a tray of microgreens, with German taglines and Central Florida laurels" width="600" height="600" loading="eager" fetchpriority="high">
+      </picture>
+      {% endif %}
       <h1>{{ title }}</h1>
       {{ content }}
       <footer>
