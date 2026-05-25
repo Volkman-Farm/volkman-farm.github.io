@@ -643,6 +643,23 @@ form p label { vertical-align: middle; }
   color: var(--bark);
 }
 
+/* Variety card variant: SVG leaf icon top-right, name + intro flow below.
+   Suppresses the heritage olive roundel since the icon claims that corner. */
+.card--variety { padding-right: calc(var(--space-5) + 56px); }
+.card--variety::before { display: none; }
+.card__icon {
+  position: absolute;
+  top: var(--space-4);
+  right: var(--space-4);
+  width: 48px;
+  height: 48px;
+  display: block;
+  pointer-events: none;
+  transition: transform var(--t-fast);
+}
+.card--variety:hover .card__icon,
+.card--variety:focus-visible .card__icon { transform: rotate(-4deg); }
+
 
 /* ---------- 14. Lists and roundels ---------- */
 main > ul,

@@ -7,11 +7,12 @@ layout: default
 
 <p>We grow ten varieties on rotation. Same price for every one: <strong>$3.50/oz</strong>, hand-delivered the morning of harvest. Click any variety to read about its flavor, nutrition, and the best ways to use it.</p>
 
-<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:20px;width:min(80ch,92%);margin:32px auto">
+<div class="grid">
 {% for variety in varieties %}
-  <a href="/greens/{{ variety.slug }}/" style="display:block;padding:20px;background:var(--cream-shadow);border:2px solid var(--ink);text-decoration:none;color:var(--ink);font-family:'Courier New',Courier,monospace">
-    <strong style="font-family:Georgia,serif;font-size:1.2rem;display:block;margin-bottom:8px;color:var(--ink)">{{ variety.name }}</strong>
-    <span style="font-size:0.95rem;line-height:1.4;display:block">{{ variety.intro }}</span>
+  <a href="/greens/{{ variety.slug }}/" class="card card--variety">
+    <img class="card__icon" src="/assets/brand/varieties/{{ variety.slug }}.svg" alt="" width="48" height="48" loading="lazy">
+    <strong class="card__title">{{ variety.name }}</strong>
+    <span class="card__meta">{{ variety.intro }}</span>
   </a>
 {% endfor %}
 </div>
