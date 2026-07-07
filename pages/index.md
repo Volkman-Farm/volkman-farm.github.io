@@ -3,10 +3,9 @@ title: Fresh Microgreens Delivered Weekly in Orlando
 description: Family-grown microgreens hand-delivered across the Orlando metro, including Lake Mary, Sanford, Winter Park, Oviedo, College Park and more. Ten varieties, organic seeds, harvested the morning we deliver.
 permalink: /
 layout: default
-markHero: true
 ---
 
-Frisch gezüchtet. Hand-delivered. Alive this morning. Yours by dinner.
+Grown fresh. Hand-delivered. Alive this morning. Yours by dinner.
 
 Five Volkmans live in Sanford. We grow ten varieties of microgreens in a shed out back, cut them the morning we deliver, and hand them to neighbors across the Orlando metro. No grocery middleman. No plastic clamshell from Tuesday.
 
@@ -14,7 +13,7 @@ Five Volkmans live in Sanford. We grow ten varieties of microgreens in a shed ou
 
 ## Why our greens
 
-**Cut the morning of delivery.** Most microgreens are seven days old when you open the package. Ours were on the tray at sunrise. Frisch gezüchtet means freshly grown, and our gator means it.
+**Cut the morning of delivery.** Most microgreens are seven days old when you open the package. Ours were on the tray at sunrise.
 
 **Up to 40x the nutrients of mature greens.** A handful of broccoli microgreens carries the sulforaphane of a full head of broccoli. Pile them on eggs, tacos, avocado toast, salads, sandwiches, anywhere lettuce or herbs would go.
 
@@ -24,7 +23,7 @@ Five Volkmans live in Sanford. We grow ten varieties of microgreens in a shed ou
 
 1. **Pick your green.** [Ten varieties](/greens/) at $3.50/oz: arugula, beet, broccoli, cilantro, kale, kohlrabi, mustard, pea tendril, radish, and Swiss chard.
 2. **Pick your day.** We deliver to your neighborhood once a week.
-3. **We text you when we're on the way.** Pay on delivery (Venmo, Zelle, or cash). [Stand a weekly order, save 10%](/subscribe/). Skip any week, cancel any week. No card on file, no subscription portal, no Bavarian fine print.
+3. **We text you when we're on the way.** Pay on delivery (Venmo, Zelle, or cash). [Stand a weekly order, save 10%](/subscribe/). Skip any week, cancel any week. No card on file, no subscription portal, no fine print.
 
 [**Start your order →**](/order/)
 

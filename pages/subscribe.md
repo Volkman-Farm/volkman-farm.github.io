@@ -5,7 +5,7 @@ permalink: /subscribe/
 layout: default
 ---
 
-<p class="lead">Stand a weekly order, save 10%. Skip any week, cancel any week. No card on file, no subscription portal, no Bavarian fine print.</p>
+<p class="lead">Stand a weekly order, save 10%. Skip any week, cancel any week. No card on file, no subscription portal, no fine print.</p>
 
 <p class="cta-row"><a href="/order/"><strong>Start a weekly standing order →</strong></a></p>
 

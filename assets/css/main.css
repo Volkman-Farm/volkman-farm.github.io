@@ -12,7 +12,7 @@
      5. Typography
      6. Eyebrow and banner
      7. Links
-     8. Header (wordmark + monogram)
+     8. Header (logo)
      9. Primary nav
     10. CTA row
     11. Buttons
@@ -23,7 +23,6 @@
     16. Horizontal rule and laurel divider
     17. Blockquote
     18. FAQ disclosure
-    19. Mark utilities (gator hero, wordmark, monogram, shield)
     20. Footer
     21. Wholesale variant ([data-page="wholesale"])
     22. Mobile tweaks
@@ -346,46 +345,12 @@ a:focus-visible {
 }
 
 
-/* ---------- 8. Header (wordmark + monogram) ---------- */
-.site-header {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: var(--space-3);
-  margin: var(--space-6) auto var(--space-3);
-  padding: 0;
-}
-
-.site-header__home {
-  display: inline-flex;
-  align-items: center;
-  gap: var(--space-3);
-  text-decoration: none;
-}
-.site-header__home:hover .site-header__wordmark,
-.site-header__home:focus-visible .site-header__wordmark { filter: none; }
-
-.site-header__monogram {
+/* ---------- 8. Header (logo) ---------- */
+#logo {
   display: block;
-  width: 44px;
-  height: 44px;
-  color: var(--alpine);
-  flex: 0 0 auto;
-}
-
-.site-header__wordmark {
-  display: block;
-  height: clamp(32px, 6vw, 48px);
-  width: auto;
-}
-
-/* Laurel-and-shield rule under the wordmark, echoes the mark. */
-.site-header__rule {
-  display: block;
-  width: min(220px, 60%);
-  height: 18px;
-  margin: var(--space-2) auto var(--space-3);
-  color: var(--alpine);
+  margin: var(--space-7) auto var(--space-2);
+  width: min(55%, 220px);
+  height: auto;
 }
 
 
@@ -834,48 +799,6 @@ main > details > p {
 }
 
 
-/* ---------- 19. Mark utilities ---------- */
-/* The gator hero. Used once per page maximum, only on home + about. */
-.mark-hero {
-  display: block;
-  width: min(420px, 70%);
-  height: auto;
-  margin: var(--space-5) auto var(--space-4);
-}
-
-@media (max-width: 720px) {
-  .mark-hero { width: min(320px, 78%); }
-}
-
-/* The wordmark image, used standalone where a smaller heritage signal
-   is wanted (footer, label-style sections). */
-.wordmark {
-  display: block;
-  height: clamp(28px, 4.5vw, 40px);
-  width: auto;
-  margin: 0 auto;
-}
-
-/* The laurel-V monogram, sized via parent (svg uses currentColor). */
-.monogram {
-  display: inline-block;
-  width: 1em;
-  height: 1em;
-  color: var(--alpine);
-  vertical-align: -0.15em;
-}
-
-/* The small Florida shield. Used on About and wholesale as a
-   credibility stamp. Drop inline SVG in markup; this sizes it. */
-.shield {
-  display: inline-block;
-  width: 28px;
-  height: 32px;
-  color: var(--alpine);
-  vertical-align: middle;
-}
-
-
 /* ---------- 20. Footer ---------- */
 footer {
   width: min(var(--measure), 92%);
@@ -883,14 +806,6 @@ footer {
   padding-top: var(--space-6);
   border-top: var(--border-hair) solid var(--rule);
   text-align: center;
-}
-
-footer .monogram {
-  width: 40px;
-  height: 40px;
-  margin: 0 auto var(--space-3);
-  color: var(--alpine);
-  vertical-align: baseline;
 }
 
 footer ul {
@@ -954,7 +869,6 @@ footer p {
 }
 [data-page="wholesale"] .eyebrow,
 [data-page="wholesale"] .banner,
-[data-page="wholesale"] .mark-hero,
 [data-page="wholesale"] hr.laurel,
 [data-page="wholesale"] .card::before {
   display: none;
@@ -976,8 +890,7 @@ footer p {
 /* ---------- 22. Mobile tweaks ---------- */
 @media (max-width: 720px) {
   body { padding: 0 12px var(--space-7); }
-  .site-header { gap: var(--space-2); margin-top: var(--space-4); }
-  .site-header__monogram { width: 36px; height: 36px; }
+  #logo { width: 60%; margin-top: var(--space-5); }
   h1 { margin-top: var(--space-3); }
   p,
   input,
@@ -1024,5 +937,5 @@ footer p {
   }
   nav, footer, .cta-row, input[type="submit"], .banner { display: none; }
   a { color: #000; text-decoration: underline; }
-  .mark-hero { width: 220px; }
+  #logo { width: 220px; }
 }
