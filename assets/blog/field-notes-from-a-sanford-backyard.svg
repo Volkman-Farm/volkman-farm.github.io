@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a Sanford backyard: a grow shed behind a fence, garden rows, and an open field notebook">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- sun -->
+    <circle cx="985" cy="130" r="52" stroke="#8a7e3a"/>
+    <g stroke="#8a7e3a">
+      <path d="M985 44 V 22"/>
+      <path d="M985 216 V 238"/>
+      <path d="M899 130 H 877"/>
+      <path d="M1071 130 H 1093"/>
+      <path d="M924 69 L 908 53"/>
+      <path d="M1046 69 L 1062 53"/>
+      <path d="M924 191 L 908 207"/>
+      <path d="M1046 191 L 1062 207"/>
+    </g>
+
+    <!-- ground line -->
+    <path d="M60 470 H 1140"/>
+
+    <!-- shed -->
+    <path d="M190 470 V 300 L 330 230 L 470 300 V 470"/>
+    <path d="M170 310 L 330 230 L 490 310" stroke-width="6"/>
+    <!-- door -->
+    <path d="M296 470 V 356 H 364 V 470"/>
+    <circle cx="350" cy="416" r="3" fill="#3a5a2a"/>
+    <!-- window -->
+    <rect x="220" y="350" width="48" height="48"/>
+    <path d="M244 350 V 398 M220 374 H 268"/>
+
+    <!-- fence, right of shed -->
+    <g stroke="#5c4633">
+      <path d="M560 470 V 400 M600 470 V 400 M640 470 V 400 M680 470 V 400 M720 470 V 400"/>
+      <path d="M545 418 H 735 M545 448 H 735"/>
+    </g>
+
+    <!-- garden rows with sprouts -->
+    <path d="M790 470 C 830 460 870 460 910 470" stroke="#5c4633"/>
+    <path d="M930 470 C 970 460 1010 460 1050 470" stroke="#5c4633"/>
+    <g stroke-width="4">
+      <path d="M820 456 V 432 M820 438 C 812 430 804 428 798 432 M820 438 C 828 430 836 428 842 432"/>
+      <path d="M870 456 V 432 M870 438 C 862 430 854 428 848 432 M870 438 C 878 430 886 428 892 432"/>
+      <path d="M960 456 V 432 M960 438 C 952 430 944 428 938 432 M960 438 C 968 430 976 428 982 432"/>
+      <path d="M1010 456 V 432 M1010 438 C 1002 430 994 428 988 432 M1010 438 C 1018 430 1026 428 1032 432"/>
+    </g>
+
+    <!-- open notebook, foreground -->
+    <g stroke="#1f2419">
+      <path d="M460 512 C 505 502 555 502 600 512 C 645 502 695 502 740 512 V 600 C 695 590 645 590 600 600 C 555 590 505 590 460 600 Z"/>
+      <path d="M600 512 V 600"/>
+    </g>
+    <!-- notes on left page -->
+    <g stroke="#5c4633" stroke-width="4">
+      <path d="M488 534 C 518 528 548 528 578 532"/>
+      <path d="M488 554 C 518 548 548 548 578 552"/>
+      <path d="M488 574 C 512 569 536 568 560 570"/>
+    </g>
+    <!-- sprout sketch on right page -->
+    <g stroke-width="4">
+      <path d="M668 578 V 548 M668 556 C 659 547 650 545 643 549 M668 556 C 677 547 686 545 693 549"/>
+    </g>
+    <!-- pencil beside the book -->
+    <g stroke="#8a7e3a" stroke-width="4">
+      <path d="M772 540 L 828 580 M772 540 l -12 -9 M828 580 l 8 6 l -1 -10"/>
+    </g>
+  </g>
+</svg>

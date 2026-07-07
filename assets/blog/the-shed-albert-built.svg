@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing inside the grow shed: a five-level rack of microgreen trays under light bars, with an air conditioner on the wall">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- room: floor and wall lines -->
+    <path d="M60 540 H 1140" stroke="#5c4633"/>
+    <path d="M100 90 V 540 M1100 90 V 540" stroke="#5c4633"/>
+    <path d="M100 90 H 1100" stroke="#5c4633"/>
+
+    <!-- rack uprights -->
+    <path d="M330 150 V 540 M830 150 V 540" stroke-width="6"/>
+
+    <!-- five shelves -->
+    <path d="M330 190 H 830"/>
+    <path d="M330 270 H 830"/>
+    <path d="M330 350 H 830"/>
+    <path d="M330 430 H 830"/>
+    <path d="M330 510 H 830"/>
+
+    <!-- light bars under each shelf, with glow ticks -->
+    <g stroke="#8a7e3a" stroke-width="4">
+      <path d="M380 204 H 780 M380 284 H 780 M380 364 H 780 M380 444 H 780"/>
+      <path d="M430 216 v 10 M530 216 v 10 M630 216 v 10 M730 216 v 10"/>
+      <path d="M430 296 v 10 M530 296 v 10 M630 296 v 10 M730 296 v 10"/>
+      <path d="M430 376 v 10 M530 376 v 10 M630 376 v 10 M730 376 v 10"/>
+      <path d="M430 456 v 10 M530 456 v 10 M630 456 v 10 M730 456 v 10"/>
+    </g>
+
+    <!-- trays with sprouts on each shelf -->
+    <g stroke-width="4">
+      <!-- shelf 2 trays -->
+      <path d="M370 270 v -14 h 130 v 14 M510 270 v -14 h 130 v 14 M650 270 v -14 h 130 v 14"/>
+      <path d="M400 256 v -8 M435 256 v -10 M470 256 v -8 M540 256 v -8 M575 256 v -10 M610 256 v -8 M680 256 v -8 M715 256 v -10 M750 256 v -8"/>
+      <!-- shelf 3 trays -->
+      <path d="M370 350 v -14 h 130 v 14 M510 350 v -14 h 130 v 14 M650 350 v -14 h 130 v 14"/>
+      <path d="M400 336 v -8 M435 336 v -10 M470 336 v -8 M540 336 v -8 M575 336 v -10 M610 336 v -8 M680 336 v -8 M715 336 v -10 M750 336 v -8"/>
+      <!-- shelf 4 trays -->
+      <path d="M370 430 v -14 h 130 v 14 M510 430 v -14 h 130 v 14 M650 430 v -14 h 130 v 14"/>
+      <path d="M400 416 v -8 M435 416 v -10 M470 416 v -8 M540 416 v -8 M575 416 v -10 M610 416 v -8 M680 416 v -8 M715 416 v -10 M750 416 v -8"/>
+      <!-- shelf 5 trays -->
+      <path d="M370 510 v -14 h 130 v 14 M510 510 v -14 h 130 v 14 M650 510 v -14 h 130 v 14"/>
+      <path d="M400 496 v -8 M435 496 v -10 M470 496 v -8 M540 496 v -8 M575 496 v -10 M610 496 v -8 M680 496 v -8 M715 496 v -10 M750 496 v -8"/>
+    </g>
+
+    <!-- air conditioner, wall mounted -->
+    <g stroke="#5c4633">
+      <rect x="930" y="150" width="130" height="56" rx="8"/>
+      <path d="M945 190 H 1045" stroke-width="4"/>
+      <path d="M955 220 c -4 8 4 12 0 20 M985 220 c -4 8 4 12 0 20 M1015 220 c -4 8 4 12 0 20" stroke-width="4"/>
+    </g>
+
+    <!-- dehumidifier on floor -->
+    <g stroke="#5c4633">
+      <rect x="150" y="440" width="90" height="100" rx="8"/>
+      <circle cx="195" cy="480" r="20"/>
+      <path d="M170 520 H 220" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

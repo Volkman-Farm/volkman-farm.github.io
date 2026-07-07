@@ -33,6 +33,9 @@ Three subjects, in this priority order:
   organic non-GMO seed; filtered water; wholesale for chefs; subscribe-and-save 10%.
 - 500-800 words. One CTA per post, max. Every post internally links at least one site
   page (variety, city, order, subscribe, or restaurants).
+- Every post ships with a hero image: a flat line-art SVG in the site palette at
+  `assets/blog/<slug>.svg` plus a 1200x630 PNG social card. The /blog-post command
+  covers the how.
 
 ## Weekly pillar rotation
 

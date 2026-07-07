@@ -3,6 +3,9 @@ title: Field notes from a Sanford backyard
 description: Why a family microgreens farm is starting a daily journal about microgreens, homesteading, and permaculture in Central Florida.
 date: 2026-07-07T09:00:00-04:00
 pillar: Homestead journal
+hero: /assets/blog/field-notes-from-a-sanford-backyard.svg
+hero_alt: "Line drawing of a Sanford backyard: a grow shed behind a fence, garden rows of sprouts, and an open field notebook with a pencil"
+image: /assets/blog/field-notes-from-a-sanford-backyard.png
 ---
 
 Five of us live on this piece of Sanford. Two parents, three kids, and a shed out back that grows [ten varieties of microgreens](/greens/) for neighbors across the Orlando metro. That part you may already know.

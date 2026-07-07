@@ -809,6 +809,13 @@ main > details > p {
   color: var(--bark);
 }
 
+.post-hero {
+  width: min(var(--measure-wide), 92%);
+  margin: var(--space-4) auto 0;
+  border: 1px solid var(--alpine);
+  border-radius: 2px;
+}
+
 .post-list {
   list-style: none;
   padding: 0;

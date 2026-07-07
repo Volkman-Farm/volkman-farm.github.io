@@ -22,8 +22,26 @@ Scaffold the next blog post for volkman.farm. Follow these steps exactly:
    description: <140-160 char meta description>
    date: <row date>T09:00:00-04:00
    pillar: <pillar name from the row>
+   hero: /assets/blog/<slug>.svg
+   hero_alt: "<plain description of the drawing, no em-dashes>"
+   image: /assets/blog/<slug>.png
    ---
    ```
+
+   Then create the hero image at `assets/blog/<slug>.svg`:
+   - Hand-authored flat line-art SVG, 1200x630 viewBox, cream background rect
+     (`#f5ead3`) baked in. Match the style of the existing blog heros and
+     `assets/brand/varieties/*.svg`: stroke-based, round caps, sparse fills.
+   - Palette only: alpine `#3a5a2a` (primary strokes), bark `#5c4633` (wood,
+     ground, secondary), olive `#8a7e3a` (sun, light, accents), ink `#1f2419`
+     (foreground object), burgundy `#6b2a2f` (rare accent). No other colors.
+   - Depict something concrete from the post. No people's faces, no gator, no
+     German motifs, no text in the image.
+   - Render the social-card PNG (crawlers do not read SVG og:images):
+     `"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless
+     --disable-gpu --screenshot=assets/blog/<slug>.png --window-size=1200,630
+     --hide-scrollbars "file://$PWD/assets/blog/<slug>.svg"`
+   - Read the PNG back and look at it. Fix anything that reads wrong.
 
    Body requirements:
    - 500-800 words, plain neighborly voice, first person plural
@@ -38,8 +56,9 @@ Scaffold the next blog post for volkman.farm. Follow these steps exactly:
 6. Verify the post appears at `/blog/<slug>/` and on the `/blog/` index in `_site/`.
 7. Update the row in `CONTENT-PLAN.md`: `[ ]` becomes `[x] posts/<slug>.md`.
 8. Show me the full draft and wait for review. Do not commit until I approve.
-9. On approval: commit as `feat(blog): add post <slug>` (stage the post file and
-   CONTENT-PLAN.md only), then ask before pushing.
+9. On approval: commit as `feat(blog): add post <slug>` (stage the post file, the
+   two image files in `assets/blog/`, and CONTENT-PLAN.md only), then ask before
+   pushing.
 
 To automate this daily, pair with the `/schedule` skill or a cron-triggered
 `claude -p "/blog-post"` run.
