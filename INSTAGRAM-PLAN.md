@@ -103,6 +103,34 @@ Keyed to the blog calendar. Capture happens during real work, not staged.
 After two weeks: add the Instagram link to the site footer, then repeat the
 pattern week over week from the blog calendar.
 
+## Publishing pipeline
+
+Posting is automated through the Instagram API with Instagram Login (no Facebook
+Page needed). The `/ig-post` slash command runs the whole flow: pick the slot,
+prep the photo to 4:5 JPEG in `assets/ig/`, get Albert's approval, host the image
+on volkman.farm, publish via `scripts/ig-publish.mjs`, log it below. Geotags and
+story stickers are not in Meta's API; add those manually in the app after posting.
+
+One-time setup (Albert, ~30 minutes, all interactive logins):
+
+1. Create the Instagram professional account (business or creator).
+2. At developers.facebook.com: create an app, add the Instagram product, and set
+   up Instagram API with Instagram Login (API setup with Instagram Business Login).
+3. Add the farm account as an Instagram Tester / account with a role on the app,
+   then generate a long-lived access token from the app dashboard.
+4. `cp .env.example .env`, paste the token into `IG_ACCESS_TOKEN`.
+5. Run `node scripts/ig-publish.mjs whoami`, put the returned `user_id` in
+   `IG_USER_ID`.
+
+Tokens last 60 days. `node scripts/ig-publish.mjs refresh` prints a fresh one;
+update `.env` when it does. If a post fails with error code 190, that is the
+token, nothing else.
+
+## Posted log
+
+| Date | Slot | Permalink |
+|---|---|---|
+
 ## Measurement (keep it light)
 
 Monthly, five minutes: follower count, profile visits, link taps, and how many
