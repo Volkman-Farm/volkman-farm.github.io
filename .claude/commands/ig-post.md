@@ -7,11 +7,16 @@ Publish an Instagram post for Volkman Farm. Follow these steps exactly:
 1. Read `INSTAGRAM-PLAN.md`. Re-read **Voice and guardrails** every time. Determine
    today's slot from the calendar and pillars, or use `$ARGUMENTS` if it names one.
 2. Get the photo(s). In order of preference:
-   - A local path Albert gives in `$ARGUMENTS`.
-   - The most recent images in the Google Drive folder he uses for farm photos
-     (search Drive via MCP; confirm with him which files before using them).
-   - If there are no photos, give him a shot list for the slot (see the pillar
-     table) and stop. Never publish a placeholder or a stock image.
+   - A local path Albert gives in `$ARGUMENTS`, or fresh files already in `ig-inbox/`.
+   - Google Photos, the primary source: run
+     `node scripts/gphotos-pull.mjs pull` in the background, grab the picker
+     link it prints, and send it to Albert (via the Apple Messages MCP if
+     available, otherwise show it in chat). He selects the shots on his phone;
+     the script downloads the originals into `ig-inbox/` (gitignored). If it
+     reports the OAuth setup is missing, walk him through the setup in
+     INSTAGRAM-PLAN.md first.
+   - If there are no photos to be had, give him a shot list for the slot (see
+     the pillar table) and stop. Never publish a placeholder or a stock image.
 3. Prep each image into `assets/ig/` as `<yyyy-mm-dd>-<slug>[-n].jpg`:
    - Feed: 1080x1350 (4:5). Stories: 1080x1920 fits best.
    - `sips --resampleWidth 1080 in.jpg --out out.jpg` then

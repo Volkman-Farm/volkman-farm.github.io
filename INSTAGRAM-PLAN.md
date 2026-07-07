@@ -107,11 +107,18 @@ pattern week over week from the blog calendar.
 
 Posting is automated through the Instagram API with Instagram Login (no Facebook
 Page needed). The `/ig-post` slash command runs the whole flow: pick the slot,
-prep the photo to 4:5 JPEG in `assets/ig/`, get Albert's approval, host the image
-on volkman.farm, publish via `scripts/ig-publish.mjs`, log it below. Geotags and
-story stickers are not in Meta's API; add those manually in the app after posting.
+pull the photos, prep to 4:5 JPEG in `assets/ig/`, get Albert's approval, host the
+image on volkman.farm, publish via `scripts/ig-publish.mjs`, log it below. Geotags
+and story stickers are not in Meta's API; add those manually in the app after
+posting.
 
-One-time setup (Albert, ~30 minutes, all interactive logins):
+Photos come from Google Photos via the Picker API (`scripts/gphotos-pull.mjs`):
+the script prints a picker link, Albert opens it on the phone and selects the
+shots, and the originals land in `ig-inbox/`. One selection tap per post is the
+whole cost; Google removed hands-off library access for third parties in March
+2025, so this is the supported minimum.
+
+One-time setup (Albert, ~45 minutes, all interactive logins):
 
 1. Create the Instagram professional account (business or creator).
 2. At developers.facebook.com: create an app, add the Instagram product, and set
@@ -121,6 +128,14 @@ One-time setup (Albert, ~30 minutes, all interactive logins):
 4. `cp .env.example .env`, paste the token into `IG_ACCESS_TOKEN`.
 5. Run `node scripts/ig-publish.mjs whoami`, put the returned `user_id` in
    `IG_USER_ID`.
+6. Google Photos side, at console.cloud.google.com: create (or reuse) a project,
+   enable the **Google Photos Picker API**, configure the OAuth consent screen
+   (External, add yourself as a test user), create a **Desktop app** OAuth
+   client, and put its ID and secret in `.env` as `GPHOTOS_CLIENT_ID` /
+   `GPHOTOS_CLIENT_SECRET`.
+7. Run `node scripts/gphotos-pull.mjs auth` once on the Mac and approve the
+   consent screen. The refresh token lands in `.gphotos-token.json` (gitignored)
+   and does not expire on a schedule.
 
 Tokens last 60 days. `node scripts/ig-publish.mjs refresh` prints a fresh one;
 update `.env` when it does. If a post fails with error code 190, that is the
