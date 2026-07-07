@@ -1,0 +1,6 @@
+---
+layout: default
+---
+<p class="post-meta"><time datetime="{{ page.date | date: '%Y-%m-%d', 'America/New_York' }}">{{ page.date | date: "%B %-d, %Y", "America/New_York" }}</time>{% if pillar %} · {{ pillar }}{% endif %}</p>
+{{ content }}
+<p class="cta-row"><a href="/blog/"><strong>← All field notes</strong></a> · <a href="/order/"><strong>Start an order →</strong></a></p>

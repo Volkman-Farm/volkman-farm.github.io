@@ -23,6 +23,7 @@
     16. Horizontal rule and laurel divider
     17. Blockquote
     18. FAQ disclosure
+    19. Blog (post list + post meta)
     20. Footer
     21. Wholesale variant ([data-page="wholesale"])
     22. Mobile tweaks
@@ -796,6 +797,43 @@ main > details > summary:focus-visible {
 main > details > p {
   width: auto;
   margin: var(--space-2) 0 0;
+}
+
+
+/* ---------- 19. Blog (post list + post meta) ---------- */
+.post-meta {
+  font-family: var(--ui);
+  font-size: var(--fs-small);
+  letter-spacing: var(--ls-ui);
+  text-transform: uppercase;
+  color: var(--bark);
+}
+
+.post-list {
+  list-style: none;
+  padding: 0;
+  width: min(var(--measure), 92%);
+  margin: var(--space-5) auto 0;
+}
+
+.post-list li {
+  margin: 0 0 var(--space-5);
+}
+
+.post-list li > a {
+  font-family: var(--display);
+  font-size: var(--fs-h3);
+  line-height: var(--lh-h3);
+}
+
+.post-list .post-meta {
+  width: auto;
+  margin: 0 0 var(--space-1);
+}
+
+.post-list li > p:last-child {
+  width: auto;
+  margin: var(--space-1) 0 0;
 }
 
 
