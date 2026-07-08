@@ -146,6 +146,7 @@ token, nothing else.
 | Date | Slot | Permalink |
 |---|---|---|
 | 2026-07-07 | Intro post (shed trays) | https://www.instagram.com/p/DagY4KDIKOm/ |
+| 2026-07-08 | Shed tour carousel | https://www.instagram.com/p/DaiN0RkoDgm/ |
 
 ## Measurement (keep it light)
 
