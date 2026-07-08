@@ -67,7 +67,7 @@ Three subjects, in this priority order:
 | Date | Pillar | Working title | Angle | Status |
 |---|---|---|---|---|
 | Tue Jul 7 | Homestead journal | Field notes from a Sanford backyard | Launch post. Why we're writing: greens, homestead, permaculture. Set the promise. | [x] posts/field-notes-from-a-sanford-backyard.md |
-| Wed Jul 8 | Homestead journal | The shed Albert built | Tour of the grow shed: shelves, lights, trays. What it replaced and what it costs to run. | [ ] |
+| Wed Jul 8 | Homestead journal | The shed Albert built | Tour of the grow shed: shelves, lights, trays. What it replaced and what it costs to run. | [x] posts/the-shed-albert-built.md |
 | Thu Jul 9 | Permaculture | Permaculture without the jargon | What it means in one sentence: work with the yard you have. What we're applying here. | [ ] |
 | Fri Jul 10 | On the route | Why we deliver to porches, not pickup lots | The route model. Link the nine neighborhoods. | [ ] |
 | Sat Jul 11 | Growing notes | Seed to tray: how a crop starts | Seeding day walkthrough. Organic non-GMO seed, filtered water. | [ ] |
