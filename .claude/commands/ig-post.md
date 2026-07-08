@@ -35,14 +35,17 @@ Publish an Instagram post for Volkman Farm. Follow these steps exactly:
    (`chore(ig): add media for <date> post`), push, then poll
    `https://volkman.farm/assets/ig/<file>.jpg` until it returns 200 (GitHub Pages
    deploys take a minute or two).
-7. Publish:
-   - Single: `node scripts/ig-publish.mjs image <url> "<caption>"`
-   - Carousel: `node scripts/ig-publish.mjs carousel <url1,url2,...> "<caption>"`
-   - Story: `node scripts/ig-publish.mjs story <url>`
+7. Publish, geotagging with `--location <id>` from the Location IDs table in
+   `INSTAGRAM-PLAN.md` (Sanford for shed/homestead content, the route city for
+   delivery content; if the city is not in the table yet, find its Facebook
+   place-page ID, add the row, then use it):
+   - Single: `node scripts/ig-publish.mjs image <url> --location <id> "<caption>"`
+   - Carousel: `node scripts/ig-publish.mjs carousel <url1,url2,...> --location <id> "<caption>"`
+   - Story: `node scripts/ig-publish.mjs story <url>` (no location support)
    If the token is expired (error code 190), run `node scripts/ig-publish.mjs refresh`,
    have Albert update `.env`, and retry.
-8. Remind Albert of the manual finishers the API cannot do: geotag the post and
-   add any story stickers from the Instagram app.
+8. After publishing, verify the geotag shows on the post. Remind Albert of what
+   the API cannot do: story stickers, and story geotags, are manual in the app.
 9. Log it: add a row to the **Posted log** table in `INSTAGRAM-PLAN.md` (date, slot,
    permalink), commit as `docs(social): log <date> post`, push.
 

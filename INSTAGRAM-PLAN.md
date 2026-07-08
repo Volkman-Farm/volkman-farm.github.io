@@ -141,6 +141,16 @@ Tokens last 60 days. `node scripts/ig-publish.mjs refresh` prints a fresh one;
 update `.env` when it does. If a post fails with error code 190, that is the
 token, nothing else.
 
+### Location IDs for geotags
+
+Feed posts and carousels geotag via `--location <id>` (Facebook place-page IDs).
+Stories cannot be geotagged through the API. Add route-city IDs here as we find
+them (search facebook.com for the city's place page; the ID is in the URL):
+
+| Place | location_id |
+|---|---|
+| Sanford, Florida | 113088345368102 |
+
 ## Posted log
 
 | Date | Slot | Permalink |

@@ -4,10 +4,13 @@
 //
 // Usage:
 //   node scripts/ig-publish.mjs whoami
-//   node scripts/ig-publish.mjs image <public-jpeg-url> <caption...>
-//   node scripts/ig-publish.mjs carousel <url1,url2,...> <caption...>
-//   node scripts/ig-publish.mjs story <public-jpeg-url>
+//   node scripts/ig-publish.mjs image <public-jpeg-url> [--location <id>] <caption...>
+//   node scripts/ig-publish.mjs carousel <url1,url2,...> [--location <id>] <caption...>
+//   node scripts/ig-publish.mjs story <public-jpeg-url>          (no location support)
 //   node scripts/ig-publish.mjs refresh
+//
+// --location takes a Facebook place-page ID (known IDs live in INSTAGRAM-PLAN.md).
+// Stories cannot carry a location; Meta's API does not support it there.
 //
 // Env, from .env at the repo root or the environment:
 //   IG_USER_ID        Instagram professional account ID (whoami prints it)
@@ -75,6 +78,15 @@ const [, , cmd, ...rest] = process.argv;
 if (!cmd) die('Usage: ig-publish.mjs <whoami|image|carousel|story|refresh> ...');
 if (!TOKEN) die('IG_ACCESS_TOKEN is not set. Copy .env.example to .env and fill it in.');
 
+// Pull "--location <id>" out of the args, wherever it appears.
+let locationId;
+const locIdx = rest.indexOf('--location');
+if (locIdx !== -1) {
+  [, locationId] = rest.splice(locIdx, 2);
+  if (!locationId) die('--location needs a place ID.');
+}
+const withLocation = (params) => (locationId ? { ...params, location_id: locationId } : params);
+
 switch (cmd) {
   case 'whoami': {
     const me = await api('/me', { fields: 'user_id,username,account_type' });
@@ -94,7 +106,7 @@ switch (cmd) {
   case 'image': {
     const [url, ...caption] = rest;
     if (!url || !USER_ID) die('Usage: ig-publish.mjs image <public-jpeg-url> <caption> (IG_USER_ID must be set)');
-    const { id } = await api(`/${USER_ID}/media`, { image_url: url, caption: caption.join(' ') }, 'POST');
+    const { id } = await api(`/${USER_ID}/media`, withLocation({ image_url: url, caption: caption.join(' ') }), 'POST');
     await publish(id);
     break;
   }
@@ -109,11 +121,11 @@ switch (cmd) {
       await waitForContainer(id);
       children.push(id);
     }
-    const { id } = await api(`/${USER_ID}/media`, {
+    const { id } = await api(`/${USER_ID}/media`, withLocation({
       media_type: 'CAROUSEL',
       children: children.join(','),
       caption: caption.join(' '),
-    }, 'POST');
+    }), 'POST');
     await publish(id);
     break;
   }
