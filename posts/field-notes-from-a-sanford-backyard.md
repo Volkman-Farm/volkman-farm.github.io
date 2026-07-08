@@ -18,9 +18,9 @@ So we are starting a journal, and we are writing it in public.
 
 **Microgreens, most of all.** They are the working farm and the thing we know best. Expect variety spotlights, what to actually do with an ounce of radish greens on a Tuesday, how a tray goes from seed to your porch, and what happens on a delivery morning.
 
-**The homestead, as it really is.** Not the finished version. The version where we are still mapping shade, starting the first compost pile, and learning what Florida sand does to a garden plan. When something dies in July, we will tell you it died in July.
+**The homestead, as it really is.** Not the finished version. The version where we are still mapping shade and learning what Florida sand does to a garden plan. When something dies in July, we will tell you it died in July.
 
-**Permaculture, without the seminar.** Work with the yard you have. Catch the rain where it falls. Let one system feed the next. We already run one small loop: spent material from the grow trays goes to compost instead of the trash. We want more loops like that, and we will document each one as we build it.
+**Permaculture, without the seminar.** Work with the yard you have. Catch the rain where it falls. Let one system feed the next. We already run one small loop: spent material from the grow trays goes to the chickens instead of the trash. We want more loops like that, and we will document each one as we build it.
 
 ## Why bother writing it down
 
