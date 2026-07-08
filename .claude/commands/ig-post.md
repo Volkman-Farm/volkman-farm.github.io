@@ -27,8 +27,10 @@ Publish an Instagram post for Volkman Farm. Follow these steps exactly:
 4. Draft the caption from the plan and the matching blog post. First line carries
    the hook. No em-dashes, no adulteration claims, no medical claims, no gator or
    German references, one CTA max. Pick 5-8 hashtags from the approved pool.
-5. **Show Albert the final image(s) and caption and wait for explicit approval.
-   Publishing is public and irreversible; never skip this gate.**
+5. **Show Albert the final image(s) and caption and wait for explicit approval.**
+   Always open the prepped image(s) in Preview so he can eyeball them full-size:
+   `open -a Preview assets/ig/<file>.jpg` (one command, all files). Publishing is
+   public and irreversible; never skip this gate.
 6. On approval, host the image: commit the `assets/ig/` files
    (`chore(ig): add media for <date> post`), push, then poll
    `https://volkman.farm/assets/ig/<file>.jpg` until it returns 200 (GitHub Pages
