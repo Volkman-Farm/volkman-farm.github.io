@@ -25,12 +25,24 @@ Three subjects, in this priority order:
 - **No gator, German, or Bavarian references.** That identity was retired.
 - **No medical claims.** Nutrition facts with hedged verbs only: "carries", "is high in",
   "research suggests". Never "cures", "prevents", "treats".
+- **Kids: no names, no ages, no faces.** Birth-order and role references are allowed
+  ("our oldest daughter manages the food forest"). Decided 2026-07-08.
 - **Only claim what is real.** The homestead is early-stage. If a topic touches something
   that may not exist yet (animals, structures, plantings), ask Albert before drafting or
   frame it explicitly as a plan.
 - Facts you may use freely: five Volkmans in Sanford; Albert built the grow shed; the
   kids help pack; ten varieties at $3.50/oz; nine delivery neighborhoods on three routes;
   organic non-GMO seed; filtered water; wholesale for chefs; subscribe-and-save 10%.
+- Homestead facts (updated 2026-07-08): chickens in a run out back. Spent tray material
+  (soil, roots, cut leftovers) goes to the chickens, not a compost pile. A compost bin
+  inside the run takes what chickens cannot eat; black soldier fly larvae eat the scraps,
+  climb out when they pupate, and the chickens eat them. Mulch piles decomposed for a
+  year, then were planted as food-forest mounds: lemon, 2 mangoes, 2 blueberries, banana,
+  pineapple, sweet potatoes, Seminole pumpkin, okra, butterfly peas, sunflower, basil,
+  shampoo ginger.
+- Continuity: before drafting, skim the most recent posts. Refer back to and build on
+  earlier posts when relevant (link them). When a fact evolves past what an old post
+  said, say so plainly in the new post rather than pretending the old one never existed.
 - 500-800 words. One CTA per post, max. Every post internally links at least one site
   page (variety, city, order, subscribe, or restaurants).
 - Every post ships with a hero image: a flat line-art SVG in the site palette at
@@ -68,7 +80,7 @@ Three subjects, in this priority order:
 |---|---|---|---|---|
 | Tue Jul 7 | Homestead journal | Field notes from a Sanford backyard | Launch post. Why we're writing: greens, homestead, permaculture. Set the promise. | [x] posts/field-notes-from-a-sanford-backyard.md |
 | Wed Jul 8 | Homestead journal | The shed Albert built | Tour of the grow shed: shelves, lights, trays. What it replaced and what it costs to run. | [x] posts/the-shed-albert-built.md |
-| Thu Jul 9 | Permaculture | Permaculture without the jargon | What it means in one sentence: work with the yard you have. What we're applying here. | [ ] |
+| Thu Jul 9 | Permaculture | Permaculture without the jargon | What it means in one sentence: work with the yard you have. What we're applying here. | [x] posts/permaculture-without-the-jargon.md |
 | Fri Jul 10 | On the route | Why we deliver to porches, not pickup lots | The route model. Link the nine neighborhoods. | [ ] |
 | Sat Jul 11 | Growing notes | Seed to tray: how a crop starts | Seeding day walkthrough. Organic non-GMO seed, filtered water. | [ ] |
 | Sun Jul 12 | Reader questions | Are microgreens just sprouts? | No. Explain the difference: soil, light, harvest stage. | [ ] |
@@ -103,8 +115,8 @@ Three subjects, in this priority order:
 |---|---|---|---|---|
 | Mon Jul 27 | Variety spotlight | Broccoli micros do the heavy lifting | Mild flavor, sulforaphane story with hedged verbs. Link /greens/broccoli/. | [ ] |
 | Tue Jul 28 | In the kitchen | The smoothie you won't taste | Hiding broccoli micros in smoothies for kids. | [ ] |
-| Wed Jul 29 | Homestead journal | Starting the compost pile | First infrastructure. What goes in, what stays out. | [ ] |
-| Thu Jul 30 | Permaculture | The loop we already run | Spent tray media to compost to garden. Closing the first loop. | [ ] |
+| Wed Jul 29 | Homestead journal | The chickens run the compost | The run, the bin, what goes in, what the flock does with it. Builds on the Jul 9 post. | [ ] |
+| Thu Jul 30 | Permaculture | The bug factory we didn't build | Black soldier flies in depth: how the larvae self-harvest and why that loop matters. | [ ] |
 | Fri Jul 31 | On the route | What $3.50 an ounce pays for | Transparent cost breakdown. Seed, light, labor, gas. | [ ] |
 | Sat Aug 1 | Growing notes | Keeping a grow shed cool in a Florida July | Heat management honestly told. | [ ] |
 | Sun Aug 2 | Reader questions | Why aren't you USDA Organic certified? | Organic seed, clean inputs, certification economics for a small farm. | [ ] |

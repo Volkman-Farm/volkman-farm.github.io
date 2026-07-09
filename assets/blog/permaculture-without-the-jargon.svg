@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of backyard loops: a microgreens tray feeding a chicken, a compost bin with larvae crawling out toward the chicken, and a planted mound with a young tree">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- sun, upper right -->
+    <circle cx="1010" cy="120" r="44" stroke="#8a7e3a"/>
+    <g stroke="#8a7e3a">
+      <path d="M1010 50 V 34"/>
+      <path d="M1010 190 V 206"/>
+      <path d="M940 120 H 924"/>
+      <path d="M1080 120 H 1096"/>
+      <path d="M960 70 L 949 59"/>
+      <path d="M1060 70 L 1071 59"/>
+      <path d="M960 170 L 949 181"/>
+      <path d="M1060 170 L 1071 181"/>
+    </g>
+
+    <!-- rain cloud, upper left -->
+    <g stroke="#5c4633">
+      <path d="M150 140 C 140 112 168 94 196 101 C 206 78 242 74 258 92 C 282 84 304 100 300 123 C 316 129 320 147 307 156 C 294 165 166 165 154 156 C 142 148 142 145 150 140 Z"/>
+      <path d="M185 185 l -9 22 M230 185 l -9 22 M275 185 l -9 22" stroke-width="4"/>
+    </g>
+
+    <!-- ground line -->
+    <path d="M70 470 H 1130" stroke="#5c4633"/>
+
+    <!-- microgreens tray -->
+    <path d="M140 470 v -22 h 150 v 22" stroke="#1f2419"/>
+    <g stroke-width="4">
+      <path d="M168 448 v -17 M168 437 c -6 -7 -13 -8 -18 -5 M168 437 c 6 -7 13 -8 18 -5"/>
+      <path d="M215 448 v -17 M215 437 c -6 -7 -13 -8 -18 -5 M215 437 c 6 -7 13 -8 18 -5"/>
+      <path d="M262 448 v -17 M262 437 c -6 -7 -13 -8 -18 -5 M262 437 c 6 -7 13 -8 18 -5"/>
+    </g>
+
+    <!-- chicken -->
+    <g>
+      <!-- body and tail -->
+      <path d="M470 430 C 452 430 440 416 442 400 C 420 396 414 378 424 366 C 434 380 448 384 452 382 C 458 360 486 348 512 356 C 526 340 548 340 556 344 C 552 352 548 360 546 368 C 556 382 556 402 544 416 C 528 434 492 438 470 430 Z"/>
+      <!-- head details: comb, eye, beak, wattle -->
+      <path d="M528 344 c 2 -8 10 -10 14 -6 c 6 -6 14 -2 12 6" stroke-width="4"/>
+      <circle cx="540" cy="356" r="2.5" fill="#3a5a2a"/>
+      <path d="M556 358 l 14 5 l -14 6" stroke-width="4"/>
+      <path d="M548 370 c 0 7 -8 9 -12 5" stroke-width="4"/>
+      <!-- wing -->
+      <path d="M470 386 C 486 380 504 384 510 396 C 500 406 482 406 472 398" stroke-width="4"/>
+      <!-- legs -->
+      <path d="M480 434 V 462 M480 462 l -10 8 M480 462 l 10 8 M480 462 v 8" stroke-width="4"/>
+      <path d="M510 430 V 462 M510 462 l -10 8 M510 462 l 10 8 M510 462 v 8" stroke-width="4"/>
+    </g>
+
+    <!-- arrow: tray to chicken -->
+    <path d="M310 430 C 345 392 400 392 432 424"/>
+    <path d="M432 424 l -16 -5 m 16 5 l -4 -16" stroke-width="4"/>
+
+    <!-- compost bin with larvae climbing out toward the chicken -->
+    <g stroke="#5c4633">
+      <path d="M700 470 v -80 h 130 v 80" />
+      <path d="M690 390 h 150" stroke-width="6"/>
+      <path d="M720 420 h 90 M720 444 h 90" stroke-width="4"/>
+      <!-- fly above the bin -->
+      <circle cx="790" cy="340" r="6" stroke-width="4"/>
+      <path d="M784 336 c -8 -8 -18 -6 -20 0 M796 336 c 8 -8 18 -6 20 0" stroke-width="4"/>
+    </g>
+    <!-- larvae crawling from bin toward the chicken -->
+    <g stroke="#8a7e3a" stroke-width="4">
+      <path d="M688 452 c 6 -5 12 5 18 0"/>
+      <path d="M652 460 c 6 -5 12 5 18 0"/>
+      <path d="M616 466 c 6 -5 12 5 18 0"/>
+    </g>
+    <!-- arrow: bin to chicken -->
+    <path d="M690 400 C 650 370 590 380 560 412"/>
+    <path d="M560 412 l 6 -16 m -6 16 l 17 1" stroke-width="4"/>
+
+    <!-- planted mulch mound with young tree -->
+    <path d="M900 470 C 925 434 1075 434 1100 470" stroke="#5c4633"/>
+    <path d="M925 458 c 12 -6 24 -6 36 0 M1040 458 c 12 -6 24 -6 36 0" stroke="#5c4633" stroke-width="4"/>
+    <!-- young tree -->
+    <path d="M1000 444 V 380"/>
+    <circle cx="1000" cy="352" r="34"/>
+    <!-- small companions on the mound -->
+    <g stroke-width="4">
+      <path d="M950 446 v -16 M950 436 c -6 -6 -12 -7 -17 -4 M950 436 c 6 -6 12 -7 17 -4"/>
+      <path d="M1052 446 v -16 M1052 436 c -6 -6 -12 -7 -17 -4 M1052 436 c 6 -6 12 -7 17 -4"/>
+    </g>
+  </g>
+</svg>
