@@ -104,7 +104,7 @@ Three subjects, in this priority order:
 | Mon Jul 20 | Variety spotlight | Radish: the one with opinions | Peppery heat, fast grower. Link /greens/radish/. | [ ] |
 | Tue Jul 21 | In the kitchen | Taco night needs a crunch | Radish and cilantro micros on tacos. Weeknight framing. | [ ] |
 | Wed Jul 22 | Homestead journal | What Florida sand taught us in week one | Soil reality check. Why "just plant a garden" fails here. | [ ] |
-| Thu Jul 23 | Permaculture | Building soil on sand | Organic matter, mulch, patience. The long game. | [ ] |
+| Thu Jul 23 | Permaculture | Sand favors ants. We are building for worms. | The soil-biology angle on mulch. Bare Florida sand runs hot and dry, which suits ants; the worms we want need cool, moist, loamy ground. Native organic matter is often under 1% and burns off fast in the heat, and low CEC lets nutrients leach before they stabilize. A 3-4 inch mulch layer is the lever: roughly 20F cooler at the surface in summer, holds moisture, feeds decomposers, and slowly tips the yard from ant territory toward worm territory. Builds on Jul 9. Link /greens/. | [ ] |
 | Fri Jul 24 | On the route | The text before the drop | How the delivery texting workflow works and why. | [ ] |
 | Sat Jul 25 | Growing notes | Harvest morning timeline | Sunrise to porch in hours. What "cut this morning" actually means. | [ ] |
 | Sun Jul 26 | Reader questions | Do you deliver to my street? | Route logic, how neighborhoods get added. Link /delivery/. | [ ] |
@@ -164,7 +164,7 @@ Three subjects, in this priority order:
 | Mon Aug 24 | Variety spotlight | Kale you don't have to massage | Micro kale vs the tough stuff. Link /greens/kale/. | [ ] |
 | Tue Aug 25 | In the kitchen | Pasta finishing: greens at the last second | Heat-off technique, which varieties. | [ ] |
 | Wed Aug 26 | Homestead journal | Cover crop check-in | What's growing, what the soil looks like under it. | [ ] |
-| Thu Aug 27 | Permaculture | Mulch: the cheapest tool we have | Sources, depth, what it does in sand. | [ ] |
+| Thu Aug 27 | Permaculture | Mulch: the cheapest tool we have | The practical how-to: where to source it, how deep (3-4 inches), and how often to replenish in Florida heat. Pairs with the Jul 23 soil-biology post; keep this one hands-on, not theory. | [ ] |
 | Fri Aug 28 | On the route | Meet College Park and Downtown Orlando | Fourth neighborhoods profile. Link city pages. | [ ] |
 | Sat Aug 29 | Growing notes | Troubleshooting: when a tray goes wrong | Damping off, uneven germination, what we do. | [ ] |
 | Sun Aug 30 | Reader questions | Can I freeze microgreens? | Honest no for most uses, plus what works instead. | [ ] |
