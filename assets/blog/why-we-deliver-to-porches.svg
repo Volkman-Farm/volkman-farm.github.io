@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a covered front porch with a 64 oz clamshell of microgreens set on the doormat to the left of the door, and a road winding back past two small houses to a grow shed under the sun">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- sun, upper right -->
+    <circle cx="1096" cy="94" r="36" stroke="#8a7e3a"/>
+    <g stroke="#8a7e3a">
+      <path d="M1096 36 V 24"/>
+      <path d="M1096 152 V 164"/>
+      <path d="M1038 94 H 1026"/>
+      <path d="M1154 94 H 1166"/>
+      <path d="M1055 53 L 1046 44"/>
+      <path d="M1137 53 L 1146 44"/>
+      <path d="M1055 135 L 1046 144"/>
+      <path d="M1137 135 L 1146 144"/>
+    </g>
+
+    <!-- ground line -->
+    <path d="M60 500 H 1140" stroke="#5c4633"/>
+
+    <!-- covered porch roof and post, upper left -->
+    <g stroke="#5c4633">
+      <path d="M78 150 L 362 172" stroke-width="6"/>
+      <path d="M78 166 L 362 188" stroke-width="6"/>
+      <path d="M348 188 V 500"/>
+    </g>
+
+    <!-- side window on the porch wall -->
+    <g stroke-width="4">
+      <path d="M100 252 h 42 v 48 h -42 z"/>
+      <path d="M121 252 v 48 M100 276 h 42"/>
+    </g>
+
+    <!-- front door -->
+    <path d="M150 500 V 210 H 300 V 500"/>
+    <path d="M170 500 V 228 H 280 V 500"/>
+    <g stroke-width="4">
+      <path d="M186 252 h 78 v 54 h -78 z"/>
+      <path d="M225 252 v 54 M186 279 h 78"/>
+    </g>
+    <circle cx="268" cy="372" r="6" fill="#6b2a2f" stroke="#6b2a2f"/>
+
+    <!-- doorstep and mat -->
+    <g stroke="#5c4633" stroke-width="4">
+      <path d="M84 500 L 110 522 H 356 L 330 500"/>
+      <path d="M96 508 l 12 12 h 92 l -12 -12 z"/>
+    </g>
+
+    <!-- 64 oz clamshell of microgreens, set to the left of the door -->
+    <path d="M92 500 H 196 V 468 H 92 Z" stroke="#1f2419"/>
+    <path d="M92 468 Q 96 434 144 434 Q 192 434 196 468" stroke="#1f2419"/>
+    <path d="M138 468 v 9 h 12 v -9" stroke="#1f2419" stroke-width="4"/>
+    <path d="M182 468 v 6 M190 468 v 6" stroke="#1f2419" stroke-width="4"/>
+    <!-- greens packed inside the clear clamshell -->
+    <g stroke="#8a7e3a" stroke-width="4">
+      <path d="M112 464 v -20 M112 448 c -7 -7 -15 -8 -20 -4 M112 448 c 7 -7 15 -8 20 -4"/>
+      <path d="M144 464 v -22 M144 446 c -7 -7 -15 -8 -20 -4 M144 446 c 7 -7 15 -8 20 -4"/>
+      <path d="M176 464 v -20 M176 448 c -7 -7 -15 -8 -20 -4 M176 448 c 7 -7 15 -8 20 -4"/>
+    </g>
+    <g stroke="#3a5a2a" stroke-width="4">
+      <path d="M128 464 v -24 M128 444 c -8 -8 -16 -9 -22 -4 M128 444 c 8 -8 16 -9 22 -4"/>
+      <path d="M160 464 v -22 M160 446 c -8 -8 -16 -9 -22 -4 M160 446 c 8 -8 16 -9 22 -4"/>
+    </g>
+
+    <!-- road receding from porch to shed -->
+    <g stroke="#5c4633">
+      <path d="M384 504 C 570 470 764 452 980 448"/>
+      <path d="M436 534 C 606 500 786 474 996 456"/>
+    </g>
+    <path d="M410 521 C 590 488 776 466 988 452" stroke="#5c4633" stroke-width="4" stroke-dasharray="20 16"/>
+
+    <!-- two small houses lining the road -->
+    <g>
+      <path d="M586 456 v -40 h 44 v 40"/>
+      <path d="M578 416 l 22 -18 l 22 18"/>
+      <path d="M602 456 v -20 h 12 v 20"/>
+    </g>
+    <g>
+      <path d="M758 440 v -30 h 34 v 30"/>
+      <path d="M751 410 l 17 -14 l 17 14"/>
+      <path d="M769 440 v -16 h 10 v 16"/>
+    </g>
+
+    <!-- grow shed, far distance, where the greens come from -->
+    <g stroke="#5c4633">
+      <path d="M980 448 v -54 h 80 v 54"/>
+      <path d="M970 394 l 45 -24 l 45 24"/>
+      <path d="M1012 448 v -30 h 18 v 30" stroke-width="4"/>
+      <path d="M1036 410 h 14 v 14 h -14 z" stroke-width="4"/>
+    </g>
+
+  </g>
+</svg>

@@ -33,6 +33,11 @@ Three subjects, in this priority order:
 - Facts you may use freely: five Volkmans in Sanford; Albert built the grow shed; the
   kids help pack; ten varieties at $3.50/oz; nine delivery neighborhoods on three routes;
   organic non-GMO seed; filtered water; wholesale for chefs; subscribe-and-save 10%.
+- Delivery facts: greens go out in 64 oz clamshells, carried in an insulated cooler bag
+  in transit to hold freshness; the clamshell is left on the porch, the cooler bag is not.
+  The three routes fit the family calendar: Friday morning through Seminole County (home
+  base); Monday and Wednesday evenings through north Orlando because those are taekwondo
+  and rock climbing nights; Sunday afternoon downtown because church is in Parramore.
 - Homestead facts (updated 2026-07-08): chickens in a run out back. Spent tray material
   (soil, roots, cut leftovers) goes to the chickens, not a compost pile. A compost bin
   inside the run takes what chickens cannot eat; black soldier fly larvae eat the scraps,
@@ -81,7 +86,7 @@ Three subjects, in this priority order:
 | Tue Jul 7 | Homestead journal | Field notes from a Sanford backyard | Launch post. Why we're writing: greens, homestead, permaculture. Set the promise. | [x] posts/field-notes-from-a-sanford-backyard.md |
 | Wed Jul 8 | Homestead journal | The shed Albert built | Tour of the grow shed: shelves, lights, trays. What it replaced and what it costs to run. | [x] posts/the-shed-albert-built.md |
 | Thu Jul 9 | Permaculture | Permaculture without the jargon | What it means in one sentence: work with the yard you have. What we're applying here. | [x] posts/permaculture-without-the-jargon.md |
-| Fri Jul 10 | On the route | Why we deliver to porches, not pickup lots | The route model. Link the nine neighborhoods. | [ ] |
+| Fri Jul 10 | On the route | Why we deliver to porches, not pickup lots | The route model. Link the nine neighborhoods. | [x] posts/why-we-deliver-to-porches.md |
 | Sat Jul 11 | Growing notes | Seed to tray: how a crop starts | Seeding day walkthrough. Organic non-GMO seed, filtered water. | [ ] |
 | Sun Jul 12 | Reader questions | Are microgreens just sprouts? | No. Explain the difference: soil, light, harvest stage. | [ ] |
 
