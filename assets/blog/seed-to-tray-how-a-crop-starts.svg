@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a hand scattering seed over a shallow tray of soil, with a watering can and a seed packet beside it">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- table line -->
+    <path d="M70 470 H 1130" stroke="#5c4633" stroke-width="6"/>
+
+    <!-- shallow tray -->
+    <g stroke="#5c4633">
+      <!-- top rim opening -->
+      <path d="M365 400 H 735 L 795 440 H 305 Z"/>
+      <!-- front wall -->
+      <path d="M305 440 L 322 470 H 778 L 795 440"/>
+    </g>
+
+    <!-- soil bed inside the tray -->
+    <path d="M382 406 H 718 L 766 434 H 334 Z" fill="#5c4633" fill-opacity="0.12" stroke="#5c4633" stroke-width="3"/>
+    <!-- seed already down on the soil -->
+    <g stroke="#1f2419" stroke-width="4">
+      <path d="M410 420 h 0.5 M455 415 h 0.5 M505 422 h 0.5 M560 416 h 0.5 M615 421 h 0.5 M665 417 h 0.5 M710 422 h 0.5 M440 428 h 0.5 M540 428 h 0.5 M640 428 h 0.5"/>
+    </g>
+
+    <!-- hand scattering seed, palm down, fingers splayed toward the tray -->
+    <g stroke="#1f2419" stroke-width="5">
+      <!-- sleeve / cuff -->
+      <path d="M582 128 H 672"/>
+      <path d="M582 150 V 128 M672 150 V 128"/>
+      <!-- palm and four fingers pointing down, with a thumb to the left -->
+      <path d="M582 150
+        Q 627 138 672 150
+        L 676 182
+        L 672 232 Q 662 240 654 232 L 650 196
+        Q 644 190 638 196 L 636 234 Q 628 242 620 234 L 616 196
+        Q 610 190 604 196 L 602 236 Q 594 244 586 236 L 582 196
+        Q 577 190 572 196 L 568 232 Q 560 240 552 232 L 548 190
+        L 546 178
+        Q 520 180 512 196 Q 506 204 514 208 Q 528 200 544 196
+        L 548 168
+        Q 552 150 582 150 Z"/>
+    </g>
+
+    <!-- seed falling from the fingertips to the tray -->
+    <g stroke="#1f2419" stroke-width="4">
+      <path d="M604 258 v 8 M638 274 v 8 M572 288 v 8 M620 300 v 8 M656 312 v 8 M588 326 v 8 M636 346 v 8 M602 362 v 8 M570 350 v 6 M624 386 v 6"/>
+    </g>
+
+    <!-- watering can on the left -->
+    <g stroke="#5c4633" stroke-width="5">
+      <rect x="150" y="405" width="120" height="62" rx="12"/>
+      <!-- handle over the top -->
+      <path d="M178 405 q 32 -46 74 0"/>
+      <!-- top opening -->
+      <path d="M196 405 h 40"/>
+      <!-- spout up to the rose -->
+      <path d="M150 420 L 96 396 L 104 384 L 156 408"/>
+      <ellipse cx="98" cy="388" rx="12" ry="8" stroke="#8a7e3a" stroke-width="4"/>
+    </g>
+
+    <!-- seed packet leaning on the tray -->
+    <g stroke="#3a5a2a" stroke-width="5">
+      <path d="M848 470 L 842 356 L 936 346 L 946 460 Z"/>
+      <!-- torn top -->
+      <path d="M842 356 l 12 8 l 14 -8 l 14 8 l 14 -8 l 14 8 l 12 -8" stroke-width="3"/>
+      <!-- little sprout printed on the packet -->
+      <g stroke="#8a7e3a" stroke-width="4">
+        <path d="M894 432 V 392"/>
+        <path d="M894 404 c -18 -2 -26 -14 -26 -26 c 16 0 26 10 26 26"/>
+        <path d="M894 398 c 18 -2 26 -14 26 -26 c -16 0 -26 10 -26 26"/>
+      </g>
+    </g>
+
+  </g>
+</svg>

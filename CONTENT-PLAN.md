@@ -48,7 +48,13 @@ Three subjects, in this priority order:
 - Continuity: before drafting, skim the most recent posts. Refer back to and build on
   earlier posts when relevant (link them). When a fact evolves past what an old post
   said, say so plainly in the new post rather than pretending the old one never existed.
-- 500-800 words. One CTA per post, max. Every post internally links at least one site
+- Length follows the topic, it is not a fixed band. Many posts land 500-800 words, but a
+  short observation or reader question can run 250-400 and a real walkthrough can push
+  past 900. Vary it on purpose so the blog does not read formulaic; do not pad or trim to
+  a number. Register varies by pillar too: growing notes and variety spotlights can be
+  tight and structured, while homestead journal and permaculture posts should read looser,
+  like a homesteader writing at the kitchen table. Subheads only where the post turns, not
+  on a set cadence. One CTA per post, max. Every post internally links at least one site
   page (variety, city, order, subscribe, or restaurants).
 - Every post ships with a hero image: a flat line-art SVG in the site palette at
   `assets/blog/<slug>.svg` plus a 1200x630 PNG social card. The /blog-post command
@@ -87,7 +93,7 @@ Three subjects, in this priority order:
 | Wed Jul 8 | Homestead journal | The shed Albert built | Tour of the grow shed: shelves, lights, trays. What it replaced and what it costs to run. | [x] posts/the-shed-albert-built.md |
 | Thu Jul 9 | Permaculture | Permaculture without the jargon | What it means in one sentence: work with the yard you have. What we're applying here. | [x] posts/permaculture-without-the-jargon.md |
 | Fri Jul 10 | On the route | Why we deliver to porches, not pickup lots | The route model. Link the nine neighborhoods. | [x] posts/why-we-deliver-to-porches.md |
-| Sat Jul 11 | Growing notes | Seed to tray: how a crop starts | Seeding day walkthrough. Organic non-GMO seed, filtered water. | [ ] |
+| Sat Jul 11 | Growing notes | Seed to tray: how a crop starts | Seeding day walkthrough. Organic non-GMO seed, filtered water. | [x] posts/seed-to-tray-how-a-crop-starts.md |
 | Sun Jul 12 | Reader questions | Are microgreens just sprouts? | No. Explain the difference: soil, light, harvest stage. | [ ] |
 
 ### Week 2 · Jul 13-19 · Arc 1
