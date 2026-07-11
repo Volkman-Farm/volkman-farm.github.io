@@ -11,9 +11,13 @@ Scaffold the next blog post for volkman.farm. Follow these steps exactly:
    - Otherwise take the first row in the calendar whose status is `[ ]`.
    - If today's date is past the row's date, still write it (we backfill in order).
 3. **Fact check before drafting.** If the angle touches anything on the homestead that
-   might not exist yet (animals, structures, plantings, results), ask Albert what is
-   actually true before writing. Never invent specifics.
-4. Draft the post at `posts/<slug>.md` where `<slug>` is a short kebab-case version of
+   might not exist yet (animals, structures, plantings, results), check the Homestead
+   facts list in CONTENT-PLAN.md first, and ask Albert when it is not covered. Never
+   invent specifics.
+4. **Continuity.** Skim the most recent published posts in `posts/` before writing.
+   Refer back to and build on earlier posts where relevant, with links. If a fact has
+   moved past what an earlier post said, acknowledge the change in the new post.
+5. Draft the post at `posts/<slug>.md` where `<slug>` is a short kebab-case version of
    the title (no date prefix). Frontmatter:
 
    ```yaml
@@ -44,19 +48,31 @@ Scaffold the next blog post for volkman.farm. Follow these steps exactly:
    - Read the PNG back and look at it. Fix anything that reads wrong.
 
    Body requirements:
-   - 500-800 words, plain neighborly voice, first person plural
+   - Length varies on purpose. Most posts land 500-800 words, but let the topic set
+     the length: a quick homestead observation or reader question can run 250-400 words,
+     a meaty walkthrough or profile can push past 900. Do not pad or trim to hit a band.
+     Across recent posts, avoid clustering at the same length; if the last few were all
+     ~650 words, deliberately write this one shorter or longer.
+   - Vary the register by pillar. Growing notes, variety spotlights, and kitchen posts
+     can be tighter and more structured. Homestead journal and permaculture posts are a
+     homesteader writing at the kitchen table: looser, more first-person, allowed to
+     ramble a little, open cold without a subhead, trail off on an aside. Not every post
+     needs the same tidy scaffolding.
+   - Plain neighborly voice, first person plural
    - No em-dashes anywhere
    - No post-harvest washing/rinsing/processing claims
    - No gator, German, or Bavarian references
    - Nutrition claims hedged ("carries", "is high in", "research suggests")
    - At least one internal link (variety, city, /order/, /subscribe/, or /restaurants/)
    - At most one CTA
-   - H2 subheads every 150-250 words; no H1 (the layout renders the title)
-5. Build: `npx @11ty/eleventy`. Fix any errors before proceeding.
-6. Verify the post appears at `/blog/<slug>/` and on the `/blog/` index in `_site/`.
-7. Update the row in `CONTENT-PLAN.md`: `[ ]` becomes `[x] posts/<slug>.md`.
-8. Show me the full draft and wait for review. Do not commit until I approve.
-9. On approval: commit as `feat(blog): add post <slug>` (stage the post file, the
+   - Subheads are a tool, not a quota. Use H2s when the post genuinely turns; a short or
+     loose post may want one subhead or none. Never space them on a fixed cadence. No H1
+     (the layout renders the title).
+6. Build: `npx @11ty/eleventy`. Fix any errors before proceeding.
+7. Verify the post appears at `/blog/<slug>/` and on the `/blog/` index in `_site/`.
+8. Update the row in `CONTENT-PLAN.md`: `[ ]` becomes `[x] posts/<slug>.md`.
+9. Show me the full draft and wait for review. Do not commit until I approve.
+10. On approval: commit as `feat(blog): add post <slug>` (stage the post file, the
    two image files in `assets/blog/`, and CONTENT-PLAN.md only), then ask before
    pushing.
 
