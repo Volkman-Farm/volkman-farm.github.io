@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing comparing a jar of tangled sprouts on the left with a soil tray of standing microgreens under the sun on the right">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- table line -->
+    <path d="M60 486 H 1140" stroke="#5c4633" stroke-width="6"/>
+
+    <!-- sun over the microgreens (the light half) -->
+    <g stroke="#8a7e3a" stroke-width="5">
+      <circle cx="1074" cy="150" r="34"/>
+      <path d="M1074 92 V 74 M1074 226 V 208 M1016 150 H 998 M1150 150 H 1132
+               M1033 109 L 1020 96 M1115 191 L 1128 204 M1115 109 L 1128 96 M1033 191 L 1020 204"/>
+    </g>
+
+    <!-- ===================== LEFT: sprout jar ===================== -->
+    <g stroke="#5c4633" stroke-width="5">
+      <!-- jar body -->
+      <path d="M262 362 V 452 Q 262 482 296 482 H 364 Q 398 482 398 452 V 362"/>
+      <!-- shoulders -->
+      <path d="M262 362 Q 264 338 294 330"/>
+      <path d="M398 362 Q 396 338 366 330"/>
+      <!-- neck -->
+      <path d="M294 330 V 322 M366 330 V 322"/>
+      <!-- screw band -->
+      <path d="M290 322 H 370 V 300 H 290 Z"/>
+      <!-- water line low in the jar -->
+      <path d="M268 452 H 392" stroke-width="3" stroke-opacity="0.5"/>
+    </g>
+
+    <!-- mesh lid ticks across the mouth -->
+    <g stroke="#1f2419" stroke-width="2">
+      <path d="M298 302 V 322 M308 302 V 322 M318 302 V 322 M328 302 V 322
+               M338 302 V 322 M348 302 V 322 M358 302 V 322"/>
+    </g>
+
+    <!-- tangled sprouts inside the jar -->
+    <g stroke="#8a7e3a" stroke-width="4">
+      <path d="M282 452 C 296 414 322 438 306 396"/>
+      <path d="M304 454 C 322 418 346 448 336 402"/>
+      <path d="M332 452 C 350 420 302 434 344 394"/>
+      <path d="M356 450 C 336 420 372 436 350 398"/>
+    </g>
+    <g stroke="#3a5a2a" stroke-width="4">
+      <path d="M292 450 C 314 424 288 408 322 392"/>
+      <path d="M348 452 C 328 424 366 412 338 388"/>
+      <path d="M318 452 C 340 428 360 442 372 406"/>
+    </g>
+    <!-- seed hulls caught in the tangle -->
+    <g stroke="#1f2419" stroke-width="5">
+      <path d="M306 396 h 0.5 M336 402 h 0.5 M322 392 h 0.5 M350 398 h 0.5 M344 394 h 0.5 M372 406 h 0.5"/>
+    </g>
+
+    <!-- ===================== RIGHT: microgreen tray ===================== -->
+    <g stroke="#5c4633" stroke-width="5">
+      <!-- top rim opening -->
+      <path d="M700 430 H 968 L 1016 464 H 652 Z"/>
+      <!-- front wall -->
+      <path d="M652 464 L 666 486 H 1002 L 1016 464"/>
+    </g>
+    <!-- soil bed inside the tray -->
+    <path d="M716 436 H 950 L 990 458 H 676 Z" fill="#5c4633" fill-opacity="0.12" stroke="#5c4633" stroke-width="3"/>
+
+    <!-- standing microgreens, stem plus a cotyledon pair -->
+    <g stroke="#3a5a2a" stroke-width="4">
+      <!-- back row -->
+      <path d="M728 440 V 372"/><path d="M728 372 q -13 -3 -18 -16 M728 372 q 13 -3 18 -16"/>
+      <path d="M758 440 V 358"/><path d="M758 358 q -13 -3 -18 -16 M758 358 q 13 -3 18 -16"/>
+      <path d="M788 440 V 380"/><path d="M788 380 q -13 -3 -18 -16 M788 380 q 13 -3 18 -16"/>
+      <path d="M818 440 V 356"/><path d="M818 356 q -13 -3 -18 -16 M818 356 q 13 -3 18 -16"/>
+      <path d="M848 440 V 374"/><path d="M848 374 q -13 -3 -18 -16 M848 374 q 13 -3 18 -16"/>
+      <path d="M878 440 V 360"/><path d="M878 360 q -13 -3 -18 -16 M878 360 q 13 -3 18 -16"/>
+      <path d="M908 440 V 382"/><path d="M908 382 q -13 -3 -18 -16 M908 382 q 13 -3 18 -16"/>
+      <path d="M938 440 V 366"/><path d="M938 366 q -13 -3 -18 -16 M938 366 q 13 -3 18 -16"/>
+      <!-- front fillers -->
+      <path d="M772 448 V 396"/><path d="M772 396 q -11 -2 -15 -13 M772 396 q 11 -2 15 -13"/>
+      <path d="M900 448 V 398"/><path d="M900 398 q -11 -2 -15 -13 M900 398 q 11 -2 15 -13"/>
+    </g>
+
+  </g>
+</svg>

@@ -94,7 +94,7 @@ Three subjects, in this priority order:
 | Thu Jul 9 | Permaculture | Permaculture without the jargon | What it means in one sentence: work with the yard you have. What we're applying here. | [x] posts/permaculture-without-the-jargon.md |
 | Fri Jul 10 | On the route | Why we deliver to porches, not pickup lots | The route model. Link the nine neighborhoods. | [x] posts/why-we-deliver-to-porches.md |
 | Sat Jul 11 | Growing notes | Seed to tray: how a crop starts | Seeding day walkthrough. Organic non-GMO seed, filtered water. | [x] posts/seed-to-tray-how-a-crop-starts.md |
-| Sun Jul 12 | Reader questions | Are microgreens just sprouts? | No. Explain the difference: soil, light, harvest stage. | [ ] |
+| Sun Jul 12 | Reader questions | Are microgreens just sprouts? | No. Explain the difference: soil, light, harvest stage. | [x] posts/are-microgreens-just-sprouts.md |
 
 ### Week 2 · Jul 13-19 · Arc 1
 
