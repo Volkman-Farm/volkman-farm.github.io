@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of three curling pea tendril shoots rising from a shallow soil tray, with coiled tips catching the sun">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- sun, upper right -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="1010" cy="150" r="52"/>
+    <path d="M1010 60 v -26 M1010 240 v 26 M920 150 h -26 M1100 150 h 26
+             M946 86 l -18 -18 M1074 214 l 18 18 M1074 86 l 18 -18 M946 214 l -18 18"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- three pea shoots rising from the tray -->
+    <!-- left shoot -->
+    <path d="M430 470 C 420 380 452 320 436 250 C 428 214 452 190 486 196"/>
+    <!-- its curling tendril tip -->
+    <path d="M486 196 C 512 200 520 176 502 166 C 490 160 484 178 498 182" stroke-width="5"/>
+    <!-- a leaf -->
+    <path d="M436 300 C 402 296 386 276 388 252 C 416 252 436 272 436 300"/>
+    <path d="M446 356 C 480 352 496 332 494 308 C 466 308 446 328 446 356"/>
+
+    <!-- center shoot, tallest -->
+    <path d="M600 470 C 588 360 620 300 606 220 C 598 172 626 138 668 148"/>
+    <path d="M668 148 C 698 152 708 122 686 112 C 672 106 666 128 682 132" stroke-width="5"/>
+    <path d="M606 268 C 570 262 552 240 556 214 C 586 216 608 240 606 268"/>
+    <path d="M616 344 C 654 340 672 318 668 292 C 636 294 616 316 616 344"/>
+    <path d="M600 400 C 566 398 548 378 550 354 C 578 354 600 372 600 400"/>
+
+    <!-- right shoot -->
+    <path d="M770 470 C 762 388 792 332 780 268 C 774 232 800 208 834 216"/>
+    <path d="M834 216 C 860 222 870 198 850 188 C 838 182 832 200 846 204" stroke-width="5"/>
+    <path d="M780 316 C 814 312 832 292 830 268 C 800 270 780 290 780 316"/>
+    <path d="M772 380 C 738 376 722 356 724 332 C 752 334 772 354 772 380"/>
+
+  </g>
+
+  <!-- shallow tray -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M300 470 H 900"/>
+    <path d="M348 470 L 366 512 H 834 L 852 470"/>
+    <path d="M348 470 L 372 452 H 828 L 852 470"/>
+  </g>
+
+  <!-- soil bed inside the tray with a few seed hulls -->
+  <path d="M384 462 H 816 L 828 470 H 372 Z" fill="#5c4633" fill-opacity="0.14" stroke="#5c4633" stroke-width="3"/>
+  <g stroke="#1f2419" stroke-width="4" stroke-linecap="round">
+    <path d="M420 466 h 0.5 M480 464 h 0.5 M540 466 h 0.5 M660 464 h 0.5 M720 466 h 0.5 M780 464 h 0.5"/>
+  </g>
+</svg>

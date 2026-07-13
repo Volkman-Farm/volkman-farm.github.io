@@ -100,7 +100,7 @@ Three subjects, in this priority order:
 
 | Date | Pillar | Working title | Angle | Status |
 |---|---|---|---|---|
-| Mon Jul 13 | Variety spotlight | Pea tendrils, the gateway green | Sweet, crunchy, kid-friendly. Link /greens/pea/. | [ ] |
+| Mon Jul 13 | Variety spotlight | Pea tendrils, the gateway green | Sweet, crunchy, kid-friendly. Link /greens/pea/. | [x] posts/pea-tendrils-the-gateway-green.md |
 | Tue Jul 14 | In the kitchen | Microgreens on eggs, three ways | Scrambled, omelet, fried. Which varieties hold up to heat. | [ ] |
 | Wed Jul 15 | Homestead journal | Mapping the yard before touching it | Observation first. Sun, shade, wet spots. What we noticed. | [ ] |
 | Thu Jul 16 | Permaculture | Zones for a suburban lot | Zone 0-5 scaled to a backyard. Where the shed sits in the map. | [ ] |
