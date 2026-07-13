@@ -70,9 +70,16 @@ Scaffold the next blog post for volkman.farm. Follow these steps exactly:
      (the layout renders the title).
 6. Build: `npx @11ty/eleventy`. Fix any errors before proceeding.
 7. Verify the post appears at `/blog/<slug>/` and on the `/blog/` index in `_site/`.
-8. Update the row in `CONTENT-PLAN.md`: `[ ]` becomes `[x] posts/<slug>.md`.
-9. Show me the full draft and wait for review. Do not commit until I approve.
-10. On approval: commit as `feat(blog): add post <slug>` (stage the post file, the
+8. Start the dev server and open the preview in my browser so I can read the post
+   rendered before I review the draft text:
+   - Launch `npx @11ty/eleventy --serve --quiet` in the background (leave it running).
+   - Poll `http://localhost:8080/blog/<slug>/` until it returns HTTP 200.
+   - Then `open "http://localhost:8080/blog/<slug>/"` to load it in my default browser.
+   - If port 8080 is already in use, assume the server is already running and just open
+     the URL; do not start a second server.
+9. Update the row in `CONTENT-PLAN.md`: `[ ]` becomes `[x] posts/<slug>.md`.
+10. Show me the full draft and wait for review. Do not commit until I approve.
+11. On approval: commit as `feat(blog): add post <slug>` (stage the post file, the
    two image files in `assets/blog/`, and CONTENT-PLAN.md only), then ask before
    pushing.
 
