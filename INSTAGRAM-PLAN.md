@@ -158,6 +158,7 @@ them (search facebook.com for the city's place page; the ID is in the URL):
 | 2026-07-07 | Intro post (shed trays) | https://www.instagram.com/p/DagY4KDIKOm/ |
 | 2026-07-08 | Shed tour carousel | https://www.instagram.com/p/DaiN0RkoDgm/ |
 | 2026-07-10 | Route morning carousel | https://www.instagram.com/p/Danr_3hIJJn/ |
+| 2026-07-13 | Variety spotlight (pea tendrils) | https://www.instagram.com/p/DavKiCJkQgG/ |
 
 ## Measurement (keep it light)
 
