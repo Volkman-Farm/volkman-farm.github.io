@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a sunny-side-up fried egg on a plate with a small pile of microgreens on the yolk and a fork beside it">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- sun, upper right -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="1040" cy="130" r="48"/>
+    <path d="M1040 46 v -24 M1040 214 v 24 M956 130 h -24 M1124 130 h 24
+             M981 71 l -17 -17 M1099 189 l 17 17 M1099 71 l 17 -17 M981 189 l -17 17"/>
+  </g>
+
+  <!-- plate -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="620" cy="420" rx="340" ry="104"/>
+    <ellipse cx="620" cy="420" rx="292" ry="86"/>
+  </g>
+
+  <!-- fried egg white, sitting on the plate -->
+  <path d="M470 400
+           C 452 350 502 330 552 342
+           C 588 310 660 314 692 350
+           C 748 346 788 380 770 424
+           C 794 462 754 494 706 482
+           C 672 512 604 510 566 484
+           C 512 492 466 458 486 422
+           C 472 416 466 408 470 400 Z"
+        fill="#f5ead3" stroke="#1f2419" stroke-width="6" stroke-linejoin="round"/>
+
+  <!-- yolk -->
+  <circle cx="628" cy="404" r="58" fill="#8a7e3a" fill-opacity="0.5" stroke="#8a7e3a" stroke-width="6"/>
+
+  <!-- microgreens piled on the yolk -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M600 402 C 590 350 566 316 582 268"/>
+    <path d="M582 268 C 606 262 616 236 598 226" stroke-width="5"/>
+    <path d="M600 344 C 566 340 550 318 554 294 C 582 296 602 316 600 344"/>
+
+    <path d="M628 406 C 626 352 646 312 632 262"/>
+    <path d="M632 262 C 658 258 666 230 646 222" stroke-width="5"/>
+    <path d="M628 336 C 662 330 680 308 676 284 C 646 286 628 308 628 336"/>
+
+    <path d="M656 404 C 664 356 690 324 674 278"/>
+    <path d="M674 278 C 700 274 708 248 688 240" stroke-width="5"/>
+    <path d="M660 348 C 626 344 610 322 614 298 C 642 300 662 322 660 348"/>
+  </g>
+
+  <!-- a couple of seed-leaf accents in burgundy -->
+  <g fill="none" stroke="#6b2a2f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M612 380 C 596 378 586 366 588 352 C 604 354 614 366 612 380"/>
+    <path d="M648 372 C 664 370 674 358 672 344 C 656 346 646 358 648 372"/>
+  </g>
+
+  <!-- fork, to the left of the plate -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M196 246 v 70 M216 246 v 70 M236 246 v 70 M256 246 v 70"/>
+    <path d="M196 316 C 200 344 224 348 224 348 M256 316 C 252 344 228 348 228 348"/>
+    <path d="M226 348 v 240"/>
+  </g>
+</svg>
