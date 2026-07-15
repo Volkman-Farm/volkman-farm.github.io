@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a backyard seen from above with a shed, a fence, planted mounds, and dashed lines tracing where sun, shade, and water move across the lot">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <defs>
+    <clipPath id="shade">
+      <path d="M370 190 L 465 343 L 465 473 L 265 473 L 170 320 L 370 320 Z"/>
+    </clipPath>
+  </defs>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- sun, upper left, outside the fence -->
+    <g stroke="#8a7e3a">
+      <circle cx="150" cy="62" r="30"/>
+      <path d="M150 12 V 0"/>
+      <path d="M150 112 V 124"/>
+      <path d="M100 62 H 88"/>
+      <path d="M200 62 H 212"/>
+      <path d="M115 27 L 106 18"/>
+      <path d="M185 27 L 194 18"/>
+      <path d="M115 97 L 106 106"/>
+      <path d="M185 97 L 194 106"/>
+    </g>
+
+    <!-- fence line around the lot, with posts -->
+    <g stroke="#5c4633">
+      <path d="M90 120 H 1110 V 565 H 90 Z"/>
+      <g stroke-width="4">
+        <path d="M260 112 v 16 M430 112 v 16 M600 112 v 16 M770 112 v 16 M940 112 v 16"/>
+        <path d="M260 557 v 16 M430 557 v 16 M600 557 v 16 M770 557 v 16 M940 557 v 16"/>
+        <path d="M82 250 h 16 M82 400 h 16"/>
+        <path d="M1102 250 h 16 M1102 400 h 16"/>
+      </g>
+    </g>
+
+    <!-- shed, seen from above: roof ridge and door -->
+    <g stroke="#1f2419">
+      <path d="M170 190 H 370 V 320 H 170 Z"/>
+      <path d="M170 255 H 370" stroke-width="4"/>
+      <path d="M290 320 h 50" stroke-width="7"/>
+    </g>
+
+    <!-- the shed's shade: the footprint swept directly away from the sun -->
+    <g stroke="#8a7e3a">
+      <path d="M370 190 L 465 343 L 465 473 L 265 473 L 170 320" stroke-width="4" stroke-dasharray="12 10"/>
+      <!-- hatching runs along the light, parallel to the sweep -->
+      <g stroke-width="3" clip-path="url(#shade)">
+        <path d="M40 170 L 230 476"/>
+        <path d="M72 170 L 262 476"/>
+        <path d="M104 170 L 294 476"/>
+        <path d="M136 170 L 326 476"/>
+        <path d="M168 170 L 358 476"/>
+        <path d="M200 170 L 390 476"/>
+        <path d="M232 170 L 422 476"/>
+        <path d="M264 170 L 454 476"/>
+        <path d="M296 170 L 486 476"/>
+        <path d="M328 170 L 518 476"/>
+        <path d="M360 170 L 550 476"/>
+        <path d="M392 170 L 582 476"/>
+      </g>
+    </g>
+
+    <!-- a ray of light travelling from the sun until the shed stops it -->
+    <path d="M170 94 L 229 190" stroke="#8a7e3a" stroke-width="3" stroke-dasharray="10 12"/>
+
+    <!-- planted mounds, upper right: contours with a sprout in the middle -->
+    <g>
+      <ellipse cx="900" cy="235" rx="95" ry="58" stroke="#5c4633"/>
+      <ellipse cx="900" cy="235" rx="55" ry="32" stroke="#5c4633" stroke-width="4"/>
+      <path d="M900 250 v -30 M900 231 c -9 -10 -19 -11 -25 -7 M900 231 c 9 -10 19 -11 25 -7" stroke-width="4"/>
+    </g>
+    <g>
+      <ellipse cx="1015" cy="365" rx="80" ry="50" stroke="#5c4633"/>
+      <ellipse cx="1015" cy="365" rx="45" ry="26" stroke="#5c4633" stroke-width="4"/>
+      <path d="M1015 378 v -26 M1015 361 c -8 -9 -17 -10 -22 -6 M1015 361 c 8 -9 17 -10 22 -6" stroke-width="4"/>
+    </g>
+
+    <!-- where the water goes after a storm: flow lines running to the low spot -->
+    <g stroke-dasharray="14 11" stroke-width="4">
+      <path d="M640 170 C 660 260 700 340 745 425"/>
+      <path d="M1080 480 C 1000 500 900 505 845 490"/>
+      <path d="M470 545 C 560 530 640 505 700 475"/>
+    </g>
+    <g stroke-width="4">
+      <path d="M745 425 l -16 -6 m 16 6 l 3 -17"/>
+      <path d="M845 490 l 16 -7 m -16 7 l 15 8"/>
+      <path d="M700 475 l -18 -1 m 18 1 l -10 14"/>
+    </g>
+
+    <!-- the low spot: standing water -->
+    <g stroke="#6b2a2f">
+      <path d="M700 500 C 700 462 790 448 830 462 C 880 452 900 492 872 516 C 850 542 720 542 700 500 Z"/>
+      <path d="M745 500 c 14 -14 44 -18 66 -8" stroke-width="4"/>
+      <path d="M760 522 c 18 -10 44 -12 62 -4" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
