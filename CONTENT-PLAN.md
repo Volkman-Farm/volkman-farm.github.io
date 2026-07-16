@@ -38,6 +38,18 @@ Three subjects, in this priority order:
   The three routes fit the family calendar: Friday morning through Seminole County (home
   base); Monday and Wednesday evenings through north Orlando because those are taekwondo
   and rock climbing nights; Sunday afternoon downtown because church is in Parramore.
+- Property facts (added 2026-07-16, from the parcel GIS in ~/openclaw/memory/homestead/):
+  the lot is 2.17 acres in Sanford (county cadastral, 94,418 sq ft), zoned A-1
+  (agricultural). It is not a small suburban yard; do not describe it as one. Soils are
+  poorly drained fine sands with one very-poorly-drained depressional wet pocket; FEMA
+  Zone X (minimal flood hazard). Planting rule from the LiDAR contours: trees and mounds
+  on the higher ground, water-tolerant plants in the lows. Never publish the street
+  address, the septic locations, or details about structures beyond the grow shed.
+- Homestead facts (updated 2026-07-16): besides the fixed chicken run there is a moving
+  chicken tractor; its year-old parked mulch piles become garden beds (our oldest
+  daughter's second bed started as one). A sunn hemp food plot is already planted, with
+  a new seed mix planned next. A well and a rainwater cistern are planned, not built:
+  frame both as plans.
 - Homestead facts (updated 2026-07-08): chickens in a run out back. Spent tray material
   (soil, roots, cut leftovers) goes to the chickens, not a compost pile. A compost bin
   inside the run takes what chickens cannot eat; black soldier fly larvae eat the scraps,
@@ -103,7 +115,7 @@ Three subjects, in this priority order:
 | Mon Jul 13 | Variety spotlight | Pea tendrils, the gateway green | Sweet, crunchy, kid-friendly. Link /greens/pea/. | [x] posts/pea-tendrils-the-gateway-green.md |
 | Tue Jul 14 | In the kitchen | Microgreens on eggs, three ways | Scrambled, omelet, fried. Which varieties hold up to heat. | [x] posts/microgreens-on-eggs-three-ways.md |
 | Wed Jul 15 | Homestead journal | Mapping the yard before touching it | Observation first. Sun, shade, wet spots. What we noticed. | [x] posts/mapping-the-yard-before-touching-it.md |
-| Thu Jul 16 | Permaculture | Zones for a suburban lot | Zone 0-5 scaled to a backyard. Where the shed sits in the map. | [ ] |
+| Thu Jul 16 | Permaculture | Zones for a suburban lot | Zone 0-5 scaled to 2.17 acres. Where the shed sits in the map. | [x] posts/zones-for-2-17-acres.md |
 | Fri Jul 17 | On the route | A Friday morning, hour by hour | Harvest at sunrise, packing line, Lake Mary to Oviedo. | [ ] |
 | Sat Jul 18 | Growing notes | The blackout phase | Why trays spend days in the dark. Germination basics. | [ ] |
 | Sun Jul 19 | Reader questions | How long do microgreens last? | Honest shelf-life talk. Cut the morning of delivery, refrigerate at home. | [ ] |
