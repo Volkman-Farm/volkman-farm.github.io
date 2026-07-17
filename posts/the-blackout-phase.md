@@ -1,7 +1,7 @@
 ---
 title: The blackout phase
 description: "Why microgreen trays start their life stacked in the dark under a brick, how long the blackout runs by variety, and how we know a tray is ready for light."
-date: 2026-07-18T09:00:00-04:00
+date: 2026-07-17T09:00:00-04:00
 pillar: Growing notes
 hero: /assets/blog/the-blackout-phase.svg
 hero_alt: "Line drawing of three microgreen trays stacked on a shelf with a brick weighting the top tray, pale sprouts pushing up around the brick, and an unlit shop light hanging above"
