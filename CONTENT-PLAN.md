@@ -117,7 +117,7 @@ Three subjects, in this priority order:
 | Wed Jul 15 | Homestead journal | Mapping the yard before touching it | Observation first. Sun, shade, wet spots. What we noticed. | [x] posts/mapping-the-yard-before-touching-it.md |
 | Thu Jul 16 | Permaculture | Zones for a suburban lot | Zone 0-5 scaled to 2.17 acres. Where the shed sits in the map. | [x] posts/zones-for-2-17-acres.md |
 | Fri Jul 17 | On the route | A Friday morning, hour by hour | Harvest at sunrise, packing line, Lake Mary to Oviedo. | [ ] |
-| Sat Jul 18 | Growing notes | The blackout phase | Why trays spend days in the dark. Germination basics. | [ ] |
+| Sat Jul 18 | Growing notes | The blackout phase | Why trays spend days in the dark. Germination basics. | [x] posts/the-blackout-phase.md |
 | Sun Jul 19 | Reader questions | How long do microgreens last? | Honest shelf-life talk. Cut the morning of delivery, refrigerate at home. | [ ] |
 
 ### Week 3 · Jul 20-26 · Arc 1

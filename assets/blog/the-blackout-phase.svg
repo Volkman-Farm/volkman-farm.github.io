@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of three microgreen trays stacked on a shelf with a brick weighting the top tray, pale sprouts pushing up around the brick, and an unlit shop light hanging above">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- shelf line -->
+    <path d="M60 500 H 1140" stroke="#5c4633"/>
+
+    <!-- unlit shop light hanging above, no rays because the tray is in the dark -->
+    <g stroke="#5c4633">
+      <path d="M552 92 V 128" stroke-width="4"/>
+      <path d="M648 92 V 128" stroke-width="4"/>
+      <path d="M510 128 H 690 V 150 H 510 Z"/>
+      <path d="M510 139 H 690" stroke-width="4"/>
+    </g>
+
+    <!-- three stacked trays -->
+    <path d="M340 496 H 860 V 452 H 340 Z"/>
+    <path d="M340 452 H 860 V 408 H 340 Z"/>
+    <path d="M340 408 H 860 V 364 H 340 Z"/>
+    <g stroke="#1f2419" stroke-width="4">
+      <path d="M348 460 H 852"/>
+      <path d="M348 416 H 852"/>
+      <path d="M348 372 H 852"/>
+    </g>
+
+    <!-- brick weighting the top tray -->
+    <g stroke="#6b2a2f">
+      <path d="M474 364 H 694 V 320 H 474 Z"/>
+      <path d="M474 320 L 502 300 H 722 L 694 320"/>
+      <path d="M694 320 L 722 300 V 344 L 694 364"/>
+    </g>
+
+    <!-- pale sprouts pushing up around the brick -->
+    <g stroke="#8a7e3a" stroke-width="4">
+      <path d="M380 364 v -20 M380 348 c -6 -6 -13 -7 -17 -3 M380 348 c 6 -6 13 -7 17 -3"/>
+      <path d="M440 364 v -22 M440 346 c -7 -7 -14 -8 -18 -3 M440 346 c 7 -7 14 -8 18 -3"/>
+      <path d="M730 364 v -20 M730 348 c -6 -6 -13 -7 -17 -3 M730 348 c 6 -6 13 -7 17 -3"/>
+      <path d="M798 364 v -22 M798 346 c -7 -7 -14 -8 -18 -3 M798 346 c 7 -7 14 -8 18 -3"/>
+    </g>
+    <g stroke="#3a5a2a" stroke-width="4">
+      <path d="M410 364 v -18 M410 350 c -6 -6 -12 -7 -16 -3 M410 350 c 6 -6 12 -7 16 -3"/>
+      <path d="M764 364 v -18 M764 350 c -6 -6 -12 -7 -16 -3 M764 350 c 6 -6 12 -7 16 -3"/>
+    </g>
+
+  </g>
+</svg>
