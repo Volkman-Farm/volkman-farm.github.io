@@ -47,8 +47,9 @@ Three subjects, in this priority order:
   address, the septic locations, or details about structures beyond the grow shed.
 - Homestead facts (updated 2026-07-16): besides the fixed chicken run there is a moving
   chicken tractor; its year-old parked mulch piles become garden beds (our oldest
-  daughter's second bed started as one). A sunn hemp food plot is already planted, with
-  a new seed mix planned next. A well and a rainwater cistern are planned, not built:
+  daughter's second bed started as one). A sunn hemp food plot is already planted on the front
+  three-quarter acre (seeded spring 2026, flowering by late June), with a new seed mix
+  planned next. The chickens and mulch piles are in the backyard. A well and a rainwater cistern are planned, not built:
   frame both as plans.
 - Homestead facts (updated 2026-07-08): chickens in a run out back. Spent tray material
   (soil, roots, cut leftovers) goes to the chickens, not a compost pile. A compost bin
