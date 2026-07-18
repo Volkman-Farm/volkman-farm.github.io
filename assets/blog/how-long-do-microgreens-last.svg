@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of an open refrigerator shelf holding a clamshell of standing microgreens, with a folded paper towel beside it and a small sun symbol outside the door">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- refrigerator cabinet -->
+    <g stroke="#5c4633">
+      <path d="M180 80 H 680 V 560 H 180 Z"/>
+      <path d="M180 260 H 680"/>
+      <path d="M180 420 H 680"/>
+    </g>
+
+    <!-- open door swung toward the viewer, with a handle -->
+    <g stroke="#5c4633">
+      <path d="M680 80 L 822 116 V 596 L 680 560"/>
+      <path d="M800 320 V 404" stroke-width="4"/>
+    </g>
+
+    <!-- clamshell on the lower shelf, greens standing under a clear lid -->
+    <g stroke="#1f2419">
+      <path d="M290 420 H 570 V 320 H 290 Z"/>
+      <path d="M290 370 H 570" stroke-width="4"/>
+    </g>
+    <g stroke="#3a5a2a" stroke-width="4">
+      <path d="M330 370 v -34 M330 340 c -7 -7 -15 -8 -19 -3 M330 340 c 7 -7 15 -8 19 -3"/>
+      <path d="M390 370 v -30 M390 344 c -6 -7 -14 -8 -18 -3 M390 344 c 6 -7 14 -8 18 -3"/>
+      <path d="M450 370 v -36 M450 338 c -7 -7 -15 -8 -19 -3 M450 338 c 7 -7 15 -8 19 -3"/>
+      <path d="M530 370 v -32 M530 342 c -6 -7 -14 -8 -18 -3 M530 342 c 6 -7 14 -8 18 -3"/>
+    </g>
+    <g stroke="#8a7e3a" stroke-width="4">
+      <path d="M360 370 v -26 M360 348 c -6 -6 -13 -7 -17 -3 M360 348 c 6 -6 13 -7 17 -3"/>
+      <path d="M490 370 v -28 M490 346 c -6 -6 -13 -7 -17 -3 M490 346 c 6 -6 13 -7 17 -3"/>
+    </g>
+
+    <!-- folded paper towel beside the clamshell -->
+    <g stroke="#5c4633" stroke-width="4">
+      <path d="M598 420 H 668 V 394 Q 633 384 598 394 Z"/>
+      <path d="M598 407 Q 633 397 668 407"/>
+    </g>
+
+    <!-- a second, smaller clamshell on the upper shelf -->
+    <g stroke="#1f2419">
+      <path d="M340 260 H 520 V 196 H 340 Z"/>
+      <path d="M340 230 H 520" stroke-width="4"/>
+    </g>
+    <g stroke="#3a5a2a" stroke-width="4">
+      <path d="M375 230 v -20 M375 214 c -6 -6 -12 -7 -16 -3 M375 214 c 6 -6 12 -7 16 -3"/>
+      <path d="M430 230 v -22 M430 212 c -6 -6 -13 -7 -17 -3 M430 212 c 6 -6 13 -7 17 -3"/>
+      <path d="M485 230 v -20 M485 214 c -6 -6 -12 -7 -16 -3 M485 214 c 6 -6 12 -7 16 -3"/>
+    </g>
+
+    <!-- the warm world outside the door -->
+    <g stroke="#8a7e3a">
+      <circle cx="1000" cy="170" r="46"/>
+      <path d="M1000 96 V 70"/>
+      <path d="M1000 270 V 244"/>
+      <path d="M1074 170 H 1100"/>
+      <path d="M900 170 H 926"/>
+      <path d="M1052 118 L 1070 100"/>
+      <path d="M948 222 L 930 240"/>
+      <path d="M1052 222 L 1070 240"/>
+      <path d="M948 118 L 930 100"/>
+    </g>
+
+  </g>
+</svg>
