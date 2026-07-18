@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a rising sun over a grow shed on the left, an insulated cooler bag and a stacked clamshell of microgreens in the middle, and a winding road leading to a porch on the right">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- ground line -->
+    <path d="M60 500 H 1140" stroke="#5c4633"/>
+
+    <!-- rising sun over the shed, upper left -->
+    <circle cx="170" cy="150" r="44" stroke="#8a7e3a"/>
+    <g stroke="#8a7e3a">
+      <path d="M170 92 V 80"/>
+      <path d="M108 150 H 96"/>
+      <path d="M232 150 H 244"/>
+      <path d="M126 106 L 117 97"/>
+      <path d="M214 106 L 223 97"/>
+      <path d="M126 194 L 117 203"/>
+      <path d="M214 194 L 223 203"/>
+    </g>
+
+    <!-- grow shed, left, where the greens are cut -->
+    <g stroke="#5c4633">
+      <path d="M110 500 V 388 H 230 V 500"/>
+      <path d="M92 388 L 170 340 L 248 388"/>
+      <path d="M150 500 V 430 H 186 V 500" stroke-width="4"/>
+      <path d="M196 418 h 22 v 22 h -22 z" stroke-width="4"/>
+      <path d="M207 418 v 22 M196 429 h 22" stroke-width="4"/>
+    </g>
+
+    <!-- insulated cooler bag, center -->
+    <path d="M500 500 V 412 Q 500 398 514 398 H 686 Q 700 398 700 412 V 500 Z" stroke="#1f2419"/>
+    <path d="M500 424 H 700" stroke="#1f2419" stroke-width="4"/>
+    <path d="M548 398 C 558 356 642 356 652 398" stroke="#1f2419"/>
+    <path d="M568 398 V 386 M632 398 V 386" stroke="#1f2419" stroke-width="4"/>
+    <circle cx="690" cy="440" r="5" fill="#6b2a2f" stroke="#6b2a2f"/>
+
+    <!-- stacked clamshells beside the bag, the top one full of greens -->
+    <path d="M718 500 H 822 V 474 H 718 Z" stroke="#1f2419"/>
+    <path d="M724 474 H 816 V 452 H 724 Z" stroke="#1f2419"/>
+    <path d="M724 452 Q 728 424 770 424 Q 812 424 816 452" stroke="#1f2419"/>
+    <path d="M764 452 v 8 h 12 v -8" stroke="#1f2419" stroke-width="4"/>
+    <!-- greens packed in the top clamshell -->
+    <g stroke="#8a7e3a" stroke-width="4">
+      <path d="M742 450 v -18 M742 436 c -6 -7 -13 -8 -18 -4 M742 436 c 6 -7 13 -8 18 -4"/>
+      <path d="M798 450 v -18 M798 436 c -6 -7 -13 -8 -18 -4 M798 436 c 6 -7 13 -8 18 -4"/>
+    </g>
+    <g stroke="#3a5a2a" stroke-width="4">
+      <path d="M770 450 v -22 M770 430 c -7 -8 -15 -9 -21 -4 M770 430 c 7 -8 15 -9 21 -4"/>
+    </g>
+
+    <!-- winding road from the load out to the porch -->
+    <g stroke="#5c4633">
+      <path d="M812 512 C 872 500 928 492 986 490"/>
+      <path d="M834 540 C 896 528 950 514 998 502"/>
+    </g>
+    <path d="M822 526 C 882 514 936 504 992 497" stroke="#5c4633" stroke-width="4" stroke-dasharray="18 14"/>
+
+    <!-- porch on the right, a clamshell waiting to be set down -->
+    <g stroke="#5c4633">
+      <path d="M992 302 L 1150 320" stroke-width="6"/>
+      <path d="M992 316 L 1150 334" stroke-width="6"/>
+      <path d="M1132 334 V 500"/>
+    </g>
+    <path d="M1010 500 V 332 H 1092 V 500"/>
+    <path d="M1026 500 V 348 H 1076 V 500"/>
+    <g stroke-width="4">
+      <path d="M1036 374 h 30 v 24 h -30 z"/>
+      <path d="M1051 374 v 24 M1036 386 h 30"/>
+    </g>
+    <circle cx="1082" cy="426" r="5" fill="#6b2a2f" stroke="#6b2a2f"/>
+    <g stroke="#5c4633" stroke-width="4">
+      <path d="M998 500 L 1020 520 H 1118 L 1096 500"/>
+    </g>
+
+  </g>
+</svg>
