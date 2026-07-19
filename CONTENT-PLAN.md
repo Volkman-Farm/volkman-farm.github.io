@@ -145,7 +145,7 @@ file back into `posts/`.
 
 | Date | Pillar | Working title | Angle | Status |
 |---|---|---|---|---|
-| Sun Jul 19 | Variety spotlight | Radish: the one with opinions | Peppery heat, fast grower. Link /greens/radish/. | [ ] |
+| Sun Jul 19 | Variety spotlight | Beet greens, the pretty ones | Color, earthiness, plating. The weekly standing wholesale crop. Link /greens/beet/. Swapped forward from Aug 9 on 2026-07-19. | [x] posts/beet-greens-the-pretty-ones.md |
 | Mon Jul 20 | In the kitchen | Taco night needs a crunch | Radish and cilantro micros on tacos. Weeknight framing. | [ ] |
 | Tue Jul 21 | Homestead journal | What Florida sand taught us in week one | Soil reality check. Why "just plant a garden" fails here. | [ ] |
 | Wed Jul 22 | Permaculture | Sand favors ants. We are building for worms. | The soil-biology angle on mulch. Bare Florida sand runs hot and dry, which suits ants; the worms we want need cool, moist, loamy ground. Native organic matter is often under 1% and burns off fast in the heat, and low CEC lets nutrients leach before they stabilize. A 3-4 inch mulch layer is the lever: roughly 20F cooler at the surface in summer, holds moisture, feeds decomposers, and slowly tips the yard from ant territory toward worm territory. Builds on Jul 9. Link /greens/. | [ ] |
@@ -181,7 +181,7 @@ file back into `posts/`.
 
 | Date | Pillar | Working title | Angle | Status |
 |---|---|---|---|---|
-| Sun Aug 9 | Variety spotlight | Beet greens, the pretty ones | Color, earthiness, plating. Link /greens/beet/. | [ ] |
+| Sun Aug 9 | Variety spotlight | Radish: the one with opinions | Peppery heat, fast grower. Link /greens/radish/. Swapped back from Jul 19 on 2026-07-19; draft and hero already written. | [ ] drafted, drafts/radish-the-one-with-opinions.md |
 | Mon Aug 10 | In the kitchen | School lunches with a secret | Back-to-school week. Micros in wraps and lunchboxes. | [ ] |
 | Tue Aug 11 | Homestead journal | The rain we get and the rain we lose | Watching August storms run off. Observation notes. | [ ] |
 | Wed Aug 12 | Permaculture | Catching water where it falls | Swales, mulch basins, rain barrels: what fits a suburban lot. | [ ] |

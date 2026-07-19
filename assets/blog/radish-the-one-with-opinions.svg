@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a dense stand of radish microgreens with paired rounded leaves on straight stems, growing from a shallow tray, with a small sun above">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- sun, upper right -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="1010" cy="140" r="48"/>
+    <path d="M1010 56 v -24 M1010 224 v 24 M926 140 h -24 M1094 140 h 24
+             M950 80 l -17 -17 M1070 200 l 17 17 M1070 80 l 17 -17 M950 200 l -17 17"/>
+  </g>
+
+  <!-- the stand of radish shoots: straight stems, paired rounded cotyledons -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- shoot 1 -->
+    <path d="M360 470 C 356 396 366 344 372 300"/>
+    <path d="M372 300 C 340 292 318 268 322 240 C 352 240 372 268 372 300"/>
+    <path d="M372 300 C 404 292 426 268 422 240 C 392 240 372 268 372 300"/>
+
+    <!-- shoot 2, shorter -->
+    <path d="M436 470 C 434 410 442 372 448 336"/>
+    <path d="M448 336 C 420 328 402 306 406 282 C 432 284 448 310 448 336"/>
+    <path d="M448 336 C 476 328 494 306 490 282 C 464 284 448 310 448 336"/>
+
+    <!-- shoot 3, tall -->
+    <path d="M520 470 C 514 388 524 328 530 272"/>
+    <path d="M530 272 C 496 264 474 238 478 210 C 510 210 530 240 530 272"/>
+    <path d="M530 272 C 564 264 586 238 582 210 C 550 210 530 240 530 272"/>
+
+    <!-- shoot 4 -->
+    <path d="M604 470 C 600 400 610 356 616 314"/>
+    <path d="M616 314 C 586 306 566 282 570 256 C 598 258 616 286 616 314"/>
+    <path d="M616 314 C 646 306 666 282 662 256 C 634 258 616 286 616 314"/>
+
+    <!-- shoot 5, tallest -->
+    <path d="M688 470 C 682 380 692 316 698 258"/>
+    <path d="M698 258 C 662 250 638 222 642 194 C 676 194 698 224 698 258"/>
+    <path d="M698 258 C 734 250 758 222 754 194 C 720 194 698 224 698 258"/>
+
+    <!-- shoot 6 -->
+    <path d="M770 470 C 768 404 776 362 782 322"/>
+    <path d="M782 322 C 752 314 732 292 736 266 C 764 268 782 294 782 322"/>
+    <path d="M782 322 C 812 314 832 292 828 266 C 800 268 782 294 782 322"/>
+
+    <!-- shoot 7, short one at the edge -->
+    <path d="M842 470 C 842 420 848 388 852 358"/>
+    <path d="M852 358 C 828 352 812 332 816 310 C 838 312 852 336 852 358"/>
+    <path d="M852 358 C 876 352 892 332 888 310 C 866 312 852 336 852 358"/>
+  </g>
+
+  <!-- a stray cut shoot lying in front, the one you taste -->
+  <g fill="none" stroke="#1f2419" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M912 552 C 954 548 986 542 1016 536"/>
+    <path d="M1016 536 C 1010 512 1020 490 1042 482 C 1050 502 1040 526 1016 536"/>
+    <path d="M1016 536 C 1030 556 1054 562 1074 550 C 1062 532 1038 528 1016 536"/>
+  </g>
+
+  <!-- shallow tray -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M280 470 H 920"/>
+    <path d="M328 470 L 346 514 H 854 L 872 470"/>
+    <path d="M328 470 L 352 452 H 848 L 872 470"/>
+  </g>
+
+  <!-- soil bed inside the tray -->
+  <path d="M364 462 H 836 L 848 470 H 352 Z" fill="#5c4633" fill-opacity="0.14" stroke="#5c4633" stroke-width="3"/>
+
+  <!-- seed hulls scattered on the soil -->
+  <g stroke="#1f2419" stroke-width="4" stroke-linecap="round">
+    <path d="M400 466 h 0.5 M470 464 h 0.5 M560 466 h 0.5 M650 464 h 0.5 M740 466 h 0.5 M810 464 h 0.5"/>
+  </g>
+</svg>
