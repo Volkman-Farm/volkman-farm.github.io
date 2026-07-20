@@ -1,15 +1,21 @@
 ---
 title: Field Notes
 description: Daily field notes from the Volkman Farm homestead in Sanford, FL. Microgreens, homesteading, and permaculture in a Central Florida backyard.
-permalink: /blog/
+pagination:
+  data: collections.post
+  size: 15
+  reverse: true
+  alias: entries
+permalink: "/blog/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber | plus: 1 }}/{% endif %}"
+eleventyComputed:
+  title: "Field Notes{% if pagination.pageNumber > 0 %}, page {{ pagination.pageNumber | plus: 1 }}{% endif %}"
 layout: default
 ---
 
 <p class="lead">Notes from a Sanford backyard, most days of the week. Microgreens on the trays, a homestead taking shape around them, and permaculture doing the quiet work underneath.</p>
 
 <ul class="post-list">
-{% assign posts = collections.post | reverse %}
-{% for post in posts %}
+{% for post in entries %}
   <li>
     <p class="post-meta"><time datetime="{{ post.date | date: '%Y-%m-%d', 'America/New_York' }}">{{ post.date | date: "%B %-d, %Y", "America/New_York" }}</time>{% if post.data.pillar %} · {{ post.data.pillar }}{% endif %}</p>
     <a href="{{ post.url }}">{{ post.data.title }}</a>
@@ -17,3 +23,11 @@ layout: default
   </li>
 {% endfor %}
 </ul>
+
+{% if pagination.pages.size > 1 %}
+<nav class="pager" aria-label="Field notes pages">
+  {% if pagination.href.previous %}<a class="pager-prev" rel="prev" href="{{ pagination.href.previous }}">← Newer</a>{% endif %}
+  <span class="pager-count">Page {{ pagination.pageNumber | plus: 1 }} of {{ pagination.pages.size }}</span>
+  {% if pagination.href.next %}<a class="pager-next" rel="next" href="{{ pagination.href.next }}">Older →</a>{% endif %}
+</nav>
+{% endif %}
