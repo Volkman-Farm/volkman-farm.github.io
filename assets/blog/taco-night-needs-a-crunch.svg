@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a folded taco with filling and microgreens spilling out of the top, a lime wedge beside it and a small stack of tortillas">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- sun, upper right -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="1064" cy="120" r="40"/>
+    <path d="M1064 50 v -22 M1064 190 v 22 M994 120 h -22 M1134 120 h 22
+             M1015 71 l -16 -16 M1113 169 l 16 16 M1113 71 l 16 -16 M1015 169 l -16 16"/>
+  </g>
+
+  <!-- microgreens rising out of the taco (bases hidden by the filling mound) -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M508 300 C 486 236 480 186 492 140"/>
+    <path d="M478 196 C 446 192 432 172 436 150 C 462 152 478 172 478 196"/>
+    <path d="M474 232 C 502 226 516 208 512 188 C 490 192 474 212 474 232"/>
+
+    <path d="M556 272 C 550 218 562 176 552 128"/>
+    <path d="M554 184 C 588 180 604 158 600 134 C 572 138 554 160 554 184"/>
+    <path d="M556 224 C 526 220 512 202 516 182 C 540 186 556 204 556 224"/>
+
+    <path d="M624 276 C 626 214 640 172 630 118"/>
+    <path d="M628 176 C 596 172 580 150 584 126 C 612 130 628 152 628 176"/>
+    <path d="M626 222 C 656 216 670 196 666 176 C 642 180 626 202 626 222"/>
+
+    <path d="M700 274 C 708 220 726 184 716 138"/>
+    <path d="M712 190 C 744 184 758 164 754 142 C 728 146 712 168 712 190"/>
+    <path d="M706 230 C 678 226 664 208 668 188 C 692 192 706 210 706 230"/>
+
+    <path d="M742 300 C 774 240 802 208 794 166"/>
+    <path d="M790 212 C 760 208 746 190 750 170 C 774 174 790 192 790 212"/>
+    <path d="M786 248 C 812 242 824 224 820 206 C 798 210 786 228 786 248"/>
+  </g>
+
+  <!-- burgundy accents on two seed leaves -->
+  <g fill="none" stroke="#6b2a2f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M600 254 C 584 252 574 240 576 226 C 592 228 602 240 600 254"/>
+    <path d="M678 262 C 694 260 704 248 702 234 C 686 236 676 248 678 262"/>
+  </g>
+
+  <!-- filling mound, peeking above the shell rim -->
+  <path d="M478 344 C 494 264 546 236 620 236 C 694 236 750 264 766 344 Z"
+        fill="#f5ead3" stroke="#5c4633" stroke-width="6" stroke-linejoin="round"/>
+  <g fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M516 292 C 544 270 574 296 606 276"/>
+    <path d="M652 300 C 676 282 704 302 730 288"/>
+  </g>
+
+  <!-- taco shell, front half -->
+  <path d="M400 300 C 462 328 776 328 838 300 C 838 424 740 498 618 498 C 496 498 400 424 400 300 Z"
+        fill="#f5ead3" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M424 342 C 448 424 524 476 618 476"/>
+    <path d="M542 420 h 26 M614 436 h 26 M690 416 h 24"/>
+  </g>
+
+  <!-- lime wedge, right -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M950 498 A 82 82 0 0 1 1114 498 Z"/>
+    <path d="M964 498 A 68 68 0 0 1 1100 498"/>
+    <path d="M1032 498 v -66 M1032 498 l -44 -48 M1032 498 l 44 -48"/>
+  </g>
+
+  <!-- small stack of tortillas, left -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="224" cy="450" rx="94" ry="26"/>
+    <path d="M130 450 v 22 C 130 486 172 498 224 498 C 276 498 318 486 318 472 v -22"/>
+  </g>
+
+  <!-- table line -->
+  <path d="M96 498 H 1152" fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round"/>
+</svg>
