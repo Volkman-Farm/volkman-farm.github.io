@@ -105,6 +105,7 @@ file back into `posts/`.
 | Pillar | Working title | Angle | Status |
 |---|---|---|---|
 | On the route | A Friday morning, hour by hour | Harvest at sunrise, packing line, Sanford to Oviedo. Drafted and illustrated, never dated. Wants a Friday slot. | drafted, drafts/a-friday-morning-hour-by-hour.md |
+| Growing notes | Water: why filtered matters | Chlorine, tender roots, consistency. Displaced from Fri Aug 7 on 2026-07-20 to make room for the amaranth follow-up, which is date-sensitive. Not written yet; slot it into the next open Growing notes row. | not drafted |
 
 ## Arcs
 
@@ -174,7 +175,7 @@ file back into `posts/`.
 | Tue Aug 4 | Homestead journal | August plans, written in pencil | What we're planning for fall while it's too hot to plant. | [ ] |
 | Wed Aug 5 | Permaculture | Cover crops: the summer garden that feeds the fall one | Sunn hemp, cowpeas, what we're trying. | [ ] |
 | Thu Aug 6 | On the route | Meet Lake Mary and Sanford | First neighborhoods profile. Link both city pages. | [ ] |
-| Fri Aug 7 | Growing notes | Water: why filtered matters | Chlorine, tender roots, consistency. | [ ] |
+| Fri Aug 7 | Growing notes | Did the amaranth work? | Follow-up owed to readers. The Jul 19 beet post promised a straight answer on the amaranth tray started that week, including if it failed. Report what actually happened: did it hold color, did it dodge the mold problem, is it staying or not. Do not write this one until Albert says how the tray turned out. Never claim a result to fill the slot. Amaranth is not one of the ten varieties and has no /greens/ page, so link /greens/beet/ or /restaurants/, not amaranth. Builds on Jul 19. | [ ] |
 | Sat Aug 8 | Reader questions | Can I grow microgreens at home? | Generous honest answer: yes, here's the starter version. | [ ] |
 
 ### Week 6 · Aug 9-15 · Arc 2
