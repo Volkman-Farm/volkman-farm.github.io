@@ -148,7 +148,7 @@ file back into `posts/`.
 |---|---|---|---|---|
 | Sun Jul 19 | Variety spotlight | Beet greens, the pretty ones | Color, earthiness, plating. The weekly standing wholesale crop. Link /greens/beet/. Swapped forward from Aug 9 on 2026-07-19. | [x] posts/beet-greens-the-pretty-ones.md |
 | Mon Jul 20 | In the kitchen | Taco night needs a crunch | Radish and cilantro micros on tacos. Weeknight framing. | [x] posts/taco-night-needs-a-crunch.md |
-| Tue Jul 21 | Homestead journal | What Florida sand taught us in week one | Soil reality check. Why "just plant a garden" fails here. | [ ] |
+| Tue Jul 21 | Homestead journal | What Florida sand taught us in week one | Soil reality check. Why "just plant a garden" fails here. | [x] posts/what-florida-sand-taught-us.md |
 | Wed Jul 22 | Permaculture | Sand favors ants. We are building for worms. | The soil-biology angle on mulch. Bare Florida sand runs hot and dry, which suits ants; the worms we want need cool, moist, loamy ground. Native organic matter is often under 1% and burns off fast in the heat, and low CEC lets nutrients leach before they stabilize. A 3-4 inch mulch layer is the lever: roughly 20F cooler at the surface in summer, holds moisture, feeds decomposers, and slowly tips the yard from ant territory toward worm territory. Builds on Jul 9. Link /greens/. | [ ] |
 | Thu Jul 23 | On the route | The text before the drop | How the delivery texting workflow works and why. | [ ] |
 | Fri Jul 24 | Growing notes | Harvest morning timeline | Sunrise to porch in hours. What "cut this morning" actually means. | [ ] |
