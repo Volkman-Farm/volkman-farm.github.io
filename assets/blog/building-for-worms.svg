@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing split down the middle: on the left, an ant hill in loose sand under a hot sun with two ants; on the right, a thick layer of mulch with a curled earthworm in the dark ground beneath it">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- scattered sand grains, left side only -->
+  <g fill="#5c4633" stroke="none">
+    <circle cx="120" cy="420" r="4"/>
+    <circle cx="175" cy="470" r="3"/>
+    <circle cx="230" cy="440" r="3"/>
+    <circle cx="150" cy="510" r="4"/>
+    <circle cx="250" cy="500" r="3"/>
+    <circle cx="330" cy="475" r="3"/>
+    <circle cx="410" cy="500" r="4"/>
+    <circle cx="470" cy="460" r="3"/>
+    <circle cx="500" cy="515" r="3"/>
+    <circle cx="380" cy="530" r="3"/>
+    <circle cx="205" cy="545" r="4"/>
+    <circle cx="300" cy="540" r="3"/>
+    <circle cx="540" cy="480" r="3"/>
+  </g>
+
+  <g fill="none" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- hot sun, upper left, over the bare sand -->
+    <g stroke="#8a7e3a">
+      <circle cx="150" cy="118" r="40"/>
+      <path d="M150 60 V 46"/>
+      <path d="M150 176 V 190"/>
+      <path d="M92 118 H 78"/>
+      <path d="M208 118 H 222"/>
+      <path d="M109 77 L 99 67"/>
+      <path d="M191 77 L 201 67"/>
+      <path d="M109 159 L 99 169"/>
+      <path d="M191 159 L 201 169"/>
+    </g>
+
+    <!-- ground surface across the full width -->
+    <path d="M40 382 H 1160" stroke="#5c4633"/>
+
+    <!-- ant hill: a cone of pushed-up sand with a crater at the top -->
+    <g stroke="#5c4633">
+      <path d="M248 382 C 258 336 302 302 336 300 C 372 302 418 338 428 382"/>
+      <ellipse cx="336" cy="302" rx="15" ry="6"/>
+    </g>
+
+    <!-- two ants working the bare sand -->
+    <g stroke="#1f2419" stroke-width="3">
+      <g transform="translate(372,356) rotate(-10)">
+        <circle cx="14" cy="0" r="5"/>
+        <circle cx="2" cy="0" r="4"/>
+        <ellipse cx="-12" cy="0" rx="9" ry="6"/>
+        <path d="M16 -3 l 9 -7 M16 2 l 10 -2"/>
+        <path d="M0 -3 l -10 -9 M4 -3 l 0 -12 M8 -3 l 10 -8"/>
+        <path d="M0 3 l -10 9 M4 3 l 0 12 M8 3 l 10 8"/>
+      </g>
+      <g transform="translate(478,372) rotate(8) scale(0.9)">
+        <circle cx="14" cy="0" r="5"/>
+        <circle cx="2" cy="0" r="4"/>
+        <ellipse cx="-12" cy="0" rx="9" ry="6"/>
+        <path d="M16 -3 l 9 -7 M16 2 l 10 -2"/>
+        <path d="M0 -3 l -10 -9 M4 -3 l 0 -12 M8 -3 l 10 -8"/>
+        <path d="M0 3 l -10 9 M4 3 l 0 12 M8 3 l 10 8"/>
+      </g>
+    </g>
+
+    <!-- dashed divider between the two stories -->
+    <path d="M604 140 V 545" stroke="#8a7e3a" stroke-width="3" stroke-dasharray="4 14"/>
+
+    <!-- mulch blanket over the ground, right side -->
+    <g stroke="#5c4633">
+      <path d="M636 358 q 16 -13 32 0 t 32 0 t 32 0 t 32 0 t 32 0 t 32 0 t 32 0 t 32 0 t 32 0 t 32 0 t 32 0 t 32 0 t 32 0 t 32 0 t 32 0"/>
+      <!-- chip texture between the mulch top and the ground -->
+      <g stroke-width="3">
+        <path d="M660 366 l 14 8"/>
+        <path d="M712 362 l -12 10"/>
+        <path d="M760 368 l 16 6"/>
+        <path d="M818 362 l -14 9"/>
+        <path d="M872 368 l 14 8"/>
+        <path d="M928 362 l -12 10"/>
+        <path d="M980 368 l 16 6"/>
+        <path d="M1040 362 l -14 9"/>
+        <path d="M1096 366 l 14 8"/>
+      </g>
+    </g>
+
+    <!-- the earthworm, curled in the cool dark ground beneath the mulch -->
+    <g stroke="#6b2a2f" stroke-width="9">
+      <path d="M792 452 C 780 492 838 512 866 480 C 888 456 858 430 838 448"/>
+    </g>
+    <!-- segment ticks and the clitellum band on the worm -->
+    <g stroke="#6b2a2f" stroke-width="3">
+      <path d="M800 470 l 10 6"/>
+      <path d="M826 486 l 6 -11"/>
+      <path d="M856 480 l 9 6"/>
+      <path d="M846 448 l 8 8"/>
+    </g>
+
+  </g>
+</svg>
