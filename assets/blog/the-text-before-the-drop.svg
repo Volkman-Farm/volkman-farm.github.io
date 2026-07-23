@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a phone showing a short delivery message with a small clock, and to the right a 64 oz clamshell of microgreens on the ground in front of a small house under the sun">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- sun, upper right -->
+    <circle cx="1090" cy="96" r="34" stroke="#8a7e3a"/>
+    <g stroke="#8a7e3a">
+      <path d="M1090 40 V 28"/>
+      <path d="M1090 152 V 164"/>
+      <path d="M1034 96 H 1022"/>
+      <path d="M1146 96 H 1158"/>
+      <path d="M1050 56 L 1041 47"/>
+      <path d="M1130 56 L 1139 47"/>
+      <path d="M1050 136 L 1041 145"/>
+      <path d="M1130 136 L 1139 145"/>
+    </g>
+
+    <!-- ground line -->
+    <path d="M60 520 H 1140" stroke="#5c4633"/>
+
+    <!-- phone body, foreground -->
+    <g stroke="#1f2419">
+      <path d="M258 120 H422 Q450 120 450 148 V492 Q450 520 422 520 H258 Q230 520 230 492 V148 Q230 120 258 120 Z"/>
+      <path d="M268 162 H412 Q432 162 432 182 V458 Q432 478 412 478 H268 Q248 478 248 458 V182 Q248 162 268 162 Z"/>
+      <path d="M322 142 H358" stroke-width="4"/>
+      <circle cx="340" cy="499" r="7"/>
+    </g>
+
+    <!-- message bubble on the screen -->
+    <path d="M286 196 H392 Q406 196 406 210 V270 Q406 284 392 284 H302 L288 298 V284 H286 Q272 284 272 270 V210 Q272 196 286 196 Z"/>
+    <g stroke="#8a7e3a" stroke-width="4">
+      <path d="M288 222 H390"/>
+      <path d="M288 242 H390"/>
+      <path d="M288 262 H356"/>
+    </g>
+
+    <!-- ETA clock and time line below the message -->
+    <g stroke="#6b2a2f" stroke-width="4">
+      <circle cx="298" cy="350" r="20"/>
+      <path d="M298 350 V 335"/>
+      <path d="M298 350 H 312"/>
+    </g>
+    <g stroke="#8a7e3a" stroke-width="4">
+      <path d="M334 342 H 398"/>
+      <path d="M334 362 H 378"/>
+    </g>
+
+    <!-- 64 oz clamshell of microgreens on the ground -->
+    <path d="M560 520 H700 V478 H560 Z" stroke="#1f2419"/>
+    <path d="M560 478 Q564 436 630 436 Q696 436 700 478" stroke="#1f2419"/>
+    <path d="M624 478 v9 h12 v-9" stroke="#1f2419" stroke-width="4"/>
+    <path d="M686 478 v6 M694 478 v6" stroke="#1f2419" stroke-width="4"/>
+    <g stroke="#8a7e3a" stroke-width="4">
+      <path d="M582 474 v -20 M582 458 c -7 -7 -15 -8 -20 -4 M582 458 c 7 -7 15 -8 20 -4"/>
+      <path d="M614 474 v -22 M614 456 c -7 -7 -15 -8 -20 -4 M614 456 c 7 -7 15 -8 20 -4"/>
+      <path d="M678 474 v -20 M678 458 c -7 -7 -15 -8 -20 -4 M678 458 c 7 -7 15 -8 20 -4"/>
+    </g>
+    <g stroke="#3a5a2a" stroke-width="4">
+      <path d="M598 474 v -24 M598 454 c -8 -8 -16 -9 -22 -4 M598 454 c 8 -8 16 -9 22 -4"/>
+      <path d="M646 474 v -22 M646 456 c -8 -8 -16 -9 -22 -4 M646 456 c 8 -8 16 -9 22 -4"/>
+    </g>
+
+    <!-- small house behind the drop -->
+    <g stroke="#5c4633">
+      <path d="M846 520 V450 H958 V520"/>
+      <path d="M832 450 L902 402 L972 450"/>
+      <path d="M888 520 V468 H916 V520" stroke-width="4"/>
+      <path d="M924 470 h26 v26 h-26 z" stroke-width="4"/>
+      <path d="M937 470 v26 M924 483 h26" stroke-width="4"/>
+    </g>
+
+  </g>
+</svg>
