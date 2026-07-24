@@ -161,6 +161,7 @@ them (search facebook.com for the city's place page; the ID is in the URL):
 | 2026-07-13 | Variety spotlight (pea tendrils) | https://www.instagram.com/p/DavKiCJkQgG/ |
 | 2026-07-16 | Homestead honest (mulch + sunn hemp carousel) | https://www.instagram.com/p/Da24dlVkd_V/ |
 | 2026-07-22 | In the kitchen (cilantro micros on tacos) | https://www.instagram.com/p/DbF69VoIJ5y/ |
+| 2026-07-24 | Route morning (harvest knife on tray) | https://www.instagram.com/p/DbLq6yfIIin/ |
 
 ## Measurement (keep it light)
 
