@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a blade cutting across a dense tray of microgreens just above the soil, cut greens falling into a clamshell alongside, and a low sun rising behind">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- low sun rising behind, upper left -->
+    <g stroke="#8a7e3a">
+      <circle cx="250" cy="175" r="66"/>
+      <path d="M250 70 V 40"/>
+      <path d="M250 310 V 280" stroke-width="4"/>
+      <path d="M145 175 H 115"/>
+      <path d="M385 175 H 355"/>
+      <path d="M176 101 L 155 80"/>
+      <path d="M324 101 L 345 80"/>
+      <path d="M176 249 L 155 270" stroke-width="4"/>
+      <path d="M324 249 L 345 270" stroke-width="4"/>
+    </g>
+
+    <!-- table line -->
+    <path d="M70 474 H 1130" stroke="#5c4633"/>
+
+    <!-- grow tray -->
+    <g stroke="#5c4633">
+      <path d="M430 470 H 762 V 404 H 430 Z"/>
+      <path d="M440 416 H 752" stroke-width="4"/>
+    </g>
+
+    <!-- dense microgreens standing in the tray -->
+    <g stroke-width="4">
+      <path d="M462 404 V 322 M462 330 c -8 -8 -16 -9 -21 -4 M462 330 c 8 -8 16 -9 21 -4"/>
+      <path d="M498 404 V 312 M498 320 c -8 -8 -16 -9 -21 -4 M498 320 c 8 -8 16 -9 21 -4"/>
+      <path d="M534 404 V 328 M534 336 c -8 -8 -16 -9 -21 -4 M534 336 c 8 -8 16 -9 21 -4"/>
+      <path d="M570 404 V 316 M570 324 c -8 -8 -16 -9 -21 -4 M570 324 c 8 -8 16 -9 21 -4"/>
+      <path d="M606 404 V 326 M606 334 c -8 -8 -16 -9 -21 -4 M606 334 c 8 -8 16 -9 21 -4"/>
+      <path d="M642 404 V 314 M642 322 c -8 -8 -16 -9 -21 -4 M642 322 c 8 -8 16 -9 21 -4"/>
+      <path d="M678 404 V 328 M678 336 c -8 -8 -16 -9 -21 -4 M678 336 c 8 -8 16 -9 21 -4"/>
+      <path d="M714 404 V 320 M714 328 c -8 -8 -16 -9 -21 -4 M714 328 c 8 -8 16 -9 21 -4"/>
+    </g>
+    <g stroke="#8a7e3a" stroke-width="4">
+      <path d="M480 404 V 336 M480 344 c -7 -7 -14 -8 -18 -3 M480 344 c 7 -7 14 -8 18 -3"/>
+      <path d="M588 404 V 338 M588 346 c -7 -7 -14 -8 -18 -3 M588 346 c 7 -7 14 -8 18 -3"/>
+      <path d="M696 404 V 334 M696 342 c -7 -7 -14 -8 -18 -3 M696 342 c 7 -7 14 -8 18 -3"/>
+    </g>
+
+    <!-- blade cutting across, just above the soil line -->
+    <g stroke="#1f2419">
+      <path d="M406 396 L 760 396 L 774 390 L 774 384 L 424 384 Z" fill="#f5ead3"/>
+    </g>
+    <!-- wooden handle -->
+    <path d="M774 383 H 838 V 397 H 774 Z" stroke="#5c4633"/>
+
+    <!-- a few cut greens falling toward the clamshell -->
+    <g stroke="#3a5a2a" stroke-width="4">
+      <g transform="translate(810 438) rotate(38)">
+        <path d="M0 0 V -20 M0 -13 c -7 -6 -14 -7 -18 -3 M0 -13 c 7 -6 14 -7 18 -3"/>
+      </g>
+      <g transform="translate(846 460) rotate(-22)">
+        <path d="M0 0 V -18 M0 -12 c -6 -6 -12 -7 -16 -3 M0 -12 c 6 -6 12 -7 16 -3"/>
+      </g>
+    </g>
+
+    <!-- open clamshell alongside -->
+    <g stroke="#5c4633">
+      <path d="M868 470 H 1092 V 430 H 868 Z"/>
+      <path d="M868 430 L 848 360 H 1072 L 1092 430"/>
+    </g>
+    <!-- greens already resting in the clamshell -->
+    <g stroke="#3a5a2a" stroke-width="4">
+      <path d="M912 430 V 402 M912 410 c -6 -6 -12 -7 -16 -3 M912 410 c 6 -6 12 -7 16 -3"/>
+      <path d="M960 430 V 396 M960 404 c -6 -6 -12 -7 -16 -3 M960 404 c 6 -6 12 -7 16 -3"/>
+      <path d="M1008 430 V 402 M1008 410 c -6 -6 -12 -7 -16 -3 M1008 410 c 6 -6 12 -7 16 -3"/>
+      <path d="M1052 430 V 398 M1052 406 c -6 -6 -12 -7 -16 -3 M1052 406 c 6 -6 12 -7 16 -3"/>
+    </g>
+
+  </g>
+</svg>
