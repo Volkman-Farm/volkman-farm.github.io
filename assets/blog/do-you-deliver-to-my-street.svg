@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a delivery route map: a road leaving a small grow shed, passing three round stops, with a short side street branching off to a marked pin where a clamshell of microgreens waits">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- sun, upper right -->
+    <g stroke="#8a7e3a">
+      <circle cx="1046" cy="122" r="50"/>
+      <path d="M1046 42 V 18"/>
+      <path d="M1046 226 V 202" stroke-width="4"/>
+      <path d="M966 122 H 942"/>
+      <path d="M1150 122 H 1126"/>
+      <path d="M989 65 L 972 48"/>
+      <path d="M1103 65 L 1120 48"/>
+      <path d="M989 179 L 972 196" stroke-width="4"/>
+      <path d="M1103 179 L 1120 196" stroke-width="4"/>
+    </g>
+
+    <!-- the route -->
+    <path d="M170 262 L 380 262 L 470 382 L 760 382 L 850 262 L 1110 262" stroke="#5c4633" stroke-width="11"/>
+    <path d="M170 262 L 380 262 L 470 382 L 760 382 L 850 262 L 1110 262" stroke="#8a7e3a" stroke-width="3" stroke-dasharray="20 26"/>
+
+    <!-- the side street branching off to the new stop -->
+    <path d="M560 382 L 560 512" stroke="#5c4633" stroke-width="9"/>
+    <path d="M560 396 L 560 500" stroke="#8a7e3a" stroke-width="3" stroke-dasharray="16 22"/>
+
+    <!-- grow shed at the start of the route -->
+    <g stroke="#5c4633">
+      <path d="M84 224 H 258 V 130 H 84 Z"/>
+      <path d="M62 130 L 171 62 L 280 130"/>
+      <path d="M148 224 V 168 H 194 V 224" stroke-width="4"/>
+      <path d="M104 186 H 136 V 152 H 104 Z" stroke-width="4"/>
+    </g>
+    <!-- short path from the shed door down to the route -->
+    <path d="M171 224 V 262" stroke="#5c4633" stroke-width="4"/>
+
+    <!-- stops already on the route -->
+    <g stroke="#3a5a2a">
+      <circle cx="290" cy="262" r="17" fill="#f5ead3"/>
+      <circle cx="700" cy="382" r="17" fill="#f5ead3"/>
+      <circle cx="980" cy="262" r="17" fill="#f5ead3"/>
+    </g>
+
+    <!-- ground the new stop sits on -->
+    <path d="M498 544 H 776" stroke="#5c4633" stroke-width="4"/>
+
+    <!-- the new stop: pin dropped at the end of the side street -->
+    <g stroke="#6b2a2f">
+      <path d="M560 542 c -28 -28 -28 -66 0 -66 28 0 28 38 0 66 Z" fill="#f5ead3"/>
+      <circle cx="560" cy="500" r="12" stroke-width="4"/>
+    </g>
+
+    <!-- clamshell of greens waiting at the new stop -->
+    <g stroke="#5c4633" stroke-width="4">
+      <path d="M632 544 H 728 V 498 H 632 Z"/>
+      <path d="M632 516 H 728"/>
+    </g>
+    <g stroke="#3a5a2a" stroke-width="4">
+      <path d="M652 494 V 468 M652 476 c -7 -7 -14 -8 -18 -3 M652 476 c 7 -7 14 -8 18 -3"/>
+      <path d="M680 494 V 460 M680 468 c -7 -7 -14 -8 -18 -3 M680 468 c 7 -7 14 -8 18 -3"/>
+      <path d="M708 494 V 470 M708 478 c -7 -7 -14 -8 -18 -3 M708 478 c 7 -7 14 -8 18 -3"/>
+    </g>
+
+  </g>
+</svg>
