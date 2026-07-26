@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a shallow tray of broccoli microgreens with small paired round leaves standing close together, and a steaming bowl beside it with the same greens scattered over the top">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- sun, upper left -->
+    <g stroke="#8a7e3a">
+      <circle cx="180" cy="140" r="54"/>
+      <path d="M180 56 V 30"/>
+      <path d="M180 250 V 224" stroke-width="4"/>
+      <path d="M96 140 H 70"/>
+      <path d="M290 140 H 264"/>
+      <path d="M121 81 L 102 62"/>
+      <path d="M239 81 L 258 62"/>
+      <path d="M121 199 L 102 218" stroke-width="4"/>
+      <path d="M239 199 L 258 218" stroke-width="4"/>
+    </g>
+
+    <!-- table line -->
+    <path d="M60 486 H 1140" stroke="#5c4633"/>
+
+    <!-- shallow grow tray -->
+    <g stroke="#5c4633">
+      <path d="M110 482 H 660 V 418 H 110 Z"/>
+      <path d="M120 430 H 650" stroke-width="4"/>
+    </g>
+
+    <!-- broccoli microgreens: thin stems with small paired round leaves -->
+    <g stroke-width="4">
+      <path d="M162 418 V 336"/>
+      <ellipse cx="149" cy="330" rx="14" ry="8" transform="rotate(-25 149 330)"/>
+      <ellipse cx="175" cy="330" rx="14" ry="8" transform="rotate(25 175 330)"/>
+
+      <path d="M217 418 V 350"/>
+      <ellipse cx="204" cy="344" rx="13" ry="8" transform="rotate(-22 204 344)"/>
+      <ellipse cx="230" cy="344" rx="13" ry="8" transform="rotate(22 230 344)"/>
+
+      <path d="M272 418 V 328"/>
+      <ellipse cx="259" cy="322" rx="14" ry="8" transform="rotate(-28 259 322)"/>
+      <ellipse cx="285" cy="322" rx="14" ry="8" transform="rotate(28 285 322)"/>
+
+      <path d="M327 418 V 346"/>
+      <ellipse cx="314" cy="340" rx="13" ry="8" transform="rotate(-20 314 340)"/>
+      <ellipse cx="340" cy="340" rx="13" ry="8" transform="rotate(20 340 340)"/>
+
+      <path d="M382 418 V 332"/>
+      <ellipse cx="369" cy="326" rx="14" ry="8" transform="rotate(-26 369 326)"/>
+      <ellipse cx="395" cy="326" rx="14" ry="8" transform="rotate(26 395 326)"/>
+
+      <path d="M437 418 V 352"/>
+      <ellipse cx="424" cy="346" rx="13" ry="8" transform="rotate(-22 424 346)"/>
+      <ellipse cx="450" cy="346" rx="13" ry="8" transform="rotate(22 450 346)"/>
+
+      <path d="M492 418 V 330"/>
+      <ellipse cx="479" cy="324" rx="14" ry="8" transform="rotate(-27 479 324)"/>
+      <ellipse cx="505" cy="324" rx="14" ry="8" transform="rotate(27 505 324)"/>
+
+      <path d="M547 418 V 348"/>
+      <ellipse cx="534" cy="342" rx="13" ry="8" transform="rotate(-21 534 342)"/>
+      <ellipse cx="560" cy="342" rx="13" ry="8" transform="rotate(21 560 342)"/>
+
+      <path d="M602 418 V 334"/>
+      <ellipse cx="589" cy="328" rx="14" ry="8" transform="rotate(-25 589 328)"/>
+      <ellipse cx="615" cy="328" rx="14" ry="8" transform="rotate(25 615 328)"/>
+    </g>
+
+    <!-- a couple of shorter seedlings in olive for depth -->
+    <g stroke="#8a7e3a" stroke-width="4">
+      <path d="M189 418 V 372"/>
+      <ellipse cx="179" cy="367" rx="11" ry="7" transform="rotate(-22 179 367)"/>
+      <ellipse cx="199" cy="367" rx="11" ry="7" transform="rotate(22 199 367)"/>
+
+      <path d="M354 418 V 376"/>
+      <ellipse cx="344" cy="371" rx="11" ry="7" transform="rotate(-22 344 371)"/>
+      <ellipse cx="364" cy="371" rx="11" ry="7" transform="rotate(22 364 371)"/>
+
+      <path d="M519 418 V 374"/>
+      <ellipse cx="509" cy="369" rx="11" ry="7" transform="rotate(-22 509 369)"/>
+      <ellipse cx="529" cy="369" rx="11" ry="7" transform="rotate(22 529 369)"/>
+    </g>
+
+    <!-- a bowl beside the tray, with the same greens scattered over it -->
+
+    <!-- steam -->
+    <g stroke="#8a7e3a" stroke-width="4">
+      <path d="M902 336 c -16 -20, 16 -36, 0 -56"/>
+      <path d="M950 322 c -16 -20, 16 -36, 0 -56"/>
+      <path d="M998 336 c -16 -20, 16 -36, 0 -56"/>
+    </g>
+
+    <!-- bowl -->
+    <g stroke="#1f2419">
+      <path d="M832 386 C 840 452, 888 486, 950 486 C 1012 486, 1060 452, 1068 386"/>
+      <ellipse cx="950" cy="386" rx="118" ry="18" fill="#f5ead3"/>
+    </g>
+
+    <!-- greens scattered across the surface -->
+    <g stroke="#3a5a2a" stroke-width="4">
+      <path d="M886 386 V 358"/>
+      <ellipse cx="875" cy="353" rx="12" ry="7" transform="rotate(-24 875 353)"/>
+      <ellipse cx="897" cy="353" rx="12" ry="7" transform="rotate(24 897 353)"/>
+
+      <path d="M932 390 V 356"/>
+      <ellipse cx="921" cy="351" rx="12" ry="7" transform="rotate(-24 921 351)"/>
+      <ellipse cx="943" cy="351" rx="12" ry="7" transform="rotate(24 943 351)"/>
+
+      <path d="M978 390 V 360"/>
+      <ellipse cx="967" cy="355" rx="12" ry="7" transform="rotate(-24 967 355)"/>
+      <ellipse cx="989" cy="355" rx="12" ry="7" transform="rotate(24 989 355)"/>
+
+      <path d="M1022 386 V 362"/>
+      <ellipse cx="1011" cy="357" rx="12" ry="7" transform="rotate(-24 1011 357)"/>
+      <ellipse cx="1033" cy="357" rx="12" ry="7" transform="rotate(24 1033 357)"/>
+    </g>
+    <g stroke="#8a7e3a" stroke-width="4">
+      <path d="M909 392 V 374"/>
+      <ellipse cx="900" cy="370" rx="10" ry="6" transform="rotate(-24 900 370)"/>
+      <ellipse cx="918" cy="370" rx="10" ry="6" transform="rotate(24 918 370)"/>
+
+      <path d="M1000 392 V 376"/>
+      <ellipse cx="991" cy="372" rx="10" ry="6" transform="rotate(-24 991 372)"/>
+      <ellipse cx="1009" cy="372" rx="10" ry="6" transform="rotate(24 1009 372)"/>
+    </g>
+
+  </g>
+</svg>

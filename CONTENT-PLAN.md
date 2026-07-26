@@ -152,13 +152,13 @@ file back into `posts/`.
 | Wed Jul 22 | Permaculture | Sand favors ants. We are building for worms. | The soil-biology angle on mulch. Bare Florida sand runs hot and dry, which suits ants; the worms we want need cool, moist, loamy ground. Native organic matter is often under 1% and burns off fast in the heat, and low CEC lets nutrients leach before they stabilize. A 3-4 inch mulch layer is the lever: roughly 20F cooler at the surface in summer, holds moisture, feeds decomposers, and slowly tips the yard from ant territory toward worm territory. Builds on Jul 9. Link /greens/. | [x] posts/building-for-worms.md |
 | Thu Jul 23 | On the route | The text before the drop | How the delivery texting workflow works and why. | [x] posts/the-text-before-the-drop.md |
 | Fri Jul 24 | Growing notes | Harvest morning timeline | Sunrise to porch in hours. What "cut this morning" actually means. | [x] posts/harvest-morning-timeline.md |
-| Sat Jul 25 | Reader questions | Do you deliver to my street? | Route logic, how neighborhoods get added. Link /delivery/. | [ ] |
+| Sat Jul 25 | Reader questions | Do you deliver to my street? | Route logic, how neighborhoods get added. Link /delivery/. | [x] posts/do-you-deliver-to-my-street.md |
 
 ### Week 4 · Jul 26 - Aug 1 · Arc 1
 
 | Date | Pillar | Working title | Angle | Status |
 |---|---|---|---|---|
-| Sun Jul 26 | Variety spotlight | Broccoli micros do the heavy lifting | Mild flavor, sulforaphane story with hedged verbs. Link /greens/broccoli/. | [ ] |
+| Sun Jul 26 | Variety spotlight | Broccoli micros do the heavy lifting | Mild flavor, sulforaphane story with hedged verbs. Link /greens/broccoli/. | [x] posts/broccoli-micros-do-the-heavy-lifting.md |
 | Mon Jul 27 | In the kitchen | The smoothie you won't taste | Hiding broccoli micros in smoothies for kids. | [ ] |
 | Tue Jul 28 | Homestead journal | The chickens run the compost | The run, the bin, what goes in, what the flock does with it. Builds on the Jul 9 post. | [ ] |
 | Wed Jul 29 | Permaculture | The bug factory we didn't build | Black soldier flies in depth: how the larvae self-harvest and why that loop matters. | [ ] |
