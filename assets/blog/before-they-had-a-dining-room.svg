@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of two closed clamshell containers packed full of microgreens sitting on a restaurant pass counter, a ticket rail with two tickets hanging above, a pendant lamp to the left, and a plated pinch of greens to the right">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- pendant lamp over the pass -->
+    <g stroke="#8a7e3a">
+      <path d="M150 14 V 96"/>
+      <path d="M92 176 L 150 96 L 208 176 Z" fill="#f5ead3"/>
+      <path d="M92 176 H 208" stroke-width="4"/>
+    </g>
+
+    <!-- ticket rail with two tickets -->
+    <g stroke="#5c4633">
+      <path d="M268 104 H 812"/>
+      <path d="M330 104 H 420 V 220 L 399 208 L 375 222 L 351 208 L 330 220 Z" fill="#f5ead3"/>
+      <path d="M640 104 H 730 V 200 L 709 188 L 685 202 L 661 188 L 640 200 Z" fill="#f5ead3"/>
+    </g>
+    <g stroke="#8a7e3a" stroke-width="3">
+      <path d="M348 144 H 402"/>
+      <path d="M348 170 H 390"/>
+      <path d="M348 196 H 402"/>
+      <path d="M658 144 H 712"/>
+      <path d="M658 170 H 700"/>
+    </g>
+
+    <!-- pass counter -->
+    <g stroke="#5c4633">
+      <path d="M50 470 H 1150"/>
+      <path d="M50 494 H 1150" stroke-width="4"/>
+    </g>
+
+    <!-- clamshell two, set behind and to the right -->
+    <g stroke="#5c4633">
+      <path d="M475 382 H 735 V 458 H 475 Z" fill="#f5ead3"/>
+      <path d="M475 382 V 304 Q 475 286 493 286 H 717 Q 735 286 735 304 V 382 Z" fill="#f5ead3"/>
+    </g>
+    <g stroke-width="4">
+      <path d="M491 378 V 328 M491 336 c -6 -6 -12 -7 -16 -3 M491 336 c 6 -6 12 -7 16 -3"/>
+      <path d="M539 378 V 332 M539 340 c -6 -6 -12 -7 -16 -3 M539 340 c 6 -6 12 -7 16 -3"/>
+      <path d="M563 378 V 310 M563 318 c -6 -6 -12 -7 -16 -3 M563 318 c 6 -6 12 -7 16 -3"/>
+      <path d="M611 378 V 314 M611 322 c -6 -6 -12 -7 -16 -3 M611 322 c 6 -6 12 -7 16 -3"/>
+      <path d="M659 378 V 318 M659 326 c -6 -6 -12 -7 -16 -3 M659 326 c 6 -6 12 -7 16 -3"/>
+      <path d="M707 378 V 336 M707 344 c -6 -6 -12 -7 -16 -3 M707 344 c 6 -6 12 -7 16 -3"/>
+    </g>
+    <g stroke="#8a7e3a" stroke-width="4">
+      <path d="M515 378 V 316 M515 324 c -6 -6 -12 -7 -16 -3 M515 324 c 6 -6 12 -7 16 -3"/>
+      <path d="M587 378 V 324 M587 332 c -6 -6 -12 -7 -16 -3 M587 332 c 6 -6 12 -7 16 -3"/>
+      <path d="M635 378 V 330 M635 338 c -6 -6 -12 -7 -16 -3 M635 338 c 6 -6 12 -7 16 -3"/>
+      <path d="M683 378 V 326 M683 334 c -6 -6 -12 -7 -16 -3 M683 334 c 6 -6 12 -7 16 -3"/>
+    </g>
+    <g stroke="#5c4633" stroke-width="4">
+      <path d="M463 382 H 747"/>
+      <path d="M487 424 H 723"/>
+      <path d="M545 458 V 444 M665 458 V 444"/>
+    </g>
+
+    <!-- clamshell one, front left, occludes the one behind -->
+    <g stroke="#5c4633">
+      <path d="M270 394 H 530 V 470 H 270 Z" fill="#f5ead3"/>
+      <path d="M270 394 V 316 Q 270 298 288 298 H 512 Q 530 298 530 316 V 394 Z" fill="#f5ead3"/>
+    </g>
+    <g stroke-width="4">
+      <path d="M286 390 V 340 M286 348 c -6 -6 -12 -7 -16 -3 M286 348 c 6 -6 12 -7 16 -3"/>
+      <path d="M334 390 V 344 M334 352 c -6 -6 -12 -7 -16 -3 M334 352 c 6 -6 12 -7 16 -3"/>
+      <path d="M358 390 V 322 M358 330 c -6 -6 -12 -7 -16 -3 M358 330 c 6 -6 12 -7 16 -3"/>
+      <path d="M406 390 V 326 M406 334 c -6 -6 -12 -7 -16 -3 M406 334 c 6 -6 12 -7 16 -3"/>
+      <path d="M454 390 V 330 M454 338 c -6 -6 -12 -7 -16 -3 M454 338 c 6 -6 12 -7 16 -3"/>
+      <path d="M502 390 V 348 M502 356 c -6 -6 -12 -7 -16 -3 M502 356 c 6 -6 12 -7 16 -3"/>
+    </g>
+    <g stroke="#8a7e3a" stroke-width="4">
+      <path d="M310 390 V 328 M310 336 c -6 -6 -12 -7 -16 -3 M310 336 c 6 -6 12 -7 16 -3"/>
+      <path d="M382 390 V 336 M382 344 c -6 -6 -12 -7 -16 -3 M382 344 c 6 -6 12 -7 16 -3"/>
+      <path d="M430 390 V 342 M430 350 c -6 -6 -12 -7 -16 -3 M430 350 c 6 -6 12 -7 16 -3"/>
+      <path d="M478 390 V 338 M478 346 c -6 -6 -12 -7 -16 -3 M478 346 c 6 -6 12 -7 16 -3"/>
+    </g>
+    <g stroke="#5c4633" stroke-width="4">
+      <path d="M258 394 H 542"/>
+      <path d="M282 436 H 518"/>
+      <path d="M340 470 V 456 M460 470 V 456"/>
+    </g>
+
+    <!-- plated pinch of greens at the end of the pass -->
+    <g stroke="#1f2419">
+      <ellipse cx="940" cy="464" rx="105" ry="20" fill="#f5ead3"/>
+      <ellipse cx="940" cy="461" rx="66" ry="11" stroke-width="4"/>
+    </g>
+    <g stroke-width="4">
+      <path d="M898 456 V 410 M898 418 c -6 -6 -12 -7 -16 -3 M898 418 c 6 -6 12 -7 16 -3"/>
+      <path d="M920 456 V 398 M920 406 c -6 -6 -12 -7 -16 -3 M920 406 c 6 -6 12 -7 16 -3"/>
+      <path d="M962 456 V 400 M962 408 c -6 -6 -12 -7 -16 -3 M962 408 c 6 -6 12 -7 16 -3"/>
+      <path d="M982 456 V 412 M982 420 c -6 -6 -12 -7 -16 -3 M982 420 c 6 -6 12 -7 16 -3"/>
+    </g>
+    <path d="M941 456 V 390 M941 398 c -6 -6 -12 -7 -16 -3 M941 398 c 6 -6 12 -7 16 -3" stroke="#6b2a2f" stroke-width="4"/>
+
+  </g>
+</svg>

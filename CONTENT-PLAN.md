@@ -106,6 +106,7 @@ file back into `posts/`.
 |---|---|---|---|
 | On the route | A Friday morning, hour by hour | Harvest at sunrise, packing line, Sanford to Oviedo. Drafted and illustrated, never dated. Wants a Friday slot. | drafted, drafts/a-friday-morning-hour-by-hour.md |
 | Growing notes | Water: why filtered matters | Chlorine, tender roots, consistency. Displaced from Fri Aug 7 on 2026-07-20 to make room for the amaranth follow-up, which is date-sensitive. Not written yet; slot it into the next open Growing notes row. | not drafted |
+| In the kitchen | The smoothie you won't taste | Hiding broccoli micros in smoothies for kids. Displaced from Mon Jul 27 on 2026-07-27 by the Nazca Lines profile. Slot into the next open In the kitchen row. | not drafted |
 
 ## Arcs
 
@@ -159,7 +160,7 @@ file back into `posts/`.
 | Date | Pillar | Working title | Angle | Status |
 |---|---|---|---|---|
 | Sun Jul 26 | Variety spotlight | Broccoli micros do the heavy lifting | Mild flavor, sulforaphane story with hedged verbs. Link /greens/broccoli/. | [x] posts/broccoli-micros-do-the-heavy-lifting.md |
-| Mon Jul 27 | In the kitchen | The smoothie you won't taste | Hiding broccoli micros in smoothies for kids. | [ ] |
+| Mon Jul 27 | On the route | Before they had a dining room | Profile of The Nazca Lines, the Longwood Peruvian restaurant we started growing for while it was still a construction site. What a standing wholesale order asks of a small farm. Names the restaurant with permission (decided 2026-07-27); people are referred to by role only, never by name. Reports that the chef switched his standing order from beet to amaranth but does NOT claim the amaranth verdict, because the first amaranth delivery only goes out the week of Jul 27. Displaced "The smoothie you won't taste" to the backlog. | [x] posts/before-they-had-a-dining-room.md |
 | Tue Jul 28 | Homestead journal | The chickens run the compost | The run, the bin, what goes in, what the flock does with it. Builds on the Jul 9 post. | [ ] |
 | Wed Jul 29 | Permaculture | The bug factory we didn't build | Black soldier flies in depth: how the larvae self-harvest and why that loop matters. | [ ] |
 | Thu Jul 30 | On the route | What $3.50 an ounce pays for | Transparent cost breakdown. Seed, light, labor, gas. | [ ] |
@@ -175,7 +176,7 @@ file back into `posts/`.
 | Tue Aug 4 | Homestead journal | August plans, written in pencil | What we're planning for fall while it's too hot to plant. | [ ] |
 | Wed Aug 5 | Permaculture | Cover crops: the summer garden that feeds the fall one | Sunn hemp, cowpeas, what we're trying. | [ ] |
 | Thu Aug 6 | On the route | Meet Lake Mary and Sanford | First neighborhoods profile. Link both city pages. | [ ] |
-| Fri Aug 7 | Growing notes | Did the amaranth work? | Follow-up owed to readers. The Jul 19 beet post promised a straight answer on the amaranth tray started that week, including if it failed. Report what actually happened: did it hold color, did it dodge the mold problem, is it staying or not. Do not write this one until Albert says how the tray turned out. Never claim a result to fill the slot. Amaranth is not one of the ten varieties and has no /greens/ page, so link /greens/beet/ or /restaurants/, not amaranth. Builds on Jul 19. | [ ] |
+| Fri Aug 7 | Growing notes | Did the amaranth work? | Still the verdict post; the Jul 27 Nazca Lines post deliberately did NOT answer it. As of 2026-07-27 the chef had switched his standing order from beet to amaranth but the first amaranth delivery had not gone out yet, so nothing has been cooked with. The Jul 27 post tells readers to ask in a month about three specific things, and this post owes exactly those: did it hold color through a Florida summer, did it dodge the mold problem beet has, is he still ordering it. Do not write until Albert has the real answers, and report a failure as a failure. Amaranth is not one of the ten varieties and has no /greens/ page, so link /greens/beet/ or /restaurants/, not amaranth. Builds on Jul 19 and Jul 27. | [ ] |
 | Sat Aug 8 | Reader questions | Can I grow microgreens at home? | Generous honest answer: yes, here's the starter version. | [ ] |
 
 ### Week 6 · Aug 9-15 · Arc 2
