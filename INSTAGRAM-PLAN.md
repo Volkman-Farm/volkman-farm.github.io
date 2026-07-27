@@ -150,6 +150,14 @@ them (search facebook.com for the city's place page; the ID is in the URL):
 | Place | location_id |
 |---|---|
 | Sanford, Florida | 113088345368102 |
+| Longwood, Florida | unresolved, see note |
+
+Note (2026-07-27): Longwood came up for the Nazca Lines post and could not be
+resolved. `ig-publish.mjs` has no place search, Meta's pages search is closed to
+apps like ours, and the only Longwood result is the city government page, which
+is not a place page. Never guess an ID; a wrong one geotags the wrong town in
+public. Until someone finds the real ID, publish without `--location` and set the
+location by hand in the app, which is editable on feed posts after publishing.
 
 ## Posted log
 
@@ -162,6 +170,7 @@ them (search facebook.com for the city's place page; the ID is in the URL):
 | 2026-07-16 | Homestead honest (mulch + sunn hemp carousel) | https://www.instagram.com/p/Da24dlVkd_V/ |
 | 2026-07-22 | In the kitchen (cilantro micros on tacos) | https://www.instagram.com/p/DbF69VoIJ5y/ |
 | 2026-07-24 | Route morning (harvest knife on tray) | https://www.instagram.com/p/DbLq6yfIIin/ |
+| 2026-07-27 | Wholesale (The Nazca Lines GM with clamshells) | https://www.instagram.com/p/DbTR2B-oC8b/ |
 
 ## Measurement (keep it light)
 
