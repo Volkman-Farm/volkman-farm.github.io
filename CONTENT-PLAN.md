@@ -49,9 +49,26 @@ Three subjects, in this priority order:
   Zone X (minimal flood hazard). Planting rule from the LiDAR contours: trees and mounds
   on the higher ground, water-tolerant plants in the lows. Never publish the street
   address, the septic locations, or details about structures beyond the grow shed.
-- Homestead facts (updated 2026-07-16): besides the fixed chicken run there is a moving
-  chicken tractor; its year-old parked mulch piles become garden beds (our oldest
-  daughter's second bed started as one). A sunn hemp food plot is already planted on the front
+- Homestead facts (updated 2026-07-28): the chicken tractor is NOT roaming the yard. It
+  was meant to, and it did before the fixed run went in, but since then it only moves
+  around inside the fixed run. Do not write it as a pen dragged across the property. The
+  reason is predator pressure, not labor: the fixed run has aviary netting over the top to
+  protect the flock from hawks, and you cannot net a pen that moves. Never attribute the
+  switch to the work being too much. We lost a bird to a hawk before the net went up; the
+  younger daughter found her and cried for a day, and the family went out for burgers that
+  evening. Albert approved publishing that in full on 2026-07-28, birth order only per the
+  kids rule. Treat it as a one-time approval: ask again before reusing the family's grief
+  in another post or on Instagram.
+  Composting history, corrected 2026-07-28: we did own a compost tumbler early on. Once
+  the mulch piles and the chicken run were going it stopped getting filled, so we cleaned
+  it out and gave it to Albert's in-laws. Never write "we never composted" or "we never
+  built a pile." Also: the mulch piles OUTSIDE the run do get turned by hand, on no
+  schedule at all. Only the material inside the run goes unturned, because the flock does
+  it. Distance matters too: the run is about 150 feet from the microgreens shed (123 ft
+  edge to edge, 160 ft centroid to centroid per the parcel GIS), so spent trays are a
+  wheelbarrow trip, not a few steps.
+- Homestead facts (updated 2026-07-16): year-old parked mulch piles become garden beds
+  (our oldest daughter's second bed started as one). A sunn hemp food plot is already planted on the front
   three-quarter acre (seeded spring 2026, flowering by late June), with a new seed mix
   planned next. The chickens and mulch piles are in the backyard. A well and a rainwater cistern are planned, not built:
   frame both as plans.
@@ -161,7 +178,7 @@ file back into `posts/`.
 |---|---|---|---|---|
 | Sun Jul 26 | Variety spotlight | Broccoli micros do the heavy lifting | Mild flavor, sulforaphane story with hedged verbs. Link /greens/broccoli/. | [x] posts/broccoli-micros-do-the-heavy-lifting.md |
 | Mon Jul 27 | On the route | Before they had a dining room | Profile of The Nazca Lines, the Longwood Peruvian restaurant we started growing for while it was still a construction site. What a standing wholesale order asks of a small farm. Names the restaurant with permission (decided 2026-07-27); people are referred to by role only, never by name. Reports that the chef switched his standing order from beet to amaranth but does NOT claim the amaranth verdict, because the first amaranth delivery only goes out the week of Jul 27. Displaced "The smoothie you won't taste" to the backlog. | [x] posts/before-they-had-a-dining-room.md |
-| Tue Jul 28 | Homestead journal | The chickens run the compost | The run, the bin, what goes in, what the flock does with it. Builds on the Jul 9 post. | [ ] |
+| Tue Jul 28 | Homestead journal | The chickens run the compost | The run, the bin, what goes in, what the flock does with it. Builds on the Jul 9 post. | [x] posts/the-chickens-run-the-compost.md |
 | Wed Jul 29 | Permaculture | The bug factory we didn't build | Black soldier flies in depth: how the larvae self-harvest and why that loop matters. | [ ] |
 | Thu Jul 30 | On the route | What $3.50 an ounce pays for | Transparent cost breakdown. Seed, light, labor, gas. | [ ] |
 | Fri Jul 31 | Growing notes | Keeping a grow shed cool in a Florida July | Heat management honestly told. | [ ] |
