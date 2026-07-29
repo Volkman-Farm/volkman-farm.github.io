@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a compost bin cut away to show larvae climbing the inside wall and going over the rim, with a chicken waiting below and a black soldier fly above">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- sun, upper left -->
+    <g stroke="#8a7e3a">
+      <circle cx="104" cy="132" r="30"/>
+      <path d="M104 82 V 71"/>
+      <path d="M104 182 V 193"/>
+      <path d="M54 132 H 43"/>
+      <path d="M154 132 H 165"/>
+      <path d="M68 96 L 60 88"/>
+      <path d="M140 96 L 148 88"/>
+      <path d="M68 168 L 60 176"/>
+      <path d="M140 168 L 148 176"/>
+    </g>
+
+    <!-- ground line -->
+    <path d="M50 540 H 1160" stroke="#5c4633"/>
+
+    <!-- compost bin, drawn in section: tapered walls, floor, rim, propped lid -->
+    <g stroke="#5c4633">
+      <path d="M300 302 L 310 530 H 648 L 658 302" stroke-width="6"/>
+      <path d="M266 302 H 334" stroke-width="8"/>
+      <path d="M624 302 H 692" stroke-width="8"/>
+      <!-- propped lid, hinged open to the left -->
+      <path d="M272 294 L 218 228" stroke-width="6"/>
+      <path d="M286 282 L 232 216" stroke-width="6"/>
+      <path d="M272 294 L 286 282 M218 228 L 232 216" stroke-width="5"/>
+      <!-- ribbed wall texture -->
+      <g stroke-width="2.5">
+        <path d="M306 452 L 303 392"/>
+        <path d="M652 452 L 655 392"/>
+      </g>
+    </g>
+
+    <!-- scraps heaped in the bottom of the bin -->
+    <g stroke="#5c4633" stroke-width="4">
+      <path d="M320 530 C 348 458 424 430 476 434 C 546 440 606 476 640 530"/>
+      <path d="M376 482 c 18 -16 40 -14 52 2"/>
+      <path d="M504 458 c 16 -18 40 -18 54 -2"/>
+      <path d="M454 508 c 14 -14 34 -12 46 2"/>
+    </g>
+
+    <!-- larvae working inside the heap -->
+    <g stroke="#8a7e3a" stroke-width="4">
+      <path d="M352 514 c 6 -6 12 4 18 -1"/>
+      <path d="M416 500 c 6 -6 12 4 18 -1"/>
+      <path d="M478 474 c 6 -6 12 4 18 -1"/>
+      <path d="M556 498 c 6 -6 12 4 18 -1"/>
+      <path d="M592 518 c 6 -6 12 4 18 -1"/>
+    </g>
+
+    <!-- larvae climbing the inside of the right wall -->
+    <g stroke="#1f2419" stroke-width="4">
+      <path d="M640 452 c -6 6 4 12 -1 18"/>
+      <path d="M643 396 c -6 6 4 12 -1 18"/>
+      <path d="M646 340 c -6 6 4 12 -1 18"/>
+      <!-- one cresting the rim -->
+      <path d="M652 282 c 6 -6 12 4 18 -1"/>
+    </g>
+
+    <!-- the exit: over the rim, down to the waiting bird -->
+    <path d="M708 320 C 772 350 806 392 800 462"/>
+    <path d="M800 462 l -12 -18 m 12 18 l 14 -16" stroke-width="4"/>
+    <g stroke="#1f2419" stroke-width="4">
+      <path d="M742 340 c 8 -3 8 9 16 6"/>
+      <path d="M780 386 c 8 -3 8 9 16 6"/>
+    </g>
+
+    <!-- hen at the base of the arrow, facing the bin -->
+    <g transform="translate(1481, 18) scale(-1.05, 1.05)">
+      <path d="M470 430 C 452 430 440 416 442 400 C 420 396 414 378 424 366 C 434 380 448 384 452 382 C 458 360 486 348 512 356 C 526 340 548 340 556 344 C 552 352 548 360 546 368 C 556 382 556 402 544 416 C 528 434 492 438 470 430 Z" fill="#f5ead3"/>
+      <path d="M528 344 c 2 -8 10 -10 14 -6 c 6 -6 14 -2 12 6" stroke="#6b2a2f" stroke-width="4"/>
+      <circle cx="540" cy="356" r="2.5" fill="#3a5a2a"/>
+      <path d="M556 358 l 14 5 l -14 6" stroke-width="4"/>
+      <path d="M548 370 c 0 7 -8 9 -12 5" stroke="#6b2a2f" stroke-width="4"/>
+      <path d="M470 386 C 486 380 504 384 510 396 C 500 406 482 406 472 398" stroke-width="4"/>
+      <path d="M482 434 V 470 M482 470 l -11 9 M482 470 l 11 9" stroke-width="4"/>
+      <path d="M512 430 V 470 M512 470 l -11 9 M512 470 l 11 9" stroke-width="4"/>
+    </g>
+
+    <!-- adult black soldier fly above the open bin -->
+    <g stroke="#1f2419">
+      <circle cx="466" cy="98" r="12" fill="#f5ead3"/>
+      <path d="M457 89 c -7 -11 -14 -14 -21 -12" stroke-width="4"/>
+      <path d="M475 89 c 7 -11 14 -14 21 -12" stroke-width="4"/>
+      <path d="M466 110 c 14 0 21 12 21 27 c 0 23 -9 41 -21 41 c -12 0 -21 -18 -21 -41 c 0 -15 7 -27 21 -27 Z" fill="#f5ead3"/>
+      <path d="M451 144 h 30" stroke-width="3"/>
+      <path d="M453 158 h 26" stroke-width="3"/>
+      <path d="M458 170 h 16" stroke-width="3"/>
+      <path d="M452 120 C 414 120 388 140 386 158 C 416 158 444 144 452 130" stroke-width="4"/>
+      <path d="M480 120 C 518 120 544 140 546 158 C 516 158 488 144 480 130" stroke-width="4"/>
+    </g>
+
+    <!-- a second fly, smaller, off to the right -->
+    <g stroke="#1f2419">
+      <circle cx="912" cy="150" r="7" fill="#f5ead3"/>
+      <path d="M907 145 c -4 -6 -8 -8 -12 -7" stroke-width="3"/>
+      <path d="M917 145 c 4 -6 8 -8 12 -7" stroke-width="3"/>
+      <path d="M912 157 c 8 0 12 7 12 16 c 0 13 -5 23 -12 23 c -7 0 -12 -10 -12 -23 c 0 -9 4 -16 12 -16 Z" fill="#f5ead3"/>
+      <path d="M904 176 h 16" stroke-width="2.5"/>
+      <path d="M905 186 h 14" stroke-width="2.5"/>
+      <path d="M903 163 C 881 163 866 175 865 185 C 882 185 898 177 903 169" stroke-width="3"/>
+      <path d="M921 163 C 943 163 958 175 959 185 C 942 185 926 177 921 169" stroke-width="3"/>
+    </g>
+
+  </g>
+</svg>
