@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of an open clamshell of microgreens on the left, a blender jar holding greens and round berries in the middle, and a tall filled glass with a straw on the right">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- counter line -->
+    <path d="M60 540 H 1140" stroke="#5c4633"/>
+
+    <!-- open clamshell of greens, the handful comes from here -->
+    <g stroke="#5c4633">
+      <path d="M150 540 H 370 V 498 H 150 Z"/>
+      <path d="M150 498 L 132 430 H 352 L 370 498"/>
+    </g>
+    <g stroke-width="4">
+      <path d="M192 498 V 462 M192 470 c -6 -6 -12 -7 -16 -3 M192 470 c 6 -6 12 -7 16 -3"/>
+      <path d="M238 498 V 454 M238 462 c -6 -6 -12 -7 -16 -3 M238 462 c 6 -6 12 -7 16 -3"/>
+      <path d="M284 498 V 464 M284 472 c -6 -6 -12 -7 -16 -3 M284 472 c 6 -6 12 -7 16 -3"/>
+      <path d="M330 498 V 456 M330 464 c -6 -6 -12 -7 -16 -3 M330 464 c 6 -6 12 -7 16 -3"/>
+    </g>
+    <g stroke="#8a7e3a" stroke-width="4">
+      <path d="M215 498 V 474 M215 480 c -6 -6 -11 -6 -14 -2 M215 480 c 6 -6 11 -6 14 -2"/>
+      <path d="M307 498 V 476 M307 482 c -6 -6 -11 -6 -14 -2 M307 482 c 6 -6 11 -6 14 -2"/>
+    </g>
+
+    <!-- blender: motor base -->
+    <g stroke="#5c4633">
+      <path d="M440 540 H 584 V 468 H 440 Z"/>
+      <circle cx="552" cy="506" r="11" stroke-width="4"/>
+    </g>
+
+    <!-- blender: tapered jar -->
+    <g stroke="#1f2419">
+      <path d="M460 468 L 436 200"/>
+      <path d="M564 468 L 588 200"/>
+      <path d="M460 468 H 564"/>
+    </g>
+
+    <!-- blender: lid and handle -->
+    <rect x="426" y="176" width="172" height="24" rx="8" stroke="#5c4633"/>
+    <path d="M584 244 c 54 10 50 84 -12 106" stroke="#5c4633"/>
+
+    <!-- greens standing in the bottom of the jar -->
+    <g stroke-width="4">
+      <path d="M482 460 V 392 M482 400 c -8 -8 -16 -9 -21 -4 M482 400 c 8 -8 16 -9 21 -4"/>
+      <path d="M516 460 V 380 M516 388 c -8 -8 -16 -9 -21 -4 M516 388 c 8 -8 16 -9 21 -4"/>
+      <path d="M544 460 V 396 M544 404 c -8 -8 -16 -9 -21 -4 M544 404 c 8 -8 16 -9 21 -4"/>
+    </g>
+    <g stroke="#8a7e3a" stroke-width="4">
+      <path d="M500 460 V 414 M500 420 c -7 -7 -14 -8 -18 -3 M500 420 c 7 -7 14 -8 18 -3"/>
+    </g>
+
+    <!-- berries suspended in the jar -->
+    <g stroke="#6b2a2f" stroke-width="4">
+      <circle cx="470" cy="336" r="15"/>
+      <circle cx="510" cy="306" r="15"/>
+      <circle cx="476" cy="270" r="15"/>
+    </g>
+
+    <!-- tall glass, filled -->
+    <g stroke="#1f2419">
+      <path d="M704 540 L 694 250"/>
+      <path d="M800 540 L 810 250"/>
+      <path d="M704 540 H 800"/>
+    </g>
+
+    <!-- the blended surface, and flecks suspended through it -->
+    <path d="M697 292 H 807" stroke-width="4"/>
+    <g stroke-width="4">
+      <path d="M718 336 l 13 -7"/>
+      <path d="M762 366 l 13 -7"/>
+      <path d="M724 408 l 13 -7"/>
+      <path d="M770 438 l 13 -7"/>
+      <path d="M736 478 l 13 -7"/>
+    </g>
+
+    <!-- straw, dipping through the surface into the glass -->
+    <path d="M806 208 L 744 372" stroke="#8a7e3a"/>
+
+    <!-- a couple of berries and a sprout left on the counter -->
+    <g stroke="#6b2a2f" stroke-width="4">
+      <circle cx="940" cy="525" r="15"/>
+      <circle cx="984" cy="525" r="15"/>
+    </g>
+    <g stroke-width="4">
+      <path d="M1040 540 V 484 M1040 492 c -8 -8 -16 -9 -21 -4 M1040 492 c 8 -8 16 -9 21 -4"/>
+    </g>
+
+  </g>
+</svg>
