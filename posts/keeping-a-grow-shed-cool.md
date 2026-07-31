@@ -14,9 +14,7 @@ People assume the hard part of running a grow shed in July is keeping the Florid
 
 Every level with trays on it carries two full-spectrum LED fixtures, and they run twenty-four hours a day. We laid out the why back in [the shed tour](/blog/the-shed-albert-built/): a microgreen lives about two weeks, and steady light through that sprint is the difference between sturdy trays and pale ones stretching for a window.
 
-LEDs are efficient compared to what they replaced, but efficient is not the same as cold. Whatever does not leave a fixture as light leaves it as heat, and it leaves into a sealed room with no window to dump it out of. A full rack is ten fixtures. Two full racks is twenty. That load runs at three in the morning in January exactly the way it runs at three in the afternoon in July. In July it just lands on top of everything the roof is already absorbing.
-
-So the room has two heat sources to beat, and one of them is us.
+LEDs are efficient compared to what they replaced, but efficient is not the same as cold. Whatever does not leave a fixture as light leaves it as heat, and it leaves into a sealed room with no window to dump it out of. A full rack is ten fixtures. Two full racks is twenty. That load runs at three in the morning in January exactly the way it runs at three in the afternoon in July, and in July it lands on top of everything the roof is already absorbing. So the room ends up with two heat sources to beat, and we are one of them.
 
 ## The building does the first half of the work
 
@@ -28,7 +26,7 @@ The concrete pad matters here too, more than it looks like it should. It sits a 
 
 The air conditioner handles temperature. The Midea Cube dehumidifier handles moisture. People tend to lump them together as one system, but they are solving different problems.
 
-The air conditioner is a portable floor unit, not the wall box people picture, and it runs two hoses out through a window: one drawing outside air across the condenser, one pushing the hot air back out. That second hose is the whole ballgame, and there is a story in how we found that out. It gets its own post.
+The air conditioner is a portable floor unit, not the wall box people picture, and it runs two hoses out through a window: one drawing outside air across the condenser, one pushing the hot air back out. That second hose turned out to matter more than we expected. We ran the shed on a single-hose unit first, and figuring out why it would not cool was one of the more frustrating problems of the whole build. We will write that one up properly before long.
 
 A room full of [growing trays](/greens/) is a room busy making humidity. We water every day and the plants breathe it right back out. Left alone, that damp air is where damping off and surface mold get comfortable, and warm plus damp is much worse for a tray than warm alone.
 
