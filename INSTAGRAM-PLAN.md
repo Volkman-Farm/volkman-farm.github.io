@@ -172,6 +172,7 @@ location by hand in the app, which is editable on feed posts after publishing.
 | 2026-07-24 | Route morning (harvest knife on tray) | https://www.instagram.com/p/DbLq6yfIIin/ |
 | 2026-07-27 | Wholesale (The Nazca Lines GM with clamshells) | https://www.instagram.com/p/DbTR2B-oC8b/ |
 | 2026-07-29 | Homestead honest (black soldier fly on the bin, scraps carousel) | https://www.instagram.com/p/DbYR4JWICy3/ |
+| 2026-07-31 | Shed life (portable A/C and the two-hose window panel, carousel) | https://www.instagram.com/p/DbdiubOoLkm/ |
 
 ## Measurement (keep it light)
 
