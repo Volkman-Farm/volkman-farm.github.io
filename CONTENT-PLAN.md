@@ -67,6 +67,15 @@ Three subjects, in this priority order:
   it. Distance matters too: the run is about 150 feet from the microgreens shed (123 ft
   edge to edge, 160 ft centroid to centroid per the parcel GIS), so spent trays are a
   wheelbarrow trip, not a few steps.
+- Shed climate facts (corrected 2026-07-31): the air conditioner is a **portable floor unit
+  with two hoses run out a window**, not a wall or window box. Do not draw or describe it as
+  wall-mounted. It started as a single-hose unit, which did not cool the room: a single hose
+  exhausts air the room has to replace, so it pulled the shed into negative pressure and
+  dragged hot humid air in through every crack. Albert diagnosed that, built a makeshift
+  plenum around the intake, and cut a custom foam board panel to route both lines through the
+  window. The room cooled after that modification. This story is its own post (see Backlog);
+  do not spend it inside another post. Note: the Jul 8 shed post's hero art and hero_alt show
+  a wall-mounted air conditioner and are wrong. Fix pending Albert's call.
 - Homestead facts (updated 2026-07-16): year-old parked mulch piles become garden beds
   (our oldest daughter's second bed started as one). A sunn hemp food plot is already planted on the front
   three-quarter acre (seeded spring 2026, flowering by late June), with a new seed mix
@@ -122,6 +131,7 @@ file back into `posts/`.
 | Pillar | Working title | Angle | Status |
 |---|---|---|---|
 | On the route | A Friday morning, hour by hour | Harvest at sunrise, packing line, Sanford to Oviedo. Drafted and illustrated, never dated. Wants a Friday slot. | drafted, drafts/a-friday-morning-hour-by-hour.md |
+| Growing notes | The A/C that was cooling nothing | The single-hose portable A/C failure and fix. We could not work out why the shed would not cool. A single-hose unit exhausts air the room then has to replace, which put the shed under negative pressure and pulled hot humid air in through the cracks. Albert built a makeshift plenum around the intake and cut a custom foam board to route both lines out the window; the room finally started cooling. Strong failure-then-fix post, and it pairs with Jul 31, which mentions the two hoses and deliberately withholds this story. **Interview Albert before drafting**: which unit, when the single-hose ran, what the plenum is made of, how the foam board is cut and sealed, what the room did before and after, and whether any crop was lost to it. Do not invent temperatures. | not drafted, needs interview |
 | Growing notes | Water: why filtered matters | Chlorine, tender roots, consistency. Displaced from Fri Aug 7 on 2026-07-20 to make room for the amaranth follow-up, which is date-sensitive. Not written yet; slot it into the next open Growing notes row. | not drafted |
 | On the route | What $3.50 an ounce pays for | Transparent cost breakdown: seed, light, labor, gas. Pushed off Thu Jul 30 on 2026-07-30 because the numbers do not exist yet. **Blocked on two prerequisites, do not draft before both clear.** (1) A metered shed power figure. The Jul 8 shed post promises in print that we will publish a real number "rather than guess at it," so inventing one breaks a published promise. (2) The Fri Sep 18 "Yield math" post, which establishes ounces per tray. Without it there is no per-ounce denominator and no breakdown. Also needs seed and soil cost per tray (True Leaf Market seed, Fox Farm Happy Frog at about six cups per tray), labor hours, and route mileage. Slot into the first open On the route row after Sep 18; if none is open, add a row rather than displacing a dated post. | not drafted, blocked |
 
@@ -181,7 +191,7 @@ file back into `posts/`.
 | Tue Jul 28 | Homestead journal | The chickens run the compost | The run, the bin, what goes in, what the flock does with it. Builds on the Jul 9 post. | [x] posts/the-chickens-run-the-compost.md |
 | Wed Jul 29 | Permaculture | The bug factory we didn't build | Black soldier flies in depth: how the larvae self-harvest and why that loop matters. | [x] posts/the-bug-factory-we-didnt-build.md |
 | Thu Jul 30 | In the kitchen | The smoothie you won't taste | Hiding broccoli micros in smoothies for kids: how much, why red fruit gives you away, blender order. Pulled from the backlog on 2026-07-30 to fill this slot after "What $3.50 an ounce pays for" was pushed (blocked on a metered power number and the Sep 18 yield math). Picked over "Water: why filtered matters" because that one would have sat beside Fri Jul 31's shed-cooling post. Defers the sulforaphane question to the Jul 26 spotlight rather than restating it. | [x] posts/the-smoothie-you-wont-taste.md |
-| Fri Jul 31 | Growing notes | Keeping a grow shed cool in a Florida July | Heat management honestly told. | [ ] |
+| Fri Jul 31 | Growing notes | Keeping a grow shed cool in a Florida July | Heat management honestly told. | [x] posts/keeping-a-grow-shed-cool.md |
 | Sat Aug 1 | Reader questions | Why aren't you USDA Organic certified? | Organic seed, clean inputs, certification economics for a small farm. | [ ] |
 
 ### Week 5 · Aug 2-8 · Arc 2
