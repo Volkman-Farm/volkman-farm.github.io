@@ -1,10 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing inside the grow shed: a five-level rack of microgreen trays under light bars, with an air conditioner on the wall">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing inside the grow shed: a five-level rack of microgreen trays under light bars, a portable floor air conditioner running two hoses out a window, and a dehumidifier on the floor">
   <rect width="1200" height="630" fill="#f5ead3"/>
   <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
 
     <!-- room: floor and wall lines -->
     <path d="M60 540 H 1140" stroke="#5c4633"/>
-    <path d="M100 90 V 540 M1100 90 V 540" stroke="#5c4633"/>
+    <path d="M100 90 V 540" stroke="#5c4633"/>
+    <path d="M1100 90 V 220 M1100 350 V 540" stroke="#5c4633"/>
+
+    <!-- window the hoses run out of -->
+    <rect x="1074" y="220" width="52" height="130" rx="4" stroke="#5c4633"/>
     <path d="M100 90 H 1100" stroke="#5c4633"/>
 
     <!-- rack uprights -->
@@ -42,11 +46,25 @@
       <path d="M400 496 v -8 M435 496 v -10 M470 496 v -8 M540 496 v -8 M575 496 v -10 M610 496 v -8 M680 496 v -8 M715 496 v -10 M750 496 v -8"/>
     </g>
 
-    <!-- air conditioner, wall mounted -->
-    <g stroke="#5c4633">
-      <rect x="930" y="150" width="130" height="56" rx="8"/>
-      <path d="M945 190 H 1045" stroke-width="4"/>
-      <path d="M955 220 c -4 8 4 12 0 20 M985 220 c -4 8 4 12 0 20 M1015 220 c -4 8 4 12 0 20" stroke-width="4"/>
+    <!-- portable floor air conditioner, two hoses out the window -->
+    <g stroke="#1f2419">
+      <rect x="900" y="360" width="120" height="180" rx="10"/>
+      <path d="M920 390 H 1000 M920 406 H 1000 M920 422 H 1000" stroke-width="4"/>
+      <circle cx="960" cy="470" r="9" stroke-width="4"/>
+    </g>
+    <g stroke="#1f2419">
+      <path d="M925 360 C 925 300, 1000 258, 1074 258"/>
+      <path d="M990 360 C 990 330, 1010 312, 1074 312"/>
+      <g stroke-width="3">
+        <path d="M926 319 h 24 M972 277 v 20 M1020 255 v 20"/>
+        <path d="M982 340 h 24 M1008 315 v 20 M1034 305 v 20"/>
+      </g>
+    </g>
+
+    <!-- warm air leaving through the window -->
+    <g stroke="#8a7e3a" stroke-width="4">
+      <path d="M1136 258 c 12 5 20 -5 32 0"/>
+      <path d="M1136 312 c 12 5 20 -5 32 0"/>
     </g>
 
     <!-- dehumidifier on floor -->

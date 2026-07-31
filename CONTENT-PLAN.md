@@ -74,8 +74,9 @@ Three subjects, in this priority order:
   dragged hot humid air in through every crack. Albert diagnosed that, built a makeshift
   plenum around the intake, and cut a custom foam board panel to route both lines through the
   window. The room cooled after that modification. This story is its own post (see Backlog);
-  do not spend it inside another post. Note: the Jul 8 shed post's hero art and hero_alt show
-  a wall-mounted air conditioner and are wrong. Fix pending Albert's call.
+  do not spend it inside another post. The Jul 8 shed post's hero art and hero_alt showed a
+  wall-mounted air conditioner; both were redrawn and corrected on 2026-07-31. Its body copy
+  ("a small LG air conditioner") was already accurate and was left alone.
 - Homestead facts (updated 2026-07-16): year-old parked mulch piles become garden beds
   (our oldest daughter's second bed started as one). A sunn hemp food plot is already planted on the front
   three-quarter acre (seeded spring 2026, flowering by late June), with a new seed mix

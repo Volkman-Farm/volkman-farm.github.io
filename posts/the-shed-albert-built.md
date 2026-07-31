@@ -4,7 +4,7 @@ description: "A tour of the Volkman Farms grow shed in Sanford: the racks, the f
 date: 2026-07-08T09:00:00-04:00
 pillar: Homestead journal
 hero: /assets/blog/the-shed-albert-built.svg
-hero_alt: "Line drawing inside the grow shed: a rack of microgreen trays under light bars, an air conditioner on the wall, and a dehumidifier on the floor"
+hero_alt: "Line drawing inside the grow shed: a rack of microgreen trays under light bars, a portable floor air conditioner running two hoses out a window, and a dehumidifier on the floor"
 image: /assets/blog/the-shed-albert-built.png
 ---
 
