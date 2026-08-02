@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a shallow tray of arugula microgreens with rounded seed leaves and small notched true leaves, beside a wedge of pizza with a few shoots scattered on it">
+  <defs>
+    <g id="aru" fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <!-- stem -->
+      <path d="M0 0 C -3 -26 3 -46 0 -64"/>
+      <!-- two rounded seed leaves -->
+      <path d="M0 -64 C -22 -70 -34 -84 -30 -100 C -10 -96 0 -80 0 -64"/>
+      <path d="M0 -64 C 22 -70 34 -84 30 -100 C 10 -96 0 -80 0 -64"/>
+      <!-- the first true leaf, lobed down both sides the way arugula is -->
+      <path d="M0 -66 C -11 -74 -12 -80 -11 -84 C -4 -90 -4 -92 -6 -96
+               C -11 -100 -11 -103 -9 -106 C -5 -110 -2 -112 0 -118
+               C 2 -112 5 -110 9 -106 C 11 -103 11 -100 6 -96
+               C 4 -92 4 -90 11 -84 C 12 -80 11 -74 0 -66 Z" stroke-width="4"/>
+    </g>
+  </defs>
+
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- the Florida sun that ends a bed of grown arugula, upper left -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="212" cy="152" r="46"/>
+    <path d="M212 72 v -24 M212 232 v 24 M132 152 h -24 M292 152 h 24
+             M156 96 l -17 -17 M268 208 l 17 17 M268 96 l 17 -17 M156 208 l -17 17"/>
+  </g>
+
+  <!-- counter line -->
+  <path d="M60 502 H 1140" fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- shallow tray -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M180 420 H 500 L 552 462 H 128 Z"/>
+    <path d="M128 462 L 144 502 H 536 L 552 462"/>
+  </g>
+
+  <!-- soil bed inside the tray -->
+  <path d="M196 426 H 484 L 526 456 H 154 Z" fill="#5c4633" fill-opacity="0.13" stroke="#5c4633" stroke-width="3"/>
+
+  <!-- the arugula stand, back row smaller, front row larger -->
+  <g>
+    <use href="#aru" transform="translate(214,432) scale(0.82)"/>
+    <use href="#aru" transform="translate(276,428) scale(0.9)"/>
+    <use href="#aru" transform="translate(340,430) scale(0.84)"/>
+    <use href="#aru" transform="translate(404,428) scale(0.92)"/>
+    <use href="#aru" transform="translate(466,432) scale(0.8)"/>
+    <use href="#aru" transform="translate(246,448) scale(1.02)"/>
+    <use href="#aru" transform="translate(312,450) scale(1.1)"/>
+    <use href="#aru" transform="translate(378,448) scale(1.04)"/>
+    <use href="#aru" transform="translate(440,450) scale(0.96)"/>
+  </g>
+
+  <!-- pizza wedge on the right, tip pointing back toward the tray -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <!-- slice body -->
+    <path d="M646 470 L 1006 348 A 300 300 0 0 1 1042 494 Z"/>
+    <!-- crust, the outer band -->
+    <path d="M1006 348 A 300 300 0 0 1 1042 494" stroke-width="8"/>
+    <path d="M978 356 A 268 268 0 0 1 1010 488" stroke-width="4"/>
+  </g>
+
+  <!-- three toppings, the one place burgundy shows up -->
+  <g fill="none" stroke="#6b2a2f" stroke-width="5">
+    <circle cx="782" cy="455" r="19"/>
+    <circle cx="890" cy="412" r="18"/>
+    <circle cx="963" cy="452" r="18"/>
+  </g>
+
+  <!-- a few shoots scattered over the hot slice -->
+  <g>
+    <use href="#aru" transform="translate(842,478) scale(0.52) rotate(-12)"/>
+    <use href="#aru" transform="translate(930,470) scale(0.5) rotate(9)"/>
+    <use href="#aru" transform="translate(986,420) scale(0.48) rotate(-5)"/>
+  </g>
+
+  <!-- steam rising off the hot slice -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="4" stroke-linecap="round">
+    <path d="M830 396 c -12 -16 12 -26 0 -42 c -10 -14 6 -24 0 -38"/>
+    <path d="M910 368 c -12 -16 12 -26 0 -42 c -10 -14 6 -24 0 -38"/>
+    <path d="M985 342 c -12 -16 12 -26 0 -42 c -10 -14 6 -24 0 -38"/>
+  </g>
+</svg>

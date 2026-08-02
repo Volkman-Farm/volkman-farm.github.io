@@ -193,13 +193,13 @@ file back into `posts/`.
 | Wed Jul 29 | Permaculture | The bug factory we didn't build | Black soldier flies in depth: how the larvae self-harvest and why that loop matters. | [x] posts/the-bug-factory-we-didnt-build.md |
 | Thu Jul 30 | In the kitchen | The smoothie you won't taste | Hiding broccoli micros in smoothies for kids: how much, why red fruit gives you away, blender order. Pulled from the backlog on 2026-07-30 to fill this slot after "What $3.50 an ounce pays for" was pushed (blocked on a metered power number and the Sep 18 yield math). Picked over "Water: why filtered matters" because that one would have sat beside Fri Jul 31's shed-cooling post. Defers the sulforaphane question to the Jul 26 spotlight rather than restating it. | [x] posts/the-smoothie-you-wont-taste.md |
 | Fri Jul 31 | Growing notes | Keeping a grow shed cool in a Florida July | Heat management honestly told. | [x] posts/keeping-a-grow-shed-cool.md |
-| Sat Aug 1 | Reader questions | Why aren't you USDA Organic certified? | Organic seed, clean inputs, certification economics for a small farm. | [ ] |
+| Sat Aug 1 | Reader questions | Why aren't you USDA Organic certified? | Organic seed, clean inputs, certification economics for a small farm. | [x] posts/why-were-not-usda-organic-certified.md |
 
 ### Week 5 · Aug 2-8 · Arc 2
 
 | Date | Pillar | Working title | Angle | Status |
 |---|---|---|---|---|
-| Sun Aug 2 | Variety spotlight | Arugula before it gets bitter | Micro arugula vs mature. Link /greens/arugula/. | [ ] |
+| Sun Aug 2 | Variety spotlight | Arugula before it gets bitter | Micro arugula vs mature. Link /greens/arugula/. | [x] posts/arugula-before-it-gets-bitter.md |
 | Mon Aug 3 | In the kitchen | Summer salads that don't wilt by noon | Building lunch salads with sturdy micros. | [ ] |
 | Tue Aug 4 | Homestead journal | August plans, written in pencil | What we're planning for fall while it's too hot to plant. | [ ] |
 | Wed Aug 5 | Permaculture | Cover crops: the summer garden that feeds the fall one | Sunn hemp, cowpeas, what we're trying. | [ ] |
