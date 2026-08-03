@@ -200,7 +200,7 @@ file back into `posts/`.
 | Date | Pillar | Working title | Angle | Status |
 |---|---|---|---|---|
 | Sun Aug 2 | Variety spotlight | Arugula before it gets bitter | Micro arugula vs mature. Link /greens/arugula/. | [x] posts/arugula-before-it-gets-bitter.md |
-| Mon Aug 3 | In the kitchen | Summer salads that don't wilt by noon | Building lunch salads with sturdy micros. | [ ] |
+| Mon Aug 3 | In the kitchen | Summer salads that don't wilt by noon | Building lunch salads with sturdy micros. | [x] posts/summer-salads-that-dont-wilt-by-noon.md |
 | Tue Aug 4 | Homestead journal | August plans, written in pencil | What we're planning for fall while it's too hot to plant. | [ ] |
 | Wed Aug 5 | Permaculture | Cover crops: the summer garden that feeds the fall one | Sunn hemp, cowpeas, what we're trying. | [ ] |
 | Thu Aug 6 | On the route | Meet Lake Mary and Sanford | First neighborhoods profile. Link both city pages. | [ ] |

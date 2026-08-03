@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a wide mouth glass jar packed in layers with dressing at the bottom, chopped vegetables, a grain layer, and microgreens crowning the top, with the lid resting on one side, a fork on the other, and a small sun in the corner">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- sun, upper right -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="1086" cy="112" r="38"/>
+    <path d="M1086 44 v -22 M1086 180 v 22 M1018 112 h -22 M1154 112 h 22
+             M1038 64 l -16 -16 M1134 160 l 16 16 M1134 64 l 16 -16 M1038 160 l -16 16"/>
+  </g>
+
+  <!-- dressing pooled at the bottom of the jar -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M430 478 C 470 468 512 486 556 476 C 600 466 644 484 688 474 C 720 467 748 480 770 472"/>
+    <path d="M472 504 h 40 M560 512 h 46 M660 500 h 38 M496 524 h 34 M622 526 h 42"/>
+  </g>
+
+  <!-- hard vegetable layer -->
+  <g fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="486" cy="436" r="24"/>
+    <circle cx="486" cy="436" r="10"/>
+    <circle cx="634" cy="432" r="26"/>
+    <circle cx="634" cy="432" r="11"/>
+    <circle cx="706" cy="446" r="20"/>
+    <circle cx="706" cy="446" r="8"/>
+    <circle cx="524" cy="406" r="10"/>
+    <circle cx="596" cy="398" r="10"/>
+    <circle cx="672" cy="402" r="10"/>
+    <circle cx="742" cy="410" r="9"/>
+    <circle cx="452" cy="404" r="9"/>
+  </g>
+
+  <!-- one radish round, burgundy accent -->
+  <g fill="none" stroke="#6b2a2f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="560" cy="448" r="18"/>
+    <circle cx="560" cy="448" r="7"/>
+  </g>
+
+  <!-- grain layer -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M448 374 l 22 -8 M492 382 l 24 -6 M540 368 l 20 -10 M588 380 l 24 -6
+             M636 366 l 22 -8 M686 378 l 22 -8 M730 368 l 20 -10"/>
+    <path d="M466 346 l 22 -8 M516 352 l 20 -8 M566 342 l 22 -6 M616 350 l 20 -8
+             M668 340 l 22 -8 M716 348 l 20 -8"/>
+  </g>
+
+  <!-- microgreens, rooted in the top of the jar and crowning above the rim -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="translate(470,306) scale(1.2)">
+      <path d="M0 0 C -22 -64 -28 -114 -16 -160"/>
+      <path d="M-30 -104 C -62 -108 -76 -128 -72 -150 C -46 -148 -30 -128 -30 -104"/>
+      <path d="M-34 -68 C -6 -74 8 -92 4 -112 C -18 -108 -34 -88 -34 -68"/>
+    </g>
+    <g transform="translate(534,298) scale(1.14)">
+      <path d="M0 0 C 22 -64 28 -114 16 -160"/>
+      <path d="M30 -104 C 62 -108 76 -128 72 -150 C 46 -148 30 -128 30 -104"/>
+      <path d="M34 -68 C 6 -74 -8 -92 -4 -112 C 18 -108 34 -88 34 -68"/>
+    </g>
+    <g transform="translate(600,308) scale(1.26)">
+      <path d="M0 0 C -22 -64 -28 -114 -16 -160"/>
+      <path d="M-30 -104 C -62 -108 -76 -128 -72 -150 C -46 -148 -30 -128 -30 -104"/>
+      <path d="M-34 -68 C -6 -74 8 -92 4 -112 C -18 -108 -34 -88 -34 -68"/>
+    </g>
+    <g transform="translate(664,298) scale(1.18)">
+      <path d="M0 0 C 22 -64 28 -114 16 -160"/>
+      <path d="M30 -104 C 62 -108 76 -128 72 -150 C 46 -148 30 -128 30 -104"/>
+      <path d="M34 -68 C 6 -74 -8 -92 -4 -112 C 18 -108 34 -88 34 -68"/>
+    </g>
+    <g transform="translate(730,310) scale(1.02)">
+      <path d="M0 0 C -22 -64 -28 -114 -16 -160"/>
+      <path d="M-30 -104 C -62 -108 -76 -128 -72 -150 C -46 -148 -30 -128 -30 -104"/>
+      <path d="M-34 -68 C -6 -74 8 -92 4 -112 C -18 -108 -34 -88 -34 -68"/>
+    </g>
+    <g transform="translate(568,314) scale(0.82)">
+      <path d="M0 0 C 22 -64 28 -114 16 -160"/>
+      <path d="M30 -104 C 62 -108 76 -128 72 -150 C 46 -148 30 -128 30 -104"/>
+      <path d="M34 -68 C 6 -74 -8 -92 -4 -112 C 18 -108 34 -88 34 -68"/>
+    </g>
+    <g transform="translate(700,316) scale(0.78)">
+      <path d="M0 0 C -22 -64 -28 -114 -16 -160"/>
+      <path d="M-30 -104 C -62 -108 -76 -128 -72 -150 C -46 -148 -30 -128 -30 -104"/>
+      <path d="M-34 -68 C -6 -74 8 -92 4 -112 C -18 -108 -34 -88 -34 -68"/>
+    </g>
+  </g>
+
+  <!-- burgundy accent on two seed leaves -->
+  <g fill="none" stroke="#6b2a2f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M500 286 C 468 282 452 262 456 238 C 484 242 500 262 500 286"/>
+    <path d="M648 278 C 680 274 696 254 692 230 C 664 234 648 254 648 278"/>
+  </g>
+
+  <!-- jar: mouth, then body -->
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="600" cy="176" rx="164" ry="26"/>
+    <path d="M436 176 v 34 l -12 18 v 268 C 424 522 444 538 470 538 L 730 538
+             C 756 538 776 522 776 496 V 228 l -12 -18 v -34"/>
+    <path d="M424 246 H 776"/>
+  </g>
+
+  <!-- lid resting on the counter, right -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="978" cy="448" r="86"/>
+    <circle cx="978" cy="448" r="66"/>
+    <path d="M892 456 A 86 86 0 0 0 1064 456"/>
+  </g>
+
+  <!-- fork on the counter, left -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M138 484 H 208 M134 500 H 208 M138 516 H 208"/>
+    <path d="M208 476 V 524"/>
+    <path d="M208 500 H 350"/>
+  </g>
+
+  <!-- counter line -->
+  <path d="M84 538 H 1136" fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round"/>
+</svg>
