@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of an open notebook on a table with a pencil lying across its lower edge, loose rectangles sketched on the left page and one crossed out, a short list on the right page with one item struck through, and a hard sun overhead">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- hard August sun, upper right -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="1062" cy="118" r="42"/>
+    <path d="M1062 44 v -24 M1062 192 v 24 M988 118 h -24 M1136 118 h 24
+             M1010 66 l -18 -18 M1114 170 l 18 18 M1114 66 l 18 -18 M1010 170 l -18 18"/>
+  </g>
+
+  <!-- table edge -->
+  <path d="M60 556 H 1140" fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- notebook, two pages open, seen from above at a slight angle -->
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 214 C 300 176 452 176 594 206 C 736 176 888 176 1038 214
+             L 1050 512 C 894 476 742 476 594 506 C 446 476 294 476 138 512 Z"/>
+    <path d="M594 206 V 506"/>
+  </g>
+
+  <!-- page edges under the top sheet -->
+  <g fill="none" stroke="#5c4633" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M144 524 C 296 488 446 488 594 518 C 742 488 892 488 1044 524"/>
+    <path d="M150 538 C 300 504 448 504 594 532 C 740 504 888 504 1038 538"/>
+  </g>
+
+  <!-- left page: three loose bed rectangles, sketched not ruled -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M212 268 L 386 254 L 392 320 L 218 334 Z"/>
+    <path d="M214 362 L 388 350 L 394 414 L 220 426 Z"/>
+    <path d="M420 262 L 540 254 L 546 330 L 426 338 Z"/>
+  </g>
+
+  <!-- left page: a fourth bed, crossed out -->
+  <g fill="none" stroke="#6b2a2f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M424 362 L 542 354 L 548 428 L 430 436 Z"/>
+    <path d="M420 356 L 552 434 M552 356 L 420 434"/>
+  </g>
+
+  <!-- right page: a short list of dashes, one struck through -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M660 268 h 236 M660 312 h 288 M660 356 h 202 M660 400 h 258 M660 444 h 168"/>
+  </g>
+  <g fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="640" cy="268" r="6"/>
+    <circle cx="640" cy="312" r="6"/>
+    <circle cx="640" cy="356" r="6"/>
+    <circle cx="640" cy="400" r="6"/>
+    <circle cx="640" cy="444" r="6"/>
+  </g>
+  <path d="M648 368 L 878 344" fill="none" stroke="#6b2a2f" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- pencil, lying across the lower edge; barrel and tip filled so it sits in front -->
+  <path d="M470 556 L 742 476 L 754 512 L 482 592 Z" fill="#f5ead3"/>
+  <path d="M470 556 L 428 604 L 482 592 Z" fill="#f5ead3"/>
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M470 556 L 742 476"/>
+    <path d="M482 592 L 754 512"/>
+    <path d="M470 556 L 482 592"/>
+    <path d="M742 476 L 754 512"/>
+    <path d="M700 488 L 712 524"/>
+  </g>
+  <!-- sharpened tip -->
+  <g fill="none" stroke="#1f2419" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M470 556 L 428 604 L 482 592"/>
+    <path d="M448 580 L 456 598"/>
+  </g>
+
+  <!-- eraser band -->
+  <path d="M726 482 L 738 518" fill="none" stroke="#6b2a2f" stroke-width="6" stroke-linecap="round"/>
+</svg>

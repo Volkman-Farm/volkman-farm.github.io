@@ -79,8 +79,32 @@ Three subjects, in this priority order:
   ("a small LG air conditioner") was already accurate and was left alone.
 - Homestead facts (updated 2026-07-16): year-old parked mulch piles become garden beds
   (our oldest daughter's second bed started as one). A sunn hemp food plot is already planted on the front
-  three-quarter acre (seeded spring 2026, flowering by late June), with a new seed mix
-  planned next. The chickens and mulch piles are in the backyard. A well and a rainwater cistern are planned, not built:
+  three-quarter acre (seeded spring 2026, flowering by late June). Updated 2026-08-03: the
+  follow-on seed mix is no longer "planned next," it went in on **Sat Aug 1, 2026** on the
+  same front three-quarter acre. It is **Hancock's Spring & Summer Food Plot Seed Mix**
+  (hancockseed.com), verified against the product page 2026-08-03:
+  four legumes (iron clay peas, aeschynomene, **sunn hemp**, alyce clover) plus four fast
+  nurse crops (wild game sorghum, peredovik sunflowers, dwarf deer corn, browntop millet).
+  Seeding rate 40-50 lb/acre, 25 lb/acre overseeded; 1/4 inch deep; ideal pH 6.0-6.5;
+  non-GMO; no inoculant; annual; germinates 7-14 days; 1-6 ft tall; wants 8+ hours sun;
+  plant spring/summer once night temperatures hold above 65F. Note sunn hemp is IN the mix,
+  so Aug 1 was a widening of the stand, not a swap away from it.
+  How it was actually done (Albert, 2026-08-03): **broadcast**, one full **50 lb bag** over
+  the recently mowed field, as an **overseed** rather than a fresh stand. Sunn hemp timeline:
+  seeded spring 2026, **chopped to 18 inches about two months after planting**, **mowed again
+  Thu Jul 30, 2026**, seed broadcast over that residue **Sat Aug 1**. Treat the mowing as
+  seedbed prep only; the chop-and-drop technique itself belongs to the Sep 9 post, so do not
+  spend it early.
+  Rate arithmetic to raise with Albert before publishing a number: 50 lb over 0.75 acre is
+  about 67 lb/acre, against a label rate of 40-50 lb/acre for a full stand and 25 lb/acre for
+  overseeding. That is heavy on both counts. It may be deliberate, or the seeded area may not
+  be exactly three-quarters of an acre. Do not publish a per-acre figure or call the rate
+  correct or incorrect until he confirms which.
+  Also note the product is marketed as a deer food plot mix and the vendor lists cover crop as
+  an application; do not imply hunting.
+  The chickens and mulch piles are in the backyard. Some mulch piles are ready to come online
+  as beds this fall (confirmed 2026-08-03); no count was given, so write "some," never a
+  number. A well and a rainwater cistern are planned, not built:
   frame both as plans.
 - Homestead facts (updated 2026-07-08): chickens in a run out back. Spent tray material
   (soil, roots, cut leftovers) goes to the chickens, not a compost pile. A compost bin
@@ -201,7 +225,7 @@ file back into `posts/`.
 |---|---|---|---|---|
 | Sun Aug 2 | Variety spotlight | Arugula before it gets bitter | Micro arugula vs mature. Link /greens/arugula/. | [x] posts/arugula-before-it-gets-bitter.md |
 | Mon Aug 3 | In the kitchen | Summer salads that don't wilt by noon | Building lunch salads with sturdy micros. | [x] posts/summer-salads-that-dont-wilt-by-noon.md |
-| Tue Aug 4 | Homestead journal | August plans, written in pencil | What we're planning for fall while it's too hot to plant. | [ ] |
+| Tue Aug 4 | Homestead journal | August plans, written in pencil | What we're planning for fall while it's too hot to plant. Fall garden is genuinely undecided as of 2026-08-03 (no seed order, no varieties), so the post names no crops and leans on the pencil premise. Reports the Sat Aug 1 front-plot seeding in one paragraph and hands the cover crop detail to Aug 5. | [x] posts/august-plans-written-in-pencil.md |
 | Wed Aug 5 | Permaculture | Cover crops: the summer garden that feeds the fall one | Sunn hemp, cowpeas, what we're trying. | [ ] |
 | Thu Aug 6 | On the route | Meet Lake Mary and Sanford | First neighborhoods profile. Link both city pages. | [ ] |
 | Fri Aug 7 | Growing notes | Did the amaranth work? | Still the verdict post; the Jul 27 Nazca Lines post deliberately did NOT answer it. As of 2026-07-27 the chef had switched his standing order from beet to amaranth but the first amaranth delivery had not gone out yet, so nothing has been cooked with. The Jul 27 post tells readers to ask in a month about three specific things, and this post owes exactly those: did it hold color through a Florida summer, did it dodge the mold problem beet has, is he still ordering it. Do not write until Albert has the real answers, and report a failure as a failure. Amaranth is not one of the ten varieties and has no /greens/ page, so link /greens/beet/ or /restaurants/, not amaranth. Builds on Jul 19 and Jul 27. | [ ] |
