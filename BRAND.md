@@ -1,79 +1,64 @@
-# Volkman Farm Brand Foundation (v2: Heritage Gator)
+# Volkman Farm Brand Foundation
 
 A working document for design and copy decisions. If a choice on the site, on a label, or in a text message can't be justified against the positioning statement below, it shouldn't ship.
 
-This is the second-generation brand book. The previous typewriter-only direction is archived at `archive/BRAND-v1-typewriter.md` and is no longer in force. The anchor for v2 is the illustrated gator mark at `assets/brand/volkman-mark.png`: an alligator in lederhosen, Alpine hat with feather and edelweiss, holding a tray of microgreens, palms on one side, Bavarian castle on the other, banners in German loan words, blackletter wordmark. The brand is now a small family microgreens farm in Central Florida with real German ancestry, told straight. We took our family's heritage and put it on the sign over the door, in lederhosen, holding our actual product. That's the brand.
+**Current state of the identity.** The mark is the original Volkman Farm logo at `assets/logo.png` and `assets/logo.webp`, used in the site header, the favicon, and the OG image. The typography, the color palette, and the voice are the second-generation work and they stayed. The illustrated heritage direction that briefly replaced the logo in May 2026 was reverted on 2026-07-07 (commit `c5da537`) by owner decision; it is not coming back, and section 10.10 records why. The original typewriter-era docs are archived at `archive/BRAND-v1-typewriter.md` and `archive/DESIGN-SYSTEM-v1-typewriter.md` and are no longer in force either. What follows is the whole brand as it actually stands.
 
 ## 1. Brand Positioning Statement
 
-Volkman Farm is a family-run microgreens operation in Sanford, Florida, with German roots we don't hide and Florida soil we don't apologize for. We grow ten varieties in a backyard shed, cut them the morning we deliver them, and hand them to the nine Orlando-metro neighborhoods on our route. We stand against the seven-day distributor chain, the plastic clamshell, the subscription portal, and the assumption that something this small can't be this serious about quality. The one sentence at the top of every decision: **frisch gezüchtet, hand-delivered, alive this morning, on your counter by dinner.** If a design or copy choice doesn't make that easier to understand or more believable, it's the wrong choice.
+Volkman Farm is a family-run microgreens operation in Sanford, Florida. We grow ten varieties in a backyard shed, cut them the morning we deliver them, and hand them to the nine Orlando-metro neighborhoods on our route. We stand against the seven-day distributor chain, the plastic clamshell, the subscription portal, and the assumption that something this small can't be this serious about quality. The one sentence at the top of every decision: **grown fresh, hand-delivered, alive this morning, on your counter by dinner.** If a design or copy choice doesn't make that easier to understand or more believable, it's the wrong choice.
 
 ## 2. Tagline
 
-**Recommended primary, two lines:**
+**Primary, two lines. This is live on the homepage:**
 
-> Frisch gezüchtet. Hand-delivered.
+> Grown fresh. Hand-delivered.
 > Alive this morning. Yours by dinner.
 
-Two lines, two halves. The first line carries the heritage wink (a real German phrase that already appears on the mark, paired with the operational truth). The second line is the v1 functional promise in tighter form. Together they do the whole job: who we are, what we do, when you eat it.
+Two lines, two halves. The first is what we did. The second is when you eat it. Together they do the whole job in eleven words, and every one of them is a word a neighbor would use.
 
 **Alternatives to keep in reserve:**
 
-1. **Cut at sunrise. On your counter by dinner.** (No German. Punchier. Good for stickers, social, label backs, anywhere the gator mark already carries the heritage.)
+1. **Cut at sunrise. On your counter by dinner.** (Punchier. Good for stickers, social, label backs.)
 2. **From our shed to your street.** (Most neighborly variant. Good for the wholesale follow-up email or the porch-drop note.)
-3. **Microgreens, frisch from the Volk.** ("Volk" means "the people" and is the root of our name. This is the cheekiest of the set. Save for merch and the About page kicker, not the homepage.)
-4. **Ten greens. One family. Your block.** (Story-shaped. Good for the About hero, weaker as a universal line.)
-5. **Bavaria couldn't grow them. Florida can.** (Pure swagger. Save for a t-shirt or a sticker. Do not put on the homepage. Do consider for the print run of business cards.)
+3. **Ten greens. One family. Your block.** (Story-shaped. Good for the About hero, weaker as a universal line.)
 
 ## 3. Brand Personality
 
 Five traits with definitions and behavioral manifestations, two counter-traits.
 
-- **Playful confident, never gimmicky.** Playful confident means the gator wears lederhosen and we don't explain why. The wink lives in the visuals; the copy stays grounded. Never gimmicky means we don't pile on bratwurst jokes, Oktoberfest references, or yodel sound effects on the order page. The mark earns the right to be cheeky; the body copy should not try to.
-- **Heritage-proud, never costumed.** Heritage-proud means the German motifs are real because the Volkman family is German. We use loan words we know are correct, we cite a real castle silhouette behind us, we keep the blackletter wordmark with pride. Never costumed means we are not pretending to run a Munich biergarten in Florida. The Florida is the point. So is the German. Both at once, neither in costume.
 - **Product-serious, never precious.** Product-serious means we know exactly when each variety peaks, we cut the morning of delivery, we name the cultivars. Never precious means we don't talk like artisans, we don't garnish with tweezers, and we don't act like growing brassicas in a shed is a sacred craft. It's a job we're good at.
+- **Specific, never vague.** Specific means the variety, the day, the price, the street, the number of days from seed. Specifics are the entire credibility mechanism for an operation this small; we can't borrow trust from a brand name, so we spend detail instead. Never vague means no "locally grown," no "the freshest greens around," no claim a reader can't check.
 - **Neighborly, never folksy.** Neighborly means we write like the family two streets over. We text. We drop on the porch. We know your name. Never folksy means no "y'all," no "the missus," no farmhouse-decor voice. Sanford is a real town. We live in it.
+- **Honest about limits, never self-deprecating.** Honest about limits means we say when a tray failed, when a variety didn't hold, when we don't have the answer yet. The blog reports results it doesn't like. Never self-deprecating means we don't apologize for being small or hedge every sentence into mush. Small is the reason the greens are good.
 - **Direct, never preachy.** Direct means price, route, varieties, timing, stated plainly. Never preachy means no lecturing about industrial agriculture, no kale-superiority posts, no nutrition-essay home page. The product is the argument.
 
 **Counter-traits (what we are NOT):**
 
-- We are not a **lifestyle brand**. The gator is not an aesthetic; he's the family mascot with a tray of our product. We don't sell vibes.
-- We are not a **theme park**. The Bavarian motifs are heritage, not decoration. If a decision adds a German element that doesn't earn its place (a pretzel border? a beer stein bullet?), it's wrong.
+- We are not a **lifestyle brand.** We don't sell vibes, mornings, or a version of the reader's life. The product, the route, and the price are the pitch.
+- We are not a **wellness brand.** Microgreens are nutritionally real and we cite the research plainly, once, where it belongs. The moment the copy starts sounding like a supplement label, we've lost the thing that makes us worth buying from.
 
 ## 4. Voice and Writing Rules
 
-Voice in v2 has more swagger than v1. The cream paper and the typewriter humility are gone. The new voice is heritage-confident, slightly cheeky, still product-serious. The gator does the winking. The body copy stays grounded but allows itself a small flourish where v1 wouldn't have. Think Liquid Death's confidence dialed to 60%, applied to microgreens, with a German grandmother in the room making sure no one says anything cringe.
+Plain, concrete, neighborly. Short sentences and real nouns. The writing carries a point of view but never a flourish for its own sake. We earn attention with specifics, not adjectives: the actual day, the actual price, the actual number of days from seed. When something didn't work, we say so in the same voice we use when it did.
 
 ### Word choices to embrace
 
-street, neighborhood, route, morning, cut, harvest, tray, shed, family, kids, ten varieties, $3.50/oz, Venmo, Zelle, text, porch, dinner, Friday, Sunday, sunrise, handful, pile, scatter, top, fold in, on your counter, in your fridge, by dinner, hand-delivered, the route, our block, our greens, our gator, the shed, the Volk, frisch, gezüchtet, nachhaltig, the Bavarian half of the family, Central Florida
+street, neighborhood, route, morning, cut, harvest, tray, shed, family, kids, ten varieties, $3.50/oz, Venmo, Zelle, text, porch, dinner, Friday, Sunday, sunrise, handful, pile, scatter, top, fold in, on your counter, in your fridge, by dinner, hand-delivered, the route, our block, our greens, the shed, Central Florida
 
-### German loan words you may use
-
-These are the only German words allowed in copy. They are correct, idiomatic, and earned by being on the mark or by being family vocabulary. Use sparingly, never two in the same sentence, never as a substitute for English copy:
-
-- **Frisch** (fresh). Use as a flourish, e.g., "frisch off the tray."
-- **Gezüchtet** (grown, cultivated). Use only inside the phrase "frisch gezüchtet," which already appears on the mark. Do not invent new constructions.
-- **Nachhaltig gewachsen** (sustainably grown). Already on the mark. Echo verbatim or omit. Do not modify.
-- **Volk** (the people, the folk). Source of our family name. Acceptable as a wink in About copy ("the Volk behind Volkman Farm") and on merch. Never as a noun for our customers.
-- **Gemütlich** (cozy, warm, welcoming). Acceptable on the About page exactly once, describing the kitchen or the shed. Not in product copy.
-
-**Anything else in German is banned.** Do not machine-translate. Do not invent. Do not write a tagline in German that is not already on the mark. If in doubt, English.
-
-### Word choices to ban (most from v1, all still in force)
+### Word choices to ban
 
 - **farm-to-table** (overused, means nothing)
 - **artisan, artisanal, craft, crafted** (overclaiming for what we do)
 - **curated, hand-curated** (we don't curate, we grow)
 - **mission, vision, values** (in customer-facing copy)
 - **community** as a noun for our customers (corporate; use "neighbors" or "the route")
-- **sustainable, eco-friendly, green** as positioning (unverifiable; the mark says "nachhaltig gewachsen" as a flourish, which is enough)
+- **sustainable, eco-friendly, green** as positioning (unverifiable)
 - **superfood, nutrient-dense, nutrient-rich, functional food** (supplement-hustler vocabulary)
 - **journey, story, passion, labor of love** (every food brand says these)
 - **just, simply, literally** as filler
 - **leverage, utilize, optimize** (corporate)
 - **em-dashes of any flavor** (period, comma, colon, parens, never em-dash)
-- **Oktoberfest, biergarten, lederhosen jokes, pretzel references, bratwurst** (theme-park territory; the gator wears the lederhosen so we don't have to write about them)
 
 ### Sentence rules
 
@@ -84,102 +69,99 @@ These are the only German words allowed in copy. They are correct, idiomatic, an
 - **Capital "Volkman Farm," lowercase "we," capital city names.** Never "VF" or "Volkman" alone in body copy.
 - **One exclamation per page, max.** Save it for something actually exclamatory.
 
-### Before / after rewrites (v1-earnest to v2-heritage)
+### The copy that ships, and why it works
+
+These are live on the site. Treat them as the reference register for anything new.
 
 **1. Homepage hero**
 
-Before (v1, current site): "Harvested the morning we deliver. On your counter by dinner."
+> Grown fresh. Hand-delivered. Alive this morning. Yours by dinner.
 
-After (v2): "Frisch gezüchtet. Hand-delivered. Alive this morning. Yours by dinner."
+Four fragments, no verbs to speak of, no adjective doing persuasive work. The claim is a schedule, and a schedule is checkable.
 
-The v1 line was good. v2 keeps the second half intact and pairs it with the heritage phrase already on the mark. The wink is in the loan word; the promise is in the English.
+**2. About opener**
 
-**2. About page opener**
+> Five Volkmans live in Sanford. Two parents, three kids, and a shed out back full of trays. We started growing microgreens because we wanted better food on our own table. The route grew from there.
 
-Before (v1, current site): "Our family, driven by a passion for healthy living and sustainability, launched a microgreens business right from our backyard."
-
-After (v2): "Five Volkmans live in Sanford. Two parents, three kids, German on one side, Florida on the other, and a shed out back full of trays. We started growing microgreens because we wanted better food on our own table. The route grew from there."
-
-Specific. Heritage in one half-line. Gone are "passion," "sustainability," and "launched a business."
+A count, a place, a building, a reason. "The route grew from there" does the entire business-origin story in six words and skips the founding myth.
 
 **3. The "why us" beat on the homepage**
 
-Before (v1, current site): "Harvested the morning of delivery. What you eat Friday night was still growing Friday morning. Most store-bought microgreens are 7 to 10 days old before you open the package."
+> Most microgreens are seven days old when you open the package. Ours were on the tray at sunrise.
 
-After (v2): "Most microgreens are seven days old when you open the package. Ours were on the tray at sunrise. Frisch gezüchtet means freshly grown, and our gator means it."
-
-Same fact, tighter. The German loan word lands once. The gator gets a small wink. The seven-day comparison stays because it's the most useful sentence on the page.
+The most useful two sentences on the site. A number the reader can verify at their grocery store, then the contrast. No comparative adjective anywhere in it.
 
 **4. The standing-order pitch**
 
-Before (v1, current site): "[Standing weekly orders get 10% off](/subscribe/), skip any week, cancel anytime."
+> Stand a weekly order, save 10%. Skip any week, cancel any week. No card on file, no subscription portal, no fine print.
 
-After (v2): "Stand a weekly order, save 10%. Skip any week, cancel any week. No card on file, no subscription portal, no Bavarian fine print."
+Mechanics first, then the three things the reader is actually worried about, named and dismissed.
 
-The mechanics stay. The last clause earns the wink because the brand has heritage permission.
+**5. The variety intro (broccoli)**
 
-**5. The variety-page intro (broccoli, as the example)**
+> Broccoli microgreens carry up to 40x the sulforaphane of full-grown broccoli, ounce for ounce. The flavor is mild enough to fold into eggs, a smoothie, or guac without anyone noticing. Fresh off the tray, into the pan.
 
-Before (varieties.js, current): "Up to 40x the sulforaphane of mature broccoli. Mild flavor, so you can sneak it into smoothies, eggs, or anywhere."
-
-After (v2): "Broccoli microgreens carry up to 40x the sulforaphane of full-grown broccoli, ounce for ounce. The flavor is mild enough to fold into eggs, a smoothie, or guac without anyone noticing. Frisch off the tray, into the pan."
-
-The fact stays. The flourish closes it. One German word, once, at the end.
+Nutrition stated once with its unit of comparison ("ounce for ounce") so the number means something. Then straight to what you do with it. This is the pattern for all ten variety pages: one honest fact, then the pan.
 
 **6. The wholesale opener (chefs page)**
 
-Before (v1, current site): "Microgreens harvested the morning of service, delivered direct from the grower. No distributor, no broker, no week-old produce."
+> Cut the morning of service, driven from our shed to your back door. No distributor. No broker. No week-old produce. Just a family operation that takes the cut as seriously as you take the plate.
 
-After (v2): "Cut the morning of service, driven from our shed to your back door. No distributor. No broker. No week-old produce. Just a family operation that takes the cut as seriously as you take the plate."
-
-The wholesale voice tightens, drops the heritage flourish entirely (per resolved decision 10.3), and earns the trust through restraint.
+The wholesale voice is the house voice with the warmth dialed back and no winks at all. Chefs read restraint as professional. See 10.3.
 
 ### How to talk about freshness, the kids, the family
 
-- **Freshness:** the v1 rules still hold. We talk about growing inputs (organic non-GMO seeds, filtered water, sanitized trays), about the act of harvest (cut, harvested, snipped), and about time (morning of delivery, hours from tray to porch). We do not claim post-harvest processing of any kind. Florida regulations forbid implying we wash, rinse, dry, or otherwise handle the cut greens.
-- **Kids:** generic. "Our three kids help pack." Never named. Never photographed face-on. No ages.
+- **Freshness:** we talk about growing inputs (organic non-GMO seeds, filtered water, sanitized trays), about the act of harvest (cut, harvested, snipped), and about time (morning of delivery, hours from tray to porch). We do not claim post-harvest processing of any kind. Florida regulations forbid implying we wash, rinse, dry, or otherwise handle the cut greens.
+- **Kids:** no names, no ages, never photographed face-on. Birth-order and role references are allowed ("our oldest daughter manages the food forest"; owner decision 2026-07-08).
 - **Family:** "we" by default. "Albert built the shed" once, in About, when a specific human is doing a specific thing. "The Volkman family" written about ourselves in the third person is never correct.
-- **Heritage:** mention German ancestry once on the About page, plainly. The gator does the heavy lifting on every other page.
 
 ## 5. Color Palette
 
-The palette is extracted directly from the mark. Six colors, named, with hex values, use cases, and rules for when not to use each.
-
-The cream from v1 (`#fef6e9`) is close to but not exact to the mark's background. The mark's cream is slightly warmer. We adopt the mark's cream as the new value below.
+Six named colors plus three derived utility tokens, all live in `assets/css/main.css`. Hex values here are the source of truth and match the stylesheet exactly.
 
 ### The core six
 
 | Token | Hex | Name | Use |
 |---|---|---|---|
-| `--cream` | `#f5ead3` | Tray cream | Page background. Pulled from the mark's background. Warmer than v1 cream; reads as parchment in a way the v1 cream did not. Never replaced. |
-| `--ink` | `#1f2419` | Forest ink | Body text, borders, the wordmark in print. Pulled from the deepest line in the gator's silhouette. AAA contrast on cream. |
-| `--alpine` | `#3a5a2a` | Alpine green | Primary action color. Buttons, link hover, nav active state, the laurel-and-shield rule below the wordmark. Pulled from the lederhosen and Alpine hat. AA on cream at body size, AAA at large. |
-| `--olive` | `#8a7e3a` | Heritage gold | Accent, secondary action, the banner-ribbon color where banners appear in UI. Pulled from the gold in the laurel branches and the embroidery on the lederhosen. Use for the standing-order badge, the small Roman-numeral roundels, the section-divider laurels. |
-| `--burgundy` | `#6b2a2f` | Radish burgundy | Accent only. Used on hover states, the active variety highlight on a radish or beet variety page, error states, and the small Florida shield in the lower banner. Pulled from the purple-red microgreens at the center of the gator's tray. |
-| `--bark` | `#5c4633` | Bark brown | Warm neutral between ink and cream. Captions, metadata ("Friday morning route"), the footer copy, the secondary text on cards. Replaces dropped-opacity ink. |
+| `--cream` | `#f5ead3` | Tray cream | Page background. Warm parchment rather than white. Never replaced. |
+| `--ink` | `#1f2419` | Forest ink | Body text, borders, headings in print. AAA contrast on cream. |
+| `--alpine` | `#3a5a2a` | Deep green | Primary action color. Buttons, link hover, nav active state, rules and dividers. AA on cream at body size, AAA at large. |
+| `--olive` | `#8a7e3a` | Olive gold | Accent, secondary action, badge and ribbon color. Use for the standing-order badge, the numbered roundels, the section dividers. |
+| `--burgundy` | `#6b2a2f` | Radish burgundy | Accent only. Hover states, the active variety highlight on a radish or beet page, error states. Pulled from the stem color of the purple-red varieties we actually grow. |
+| `--bark` | `#5c4633` | Bark brown | Warm neutral between ink and cream. Captions, metadata ("Friday morning route"), footer copy, secondary text on cards. Replaces dropped-opacity ink. |
+
+### Derived tokens
+
+These exist in the stylesheet and should be used rather than re-derived by hand:
+
+| Token | Hex | Use |
+|---|---|---|
+| `--alpine-deep` | `#2d4720` | Pressed and hover-darken state for Alpine surfaces. |
+| `--rule` | `#c7b98f` | Hairlines and thin borders. A warm derivative of cream. |
+| `--surface` | `#ede0bf` | Card and input backgrounds. A darker cream that reads as a raised sheet. |
 
 ### When NOT to use each color
 
 - **Cream:** never replaced. Not on any page. Not on a landing page test. If a section feels like it needs a different background, the section is wrong, not the cream.
 - **Ink:** never used as a background larger than a small chip. Never on cream below 13pt without 600 weight.
-- **Alpine green:** never used for body copy. UI only. Hover, active, button, link underline, the rule under the wordmark.
-- **Heritage gold:** never used as the primary CTA color. It is a flourish. Buttons stay Alpine; gold is reserved for badges, roundels, ribbons, and the laurel motif.
+- **Deep green:** never used for body copy. UI only. Hover, active, button, link underline, rules.
+- **Olive gold:** never used as the primary CTA color. It is a flourish. Buttons stay Alpine; gold is reserved for badges, roundels, and dividers.
 - **Radish burgundy:** never used as the primary CTA color. Hover and accent only. Never on text below 1rem (too low contrast at small sizes).
 - **Bark brown:** never used as a button color. Never as a heading color. It's the warm-paper-shadow tone.
 
 ### Wholesale palette (the restrained variant)
 
-Per resolved decision 10.3, the wholesale page uses a tighter palette to read as more professional to chefs:
+Per resolved decision 10.3, `/restaurants/` uses a tighter palette to read as more professional to chefs:
 
 - Cream, ink, Alpine, bark. That's it.
-- No burgundy, no heritage gold, no gator illustration.
-- The wordmark and the laurel-shield mark do the brand work.
+- No burgundy, no olive gold, no ornament.
+- The logo and the type do the brand work.
 
 ### Accessibility
 
 - Ink on cream: ~14:1 (AAA)
 - Alpine on cream: ~5.2:1 (AA normal, AAA large)
-- Heritage gold on cream: ~3.6:1 (large text and decorative only; never body)
+- Olive gold on cream: ~3.6:1 (large text and decorative only; never body)
 - Burgundy on cream: ~6.4:1 (AA)
 - Bark on cream: ~6.1:1 (AA)
 
@@ -187,23 +169,19 @@ Pin these in a Figma variable file so the next person doesn't drift.
 
 ## 6. Typography Pairing
 
-The blackletter wordmark on the mark is a character mark, not a system face. We never typeset the wordmark in production; we use the mark file itself. Body and UI type need to complement the blackletter without competing with it, and without compounding the heritage signal (a blackletter-adjacent serif would read as Renaissance Faire).
+**The locked pairing:**
 
-**Locked pairing (replaces the v1 Fraunces + JetBrains Mono pairing entirely):**
-
-- **Display (h1, h2, h3, blockquote): DM Serif Display** (Colophon Foundry, OFL, free via Google Fonts). High-contrast transitional serif. Confident broadsheet-headline character that complements the blackletter wordmark without competing with it. Single weight (400) at large sizes carries plenty of weight. Letter-spacing -0.015em for h1.
-- **Body: Source Serif 4** (Adobe, OFL). A modern transitional serif with strong italics, real small caps, and excellent legibility at long line lengths. It carries the heritage feel without going antique. Replaces the typewriter mono entirely. The v1 mono no longer fits the new visual mood; the cream paper now reads as parchment, and parchment with a typewriter is the wrong century.
+- **Display (h1, h2, h3, blockquote): DM Serif Display** (OFL, free via Google Fonts). High-contrast transitional serif with confident broadsheet-headline character. Single weight (400) at large sizes carries plenty of weight. Letter-spacing -0.015em for h1.
+- **Body: Source Serif 4** (Adobe, OFL). A modern transitional serif with strong italics, real small caps, and excellent legibility at long line lengths. Serif body against the parchment cream lets a page read like printed matter instead of a web app.
 - **UI / labels / buttons: Inter** at 600. The one sans-serif in the system. Use only for button labels, nav items, form labels, and very small UI text where serif rendering gets fragile. Tracking 0.04em.
 
-**Why this pairing:**
+**Why this pairing:** two serifs and one grotesque, on cream, reads as small-press printed matter with a Florida microgreens problem. The display face has enough contrast to carry a headline at 3rem without going ornamental, and the body face is quiet enough to read for a thousand words. The single sans for UI is the modern-life concession: form labels and buttons are easier to scan in a clean grotesque.
 
-The blackletter wordmark + DM Serif Display + Source Serif body reads as "small press shop with a Florida microgreens problem." Heritage without costume. Serif throughout the body (instead of mono) lets the page feel like a printed broadsheet, which matches the parchment cream and the banner motifs. The single sans for UI is the modern-life concession: form labels and buttons are easier to scan in a clean grotesque.
-
-**Why DM Serif Display:** The original pick was Bely Display, which turned out to be a paid TypeTogether font (not OFL as the first Brand Guardian draft claimed). DM Serif Display is the free OFL alternative with similar high-contrast confidence. If the brand ever wants to upgrade, Bely Display ($50 to $200 via TypeTogether) or Recoleta ($50 to $200 via Latinotype) are both one-line swaps in `main.css` and the layout preload tag.
+**Why DM Serif Display:** the original pick was Bely Display, which turned out to be a paid TypeTogether font, not OFL as the first draft claimed. **Verify the license yourself before adopting any new face.** DM Serif Display is the free OFL alternative with similar high-contrast confidence. If the brand ever wants to upgrade, Bely Display ($50 to $200 via TypeTogether) or Recoleta ($50 to $200 via Latinotype) are both one-line swaps in `main.css` and the layout preload tag.
 
 ### Type scale
 
-Mobile-first, fluid via `clamp()`. All sizes in rem.
+Mobile-first, fluid via `clamp()`. All sizes in rem. Matches the tokens in `main.css`.
 
 | Token | Size | Line-height | Letter-spacing | Weight | Family |
 |---|---|---|---|---|---|
@@ -215,128 +193,101 @@ Mobile-first, fluid via `clamp()`. All sizes in rem.
 | small | `0.875rem` | 1.5 | 0.005em | 400 | Source Serif 4 |
 | nav / button label | `0.95rem` | 1.4 | 0.04em | 600 | Inter |
 | blockquote | `1.2rem` italic | 1.45 | 0 | 400 italic | Source Serif 4 |
-| eyebrow / banner caps | `0.8rem` | 1.3 | 0.18em | 700 | Inter, uppercase |
+| eyebrow caps | `0.8rem` | 1.3 | 0.18em | 700 | Inter, uppercase |
 
-The eyebrow style is new in v2: small uppercase Inter with heavy tracking, used to mimic the banner-ribbon lettering on the mark. Use for section eyebrows and for the "FRISCH GEZÜCHTET" callouts the v2 system invites.
+### Self-hosting, and what is actually shipping
 
-### Self-hosting
+Self-host every face. `woff2` only. `font-display: swap`. No CDN, no Adobe Fonts loader.
 
-Self-host all three faces. `woff2` only. `font-display: swap` with a `size-adjust` fallback on each. The site stays on Eleventy; no CDN, no Adobe Fonts loader, no FOUT on cream.
+**As of 2026-08-05 only `dm-serif-display.woff2` is in `assets/fonts/`.** The Source Serif 4 and Inter files are still pending, so body copy currently renders in Georgia and UI text in system-ui via the fallback stacks in `main.css`. The CSS already points at the right paths; dropping the files in is the entire remaining job. `assets/fonts/README.md` lists the six files and where to get them. Until then, the typography on the live site is not the final visual, and anyone judging a design against this document should know that.
 
 ## 7. Photography and Imagery Direction
 
-Two layers in v2: the gator-mark layer (illustration, banners, seals) and the product-and-place layer (real photos).
+One layer: real photographs of the product, the shed, and the route. There is no illustration layer.
 
-### The product-and-place layer
-
-Same rules as v1 for product photography (they still work, and the family already has the equipment for them):
+### Product and place
 
 - **Window light, single source, no flash.** Morning preferred, late afternoon acceptable.
 - **Top-down or three-quarters on a wooden board, a linen cloth, or the cream paper itself.** Centered, calm, negative space.
 - **Color from the food, not the background.** Cream and wood, with the greens and the stem-color doing the work.
 - **Hands in frame, faces mostly not.** A hand cutting a tray. A hand on the porch handoff. A child's hand seeding (no face).
-- **The shed is photogenic. Use it.** Night shots of trays under grow lights, the cool-green glow inside, the door open at dawn. This is the most differentiated visual asset Volkman owns and the v2 system leans into it more, not less.
+- **The shed is photogenic. Use it.** Night shots of trays under grow lights, the cool-green glow inside, the door open at dawn. This is the most differentiated visual asset Volkman owns.
 - **Real plates, real kitchens.** Usage shots in the actual home with the actual taco. No food-styling tweezers.
-
-### The gator-and-heritage layer
-
-This is the new layer in v2. Where does the gator show up, and where do the heritage motifs (banners, laurels, blackletter callouts) appear?
-
-- **The mark (full gator illustration):** homepage hero, About hero, the favicon (cropped to the head), the social avatar, packaging stickers, the back of business cards, merch. Used once per page, never as decoration on every section. The mark is a punctuation, not a wallpaper.
-- **The wordmark alone (blackletter "Volkman Farm"):** site header, footer, wholesale page header (where the full gator is too whimsical), label fronts, email signatures. Always paired with the small laurel-and-shield rule beneath, exactly as on the mark.
-- **Banners (the ribbon shape from the upper half of the mark):** used as section dividers or as the container for short German-loan-word callouts ("FRISCH GEZÜCHTET") in the eyebrow style. Drawn as flat SVG in heritage gold or Alpine green outline on cream. One banner per page maximum.
-- **Laurel sprigs and roundels:** used as small section markers and as bullet-list ornaments on heritage-leaning pages (homepage, About, variety pages). Drawn as flat SVG in Alpine green or bark brown. The wholesale page does not use them.
-- **Blackletter:** only ever in the wordmark file. Never typeset for body, never for headings, never for "section openers." If a designer is tempted to set a section header in blackletter, the answer is no.
 
 ### Family portrait policy
 
-If the family ever does a portrait, it leans **old-world posed**: a single seated arrangement, daylight or window light, neutral background, semi-formal clothing, no smiling for the camera (one or two looking at it, the rest looking at each other or at a tray). Photographed as if for a 1910 print shop's family ad in a small-town newspaper. Used once on About, never repeated. **No portrait until the family is ready.** A blank section is better than a candid that looks like Instagram.
+If the family ever does a portrait, it is posed rather than candid: a single seated arrangement, daylight or window light, neutral background, everyday clothes. Used once on About, never repeated. **No portrait until the family is ready.** A blank section is better than a candid that looks like Instagram.
 
 ### Texture
 
-- **The cream paper carries the texture.** Add a very subtle paper-grain SVG noise overlay at 2-3% opacity on backgrounds. Not a JPEG paper texture, not a heavy parchment scan. Just enough to keep the screen from looking flat.
+- **The cream paper carries the texture.** A very subtle paper-grain SVG noise overlay at 2-3% opacity on backgrounds. Not a JPEG paper texture, not a heavy parchment scan. Just enough to keep the screen from looking flat.
 - **Wood grain:** acceptable behind product shots when the wooden board is the surface. Do not invent wood-grain UI components.
-- **No Bavarian-pattern flourishes (checkerboard, blue-white diamonds, edelweiss tiling). The edelweiss is on the gator's hat. That is enough edelweiss for the whole brand.**
 
-### What to avoid (same list as v1, plus new ones for v2)
+### What to avoid
 
 - No stock photos of anything.
-- No happy-family-in-matching-flannels poses (or in dirndls, please).
+- No happy-family-in-matching-flannels poses.
 - No chef in a white coat holding a sprig with tweezers.
 - No overhead-shot food-blog plating with seven garnishes.
 - No drone shots, no time-lapses, no fake morning-routine reels.
 - No Instagram filters.
 - No watermarks.
-- **New in v2:** no Photoshopping the gator into product photos. The gator lives in illustration, photos live in reality. The two layers stay separate.
+- No illustration composited onto a photograph.
 
 ## 8. Iconography, Texture, and Motif
 
-The motif vocabulary in v2 is heritage seal: banners, laurels, roundels, shields, blackletter callouts on cream. Used sparingly, never as wallpaper.
+The motif vocabulary is restrained printed matter: rules, small caps, flat ornament on cream. Used sparingly, never as wallpaper. Everything below ships in `main.css` today.
 
 **The committed visual vocabulary:**
 
-1. **The gator mark.** Primary brand mark. Used once per page on consumer pages, never on the wholesale page.
-2. **The wordmark.** Always paired with the laurel-and-shield rule, exactly as on the mark.
-3. **The banner ribbon.** A flat SVG of the curved ribbon from the mark's top half. Used as a container for short German-loan-word callouts or short eyebrow labels. One per page max.
-4. **Laurel sprigs.** A flat SVG pair of laurel sprigs, used as section dividers between major content blocks on the homepage, About, and variety pages. Approximately 80px wide, centered. Heritage gold or Alpine green.
-5. **Numbered roundels.** Small circular badges (about 32-40px) with a Roman numeral (I, II, III) inside, set in DM Serif Display, ringed in Alpine. Used for ordered step lists (the "How it works" section) instead of plain numbered lists.
-6. **Small shields.** A flat SVG shield (the Florida-state-shape, ringed thin in Alpine, with a sprout in the center) used as a tiny credibility mark on the About page and the wholesale page. Inspired by the small green shield in the lower banner of the gator mark.
-7. **Square bullets.** Carried over from v1. Filled Alpine-green squares as list markers. Matches the tray-grid spirit and reads as small heritage stamps.
+1. **The logo.** `assets/logo.png` and `assets/logo.webp`. The primary and only brand mark. Site header, favicon, OG and Twitter card image, social avatar. One per page, at the top. It is not a decorative element and does not repeat down the page.
+2. **The eyebrow.** Small uppercase Inter at 0.18em tracking, in bark or olive gold. Section eyebrows and short labels above a heading. The most-used ornament in the system.
+3. **The banner.** A flat ribbon container holding a short eyebrow label. One per page maximum, and plenty of pages need none.
+4. **The laurel divider.** A flat SVG divider between major content blocks on the homepage, About, and variety pages. Roughly 80px wide, centered, in olive gold or Alpine.
+5. **Numbered roundels.** Small circular badges (about 32-40px) with a numeral inside, set in DM Serif Display and ringed in Alpine. Used for ordered step lists (the "How it works" section) instead of plain numbered lists.
+6. **Square bullets.** Filled Alpine-green squares as list markers. Matches the tray-grid spirit.
 
-**Secondary mark (the v1 "small stamped mark" decision, recast for v2):**
-
-The primary mark is the full gator. The secondary mark is a **laurel-wreathed V monogram** on the cream, with the laurels and the V both in Alpine green. Used for:
-
-- The favicon at 32px (where the gator's detail is lost).
-- Social avatars where the full mark is too detailed.
-- The corner stamps on labels.
-- The press-and-stamp watermark in the footer.
-- Merch where the full mark would be too busy (a small chest embroidery, for example).
-
-If the laurel-V doesn't sing in execution, the fallback is **a cropped portrait of the gator's head with the Alpine hat and feather**, used at 64px+ only, as a "spot mark." Pick the laurel-V first; fall back to the gator-head spot mark if monograms feel too generic.
+**Secondary mark:** there isn't one, and the system doesn't need one. The logo reads at favicon size, which is the only place a secondary mark would have earned its keep. If a merch or label application ever genuinely needs a smaller stamp, that is a new design decision to be made deliberately, not a slot waiting to be filled.
 
 **What we do NOT use:**
 
 - No line-art veggie icons. No drawings of a broccoli sprig or a carrot.
 - No hand-drawn watercolors.
-- No script fonts, no calligraphic flourishes outside the blackletter wordmark.
-- No pretzel motifs, no beer steins, no dirndl-and-lederhosen patterning. The lederhosen is on the gator. Nothing else wears it.
-- No mountain silhouettes (the castle in the mark already does that work).
-- No edelweiss patterning. The single edelweiss on the gator's hat is the only one in the system.
+- No script fonts, no calligraphic flourishes, no blackletter anywhere in the system.
+- No mascot, no character illustration, no costume motifs.
+- No mountain silhouettes, no castles, no crests.
 
 ## 9. The Do-Not-Do List
 
-The opinionated list. Twelve items. Most are unique to v2; a few carry over from v1 because they still hold.
+The opinionated list. Eleven items, all still in force.
 
-1. **Never use blackletter for body or headings.** Blackletter lives in the wordmark file only. Anywhere else it is illegible, costume-y, and a German-overcommit.
-2. **Never machine-translate German.** Use only the loan words listed in section 4. If a phrase is not already on the mark and not in that list, it is not in our copy.
-3. **Never pair the gator mark with hyper-modern minimalist UI.** No giant whitespace SaaS hero with a tiny gator in the corner. The mark wants context: parchment cream, serif type, banners, laurels. Tonal collision is the fastest way to ruin both halves of the brand.
-4. **Never go full Oktoberfest.** No pretzels, no dirndls, no beer steins, no oompah copy, no "Prost!" The gator carries the heritage on his back. The page carries product, route, and price.
-5. **Never abandon the cream background.** Not on a landing page test. Not on a campaign micro-site. The cream is the brand.
-6. **Never use the gator mark on the wholesale page.** Chefs read whimsy as a credibility cost. Wholesale uses the wordmark, the laurel-and-shield, and the restrained palette only.
-7. **Never claim post-harvest handling.** No washing, rinsing, drying, processing, or cleaning. Florida regulations. Stick to growing inputs and the act of harvest.
-8. **Never name or photograph the kids' faces in public copy.** Hands at work, backs of heads, silhouettes only.
-9. **Never use em-dashes.** Period, comma, colon, parens. Hyphens only in compound words.
-10. **Never use "community" to mean "our customers."** "Our neighbors" or "the families on our route." "Community" is corporate fog.
-11. **Never run a countdown timer, fake scarcity banner, or social-proof FOMO widget.** The real scarcity is that we cap routes. That speaks on its own.
-12. **Never write a 600-word About page.** Five people, one shed, ten greens, one route, German on one side, Florida on the other. Anything longer is filler.
-13. **Never put the gator on a photo.** Illustration layer and photo layer stay separate. Composited together they look like a clip-art assembly.
-14. **Never link to social media we don't actively post on.** A dead Instagram link is worse than no link at all.
+1. **Never reintroduce the retired heritage direction.** No mascot, no lederhosen, no castle, no blackletter, no German words in copy, no Bavarian motifs. This was tried and reverted by owner decision on 2026-07-07. If a future pass finds this brand book "incomplete" without a mascot, the answer is no. See 10.10.
+2. **Never abandon the cream background.** Not on a landing page test. Not on a campaign micro-site. The cream is the brand.
+3. **Never claim post-harvest handling.** No washing, rinsing, drying, processing, or cleaning. Florida regulations. Stick to growing inputs and the act of harvest.
+4. **Never name or photograph the kids' faces in public copy.** Hands at work, backs of heads, silhouettes only. Birth-order and role references are fine (see 10.4).
+5. **Never use em-dashes.** Period, comma, colon, parens. Hyphens only in compound words.
+6. **Never use "community" to mean "our customers."** "Our neighbors" or "the families on our route." "Community" is corporate fog.
+7. **Never run a countdown timer, fake scarcity banner, or social-proof FOMO widget.** The real scarcity is that we cap routes. That speaks on its own.
+8. **Never write a 600-word About page.** Five people, one shed, ten greens, one route. Anything longer is filler.
+9. **Never link to social media we don't actively post on.** A dead Instagram link is worse than no link at all.
+10. **Never pair this palette with hyper-modern minimalist UI.** No giant-whitespace SaaS hero with a tiny logo in the corner. The cream, the serif body, and the rules want printed-matter context. Tonal collision ruins both halves.
+11. **Never invent a fact to make a post land.** No invented conversations, no "a neighbor asked," no scene that didn't happen. If a trial failed or the result isn't in yet, that is the post.
 
 ## 10. Resolved Decisions
 
-The owner has reviewed the v1 resolved-decisions list, kept what still holds, and revised what v2 affects. The UI Designer should treat these as locked constraints.
+Locked constraints. Treat these as answered.
 
-1. **Family name.** Implicit. "Volkman Farm" is the sign over the door. Personal warmth comes from "we," from "Albert built the shed" on About, and from the gator. The kids are never named in public copy.
-2. **Homeschool angle.** Implicit. Mentioned once on About, not a brand signal. v2 does not change this.
-3. **Wholesale visual identity.** Distinct and restrained. `/restaurants/` uses cream + ink + Alpine + bark only. No burgundy. No heritage gold. No gator illustration. The blackletter wordmark, the laurel-and-shield rule, and the small Florida shield are the heritage signals that stay; the wholesale page is not stripped of the wordmark identity, just of the playful flourishes. Copy is more formal, no German loan words, no winks. Chefs read restraint as professional, and they respect a heritage mark.
-4. **Kids language.** Generic. "Our kids help pack" is the upper bound. No ages, no names, no specific role assignments.
-5. **Logo system.** The full gator illustration at `assets/brand/volkman-mark.png` is the **primary brand mark**. The **wordmark alone** (the blackletter "Volkman Farm" extracted from the mark) is the **secondary, working mark** used in the site header, on the wholesale page, and in any space the full mark would be too whimsical or too detailed. The **tertiary mark** is the laurel-wreathed V monogram (or, as fallback, the gator-head spot mark), used at favicon size, on social avatars, and as a label-corner stamp.
-6. **Heritage authenticity.** The Volkman family has real German ancestry. The Bavarian motifs are not costume. Owner has confirmed permission to lean in. German loan words on the mark stay. The blackletter wordmark stays. The castle silhouette stays. The Florida palm trees on the other side of the mark stay because Florida is the present tense.
-7. **The mark is the anchor.** All v2 visual decisions derive from the mark. If a question arises that this document does not answer, the answer is whatever makes the mark feel more at home on the page.
-8. **Display typeface.** DM Serif Display (OFL, free via Google Fonts) is the production display face. Bely Display was the original Brand Guardian pick but turned out to be a paid TypeTogether font, not OFL. Recoleta SemiBold was the v1 first-pick before that. Either is a one-line swap if the brand ever wants to license a paid display face.
-9. **Secondary mark.** Laurel-wreathed V monogram is the locked secondary direction. UI Designer should propose a concrete version (SVG) the owner can review before merch or favicon usage. The cropped gator-head spot mark is shelved, not killed; it can come back later if the monogram does not earn its keep.
+1. **Family name.** Implicit. "Volkman Farm" is the sign over the door. Personal warmth comes from "we" and from "Albert built the shed" on About. The kids are never named in public copy.
+2. **Homeschool angle.** Implicit. Mentioned once on About, not a brand signal.
+3. **Wholesale visual identity.** Distinct and restrained. `/restaurants/` uses cream, ink, Alpine, and bark only. No burgundy, no olive gold, no ornament. Copy is more formal and takes no winks. Chefs read restraint as professional.
+4. **Kids language.** No names, no ages, no face-on photographs. Birth-order and role references are allowed, for example "our oldest daughter manages the food forest" (owner decision 2026-07-08). This supersedes the earlier "generic, no specific role assignments" rule.
+5. **Logo system.** The logo at `assets/logo.png` and `assets/logo.webp` is the primary and only brand mark, used in the header, the favicon, and the OG image. There is no secondary or tertiary mark.
+6. **Retired assets.** The heritage-era files in `assets/brand/` (`volkman-mark-*`, `monogram*`, `wordmark.svg`) are unreferenced by any template and retired. They are kept only as history. Do not reintroduce them into a layout, a label, or a social profile.
+7. **The anchor.** Section 1 is the anchor. If a question arises that this document does not answer, the answer is whatever makes the positioning statement more believable to a neighbor who has never bought from us.
+8. **Display typeface.** DM Serif Display (OFL, free via Google Fonts) is the production display face. Bely Display was the original pick but turned out to be a paid TypeTogether font, not OFL. Recoleta SemiBold was the first pick before that. Either is a one-line swap if the brand ever wants to license a paid display face. Verify any new font's license at the source.
+9. **Font files.** Source Serif 4 and Inter are specified, self-hosted by design, and not yet in the repo. Body and UI type fall back until they land. See section 6.
+10. **Brand history.** The heritage direction (May 2026) put an illustrated mascot, German loan words, and a blackletter wordmark over the whole identity. Albert reverted it on 2026-07-07 in commit `c5da537`: header, favicon, and OG images went back to the logo, and every mascot and German reference came out of the copy. **Kept from that generation:** the typography, the color palette, and the plainer, more concrete voice, all of which were improvements and all of which are documented above. The reason for the revert was owner preference. It does not need relitigating.
 
 ---
 
-*Document author: Brand Guardian (Claude). Last updated 2026-05-23. Read it yearly. If the site drifts off the positioning statement in section 1, the site is wrong, not the statement.*
+*Working document. Last updated 2026-08-05, rewritten to match the identity actually shipping after the 2026-07-07 revert. Read it yearly. If the site drifts off the positioning statement in section 1, the site is wrong, not the statement.*
