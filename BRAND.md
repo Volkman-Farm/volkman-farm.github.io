@@ -159,13 +159,16 @@ Per resolved decision 10.3, `/restaurants/` uses a tighter palette to read as mo
 
 ### Accessibility
 
-- Ink on cream: ~14:1 (AAA)
-- Alpine on cream: ~5.2:1 (AA normal, AAA large)
-- Olive gold on cream: ~3.6:1 (large text and decorative only; never body)
-- Burgundy on cream: ~6.4:1 (AA)
-- Bark on cream: ~6.1:1 (AA)
+**The published contrast ratios need recomputation and should not be quoted until they are.** This document and `DESIGN-SYSTEM.md` have carried different numbers for the same hex pairs (ink on cream as both 14:1 and 12.8:1, alpine as both 5.2:1 and 5.4:1). At least one set was almost certainly computed against the v1 cream `#fef6e9` rather than the current `#f5ead3`. Recompute every pair against `--cream` with a tool and update both documents from the same run. See `DESIGN-SYSTEM.md` section 9.
 
-Pin these in a Figma variable file so the next person doesn't drift.
+The rules that hold regardless of the exact numbers:
+
+- **Ink is the default** for body text and headings, by a wide margin the strongest pairing in the system.
+- **Olive gold is decorative only.** Never body type, never small text, never a link color.
+- **Alpine is for links, buttons, markers, and the focus ring**, not for running copy.
+- **Alpine-deep is the safer alpine** where text needs more weight.
+- **Bark stays on cream, never on surface.** Too close in luminance.
+- **Cream on alpine** is the primary button pairing and the only inverse combination in production.
 
 ## 6. Typography Pairing
 
@@ -185,15 +188,17 @@ Mobile-first, fluid via `clamp()`. All sizes in rem. Matches the tokens in `main
 
 | Token | Size | Line-height | Letter-spacing | Weight | Family |
 |---|---|---|---|---|---|
-| h1 | `clamp(2.25rem, 5.5vw, 3.25rem)` | 1.05 | -0.015em | 600 | DM Serif Display |
-| h2 | `clamp(1.5rem, 3.75vw, 2rem)` | 1.15 | -0.005em | 600 | DM Serif Display |
-| h3 | `clamp(1.2rem, 2.5vw, 1.4rem)` | 1.25 | 0 | 600 | DM Serif Display |
+| h1 | `clamp(2.25rem, 5.5vw, 3.25rem)` | 1.05 | -0.015em | 400 | DM Serif Display |
+| h2 | `clamp(1.5rem, 3.75vw, 2rem)` | 1.15 | -0.005em | 400 | DM Serif Display |
+| h3 | `clamp(1.2rem, 2.5vw, 1.4rem)` | 1.25 | 0 | 400 | DM Serif Display |
 | body | `1.0625rem` (17px) | 1.6 | 0 | 400 | Source Serif 4 |
 | body large | `1.15rem` | 1.55 | 0 | 400 | Source Serif 4 |
 | small | `0.875rem` | 1.5 | 0.005em | 400 | Source Serif 4 |
 | nav / button label | `0.95rem` | 1.4 | 0.04em | 600 | Inter |
-| blockquote | `1.2rem` italic | 1.45 | 0 | 400 italic | Source Serif 4 |
+| blockquote | `1.25rem` italic | 1.45 | 0 | 400 italic | DM Serif Display |
 | eyebrow caps | `0.8rem` | 1.3 | 0.18em | 700 | Inter, uppercase |
+
+DM Serif Display ships a single 400 weight, so headings are set at 400 with `font-synthesis: none`. Asking the display face for 600 or 700 gets you a synthetic bold, not a real one. Blockquote is the one place the display face carries body-adjacent text.
 
 ### Self-hosting, and what is actually shipping
 
