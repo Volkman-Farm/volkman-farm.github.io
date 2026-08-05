@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Cross-section line drawing of a mowed field with cut stalks standing above the soil line, stems lying flat on the surface, scattered seed on top of the residue, and roots below ground carrying small round nodules">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- sun, upper right -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="1078" cy="104" r="40"/>
+    <path d="M1078 34 v -22 M1078 174 v 22 M1008 104 h -22 M1148 104 h 22
+             M1029 55 l -16 -16 M1127 153 l 16 16 M1127 55 l 16 -16 M1029 153 l -16 16"/>
+  </g>
+
+  <!-- cut stalks: vertical stems ending in a short angled cut face -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M140 400 V 300 l 16 -11"/>
+    <path d="M214 400 V 252 l 16 -11"/>
+    <path d="M214 322 l -34 -16"/>
+    <path d="M292 400 V 318 l 16 -11"/>
+    <path d="M366 400 V 268 l 16 -11"/>
+    <path d="M366 332 l 34 -16"/>
+    <path d="M448 400 V 236 l 16 -11"/>
+    <path d="M448 300 l -34 -16"/>
+    <path d="M520 400 V 306 l 16 -11"/>
+    <path d="M598 400 V 258 l 16 -11"/>
+    <path d="M598 324 l 34 -16"/>
+    <path d="M676 400 V 330 l 16 -11"/>
+    <path d="M752 400 V 272 l 16 -11"/>
+    <path d="M752 336 l -34 -16"/>
+    <path d="M830 400 V 242 l 16 -11"/>
+    <path d="M830 308 l 34 -16"/>
+    <path d="M908 400 V 312 l 16 -11"/>
+    <path d="M986 400 V 262 l 16 -11"/>
+    <path d="M986 328 l -34 -16"/>
+    <path d="M1058 400 V 296 l 16 -11"/>
+  </g>
+
+  <!-- mowed residue lying across the surface -->
+  <g fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 386 C 190 372 268 394 358 380"/>
+    <path d="M330 390 C 424 378 500 394 594 384"/>
+    <path d="M572 378 C 664 364 742 386 830 372"/>
+    <path d="M806 388 C 898 378 978 392 1104 382"/>
+    <path d="M168 368 C 244 358 306 372 374 364"/>
+    <path d="M642 386 C 724 378 790 390 858 384"/>
+    <path d="M888 366 C 956 358 1014 370 1076 364"/>
+    <!-- a few leaves still attached to the residue -->
+    <path d="M258 380 C 244 366 248 350 266 344 C 276 358 272 374 258 380"/>
+    <path d="M562 388 C 548 374 552 358 570 352 C 580 366 576 382 562 388"/>
+    <path d="M940 382 C 926 368 930 352 948 346 C 958 360 954 376 940 382"/>
+  </g>
+
+  <!-- broadcast seed sitting down in the residue, not yet sprouted -->
+  <g fill="#1f2419">
+    <ellipse cx="150" cy="376" rx="8" ry="6"/>
+    <ellipse cx="232" cy="362" rx="7" ry="5"/>
+    <ellipse cx="318" cy="378" rx="8" ry="6"/>
+    <ellipse cx="404" cy="366" rx="7" ry="5"/>
+    <ellipse cx="480" cy="382" rx="8" ry="6"/>
+    <ellipse cx="556" cy="368" rx="7" ry="5"/>
+    <ellipse cx="632" cy="380" rx="8" ry="6"/>
+    <ellipse cx="712" cy="364" rx="7" ry="5"/>
+    <ellipse cx="790" cy="382" rx="8" ry="6"/>
+    <ellipse cx="868" cy="366" rx="7" ry="5"/>
+    <ellipse cx="954" cy="378" rx="8" ry="6"/>
+    <ellipse cx="1032" cy="364" rx="7" ry="5"/>
+    <ellipse cx="1094" cy="380" rx="8" ry="6"/>
+  </g>
+
+  <!-- soil line -->
+  <path d="M84 400 H 1116" fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- sand grains below the line -->
+  <g fill="#5c4633">
+    <circle cx="130" cy="452" r="4"/>
+    <circle cx="196" cy="500" r="3"/>
+    <circle cx="252" cy="440" r="4"/>
+    <circle cx="336" cy="486" r="3"/>
+    <circle cx="392" cy="440" r="4"/>
+    <circle cx="440" cy="530" r="3"/>
+    <circle cx="486" cy="446" r="4"/>
+    <circle cx="562" cy="536" r="3"/>
+    <circle cx="612" cy="452" r="4"/>
+    <circle cx="668" cy="504" r="3"/>
+    <circle cx="700" cy="444" r="4"/>
+    <circle cx="796" cy="470" r="3"/>
+    <circle cx="860" cy="442" r="4"/>
+    <circle cx="900" cy="530" r="3"/>
+    <circle cx="944" cy="456" r="4"/>
+    <circle cx="1042" cy="530" r="3"/>
+    <circle cx="1076" cy="450" r="4"/>
+    <circle cx="1096" cy="504" r="3"/>
+  </g>
+
+  <!-- roots below the cut stalks -->
+  <g fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M214 400 C 210 452 220 496 210 552"/>
+    <path d="M214 440 C 178 448 156 466 146 492"/>
+    <path d="M216 482 C 248 492 268 510 278 536"/>
+    <path d="M448 400 C 452 450 442 494 450 550"/>
+    <path d="M448 438 C 484 446 506 466 514 492"/>
+    <path d="M446 480 C 414 490 394 506 384 530"/>
+    <path d="M752 400 C 748 450 758 494 750 550"/>
+    <path d="M752 442 C 716 450 694 468 684 494"/>
+    <path d="M754 484 C 786 494 804 510 814 534"/>
+    <path d="M986 400 C 988 448 980 488 986 538"/>
+    <path d="M986 442 C 1016 450 1034 468 1042 492"/>
+    <path d="M984 484 C 954 494 938 508 930 530"/>
+    <path d="M140 400 C 138 438 144 468 138 506"/>
+    <path d="M366 400 C 368 440 362 474 368 514"/>
+    <path d="M598 400 C 596 438 602 470 596 508"/>
+    <path d="M830 400 C 832 440 826 474 832 512"/>
+    <path d="M292 400 C 294 434 288 458 292 486"/>
+    <path d="M676 400 C 674 432 680 456 676 484"/>
+    <path d="M908 400 C 910 434 904 458 908 486"/>
+    <path d="M520 400 C 518 432 524 456 520 484"/>
+    <path d="M1058 400 C 1060 434 1054 458 1058 486"/>
+  </g>
+
+  <!-- nitrogen nodules on the legume roots -->
+  <g fill="none" stroke="#6b2a2f" stroke-width="4">
+    <circle cx="166" cy="462" r="9"/>
+    <circle cx="250" cy="502" r="8"/>
+    <circle cx="212" cy="524" r="9"/>
+    <circle cx="498" cy="476" r="9"/>
+    <circle cx="406" cy="516" r="8"/>
+    <circle cx="449" cy="514" r="9"/>
+    <circle cx="704" cy="480" r="9"/>
+    <circle cx="798" cy="516" r="8"/>
+    <circle cx="751" cy="514" r="9"/>
+    <circle cx="1028" cy="478" r="9"/>
+    <circle cx="946" cy="512" r="8"/>
+    <circle cx="986" cy="502" r="9"/>
+  </g>
+</svg>

@@ -95,11 +95,14 @@ Three subjects, in this priority order:
   Thu Jul 30, 2026**, seed broadcast over that residue **Sat Aug 1**. Treat the mowing as
   seedbed prep only; the chop-and-drop technique itself belongs to the Sep 9 post, so do not
   spend it early.
-  Rate arithmetic to raise with Albert before publishing a number: 50 lb over 0.75 acre is
-  about 67 lb/acre, against a label rate of 40-50 lb/acre for a full stand and 25 lb/acre for
-  overseeding. That is heavy on both counts. It may be deliberate, or the seeded area may not
-  be exactly three-quarters of an acre. Do not publish a per-acre figure or call the rate
-  correct or incorrect until he confirms which.
+  Rate, resolved 2026-08-03: it was **the bag we had**, and Albert reads it as close enough
+  to what the area needed. Write it that way, plainly, with no agonizing and no precision the
+  decision did not have. **Do not publish a per-acre figure.** State the fact ("a fifty pound
+  bag over the front three-quarter acre") and let the reader do their own arithmetic, because
+  50 lb over 0.75 acre works out near 67 lb/acre, which is above the label's 40-50 for a full
+  stand and well above its 25 for overseeding. Never imply the pass was label-rate. Equally,
+  never write it as a mistake: broadcasting into mowed residue buries less seed than a drill
+  does, so erring high is ordinary practice.
   Also note the product is marketed as a deer food plot mix and the vendor lists cover crop as
   an application; do not imply hunting.
   The chickens and mulch piles are in the backyard. Some mulch piles are ready to come online
@@ -226,7 +229,7 @@ file back into `posts/`.
 | Sun Aug 2 | Variety spotlight | Arugula before it gets bitter | Micro arugula vs mature. Link /greens/arugula/. | [x] posts/arugula-before-it-gets-bitter.md |
 | Mon Aug 3 | In the kitchen | Summer salads that don't wilt by noon | Building lunch salads with sturdy micros. | [x] posts/summer-salads-that-dont-wilt-by-noon.md |
 | Tue Aug 4 | Homestead journal | August plans, written in pencil | What we're planning for fall while it's too hot to plant. Fall garden is genuinely undecided as of 2026-08-03 (no seed order, no varieties), so the post names no crops and leans on the pencil premise. Reports the Sat Aug 1 front-plot seeding in one paragraph and hands the cover crop detail to Aug 5. | [x] posts/august-plans-written-in-pencil.md |
-| Wed Aug 5 | Permaculture | Cover crops: the summer garden that feeds the fall one | Sunn hemp, cowpeas, what we're trying. | [ ] |
+| Wed Aug 5 | Permaculture | Cover crops: the summer garden that feeds the fall one | Sunn hemp, cowpeas, what we're trying. Covers the sunn hemp season, the 18-inch chop, the Jul 30 mow and the Aug 1 broadcast, and why the blend beats a single crop. Deliberately reports NO germination result: seed went down Aug 1 and takes 7-14 days, so Aug 25 keeps the check-in. Chop-and-drop technique withheld for Sep 9. States the bag, never a per-acre rate. | [x] posts/the-summer-garden-that-feeds-the-fall-one.md |
 | Thu Aug 6 | On the route | Meet Lake Mary and Sanford | First neighborhoods profile. Link both city pages. | [ ] |
 | Fri Aug 7 | Growing notes | Did the amaranth work? | Still the verdict post; the Jul 27 Nazca Lines post deliberately did NOT answer it. As of 2026-07-27 the chef had switched his standing order from beet to amaranth but the first amaranth delivery had not gone out yet, so nothing has been cooked with. The Jul 27 post tells readers to ask in a month about three specific things, and this post owes exactly those: did it hold color through a Florida summer, did it dodge the mold problem beet has, is he still ordering it. Do not write until Albert has the real answers, and report a failure as a failure. Amaranth is not one of the ten varieties and has no /greens/ page, so link /greens/beet/ or /restaurants/, not amaranth. Builds on Jul 19 and Jul 27. | [ ] |
 | Sat Aug 8 | Reader questions | Can I grow microgreens at home? | Generous honest answer: yes, here's the starter version. | [ ] |
