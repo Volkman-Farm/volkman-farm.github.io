@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of two shallow growing trays side by side on a counter, the left one holding sparse slender stems with small paired leaves and the right one holding a denser stand with broader leaves, a sun above between them">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- sun above, between the trays -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="600" cy="104" r="42"/>
+    <path d="M600 38 v -20 M600 170 v 20 M534 104 h -20 M666 104 h 20
+             M553 57 l -15 -15 M647 151 l 15 15 M647 57 l 15 -15 M553 151 l -15 15"/>
+  </g>
+
+  <!-- LEFT TRAY: sparse, slender stems, small paired leaves -->
+  <g fill="none" stroke="#6b2a2f" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M158 442 C 152 388 162 328 154 262"/>
+    <path d="M214 442 C 220 396 212 348 218 306"/>
+    <path d="M272 442 C 266 384 274 312 266 244"/>
+    <path d="M330 442 C 336 400 328 356 334 318"/>
+    <path d="M388 442 C 382 390 390 334 382 276"/>
+    <path d="M446 442 C 452 404 444 362 450 330"/>
+    <path d="M500 442 C 494 392 502 340 494 288"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M154 262 C 140 260 120 252 114 236 C 132 232 146 244 154 262 Z"/>
+    <path d="M154 262 C 168 260 188 252 194 236 C 176 232 162 244 154 262 Z"/>
+    <path d="M218 306 C 204 304 184 296 178 280 C 196 276 210 288 218 306 Z"/>
+    <path d="M218 306 C 232 304 252 296 258 280 C 240 276 226 288 218 306 Z"/>
+    <path d="M266 244 C 252 242 232 234 226 218 C 244 214 258 226 266 244 Z"/>
+    <path d="M266 244 C 280 242 300 234 306 218 C 288 214 274 226 266 244 Z"/>
+    <path d="M334 318 C 320 316 300 308 294 292 C 312 288 326 300 334 318 Z"/>
+    <path d="M334 318 C 348 316 368 308 374 292 C 356 288 342 300 334 318 Z"/>
+    <path d="M382 276 C 368 274 348 266 342 250 C 360 246 374 258 382 276 Z"/>
+    <path d="M382 276 C 396 274 416 266 422 250 C 404 246 390 258 382 276 Z"/>
+    <path d="M450 330 C 436 328 416 320 410 304 C 428 300 442 312 450 330 Z"/>
+    <path d="M450 330 C 464 328 484 320 490 304 C 472 300 458 312 450 330 Z"/>
+    <path d="M494 288 C 480 286 460 278 454 262 C 472 258 486 270 494 288 Z"/>
+    <path d="M494 288 C 508 286 528 278 534 262 C 516 258 502 270 494 288 Z"/>
+  </g>
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M120 428 H 528 V 496 H 120 Z"/>
+    <path d="M132 444 H 516"/>
+  </g>
+
+  <!-- RIGHT TRAY: denser stand, broader leaves -->
+  <g fill="none" stroke="#6b2a2f" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M698 442 C 692 400 700 348 692 300"/>
+    <path d="M742 442 C 748 406 740 370 746 336"/>
+    <path d="M786 442 C 780 394 788 336 780 286"/>
+    <path d="M830 442 C 836 408 828 374 834 342"/>
+    <path d="M874 442 C 868 396 876 342 868 292"/>
+    <path d="M918 442 C 924 404 916 366 922 330"/>
+    <path d="M962 442 C 956 398 964 350 956 302"/>
+    <path d="M1006 442 C 1012 408 1004 376 1010 344"/>
+    <path d="M1050 442 C 1044 396 1052 344 1044 296"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M692 300 C 674 300 646 290 638 268 C 662 262 682 278 692 300 Z"/>
+    <path d="M692 300 C 710 300 738 290 746 268 C 722 262 702 278 692 300 Z"/>
+    <path d="M746 336 C 728 336 700 326 692 304 C 716 298 736 314 746 336 Z"/>
+    <path d="M746 336 C 764 336 792 326 800 304 C 776 298 756 314 746 336 Z"/>
+    <path d="M780 286 C 762 286 734 276 726 254 C 750 248 770 264 780 286 Z"/>
+    <path d="M780 286 C 798 286 826 276 834 254 C 810 248 790 264 780 286 Z"/>
+    <path d="M834 342 C 816 342 788 332 780 310 C 804 304 824 320 834 342 Z"/>
+    <path d="M834 342 C 852 342 880 332 888 310 C 864 304 844 320 834 342 Z"/>
+    <path d="M868 292 C 850 292 822 282 814 260 C 838 254 858 270 868 292 Z"/>
+    <path d="M868 292 C 886 292 914 282 922 260 C 898 254 878 270 868 292 Z"/>
+    <path d="M922 330 C 904 330 876 320 868 298 C 892 292 912 308 922 330 Z"/>
+    <path d="M922 330 C 940 330 968 320 976 298 C 952 292 932 308 922 330 Z"/>
+    <path d="M956 302 C 938 302 910 292 902 270 C 926 264 946 280 956 302 Z"/>
+    <path d="M956 302 C 974 302 1002 292 1010 270 C 986 264 966 280 956 302 Z"/>
+    <path d="M1010 344 C 992 344 964 334 956 312 C 980 306 1000 322 1010 344 Z"/>
+    <path d="M1010 344 C 1028 344 1056 334 1064 312 C 1040 306 1020 322 1010 344 Z"/>
+    <path d="M1044 296 C 1026 296 998 286 990 264 C 1014 258 1034 274 1044 296 Z"/>
+    <path d="M1044 296 C 1062 296 1090 286 1098 264 C 1074 258 1054 274 1044 296 Z"/>
+  </g>
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M672 428 H 1080 V 496 H 672 Z"/>
+    <path d="M684 444 H 1068"/>
+  </g>
+
+  <!-- counter -->
+  <path d="M60 496 H 1140" fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round"/>
+  <path d="M60 522 H 1140" fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round"/>
+</svg>
