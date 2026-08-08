@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a shallow tray of microgreens on a windowsill in front of a paned window with the sun outside, a spray bottle to the left and a jar of seed to the right">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <g transform="translate(0,42)">
+
+    <!-- window frame -->
+    <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M380 62 H 940 V 400 H 380 Z"/>
+    </g>
+    <g fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M660 62 V 400"/>
+      <path d="M380 231 H 940"/>
+    </g>
+
+    <!-- sun outside, upper left pane -->
+    <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="512" cy="148" r="38"/>
+      <path d="M512 90 v -16 M512 206 v 16 M454 148 h -16 M570 148 h 16
+               M471 107 l -13 -13 M553 189 l 13 13 M553 107 l 13 -13 M471 189 l -13 13"/>
+    </g>
+
+    <!-- light through the upper right pane -->
+    <g fill="none" stroke="#8a7e3a" stroke-width="4" stroke-linecap="round">
+      <path d="M700 96 L 760 196"/>
+      <path d="M756 96 L 816 196"/>
+      <path d="M812 96 L 872 196"/>
+    </g>
+
+    <!-- microgreen stems -->
+    <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M500 366 C 494 330 504 296 500 258"/>
+      <path d="M540 366 C 546 340 536 320 540 300"/>
+      <path d="M580 366 C 574 326 584 290 580 254"/>
+      <path d="M620 366 C 626 342 616 322 620 302"/>
+      <path d="M660 366 C 654 322 664 286 660 250"/>
+      <path d="M700 366 C 706 338 696 318 700 298"/>
+      <path d="M740 366 C 734 326 744 292 740 256"/>
+      <path d="M780 366 C 786 344 776 324 780 304"/>
+      <path d="M820 366 C 814 328 824 296 820 260"/>
+    </g>
+
+    <!-- paired seed leaves -->
+    <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M500 258 C 488 256 472 248 466 234 C 482 231 494 242 500 258 Z"/>
+      <path d="M500 258 C 512 256 528 248 534 234 C 518 231 506 242 500 258 Z"/>
+      <path d="M540 300 C 528 298 512 290 506 276 C 522 273 534 284 540 300 Z"/>
+      <path d="M540 300 C 552 298 568 290 574 276 C 558 273 546 284 540 300 Z"/>
+      <path d="M580 254 C 568 252 552 244 546 230 C 562 227 574 238 580 254 Z"/>
+      <path d="M580 254 C 592 252 608 244 614 230 C 598 227 586 238 580 254 Z"/>
+      <path d="M620 302 C 608 300 592 292 586 278 C 602 275 614 286 620 302 Z"/>
+      <path d="M620 302 C 632 300 648 292 654 278 C 638 275 626 286 620 302 Z"/>
+      <path d="M660 250 C 648 248 632 240 626 226 C 642 223 654 234 660 250 Z"/>
+      <path d="M660 250 C 672 248 688 240 694 226 C 678 223 666 234 660 250 Z"/>
+      <path d="M700 298 C 688 296 672 288 666 274 C 682 271 694 282 700 298 Z"/>
+      <path d="M700 298 C 712 296 728 288 734 274 C 718 271 706 282 700 298 Z"/>
+      <path d="M740 256 C 728 254 712 246 706 232 C 722 229 734 240 740 256 Z"/>
+      <path d="M740 256 C 752 254 768 246 774 232 C 758 229 746 240 740 256 Z"/>
+      <path d="M780 304 C 768 302 752 294 746 280 C 762 277 774 288 780 304 Z"/>
+      <path d="M780 304 C 792 302 808 294 814 280 C 798 277 786 288 780 304 Z"/>
+      <path d="M820 260 C 808 258 792 250 786 236 C 802 233 814 244 820 260 Z"/>
+      <path d="M820 260 C 832 258 848 250 854 236 C 838 233 826 244 820 260 Z"/>
+    </g>
+
+    <!-- tray -->
+    <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M470 366 H 856 V 424 H 470 Z"/>
+      <path d="M482 384 H 844"/>
+    </g>
+
+    <!-- windowsill -->
+    <path d="M240 430 H 1080" fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round"/>
+    <path d="M252 456 H 1068" fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round"/>
+
+    <!-- spray bottle -->
+    <g fill="none" stroke="#1f2419" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M262 374 H 322 V 428 H 262 Z"/>
+      <path d="M276 374 V 360 H 308 V 374"/>
+      <path d="M276 360 H 308 V 342 H 276 Z"/>
+      <path d="M276 351 H 246"/>
+    </g>
+    <path d="M262 402 H 322" fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round"/>
+    <path d="M276 366 C 264 366 256 374 256 384" fill="none" stroke="#6b2a2f" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- seed jar -->
+    <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M960 384 H 1022 V 428 H 960 Z"/>
+      <path d="M954 384 H 1028"/>
+      <path d="M966 376 H 1016 V 384"/>
+    </g>
+    <g fill="#5c4633">
+      <circle cx="974" cy="406" r="5"/>
+      <circle cx="990" cy="412" r="5"/>
+      <circle cx="1006" cy="404" r="5"/>
+      <circle cx="982" cy="420" r="5"/>
+      <circle cx="1002" cy="420" r="5"/>
+      <circle cx="936" cy="424" r="5"/>
+      <circle cx="918" cy="424" r="4"/>
+    </g>
+
+  </g>
+</svg>
