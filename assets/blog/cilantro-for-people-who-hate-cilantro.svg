@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a shallow tray of cilantro microgreens with long narrow seed leaves and small lobed true leaves on thin stems, and two round coriander seeds in front, one of them cracked open">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- grow light bar over the tray -->
+  <g fill="none" stroke="#8a7e3a" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M256 118 H 724" stroke-width="14"/>
+    <path d="M300 150 v 28 M380 150 v 28 M460 150 v 28 M540 150 v 28 M620 150 v 28 M700 150 v 28" stroke-width="5"/>
+  </g>
+
+  <!-- cilantro shoots: thin stems, long narrow seed leaves, lobed true leaves on the tall ones -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- shoot 1 -->
+    <path d="M300 460 C 298 402 302 350 306 312"/>
+    <path d="M306 312 C 276 310 252 298 240 270 C 266 274 294 292 306 312"/>
+    <path d="M306 312 C 336 310 360 298 372 270 C 346 274 318 292 306 312"/>
+
+    <!-- shoot 2, tall, with a true leaf -->
+    <path d="M392 460 C 390 396 394 336 398 288"/>
+    <path d="M398 288 C 362 286 332 272 318 238 C 350 242 384 264 398 288"/>
+    <path d="M398 288 C 434 286 464 272 478 238 C 446 242 412 264 398 288"/>
+    <path d="M398 288 C 398 272 398 260 398 248"/>
+    <path d="M398 248 C 388 230 392 214 398 206 C 404 214 408 230 398 248"/>
+    <path d="M398 236 C 382 230 370 218 366 204 C 382 206 394 220 398 236"/>
+    <path d="M398 236 C 414 230 426 218 430 204 C 414 206 402 220 398 236"/>
+
+    <!-- shoot 3 -->
+    <path d="M484 460 C 482 408 486 358 490 322"/>
+    <path d="M490 322 C 460 320 436 308 424 280 C 450 284 478 302 490 322"/>
+    <path d="M490 322 C 520 320 544 308 556 280 C 530 284 502 302 490 322"/>
+
+    <!-- shoot 4, tall, with a true leaf -->
+    <path d="M576 460 C 574 400 578 344 582 300"/>
+    <path d="M582 300 C 546 298 516 284 502 250 C 534 254 568 276 582 300"/>
+    <path d="M582 300 C 618 298 648 284 662 250 C 630 254 596 276 582 300"/>
+    <path d="M582 300 C 582 284 582 272 582 260"/>
+    <path d="M582 260 C 572 242 576 226 582 218 C 588 226 592 242 582 260"/>
+    <path d="M582 248 C 566 242 554 230 550 216 C 566 218 578 232 582 248"/>
+    <path d="M582 248 C 598 242 610 230 614 216 C 598 218 586 232 582 248"/>
+
+    <!-- shoot 5, short -->
+    <path d="M664 460 C 662 418 666 382 670 350"/>
+    <path d="M670 350 C 644 348 622 338 612 314 C 634 318 660 332 670 350"/>
+    <path d="M670 350 C 696 348 718 338 728 314 C 706 318 680 332 670 350"/>
+  </g>
+
+  <!-- shallow tray -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M200 460 H 780"/>
+    <path d="M248 460 L 266 504 H 714 L 732 460"/>
+    <path d="M248 460 L 272 442 H 708 L 732 460"/>
+  </g>
+
+  <!-- soil bed inside the tray -->
+  <path d="M284 452 H 696 L 708 460 H 272 Z" fill="#5c4633" fill-opacity="0.14" stroke="#5c4633" stroke-width="3"/>
+
+  <!-- coriander seed, whole -->
+  <g fill="none" stroke="#1f2419" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="906" cy="516" r="46"/>
+    <path d="M884 476 C 876 496 876 536 884 556"/>
+    <path d="M906 470 v 92"/>
+    <path d="M928 476 C 936 496 936 536 928 556"/>
+  </g>
+
+  <!-- coriander seed, cracked into two halves -->
+  <g fill="none" stroke="#1f2419" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1052 476 C 1020 488 1008 508 1010 526 C 1012 546 1028 564 1052 570
+             C 1066 544 1066 504 1052 476 Z"/>
+    <path d="M1082 476 C 1114 488 1126 508 1124 526 C 1122 546 1106 564 1082 570
+             C 1068 544 1068 504 1082 476 Z"/>
+  </g>
+</svg>

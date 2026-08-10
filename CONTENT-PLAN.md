@@ -46,6 +46,19 @@ Three subjects, in this priority order:
   The three routes fit the family calendar: Friday morning through Seminole County (home
   base); Monday and Wednesday evenings through north Orlando because those are taekwondo
   and rock climbing nights; Sunday afternoon downtown because church is in Parramore.
+- Cilantro harvest, added 2026-08-10 (Albert, first hand): cutting a tray leaves the smell on
+  you for the rest of the day, and he does not dislike it. Reusable in copy and captions. It
+  is a real detail, so keep it as it is; do not inflate it into the whole shed smelling, do
+  not put it on anyone else in the family, and do not turn "does not mind it" into "loves it."
+- Wholesale facts (added 2026-08-10): **standing orders change faster than posts do. Never
+  name what a restaurant account buys from us based on an older post. Ask Albert first, every
+  time.** What the Jul 27 and Aug 7 posts say an account takes was true when published and is
+  not current. Those posts stay exactly as written; the continuity rule is to let old copy
+  stand and correct forward in a new post, never to edit history. Nothing about an account
+  changing its order gets announced in copy unless Albert asks for it. This file is in a
+  public repo, so the specifics live in the private session memory, not here. Standing order
+  contents move around, so check here before naming what any account buys, and ask Albert
+  when this list does not say.
 - Property facts (added 2026-07-16, from the parcel GIS in ~/openclaw/memory/homestead/):
   the lot is 2.17 acres in Sanford (county cadastral, 94,418 sq ft), zoned A-1
   (agricultural). It is not a small suburban yard; do not describe it as one. Soils are
@@ -163,6 +176,7 @@ file back into `posts/`.
 | Pillar | Working title | Angle | Status |
 |---|---|---|---|
 | On the route | A Friday morning, hour by hour | Harvest at sunrise, packing line, Sanford to Oviedo. Drafted and illustrated, never dated. Wants a Friday slot. | drafted, drafts/a-friday-morning-hour-by-hour.md |
+| Variety spotlight | Radish: the one with opinions | Peppery heat, fastest crop in the shed, cotyledon harvest, where the heat belongs. Written and illustrated, never published. **Blocked on supply, not on writing.** Pulled from Sun Aug 9 on 2026-08-10 because there is no radish growing and no requests for it, and the post closes by asking readers to add radish to an order. Hold it until radish is back in rotation, then give it a Variety spotlight row, reset the frontmatter date, and move the file to `posts/`. Two things to re-check at that point, because this draft has now gone stale once already: the opening compares radish to the Aug 2 arugula post, and one section answers the Aug 8 home-growing post by name. Both links stay true whenever it runs, and the explicit "last week" phrasing was removed on 2026-08-10 so it cannot rot again, but confirm no newer post has covered the same ground. Hero SVG and PNG are both done and sitting in `assets/blog/`. | drafted, drafts/radish-the-one-with-opinions.md |
 | Growing notes | The A/C that was cooling nothing | The single-hose portable A/C failure and fix. We could not work out why the shed would not cool. A single-hose unit exhausts air the room then has to replace, which put the shed under negative pressure and pulled hot humid air in through the cracks. Albert built a makeshift plenum around the intake and cut a custom foam board to route both lines out the window; the room finally started cooling. Strong failure-then-fix post, and it pairs with Jul 31, which mentions the two hoses and deliberately withholds this story. **Interview Albert before drafting**: which unit, when the single-hose ran, what the plenum is made of, how the foam board is cut and sealed, what the room did before and after, and whether any crop was lost to it. Do not invent temperatures. | not drafted, needs interview |
 | Growing notes | Water: why filtered matters | Chlorine, tender roots, consistency. Displaced from Fri Aug 7 on 2026-07-20 to make room for the amaranth follow-up, which is date-sensitive. Not written yet; slot it into the next open Growing notes row. | not drafted |
 | On the route | What $3.50 an ounce pays for | Transparent cost breakdown: seed, light, labor, gas. Pushed off Thu Jul 30 on 2026-07-30 because the numbers do not exist yet. **Blocked on two prerequisites, do not draft before both clear.** (1) A metered shed power figure. The Jul 8 shed post promises in print that we will publish a real number "rather than guess at it," so inventing one breaks a published promise. (2) The Fri Sep 18 "Yield math" post, which establishes ounces per tray. Without it there is no per-ounce denominator and no breakdown. Also needs seed and soil cost per tray (True Leaf Market seed, Fox Farm Happy Frog at about six cups per tray), labor hours, and route mileage. Slot into the first open On the route row after Sep 18; if none is open, add a row rather than displacing a dated post. | not drafted, blocked |
@@ -242,7 +256,7 @@ file back into `posts/`.
 
 | Date | Pillar | Working title | Angle | Status |
 |---|---|---|---|---|
-| Sun Aug 9 | Variety spotlight | Radish: the one with opinions | Peppery heat, fast grower. Link /greens/radish/. Swapped back from Jul 19 on 2026-07-19; draft and hero already written. | [ ] drafted, drafts/radish-the-one-with-opinions.md |
+| Sun Aug 9 | Variety spotlight | Cilantro micros for people who swear they hate cilantro | Pulled forward from Aug 16 on 2026-08-10, after radish was pulled from this slot for lack of supply (see the backlog). Cilantro is on the shelves now, so the post is honest about what we can cut. **The original angle in this row said "milder than the herb" and that was wrong; it was not written that way.** Micro cilantro is full-strength cilantro, thinner stem and more delicate texture, flavor not turned down at all, and calling it mild is the one thing this post must never do. Leads by refusing the usual pitch, then treats the soap thing as real genetic variation in smell receptors rather than fussiness, hedged. Does NOT retell Albert's conversion; that ran in the Jul 20 taco post and is linked in one line instead, framed as a story and not a promise. **Restructured on 2026-08-10 after Albert flagged that cilantro had already been covered.** He was right that it had airtime: the Jul 20 taco post gives it a 235-word section and the Jul 22 Instagram post was cilantro on tacos. There was no spotlight, but the first draft re-argued the taco post's flavor case at length ("not a watered down version," strong and citrusy, tender stems, nothing to chop) for roughly its first 300 words. The rewrite leads instead with the one thing no post has published: 18 to 21 days, the slowest crop we grow, coriander seed cracked before sowing, and the rack-space math against broccoli at 8 to 10. Flavor and soap are compressed to a short passage that links the taco post rather than re-running it. 533 words, down from 755. **Rule this establishes: before writing a variety spotlight, grep `posts/` for that variety and read what the kitchen and route posts already spent, then write around it.** Heavy-metal headlines are named and deflated, no medical claim. The close states the two facts (three weeks for one tray, $3.50 like everything else) without a because; an earlier line reading "the fast crops carry the slow ones" was cut because nothing documents why the pricing is flat. | [x] posts/cilantro-for-people-who-hate-cilantro.md |
 | Mon Aug 10 | In the kitchen | School lunches with a secret | Back-to-school week. Micros in wraps and lunchboxes. | [ ] |
 | Tue Aug 11 | Homestead journal | The rain we get and the rain we lose | Watching August storms run off. Observation notes. | [ ] |
 | Wed Aug 12 | Permaculture | Catching water where it falls | Swales, mulch basins, rain barrels: what fits a suburban lot. | [ ] |
@@ -254,7 +268,7 @@ file back into `posts/`.
 
 | Date | Pillar | Working title | Angle | Status |
 |---|---|---|---|---|
-| Sun Aug 16 | Variety spotlight | Cilantro micros for people who swear they hate cilantro | Milder than the herb. Link /greens/cilantro/. | [ ] |
+| Sun Aug 16 | Variety spotlight | OPEN, first refusal to radish | Cilantro moved off this row to Aug 9 on 2026-08-10. Give this slot to the finished radish draft in the backlog **if radish is back in rotation by then**, since it is written and illustrated and only ever needed supply. Ask Albert before slotting it; do not assume. If radish is still out, write a spotlight for something on the shelves instead: kale (its own row is Aug 23) and amaranth are both growing, though amaranth is not one of the ten and has no /greens/ page to link. | [ ] |
 | Mon Aug 17 | In the kitchen | Grain bowls, assembled not cooked | No-stove August dinners with micros on top. | [ ] |
 | Tue Aug 18 | Homestead journal | What died in July | Failure post. Honesty builds trust. | [ ] |
 | Wed Aug 19 | Permaculture | Shade is an asset, not a problem | Reading shade patterns, planting into them. | [ ] |
