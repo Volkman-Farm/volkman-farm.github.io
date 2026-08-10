@@ -36,6 +36,12 @@ Everything in the blog guardrails applies to captions and on-image text:
 - Kids: hands, backs of heads, silhouettes. Never names, never faces.
 - Photography: window light or shed light, no filters, no stock, no watermarks,
   real kitchens and real plates. Hands in frame, faces mostly not.
+- **Read every shot at full resolution before it goes out.** Phone cameras resolve
+  handwriting that looks like a smudge on screen. Shed labels carry customer names,
+  so any frame showing the rack, a clamshell label, or a packing list gets checked
+  and cropped before it is prepped. Customer names are Albert's to disclose and have
+  no business on the feed. Added 2026-08-10, after the rack shot for that day's
+  carousel turned out to have legible names on the shelf tags.
 - Only claim what is real. The homestead is early. Potential is the honest word.
 - One CTA per caption, max. Most captions need none.
 
@@ -174,6 +180,7 @@ location by hand in the app, which is editable on feed posts after publishing.
 | 2026-07-29 | Homestead honest (black soldier fly on the bin, scraps carousel) | https://www.instagram.com/p/DbYR4JWICy3/ |
 | 2026-07-31 | Shed life (portable A/C and the two-hose window panel, carousel) | https://www.instagram.com/p/DbdiubOoLkm/ |
 | 2026-08-05 | Homestead honest (cover crop seed bag) | https://www.instagram.com/p/DbqwKAsoCqc/ |
+| 2026-08-10 | Variety spotlight (broccoli tray, 2-slide carousel) | https://www.instagram.com/p/Db3ny7MoDql/ |
 
 ## Measurement (keep it light)
 
