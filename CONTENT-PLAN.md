@@ -50,6 +50,22 @@ Three subjects, in this priority order:
   you for the rest of the day, and he does not dislike it. Reusable in copy and captions. It
   is a real detail, so keep it as it is; do not inflate it into the whole shed smelling, do
   not put it on anyone else in the family, and do not turn "does not mind it" into "loves it."
+- **Customer base, corrected 2026-08-13. Read this before any post that mentions customers,
+  routes, or orders.** The blog spent its first five weeks inventing a customer base that does
+  not exist. **Never write about drops we have made, regulars, what customers say at doors, how
+  many people in a town order, or any neighborhood's ordering habits.** The delivery
+  neighborhoods are a **service area we would deliver to**, not routes with customers on them.
+  "On the route" posts describe **how the route is designed and why**, which is real, and never
+  report from a route as though it ran this week. Subscribe-and-save may be explained as an
+  offer, and as the reason forecastable orders help a grower decide what to seed; it may never
+  be described as something people are on. Do not name a crop as a standing or weekly order.
+  Customers who are private individuals are **never named**, and a customer's profession is
+  never published alongside anything identifying them.
+  How many buyers there are, who they are, and what each one takes is **commercially sensitive
+  and lives in the private session memory, not in this public file**. Ask Albert; do not infer
+  it from an older post. Copy published before this date invents customers in several posts and
+  on the live city pages in `_data/cities.js`. Albert's call on 2026-08-13 was to leave that copy
+  for now. Do not quietly repeat those claims forward just because they are already in print.
 - Wholesale facts (added 2026-08-10): **standing orders change faster than posts do. Never
   name what a restaurant account buys from us based on an older post. Ask Albert first, every
   time.** What the Jul 27 and Aug 7 posts say an account takes was true when published and is
