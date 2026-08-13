@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a winding road running from a shed at the upper left, past three pine trees and a small arched trail bridge, down to two storefronts at the lower right, with a clamshell of microgreens on a step at each end of the road">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- road, narrow at the shed end and wide at the town end -->
+  <g fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M262 268 C 306 336 330 404 372 462 C 436 548 546 588 668 610"/>
+    <path d="M312 258 C 380 330 438 404 512 466 C 610 548 748 586 892 604"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-dasharray="22 20">
+    <path d="M292 264 C 348 334 388 406 446 466 C 528 550 654 588 786 608"/>
+  </g>
+
+  <!-- shed at the top of the road -->
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 202 L 128 156 L 204 202"/>
+    <path d="M72 202 V 278 M184 202 V 278"/>
+    <path d="M72 202 H 184"/>
+    <path d="M60 278 H 196"/>
+    <rect x="112" y="222" width="36" height="56" rx="3"/>
+    <path d="M84 226 h 22 v 22 h -22 Z"/>
+  </g>
+
+  <!-- porch step and clamshell at the shed end -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M198 316 H 268 M206 334 H 276"/>
+  </g>
+  <g transform="translate(232,312)">
+    <g fill="none" stroke="#1f2419" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-28 0 H 28 V -24 H -28 Z"/>
+      <path d="M-28 -13 H 28"/>
+    </g>
+    <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-14 -24 C -18 -38 -14 -48 -6 -54"/>
+      <path d="M2 -24 C 2 -40 6 -50 14 -56"/>
+      <path d="M16 -24 C 20 -36 26 -42 34 -46"/>
+    </g>
+  </g>
+
+  <!-- three pines beside the road -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="translate(486,414) scale(0.92)">
+      <path d="M0 -124 L -30 -70 H -14 L -36 -34 H -18 L -42 -6 H 42 L 18 -34 H 36 L 14 -70 H 30 Z"/>
+      <path d="M0 -6 V 12"/>
+    </g>
+    <g transform="translate(578,392) scale(1.14)">
+      <path d="M0 -124 L -30 -70 H -14 L -36 -34 H -18 L -42 -6 H 42 L 18 -34 H 36 L 14 -70 H 30 Z"/>
+      <path d="M0 -6 V 12"/>
+    </g>
+    <g transform="translate(672,424) scale(0.82)">
+      <path d="M0 -124 L -30 -70 H -14 L -36 -34 H -18 L -42 -6 H 42 L 18 -34 H 36 L 14 -70 H 30 Z"/>
+      <path d="M0 -6 V 12"/>
+    </g>
+  </g>
+
+  <!-- sun over the town end -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="1062" cy="132" r="40"/>
+    <path d="M1062 62 v -24 M1062 202 v 24 M992 132 h -24 M1132 132 h 24
+             M1013 83 l -17 -17 M1111 181 l 17 17 M1111 83 l 17 -17 M1013 181 l -17 17"/>
+  </g>
+
+  <!-- creek -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-dasharray="16 14">
+    <path d="M726 486 C 776 506 868 506 922 480"/>
+  </g>
+
+  <!-- arched trail bridge over the creek -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M744 470 C 786 410 866 410 908 470"/>
+    <path d="M744 486 C 786 426 866 426 908 486"/>
+    <path d="M744 470 V 486 M908 470 V 486"/>
+    <path d="M760 400 C 794 372 858 372 892 400"/>
+    <path d="M760 400 V 438 M892 400 V 438 M794 380 V 424 M826 374 V 418 M858 380 V 424"/>
+  </g>
+
+  <!-- two storefronts at the town end -->
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M924 578 V 462 H 1046 V 578"/>
+    <path d="M914 462 H 1056"/>
+    <rect x="946" y="514" width="34" height="64" rx="3"/>
+    <path d="M998 508 h 34 v 34 h -34 Z"/>
+    <path d="M1056 578 V 484 H 1160 V 578"/>
+    <path d="M1046 484 H 1170"/>
+    <rect x="1076" y="524" width="32" height="54" rx="3"/>
+    <path d="M1122 522 h 28 v 28 h -28 Z"/>
+    <path d="M902 578 H 1180"/>
+  </g>
+  <g fill="none" stroke="#6b2a2f" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M920 492 C 946 480 1024 480 1050 492 L 1042 506 C 1016 496 954 496 928 506 Z"/>
+  </g>
+
+  <!-- step and clamshell at the town end -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M836 592 H 906"/>
+  </g>
+  <g transform="translate(866,590)">
+    <g fill="none" stroke="#1f2419" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-30 0 H 30 V -26 H -30 Z"/>
+      <path d="M-30 -14 H 30"/>
+    </g>
+    <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-16 -26 C -20 -42 -16 -52 -8 -58"/>
+      <path d="M2 -26 C 2 -44 6 -54 14 -60"/>
+      <path d="M18 -26 C 22 -38 28 -46 36 -50"/>
+    </g>
+  </g>
+</svg>
