@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a tray of mustard microgreens with broad rounded seed leaves on upright stems, and beside it a small dish of round mustard seeds">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- mustard shoots: upright stems, broad rounded cotyledons -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- shoot 1 -->
+    <path d="M256 470 C 254 408 258 344 260 300"/>
+    <ellipse cx="228" cy="296" rx="40" ry="20" transform="rotate(-22 228 296)"/>
+    <ellipse cx="292" cy="296" rx="40" ry="20" transform="rotate(22 292 296)"/>
+
+    <!-- shoot 2 -->
+    <path d="M348 470 C 346 392 350 300 352 246"/>
+    <ellipse cx="320" cy="242" rx="40" ry="20" transform="rotate(-22 320 242)"/>
+    <ellipse cx="384" cy="242" rx="40" ry="20" transform="rotate(22 384 242)"/>
+
+    <!-- shoot 3 -->
+    <path d="M440 470 C 438 400 442 330 444 282"/>
+    <ellipse cx="412" cy="278" rx="40" ry="20" transform="rotate(-22 412 278)"/>
+    <ellipse cx="476" cy="278" rx="40" ry="20" transform="rotate(22 476 278)"/>
+
+    <!-- shoot 4, tallest -->
+    <path d="M532 470 C 530 384 534 288 536 226"/>
+    <ellipse cx="504" cy="222" rx="40" ry="20" transform="rotate(-22 504 222)"/>
+    <ellipse cx="568" cy="222" rx="40" ry="20" transform="rotate(22 568 222)"/>
+
+    <!-- shoot 5 -->
+    <path d="M624 470 C 622 396 626 320 628 268"/>
+    <ellipse cx="596" cy="264" rx="40" ry="20" transform="rotate(-22 596 264)"/>
+    <ellipse cx="660" cy="264" rx="40" ry="20" transform="rotate(22 660 264)"/>
+
+    <!-- shoot 6, short -->
+    <path d="M712 470 C 710 410 714 348 716 306"/>
+    <ellipse cx="684" cy="302" rx="40" ry="20" transform="rotate(-22 684 302)"/>
+    <ellipse cx="748" cy="302" rx="40" ry="20" transform="rotate(22 748 302)"/>
+  </g>
+
+  <!-- shallow tray -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M170 470 H 790"/>
+    <path d="M220 470 L 240 518 H 720 L 740 470"/>
+    <path d="M220 470 L 246 450 H 714 L 740 470"/>
+  </g>
+
+  <!-- soil bed inside the tray -->
+  <path d="M258 462 H 702 L 714 470 H 246 Z" fill="#5c4633" fill-opacity="0.14" stroke="#5c4633" stroke-width="3"/>
+
+  <!-- shallow dish of seed -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M886 430 H 1114"/>
+    <path d="M898 430 C 898 496 946 526 1000 526 C 1054 526 1102 496 1102 430"/>
+  </g>
+  <path d="M898 430 C 920 452 958 464 1000 464 C 1042 464 1080 452 1102 430" fill="none" stroke="#8a7e3a" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- mustard seed sitting in the dish -->
+  <g fill="none" stroke-width="5">
+    <circle cx="958" cy="478" r="12" stroke="#1f2419"/>
+    <circle cx="996" cy="490" r="12" stroke="#8a7e3a"/>
+    <circle cx="1034" cy="477" r="12" stroke="#1f2419"/>
+    <circle cx="1058" cy="495" r="12" stroke="#8a7e3a"/>
+    <circle cx="1000" cy="512" r="12" stroke="#6b2a2f"/>
+    <circle cx="966" cy="506" r="12" stroke="#1f2419"/>
+    <circle cx="1036" cy="512" r="12" stroke="#1f2419"/>
+  </g>
+
+  <!-- a few seeds spilled beside the dish -->
+  <g fill="none" stroke-width="5">
+    <circle cx="872" cy="540" r="12" stroke="#1f2419"/>
+    <circle cx="1136" cy="530" r="12" stroke="#8a7e3a"/>
+    <circle cx="1104" cy="566" r="12" stroke="#1f2419"/>
+  </g>
+</svg>
