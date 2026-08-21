@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a wide bowl seen from above, split into three sections holding grain, beans with cucumber slices, and a pile of microgreens, with a cut lemon and a few loose sprigs resting beside it">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- bowl, seen from above -->
+  <g fill="none" stroke="#5c4633" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="560" cy="315" r="238" stroke-width="6"/>
+    <circle cx="560" cy="315" r="214" stroke-width="4"/>
+  </g>
+
+  <!-- section dividers -->
+  <g fill="none" stroke="#5c4633" stroke-width="3" stroke-linecap="round" opacity="0.55">
+    <path d="M560 315 L 560 529"/>
+    <path d="M560 315 L 359 242"/>
+    <path d="M560 315 L 761 242"/>
+  </g>
+
+  <!-- top section: the pile of microgreens -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M470 241 L 470 215"/>
+    <ellipse cx="457" cy="212" rx="13" ry="7" transform="rotate(-25 457 212)"/>
+    <ellipse cx="483" cy="212" rx="13" ry="7" transform="rotate(25 483 212)"/>
+
+    <path d="M508 206 L 508 180"/>
+    <ellipse cx="495" cy="177" rx="13" ry="7" transform="rotate(-25 495 177)"/>
+    <ellipse cx="521" cy="177" rx="13" ry="7" transform="rotate(25 521 177)"/>
+
+    <path d="M548 231 L 548 205"/>
+    <ellipse cx="535" cy="202" rx="13" ry="7" transform="rotate(-25 535 202)"/>
+    <ellipse cx="561" cy="202" rx="13" ry="7" transform="rotate(25 561 202)"/>
+
+    <path d="M590 201 L 590 175"/>
+    <ellipse cx="577" cy="172" rx="13" ry="7" transform="rotate(-25 577 172)"/>
+    <ellipse cx="603" cy="172" rx="13" ry="7" transform="rotate(25 603 172)"/>
+
+    <path d="M630 231 L 630 205"/>
+    <ellipse cx="617" cy="202" rx="13" ry="7" transform="rotate(-25 617 202)"/>
+    <ellipse cx="643" cy="202" rx="13" ry="7" transform="rotate(25 643 202)"/>
+
+    <path d="M668 251 L 668 225"/>
+    <ellipse cx="655" cy="222" rx="13" ry="7" transform="rotate(-25 655 222)"/>
+    <ellipse cx="681" cy="222" rx="13" ry="7" transform="rotate(25 681 222)"/>
+
+    <path d="M528 266 L 528 240"/>
+    <ellipse cx="515" cy="237" rx="13" ry="7" transform="rotate(-25 515 237)"/>
+    <ellipse cx="541" cy="237" rx="13" ry="7" transform="rotate(25 541 237)"/>
+
+    <path d="M608 266 L 608 240"/>
+    <ellipse cx="595" cy="237" rx="13" ry="7" transform="rotate(-25 595 237)"/>
+    <ellipse cx="621" cy="237" rx="13" ry="7" transform="rotate(25 621 237)"/>
+  </g>
+
+  <!-- lower left section: cooked grain -->
+  <g fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round">
+    <path d="M410 360 L 426 352"/>
+    <path d="M438 344 L 454 340"/>
+    <path d="M470 352 L 486 346"/>
+    <path d="M420 390 L 436 384"/>
+    <path d="M452 378 L 468 374"/>
+    <path d="M486 384 L 502 378"/>
+    <path d="M414 420 L 430 416"/>
+    <path d="M448 410 L 464 406"/>
+    <path d="M482 414 L 498 410"/>
+    <path d="M516 400 L 532 396"/>
+    <path d="M430 448 L 446 444"/>
+    <path d="M466 442 L 482 438"/>
+    <path d="M500 444 L 516 440"/>
+    <path d="M524 424 L 540 420"/>
+    <path d="M462 330 L 478 326"/>
+    <path d="M498 350 L 514 344"/>
+    <path d="M528 366 L 544 362"/>
+    <path d="M406 392 L 422 388"/>
+    <path d="M436 470 L 452 466"/>
+    <path d="M472 476 L 488 472"/>
+    <path d="M506 468 L 522 464"/>
+    <path d="M534 448 L 550 444"/>
+    <path d="M458 492 L 474 488"/>
+    <path d="M496 494 L 512 490"/>
+  </g>
+
+  <!-- lower right section: beans, tomato, cucumber -->
+  <g fill="none" stroke="#1f2419" stroke-width="5">
+    <ellipse cx="610" cy="365" rx="17" ry="10" transform="rotate(20 610 365)"/>
+    <ellipse cx="655" cy="350" rx="17" ry="10" transform="rotate(-15 655 350)"/>
+    <ellipse cx="700" cy="372" rx="17" ry="10" transform="rotate(25 700 372)"/>
+    <ellipse cx="628" cy="405" rx="17" ry="10" transform="rotate(-20 628 405)"/>
+    <ellipse cx="676" cy="398" rx="17" ry="10" transform="rotate(10 676 398)"/>
+    <ellipse cx="716" cy="412" rx="17" ry="10" transform="rotate(-25 716 412)"/>
+  </g>
+
+  <g fill="none" stroke="#6b2a2f" stroke-width="5" stroke-linejoin="round">
+    <path d="M580 336 A 20 20 0 0 1 620 336 Z"/>
+    <path d="M626 330 A 20 20 0 0 1 666 330 Z"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="5">
+    <circle cx="620" cy="452" r="24"/>
+    <circle cx="620" cy="452" r="13"/>
+    <circle cx="672" cy="462" r="24"/>
+    <circle cx="672" cy="462" r="13"/>
+    <circle cx="706" cy="442" r="24"/>
+    <circle cx="706" cy="442" r="13"/>
+  </g>
+
+  <!-- cut lemon beside the bowl -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M890 420 A 70 70 0 0 1 1030 420 Z"/>
+    <path d="M904 420 A 56 56 0 0 1 1016 420"/>
+    <path d="M960 420 L 899 385"/>
+    <path d="M960 420 L 925 359"/>
+    <path d="M960 420 L 960 350"/>
+    <path d="M960 420 L 995 359"/>
+    <path d="M960 420 L 1021 385"/>
+  </g>
+
+  <!-- a few sprigs that did not make it into the bowl -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M890 566 L 890 540"/>
+    <ellipse cx="877" cy="537" rx="13" ry="7" transform="rotate(-25 877 537)"/>
+    <ellipse cx="903" cy="537" rx="13" ry="7" transform="rotate(25 903 537)"/>
+
+    <path d="M960 591 L 960 565"/>
+    <ellipse cx="947" cy="562" rx="13" ry="7" transform="rotate(-25 947 562)"/>
+    <ellipse cx="973" cy="562" rx="13" ry="7" transform="rotate(25 973 562)"/>
+
+    <path d="M1030 566 L 1030 540"/>
+    <ellipse cx="1017" cy="537" rx="13" ry="7" transform="rotate(-25 1017 537)"/>
+    <ellipse cx="1043" cy="537" rx="13" ry="7" transform="rotate(25 1043 537)"/>
+  </g>
+</svg>
