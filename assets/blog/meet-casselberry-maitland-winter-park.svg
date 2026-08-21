@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a road running past a long low slat shade house with ferns under it, then a lake with a small pavilion, then a row of storefronts under an evening sun low on the horizon, with a clamshell of microgreens on a porch step at the end">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- low evening sun behind the storefronts -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="6" stroke-linecap="round">
+    <path d="M902 168 A 62 62 0 0 1 1026 168"/>
+    <path d="M964 74 V 96"/>
+    <path d="M880 108 L 896 124"/>
+    <path d="M1048 108 L 1032 124"/>
+    <path d="M846 168 H 872"/>
+    <path d="M1056 168 H 1082"/>
+  </g>
+
+  <!-- the road, running left to right across the whole card -->
+  <g fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 528 C 240 512 420 496 596 486 C 780 476 950 470 1160 466"/>
+    <path d="M40 596 C 250 580 440 562 630 552 C 830 542 1000 536 1160 532"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-dasharray="24 22">
+    <path d="M40 562 C 246 546 430 529 614 519 C 806 509 976 503 1160 499"/>
+  </g>
+
+  <!-- Casselberry: a long low slat shade house with ferns under it -->
+  <g fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M46 252 H 386"/>
+    <path d="M62 252 V 424 M186 252 V 424 M310 252 V 424 M370 252 V 424"/>
+    <path d="M62 336 H 386"/>
+  </g>
+  <!-- slats on the roof -->
+  <g fill="none" stroke="#5c4633" stroke-width="4" stroke-linecap="round">
+    <path d="M74 230 V 252 M106 230 V 252 M138 230 V 252 M170 230 V 252 M202 230 V 252 M234 230 V 252 M266 230 V 252 M298 230 V 252 M330 230 V 252 M362 230 V 252"/>
+  </g>
+  <!-- feathery plumosus fronds standing under the slats -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 424 C 107 384, 113 350, 121 300"/>
+    <path d="M112 409 C 95 403, 78 395, 74 383"/>
+    <path d="M112 409 C 129 403, 146 395, 150 383"/>
+    <path d="M113 381 C 100 375, 87 367, 83 355"/>
+    <path d="M113 381 C 126 375, 139 367, 143 355"/>
+    <path d="M114 354 C 105 348, 96 340, 92 328"/>
+    <path d="M114 354 C 123 348, 132 340, 136 328"/>
+    <path d="M117 329 C 112 323, 107 315, 103 303"/>
+    <path d="M117 329 C 122 323, 127 315, 131 303"/>
+    <path d="M238 424 C 233 384, 239 368, 247 318"/>
+    <path d="M238 411 C 221 405, 204 397, 200 385"/>
+    <path d="M238 411 C 255 405, 272 397, 276 385"/>
+    <path d="M239 387 C 226 381, 213 373, 209 361"/>
+    <path d="M239 387 C 252 381, 265 373, 269 361"/>
+    <path d="M240 364 C 231 358, 222 350, 218 338"/>
+    <path d="M240 364 C 249 358, 258 350, 262 338"/>
+    <path d="M243 343 C 238 337, 233 329, 229 317"/>
+    <path d="M243 343 C 248 337, 253 329, 257 317"/>
+    <path d="M344 424 C 339 384, 345 382, 353 332"/>
+    <path d="M344 412 C 327 406, 310 398, 306 386"/>
+    <path d="M344 412 C 361 406, 378 398, 382 386"/>
+    <path d="M345 392 C 332 386, 319 378, 315 366"/>
+    <path d="M345 392 C 358 386, 371 378, 375 366"/>
+    <path d="M346 372 C 337 366, 328 358, 324 346"/>
+    <path d="M346 372 C 355 366, 364 358, 368 346"/>
+    <path d="M349 354 C 344 348, 339 340, 335 328"/>
+    <path d="M349 354 C 354 348, 359 340, 363 328"/>
+  </g>
+  <!-- ground line under the shade house -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round">
+    <path d="M40 424 H 396"/>
+  </g>
+
+  <!-- Maitland: a lake with a small pavilion at its edge -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M452 400 C 500 366 590 358 654 380 C 712 400 716 434 664 448 C 596 466 490 456 456 432 C 440 420 440 408 452 400 Z"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="4" stroke-linecap="round">
+    <path d="M500 412 C 514 404 530 404 544 412"/>
+    <path d="M580 428 C 594 420 610 420 624 428"/>
+  </g>
+  <!-- pavilion on the near shore -->
+  <g fill="none" stroke="#1f2419" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M486 302 L 534 272 L 582 302"/>
+    <path d="M498 302 V 358 M570 302 V 358"/>
+    <path d="M486 358 H 582"/>
+  </g>
+
+  <!-- Winter Park: a row of storefronts on the avenue -->
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M760 424 V 300 H 856 V 424"/>
+    <path d="M746 300 H 870"/>
+    <rect x="782" y="336" width="52" height="34" rx="3"/>
+    <rect x="794" y="392" width="30" height="32" rx="3"/>
+    <path d="M876 424 V 274 H 986 V 424"/>
+    <path d="M862 274 H 1000"/>
+    <rect x="900" y="312" width="62" height="38" rx="3"/>
+    <rect x="912" y="388" width="34" height="36" rx="3"/>
+    <path d="M1006 424 V 322 H 1086 V 424"/>
+    <path d="M994 322 H 1098"/>
+    <rect x="1026" y="352" width="42" height="30" rx="3"/>
+  </g>
+  <!-- awnings over the storefronts -->
+  <g fill="none" stroke="#6b2a2f" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M772 384 L 794 366 H 846 L 856 384 Z"/>
+    <path d="M888 384 L 910 366 H 972 L 982 384 Z"/>
+  </g>
+  <!-- street trees along the avenue -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M722 424 V 372"/>
+    <path d="M722 372 C 700 366 690 348 700 332 C 710 316 738 316 748 332 C 756 348 744 366 722 372"/>
+    <path d="M1132 424 V 366"/>
+    <path d="M1132 366 C 1110 360 1100 342 1110 326 C 1120 310 1148 310 1158 326 C 1166 342 1154 360 1132 366"/>
+  </g>
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round">
+    <path d="M700 424 H 1160"/>
+  </g>
+
+  <!-- porch step and clamshell of greens at the end of the run -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M944 588 H 1068 M960 610 H 1084"/>
+  </g>
+  <g transform="translate(1006,586)">
+    <g fill="none" stroke="#1f2419" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-38 0 H 38 V -34 H -38 Z"/>
+      <path d="M-38 -18 H 38"/>
+    </g>
+    <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-22 -34 C -27 -50 -22 -60 -12 -66"/>
+      <path d="M-5 -34 C -5 -52 0 -62 10 -70"/>
+      <path d="M12 -34 C 15 -48 23 -56 32 -60"/>
+      <path d="M-30 -34 C -35 -46 -33 -54 -28 -60"/>
+    </g>
+  </g>
+</svg>
