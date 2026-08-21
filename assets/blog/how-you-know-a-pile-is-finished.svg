@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a mulch pile cut open in cross section, a band of coarse recognizable chips across the top and fine dark crumb filling the body beneath it, with a garden fork standing in the ground beside the pile and a handful of finished crumb tipped out in front">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- ground -->
+  <path d="M100 470 H 1100" fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- pile, outer surface -->
+  <path d="M200 470 C 224 320 360 230 520 230 C 680 230 816 320 840 470" fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- boundary between the coarse cap and the finished material under it -->
+  <path d="M226 470 C 248 336 372 266 520 266 C 668 266 792 336 814 470" fill="none" stroke="#5c4633" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- coarse chips, still recognizable, in the cap -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="4" stroke-linejoin="round">
+    <path d="M199 471 L210 463 L218 468 L208 476 Z"/>
+    <path d="M199 479 L206 468 L216 470 L209 481 Z"/>
+    <path d="M246 439 L248 426 L258 424 L256 437 Z"/>
+    <path d="M230 431 L233 418 L243 417 L241 430 Z"/>
+    <path d="M266 403 L267 389 L277 386 L276 400 Z"/>
+    <path d="M279 394 L279 381 L289 378 L288 391 Z"/>
+    <path d="M292 367 L296 354 L307 354 L302 367 Z"/>
+    <path d="M295 372 L300 359 L310 359 L305 371 Z"/>
+    <path d="M327 331 L336 322 L345 326 L336 335 Z"/>
+    <path d="M318 320 L330 314 L337 322 L325 327 Z"/>
+    <path d="M358 301 L370 296 L377 304 L365 309 Z"/>
+    <path d="M358 302 L370 296 L377 304 L365 309 Z"/>
+    <path d="M375 285 L386 278 L394 284 L383 291 Z"/>
+    <path d="M388 276 L401 273 L407 281 L394 284 Z"/>
+    <path d="M420 273 L432 267 L439 274 L428 280 Z"/>
+    <path d="M409 277 L417 267 L427 270 L419 280 Z"/>
+    <path d="M449 262 L457 252 L467 254 L459 265 Z"/>
+    <path d="M435 252 L446 245 L454 251 L444 258 Z"/>
+    <path d="M473 239 L486 240 L489 249 L476 249 Z"/>
+    <path d="M471 252 L482 244 L491 249 L480 257 Z"/>
+    <path d="M499 242 L510 234 L518 240 L507 248 Z"/>
+    <path d="M507 242 L519 239 L525 247 L513 251 Z"/>
+    <path d="M528 235 L540 240 L540 250 L528 245 Z"/>
+    <path d="M543 239 L555 235 L562 243 L549 247 Z"/>
+    <path d="M559 253 L572 255 L575 264 L562 263 Z"/>
+    <path d="M563 255 L575 260 L575 270 L562 265 Z"/>
+    <path d="M606 261 L618 266 L618 276 L606 272 Z"/>
+    <path d="M605 250 L618 252 L620 262 L607 260 Z"/>
+    <path d="M621 277 L630 286 L627 295 L617 287 Z"/>
+    <path d="M624 276 L635 283 L633 293 L622 286 Z"/>
+    <path d="M653 292 L662 301 L658 311 L649 301 Z"/>
+    <path d="M652 286 L665 287 L668 296 L655 296 Z"/>
+    <path d="M694 310 L706 317 L704 327 L692 320 Z"/>
+    <path d="M677 307 L690 311 L690 321 L678 317 Z"/>
+    <path d="M722 343 L728 354 L721 362 L715 351 Z"/>
+    <path d="M723 337 L732 347 L727 356 L718 347 Z"/>
+    <path d="M748 374 L759 380 L757 390 L746 384 Z"/>
+    <path d="M742 363 L751 373 L745 382 L737 371 Z"/>
+    <path d="M783 404 L794 412 L791 422 L780 414 Z"/>
+    <path d="M776 395 L781 406 L774 414 L769 402 Z"/>
+    <path d="M801 445 L813 450 L813 460 L801 455 Z"/>
+    <path d="M814 434 L826 440 L825 450 L813 444 Z"/>
+  </g>
+
+  <!-- finished crumb below the cap -->
+  <g fill="#1f2419" stroke="none">
+    <circle cx="405" cy="316" r="3.3"/>
+    <circle cx="429" cy="308" r="5.0"/>
+    <circle cx="466" cy="311" r="4.5"/>
+    <circle cx="497" cy="312" r="5.0"/>
+    <circle cx="521" cy="307" r="4.6"/>
+    <circle cx="550" cy="308" r="4.7"/>
+    <circle cx="578" cy="316" r="3.1"/>
+    <circle cx="608" cy="306" r="3.3"/>
+    <circle cx="634" cy="316" r="4.2"/>
+    <circle cx="384" cy="336" r="4.9"/>
+    <circle cx="423" cy="335" r="4.8"/>
+    <circle cx="452" cy="340" r="4.7"/>
+    <circle cx="468" cy="339" r="3.8"/>
+    <circle cx="499" cy="327" r="4.4"/>
+    <circle cx="533" cy="336" r="3.3"/>
+    <circle cx="564" cy="342" r="4.9"/>
+    <circle cx="601" cy="337" r="3.1"/>
+    <circle cx="636" cy="333" r="4.7"/>
+    <circle cx="660" cy="332" r="3.8"/>
+    <circle cx="369" cy="362" r="3.3"/>
+    <circle cx="392" cy="354" r="4.4"/>
+    <circle cx="438" cy="366" r="4.9"/>
+    <circle cx="462" cy="364" r="4.5"/>
+    <circle cx="487" cy="354" r="4.1"/>
+    <circle cx="523" cy="358" r="4.5"/>
+    <circle cx="548" cy="361" r="4.5"/>
+    <circle cx="571" cy="354" r="4.7"/>
+    <circle cx="609" cy="367" r="3.8"/>
+    <circle cx="643" cy="354" r="4.6"/>
+    <circle cx="669" cy="355" r="3.7"/>
+    <circle cx="699" cy="361" r="3.8"/>
+    <circle cx="319" cy="380" r="4.2"/>
+    <circle cx="364" cy="390" r="3.3"/>
+    <circle cx="379" cy="389" r="4.5"/>
+    <circle cx="417" cy="390" r="4.7"/>
+    <circle cx="454" cy="383" r="4.3"/>
+    <circle cx="483" cy="378" r="3.8"/>
+    <circle cx="512" cy="388" r="3.8"/>
+    <circle cx="535" cy="392" r="3.0"/>
+    <circle cx="565" cy="386" r="3.3"/>
+    <circle cx="588" cy="384" r="4.1"/>
+    <circle cx="633" cy="386" r="3.9"/>
+    <circle cx="649" cy="378" r="4.0"/>
+    <circle cx="680" cy="385" r="3.2"/>
+    <circle cx="712" cy="392" r="4.4"/>
+    <circle cx="314" cy="403" r="4.3"/>
+    <circle cx="343" cy="406" r="3.6"/>
+    <circle cx="362" cy="403" r="3.9"/>
+    <circle cx="400" cy="413" r="3.2"/>
+    <circle cx="437" cy="405" r="3.3"/>
+    <circle cx="458" cy="410" r="5.0"/>
+    <circle cx="497" cy="410" r="4.2"/>
+    <circle cx="513" cy="411" r="3.7"/>
+    <circle cx="544" cy="412" r="4.0"/>
+    <circle cx="575" cy="417" r="4.9"/>
+    <circle cx="611" cy="405" r="4.7"/>
+    <circle cx="646" cy="410" r="3.4"/>
+    <circle cx="664" cy="415" r="4.3"/>
+    <circle cx="703" cy="411" r="3.3"/>
+    <circle cx="736" cy="404" r="3.6"/>
+    <circle cx="295" cy="432" r="3.3"/>
+    <circle cx="326" cy="435" r="3.8"/>
+    <circle cx="353" cy="428" r="5.0"/>
+    <circle cx="379" cy="431" r="4.8"/>
+    <circle cx="409" cy="431" r="3.2"/>
+    <circle cx="448" cy="438" r="4.9"/>
+    <circle cx="484" cy="433" r="3.7"/>
+    <circle cx="509" cy="436" r="4.8"/>
+    <circle cx="535" cy="440" r="3.0"/>
+    <circle cx="560" cy="427" r="4.1"/>
+    <circle cx="594" cy="440" r="4.9"/>
+    <circle cx="620" cy="432" r="3.7"/>
+    <circle cx="648" cy="440" r="3.3"/>
+    <circle cx="683" cy="436" r="4.5"/>
+    <circle cx="711" cy="438" r="4.2"/>
+    <circle cx="750" cy="438" r="4.7"/>
+  </g>
+
+  <!-- garden fork standing in the ground -->
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M960 196 V 386"/>
+    <path d="M960 196 L 938 172"/>
+    <path d="M960 196 L 982 172"/>
+    <path d="M938 172 C 934 148 986 148 982 172"/>
+  </g>
+  <g fill="none" stroke="#1f2419" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M918 392 H 1002"/>
+    <path d="M924 392 C 921 430 918 468 916 502"/>
+    <path d="M948 392 C 947 432 946 470 945 506"/>
+    <path d="M972 392 C 973 432 974 470 975 506"/>
+    <path d="M996 392 C 999 430 1002 468 1004 502"/>
+  </g>
+
+  <!-- a handful tipped out in front, the crumble test -->
+  <path d="M540 556 C 552 522 578 508 604 508 C 630 508 656 522 668 556 Z" fill="none" stroke="#1f2419" stroke-width="5" stroke-linejoin="round"/>
+  <g fill="#1f2419" stroke="none">
+    <circle cx="574" cy="540" r="4"/>
+    <circle cx="604" cy="530" r="4"/>
+    <circle cx="634" cy="541" r="4"/>
+    <circle cx="588" cy="522" r="4"/>
+    <circle cx="620" cy="519" r="4"/>
+    <circle cx="604" cy="547" r="4"/>
+  </g>
+</svg>
