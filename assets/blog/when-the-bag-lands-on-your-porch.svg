@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a front door with a clamshell of microgreens set on the top step beside a doormat and a potted plant, and an insulated cooler bag sitting further down the walk">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- morning sun -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="214" cy="146" r="42"/>
+    <path d="M214 72 v -26 M214 220 v 26 M140 146 h -26 M288 146 h 26
+             M163 95 l -18 -18 M265 197 l 18 18 M265 95 l 18 -18 M163 197 l -18 18"/>
+  </g>
+
+  <!-- house wall and door -->
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M680 128 H 998"/>
+    <path d="M726 150 V 470 M954 150 V 470"/>
+    <path d="M726 150 H 954"/>
+    <rect x="748" y="172" width="184" height="298" rx="4"/>
+    <rect x="782" y="200" width="116" height="70" rx="3"/>
+    <rect x="782" y="300" width="52" height="132" rx="3"/>
+    <rect x="846" y="300" width="52" height="132" rx="3"/>
+    <circle cx="916" cy="352" r="9"/>
+  </g>
+
+  <!-- porch steps -->
+  <g fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M640 470 H 1040"/>
+    <path d="M616 496 H 1064"/>
+    <path d="M592 522 H 1088"/>
+    <path d="M592 548 H 1088"/>
+    <path d="M640 470 V 496 M616 496 V 522 M592 522 V 548"/>
+    <path d="M1040 470 V 496 M1064 496 V 522 M1088 522 V 548"/>
+  </g>
+
+  <!-- doormat at the threshold -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="798" y="474" width="124" height="18" rx="5"/>
+  </g>
+
+  <!-- clamshell of microgreens on the top step -->
+  <g transform="translate(690,470)">
+    <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-44 0 H 44 V -36 H -44 Z"/>
+      <path d="M-44 -20 H 44"/>
+    </g>
+    <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-26 -36 C -32 -56 -26 -70 -14 -80"/>
+      <path d="M-6 -36 C -6 -58 0 -74 12 -84"/>
+      <path d="M18 -36 C 24 -54 34 -64 48 -70"/>
+      <path d="M-14 -80 C -28 -78 -36 -68 -36 -58 C -24 -60 -16 -70 -14 -80"/>
+      <path d="M12 -84 C 26 -82 34 -72 34 -62 C 22 -64 14 -74 12 -84"/>
+    </g>
+  </g>
+
+  <!-- potted plant beside the steps -->
+  <g fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-36 -54 H 36 L 27 0 H -27 Z" transform="translate(1136,548)"/>
+    <path d="M-42 -54 H 42" transform="translate(1136,548)"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="translate(1128,494) scale(0.58)">
+      <path d="M0 0 C -22 -64 -28 -114 -16 -160"/>
+      <path d="M-30 -104 C -62 -108 -76 -128 -72 -150 C -46 -148 -30 -128 -30 -104"/>
+      <path d="M-34 -68 C -6 -74 8 -92 4 -112 C -18 -108 -34 -88 -34 -68"/>
+    </g>
+    <g transform="translate(1156,496) scale(0.44)">
+      <path d="M0 0 C 22 -64 28 -114 16 -160"/>
+      <path d="M30 -104 C 62 -108 76 -128 72 -150 C 46 -148 30 -128 30 -104"/>
+      <path d="M34 -68 C 6 -74 -8 -92 -4 -112 C 18 -108 34 -88 34 -68"/>
+    </g>
+  </g>
+
+  <!-- the walk running away from the steps -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M584 556 L 72 572"/>
+    <path d="M648 618 L 72 632"/>
+    <path d="M414 561 L 462 622 M244 566 L 278 627"/>
+  </g>
+
+  <!-- insulated cooler bag further down the walk -->
+  <g fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="120" y="486" width="118" height="64" rx="9"/>
+    <path d="M120 510 H 238"/>
+    <path d="M134 486 C 145 442 213 442 224 486"/>
+    <path d="M162 528 H 196"/>
+  </g>
+</svg>
