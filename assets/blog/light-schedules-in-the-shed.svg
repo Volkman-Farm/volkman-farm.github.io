@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of two rack levels seen from the side, each with a pair of light bars above a tray of microgreens, and a short double headed arrow marking the gap between the bar and the leaves">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- rack uprights -->
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M196 74 V 566"/>
+    <path d="M1004 74 V 566"/>
+    <path d="M196 74 H 1004"/>
+  </g>
+
+  <!-- upper level: two light bars -->
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M262 116 H 594 V 148 H 262 Z"/>
+    <path d="M626 116 H 958 V 148 H 626 Z"/>
+    <path d="M330 92 V 116 M526 92 V 116 M694 92 V 116 M890 92 V 116"/>
+  </g>
+  <!-- light falling from the upper bars -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-dasharray="16 18">
+    <path d="M312 162 V 240"/>
+    <path d="M420 162 V 240"/>
+    <path d="M528 162 V 240"/>
+    <path d="M676 162 V 240"/>
+    <path d="M784 162 V 240"/>
+    <path d="M892 162 V 240"/>
+  </g>
+
+  <!-- upper tray -->
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M256 300 H 964 V 340 H 256 Z"/>
+    <path d="M256 318 H 964"/>
+  </g>
+  <!-- upper crop: a full even stand -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M292 300 C 288 278 292 264 302 254 M292 300 C 296 280 304 268 316 260"/>
+    <path d="M356 300 C 352 276 356 262 366 252 M356 300 C 360 278 368 266 380 258"/>
+    <path d="M420 300 C 416 278 420 264 430 254 M420 300 C 424 280 432 268 444 260"/>
+    <path d="M484 300 C 480 276 484 262 494 252 M484 300 C 488 278 496 266 508 258"/>
+    <path d="M548 300 C 544 278 548 264 558 254 M548 300 C 552 280 560 268 572 260"/>
+    <path d="M612 300 C 608 276 612 262 622 252 M612 300 C 616 278 624 266 636 258"/>
+    <path d="M676 300 C 672 278 676 264 686 254 M676 300 C 680 280 688 268 700 260"/>
+    <path d="M740 300 C 736 276 740 262 750 252 M740 300 C 744 278 752 266 764 258"/>
+    <path d="M804 300 C 800 278 804 264 814 254 M804 300 C 808 280 816 268 828 260"/>
+    <path d="M868 300 C 864 276 868 262 878 252 M868 300 C 872 278 880 266 892 258"/>
+    <path d="M932 300 C 928 278 932 264 942 254 M932 300 C 936 280 944 268 956 260"/>
+  </g>
+
+  <!-- the gap, called out with a double headed arrow -->
+  <g fill="none" stroke="#6b2a2f" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1064 152 V 252"/>
+    <path d="M1050 166 L 1064 152 L 1078 166"/>
+    <path d="M1050 238 L 1064 252 L 1078 238"/>
+  </g>
+  <g fill="none" stroke="#6b2a2f" stroke-width="4" stroke-linecap="round" stroke-dasharray="12 12">
+    <path d="M964 148 H 1104"/>
+    <path d="M964 256 H 1104"/>
+  </g>
+
+  <!-- shelf between the levels -->
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round">
+    <path d="M196 356 H 1004"/>
+  </g>
+
+  <!-- lower level: two light bars -->
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M262 386 H 594 V 418 H 262 Z"/>
+    <path d="M626 386 H 958 V 418 H 626 Z"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-dasharray="16 18">
+    <path d="M312 432 V 486"/>
+    <path d="M420 432 V 486"/>
+    <path d="M528 432 V 486"/>
+    <path d="M676 432 V 486"/>
+    <path d="M784 432 V 486"/>
+    <path d="M892 432 V 486"/>
+  </g>
+
+  <!-- lower tray, a younger and shorter stand -->
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M256 526 H 964 V 566 H 256 Z"/>
+    <path d="M256 544 H 964"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M300 526 C 298 512 302 504 310 498"/>
+    <path d="M364 526 C 362 510 366 502 374 496"/>
+    <path d="M428 526 C 426 512 430 504 438 498"/>
+    <path d="M492 526 C 490 510 494 502 502 496"/>
+    <path d="M556 526 C 554 512 558 504 566 498"/>
+    <path d="M620 526 C 618 510 622 502 630 496"/>
+    <path d="M684 526 C 682 512 686 504 694 498"/>
+    <path d="M748 526 C 746 510 750 502 758 496"/>
+    <path d="M812 526 C 810 512 814 504 822 498"/>
+    <path d="M876 526 C 874 510 878 502 886 496"/>
+    <path d="M940 526 C 938 512 942 504 950 498"/>
+  </g>
+</svg>
