@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a pot set beside a cold stove burner with pasta inside and a handful of microgreens falling in from above, and a wooden spoon leaning against the rim">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- burner, off to the left, cold -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 548 H 1160"/>
+    <circle cx="212" cy="500" r="66"/>
+    <circle cx="212" cy="500" r="38"/>
+  </g>
+
+  <!-- pot set beside the burner, wide -->
+  <g fill="none" stroke="#1f2419" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M470 356 H 934"/>
+    <path d="M492 356 C 500 502 556 548 702 548 C 848 548 904 502 912 356"/>
+    <path d="M470 356 C 456 344 456 326 470 316 L 500 316"/>
+    <path d="M934 356 C 948 344 948 326 934 316 L 904 316"/>
+  </g>
+
+  <!-- pasta showing at the rim -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="6" stroke-linecap="round">
+    <path d="M528 368 C 566 396 610 400 648 376"/>
+    <path d="M654 372 C 690 400 736 402 772 378"/>
+    <path d="M780 370 C 812 396 852 398 884 376"/>
+    <path d="M566 412 C 606 438 650 440 686 418"/>
+    <path d="M700 414 C 738 440 786 440 820 418"/>
+  </g>
+
+  <!-- greens falling in from above -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M640 250 C 660 232 682 226 700 228"/>
+    <ellipse cx="636" cy="244" rx="30" ry="15" transform="rotate(-34 636 244)"/>
+    <ellipse cx="704" cy="222" rx="30" ry="15" transform="rotate(16 704 222)"/>
+
+    <path d="M760 176 C 782 158 806 154 824 158"/>
+    <ellipse cx="756" cy="170" rx="30" ry="15" transform="rotate(-34 756 170)"/>
+    <ellipse cx="828" cy="152" rx="30" ry="15" transform="rotate(16 828 152)"/>
+
+    <path d="M566 152 C 588 136 612 132 630 136"/>
+    <ellipse cx="562" cy="146" rx="30" ry="15" transform="rotate(-34 562 146)"/>
+    <ellipse cx="634" cy="130" rx="30" ry="15" transform="rotate(16 634 130)"/>
+
+    <path d="M880 258 C 900 240 922 234 940 236"/>
+    <ellipse cx="876" cy="252" rx="30" ry="15" transform="rotate(-34 876 252)"/>
+    <ellipse cx="944" cy="230" rx="30" ry="15" transform="rotate(16 944 230)"/>
+  </g>
+
+  <!-- wooden spoon leaning against the rim -->
+  <g transform="translate(-52 34)" fill="none" stroke="#6b2a2f" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M962 420 L 1090 236"/>
+    <path d="M990 440 L 1116 258"/>
+    <ellipse cx="1112" cy="222" rx="34" ry="46" transform="rotate(35 1112 222)"/>
+    <path d="M962 420 C 950 436 952 452 966 458 C 980 464 990 456 990 440"/>
+  </g>
+</svg>
