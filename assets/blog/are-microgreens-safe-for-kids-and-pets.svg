@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a small plate with a scattering of microgreens beside a child sized fork, with a clamshell container open behind it">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- open clamshell behind, lid tilted back -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M700 300 H 1080 L 1104 372 H 676 Z"/>
+    <path d="M700 300 L 742 174 H 1062 L 1080 300"/>
+    <path d="M742 174 L 764 208 H 1058"/>
+  </g>
+  <path d="M690 336 H 1090" fill="none" stroke="#5c4633" stroke-width="4"/>
+
+  <!-- greens inside the clamshell -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M766 300 C 768 268 782 250 800 242"/>
+    <ellipse cx="786" cy="236" rx="26" ry="13" transform="rotate(-24 786 236)"/>
+    <ellipse cx="824" cy="238" rx="26" ry="13" transform="rotate(22 824 238)"/>
+    <path d="M872 300 C 874 260 888 240 906 232"/>
+    <ellipse cx="892" cy="226" rx="26" ry="13" transform="rotate(-24 892 226)"/>
+    <ellipse cx="930" cy="228" rx="26" ry="13" transform="rotate(22 930 228)"/>
+    <path d="M978 300 C 980 268 994 250 1012 244"/>
+    <ellipse cx="998" cy="238" rx="26" ry="13" transform="rotate(-24 998 238)"/>
+    <ellipse cx="1036" cy="240" rx="26" ry="13" transform="rotate(22 1036 240)"/>
+  </g>
+
+  <!-- small plate, low and wide -->
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="440" cy="470" rx="252" ry="76"/>
+    <ellipse cx="440" cy="470" rx="184" ry="50"/>
+  </g>
+
+  <!-- a small scattering of greens sitting in the well of the plate -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M340 478 C 342 452 352 436 366 430"/>
+    <ellipse cx="354" cy="424" rx="26" ry="13" transform="rotate(-24 354 424)"/>
+    <ellipse cx="390" cy="426" rx="26" ry="13" transform="rotate(22 390 426)"/>
+
+    <path d="M440 486 C 442 448 454 428 470 420"/>
+    <ellipse cx="458" cy="414" rx="26" ry="13" transform="rotate(-24 458 414)"/>
+    <ellipse cx="494" cy="416" rx="26" ry="13" transform="rotate(22 494 416)"/>
+
+    <path d="M536 478 C 538 452 548 438 562 432"/>
+    <ellipse cx="550" cy="426" rx="26" ry="13" transform="rotate(-24 550 426)"/>
+    <ellipse cx="586" cy="428" rx="26" ry="13" transform="rotate(22 586 428)"/>
+  </g>
+
+  <!-- short child sized fork lying beside the plate -->
+  <g transform="rotate(-12 150 430)" fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 300 V 360 M136 300 V 360 M164 300 V 360"/>
+    <path d="M100 360 C 100 392 118 404 136 404 C 154 404 172 392 172 360 Z"/>
+    <path d="M136 404 V 436"/>
+    <path d="M124 436 C 118 500 118 540 124 566 C 128 580 144 580 148 566 C 154 540 154 500 148 436 Z"/>
+  </g>
+</svg>
