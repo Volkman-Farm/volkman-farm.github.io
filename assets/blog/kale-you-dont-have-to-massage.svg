@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a bowl of small kale microgreens beside a large ruffled mature kale leaf, with a lemon half and a bottle of oil set behind them">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- bottle of oil, back left -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 214 H 156 V 174 H 108 Z"/>
+    <path d="M104 214 C 84 250 74 286 74 320 V 468 H 190 V 320 C 190 286 180 250 160 214"/>
+    <path d="M74 372 H 190"/>
+  </g>
+  <path d="M92 400 C 108 386 128 384 146 396" fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- lemon half, back right of the bottle -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="316" cy="386" r="86"/>
+    <circle cx="316" cy="386" r="66"/>
+    <path d="M316 320 V 452 M250 386 H 382 M270 340 L 362 432 M362 340 L 270 432"/>
+  </g>
+
+  <!-- large ruffled mature kale leaf, right side -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M948 552 C 944 466 946 396 960 336"/>
+    <path d="M960 336 C 906 314 856 320 826 348 C 858 356 862 372 838 392 C 872 392 884 408 866 434 C 900 428 916 446 906 474 C 938 462 950 476 948 500"/>
+    <path d="M960 336 C 1014 314 1064 320 1094 348 C 1062 356 1058 372 1082 392 C 1048 392 1036 408 1054 434 C 1020 428 1004 446 1014 474 C 982 462 970 476 972 500"/>
+    <path d="M958 400 L 894 372 M958 400 L 1022 372 M950 466 L 900 442 M950 466 L 1000 442"/>
+  </g>
+
+  <!-- bowl of micro kale, front left -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M400 478 C 398 424 408 388 424 366"/>
+    <ellipse cx="410" cy="360" rx="34" ry="17" transform="rotate(-26 410 360)"/>
+    <ellipse cx="454" cy="362" rx="34" ry="17" transform="rotate(24 454 362)"/>
+
+    <path d="M508 478 C 506 410 518 366 536 340"/>
+    <ellipse cx="522" cy="334" rx="34" ry="17" transform="rotate(-26 522 334)"/>
+    <ellipse cx="566" cy="336" rx="34" ry="17" transform="rotate(24 566 336)"/>
+
+    <path d="M616 478 C 614 424 624 388 640 368"/>
+    <ellipse cx="626" cy="362" rx="34" ry="17" transform="rotate(-26 626 362)"/>
+    <ellipse cx="670" cy="364" rx="34" ry="17" transform="rotate(24 670 364)"/>
+  </g>
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M340 478 H 736"/>
+    <path d="M368 478 C 380 560 440 592 538 592 C 636 592 696 560 708 478"/>
+  </g>
+</svg>
