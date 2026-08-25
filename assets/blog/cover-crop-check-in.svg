@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a field of young cover crop seedlings of mixed heights seen at ground level, with old mowed stalks lying underneath them">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- ground line -->
+  <path d="M40 540 H 1160" fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- old mowed stalks lying on the surface -->
+  <g fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round">
+    <path d="M74 522 C 150 512 226 516 292 528"/>
+    <path d="M262 508 C 336 498 410 502 474 512"/>
+    <path d="M446 528 C 520 518 596 520 660 530"/>
+    <path d="M628 506 C 700 498 774 502 838 512"/>
+    <path d="M812 526 C 886 516 962 518 1030 528"/>
+    <path d="M984 506 C 1050 500 1106 504 1148 512"/>
+    <path d="M120 540 L 168 524 M330 540 L 372 522 M556 540 L 600 524 M760 540 L 806 522 M960 540 L 1004 524"/>
+  </g>
+
+  <!-- broad leaved seedlings, mixed heights -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M132 528 C 130 470 136 424 142 396"/>
+    <ellipse cx="110" cy="392" rx="34" ry="16" transform="rotate(-24 110 392)"/>
+    <ellipse cx="176" cy="392" rx="34" ry="16" transform="rotate(24 176 392)"/>
+
+    <path d="M300 528 C 298 452 304 384 310 344"/>
+    <ellipse cx="278" cy="340" rx="36" ry="17" transform="rotate(-24 278 340)"/>
+    <ellipse cx="344" cy="340" rx="36" ry="17" transform="rotate(24 344 340)"/>
+
+    <path d="M472 528 C 470 476 476 434 482 408"/>
+    <ellipse cx="450" cy="404" rx="32" ry="15" transform="rotate(-24 450 404)"/>
+    <ellipse cx="514" cy="404" rx="32" ry="15" transform="rotate(24 514 404)"/>
+
+    <path d="M652 528 C 650 448 656 372 662 330"/>
+    <ellipse cx="630" cy="326" rx="36" ry="17" transform="rotate(-24 630 326)"/>
+    <ellipse cx="696" cy="326" rx="36" ry="17" transform="rotate(24 696 326)"/>
+
+    <path d="M836 528 C 834 470 840 424 846 398"/>
+    <ellipse cx="814" cy="394" rx="34" ry="16" transform="rotate(-24 814 394)"/>
+    <ellipse cx="880" cy="394" rx="34" ry="16" transform="rotate(24 880 394)"/>
+
+    <path d="M1024 528 C 1022 460 1028 400 1034 364"/>
+    <ellipse cx="1002" cy="360" rx="34" ry="16" transform="rotate(-24 1002 360)"/>
+    <ellipse cx="1068" cy="360" rx="34" ry="16" transform="rotate(24 1068 360)"/>
+  </g>
+
+  <!-- narrow grass blades filling in between -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round">
+    <path d="M212 528 C 210 486 216 452 236 424"/>
+    <path d="M226 528 C 232 490 244 464 266 444"/>
+    <path d="M388 528 C 386 480 394 444 416 418"/>
+    <path d="M404 528 C 410 492 422 466 444 448"/>
+    <path d="M566 528 C 564 484 572 452 592 428"/>
+    <path d="M580 528 C 586 494 598 470 620 452"/>
+    <path d="M748 528 C 746 478 754 444 776 418"/>
+    <path d="M764 528 C 770 490 782 464 804 446"/>
+    <path d="M932 528 C 930 484 938 452 958 428"/>
+    <path d="M946 528 C 952 494 964 470 986 452"/>
+    <path d="M1116 528 C 1114 480 1122 448 1142 424"/>
+  </g>
+</svg>
