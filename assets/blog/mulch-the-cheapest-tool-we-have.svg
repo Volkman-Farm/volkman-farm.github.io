@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a wheelbarrow full of wood chips beside a young tree with a ring of mulch around it, showing a gap of bare ground left around the trunk">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- ground -->
+  <path d="M40 548 H 1160" fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- young tree, right side -->
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M902 512 C 900 440 902 372 904 316"/>
+    <path d="M904 372 C 866 348 842 322 832 292"/>
+    <path d="M904 400 C 942 378 966 352 976 322"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M904 316 C 858 288 838 246 844 202 C 888 208 916 236 924 278"/>
+    <path d="M904 316 C 952 292 976 250 972 206 C 928 214 902 244 896 286"/>
+    <path d="M904 262 C 880 232 876 196 888 164 C 918 186 930 220 924 254"/>
+  </g>
+
+  <!-- mulch ring under the tree, with a bare gap at the trunk -->
+  <g fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round">
+    <path d="M736 528 C 764 500 812 486 862 486"/>
+    <path d="M944 486 C 994 486 1042 500 1070 528"/>
+    <path d="M754 546 C 786 516 828 504 866 504"/>
+    <path d="M940 504 C 978 504 1020 516 1052 546"/>
+    <path d="M782 520 L 800 508 M818 534 L 836 520 M986 508 L 1004 520 M1020 520 L 1038 534"/>
+  </g>
+  <path d="M862 486 C 848 496 846 508 858 518 M944 486 C 958 496 960 508 948 518" fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- wheelbarrow, left, heaped with chips: wheel at the front, grips at the rear -->
+  <g fill="none" stroke="#1f2419" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M190 350 H 600 L 545 470 H 250 Z"/>
+    <path d="M600 350 L 700 398"/>
+    <path d="M700 398 C 726 410 730 426 716 442"/>
+    <path d="M545 470 L 560 550 M500 470 L 512 550"/>
+    <path d="M540 550 H 586 M490 550 H 532"/>
+    <path d="M246 470 L 204 488 M290 470 L 206 498"/>
+    <circle cx="190" cy="494" r="52"/>
+    <circle cx="190" cy="494" r="9"/>
+  </g>
+
+  <!-- chips heaped above the barrow -->
+  <g fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M206 350 C 250 292 310 266 372 268 C 450 270 520 300 584 350"/>
+    <path d="M250 336 L 294 312 M330 330 L 374 306 M410 328 L 454 304 M482 338 L 524 316"/>
+    <path d="M300 300 L 338 282 M392 296 L 432 278"/>
+    <path d="M238 404 L 282 380 M330 406 L 374 382 M424 404 L 468 380 M510 400 L 554 376"/>
+    <path d="M268 450 L 312 426 M368 452 L 412 428 M466 450 L 510 426"/>
+  </g>
+</svg>
