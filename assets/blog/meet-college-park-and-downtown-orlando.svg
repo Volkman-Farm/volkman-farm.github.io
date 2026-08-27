@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a city skyline with a lake in front of it on one side, and on the other a bungalow with a citrus tree beside it, joined by a curving road">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- downtown skyline, right side -->
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M760 396 V 196 H 828 V 396"/>
+    <path d="M846 396 V 132 H 918 V 396"/>
+    <path d="M936 396 V 232 H 1000 V 396"/>
+    <path d="M1018 396 V 168 H 1082 V 396"/>
+    <path d="M1100 396 V 268 H 1152 V 396"/>
+    <path d="M882 132 V 96"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round">
+    <path d="M782 244 H 806 M782 292 H 806 M782 340 H 806"/>
+    <path d="M866 180 H 898 M866 228 H 898 M866 276 H 898 M866 324 H 898"/>
+    <path d="M956 280 H 980 M956 328 H 980"/>
+    <path d="M1038 216 H 1062 M1038 264 H 1062 M1038 312 H 1062"/>
+    <path d="M1116 316 H 1136"/>
+  </g>
+
+  <!-- lake in front of the skyline -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round">
+    <path d="M712 424 C 780 400 900 396 1000 404 C 1080 410 1132 424 1160 442"/>
+    <path d="M760 452 C 820 438 900 434 968 440"/>
+    <path d="M836 480 C 892 468 962 466 1020 472"/>
+  </g>
+
+  <!-- bungalow, left side -->
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 402 V 268 L 244 172 L 392 268 V 402"/>
+    <path d="M60 284 L 244 164 L 428 284"/>
+    <path d="M196 402 V 316 H 292 V 402"/>
+  </g>
+  <g fill="none" stroke="#1f2419" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M124 300 H 176 V 352 H 124 Z"/>
+    <path d="M124 326 H 176 M150 300 V 352"/>
+    <path d="M320 300 H 368 V 352 H 320 Z"/>
+    <path d="M320 326 H 368 M344 300 V 352"/>
+  </g>
+
+  <path d="M56 402 H 560" fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- citrus tree beside the house -->
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round">
+    <path d="M508 402 V 316"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="508" cy="252" r="76"/>
+    <path d="M448 216 C 476 236 486 264 480 296 M568 216 C 540 236 530 264 536 296"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="5">
+    <circle cx="472" cy="238" r="15"/>
+    <circle cx="540" cy="264" r="15"/>
+    <circle cx="504" cy="204" r="15"/>
+  </g>
+
+  <!-- curving road joining the two -->
+  <g fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round">
+    <path d="M40 592 C 260 512 460 500 660 512 C 860 524 1020 556 1160 596"/>
+    <path d="M40 630 C 300 552 520 542 720 556 C 900 568 1040 596 1160 630"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-dasharray="26 26" stroke-linecap="round">
+    <path d="M60 612 C 300 532 520 522 716 534 C 900 546 1040 576 1160 614"/>
+  </g>
+</svg>
