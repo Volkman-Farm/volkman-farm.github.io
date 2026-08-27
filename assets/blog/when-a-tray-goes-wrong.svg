@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of two growing trays side by side, one with an even stand of microgreens and one with bare gaps between thin patches, with a wheelbarrow standing behind them">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- wheelbarrow standing behind, empty -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M812 160 H 1102 L 1058 258 H 856 Z"/>
+    <path d="M1102 160 L 1164 194"/>
+    <path d="M856 258 L 842 306 M1058 258 L 1072 306"/>
+    <path d="M824 306 H 862 M1054 306 H 1092"/>
+    <circle cx="1128" cy="270" r="38"/>
+  </g>
+
+  <path d="M792 312 H 1180" fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- left tray: even stand -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M118 452 C 116 404 122 372 128 352"/>
+    <ellipse cx="104" cy="348" rx="26" ry="13" transform="rotate(-24 104 348)"/>
+    <ellipse cx="152" cy="348" rx="26" ry="13" transform="rotate(24 152 348)"/>
+    <path d="M198 452 C 196 400 202 366 208 344"/>
+    <ellipse cx="184" cy="340" rx="26" ry="13" transform="rotate(-24 184 340)"/>
+    <ellipse cx="232" cy="340" rx="26" ry="13" transform="rotate(24 232 340)"/>
+    <path d="M278 452 C 276 404 282 372 288 352"/>
+    <ellipse cx="264" cy="348" rx="26" ry="13" transform="rotate(-24 264 348)"/>
+    <ellipse cx="312" cy="348" rx="26" ry="13" transform="rotate(24 312 348)"/>
+    <path d="M358 452 C 356 398 362 364 368 342"/>
+    <ellipse cx="344" cy="338" rx="26" ry="13" transform="rotate(-24 344 338)"/>
+    <ellipse cx="392" cy="338" rx="26" ry="13" transform="rotate(24 392 338)"/>
+    <path d="M438 452 C 436 404 442 372 448 352"/>
+    <ellipse cx="424" cy="348" rx="26" ry="13" transform="rotate(-24 424 348)"/>
+    <ellipse cx="472" cy="348" rx="26" ry="13" transform="rotate(24 472 348)"/>
+  </g>
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 452 H 528"/>
+    <path d="M92 452 L 108 528 H 480 L 496 452"/>
+    <path d="M92 452 L 112 436 H 476 L 496 452"/>
+  </g>
+
+  <!-- right tray: gappy stand -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M710 452 C 708 412 714 386 720 368"/>
+    <ellipse cx="696" cy="364" rx="26" ry="13" transform="rotate(-24 696 364)"/>
+    <ellipse cx="744" cy="364" rx="26" ry="13" transform="rotate(24 744 364)"/>
+    <path d="M790 452 C 788 418 794 394 800 378"/>
+    <ellipse cx="776" cy="374" rx="24" ry="12" transform="rotate(-24 776 374)"/>
+    <ellipse cx="822" cy="374" rx="24" ry="12" transform="rotate(24 822 374)"/>
+    <path d="M1024 452 C 1022 412 1028 386 1034 368"/>
+    <ellipse cx="1010" cy="364" rx="26" ry="13" transform="rotate(-24 1010 364)"/>
+    <ellipse cx="1058" cy="364" rx="26" ry="13" transform="rotate(24 1058 364)"/>
+  </g>
+  <!-- bare soil showing in the gaps -->
+  <g fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round">
+    <path d="M856 440 C 890 432 926 432 960 440"/>
+    <path d="M872 424 C 900 418 928 418 950 424"/>
+  </g>
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M652 452 H 1120"/>
+    <path d="M684 452 L 700 528 H 1072 L 1088 452"/>
+    <path d="M684 452 L 704 436 H 1068 L 1088 452"/>
+  </g>
+</svg>
