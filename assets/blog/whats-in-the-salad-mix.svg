@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of one growing tray with five different seedling leaf shapes coming up together, with a scoop of mixed seed resting on the tray edge">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- five different seedling shapes in one tray -->
+  <!-- 1: broad rounded pair -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M212 460 C 210 404 216 366 222 344"/>
+    <ellipse cx="192" cy="340" rx="38" ry="19" transform="rotate(-22 192 340)"/>
+    <ellipse cx="254" cy="340" rx="38" ry="19" transform="rotate(22 254 340)"/>
+  </g>
+  <!-- 2: narrow pointed pair -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M356 460 C 354 392 360 342 366 312"/>
+    <path d="M366 312 C 330 300 306 278 300 250 C 334 254 356 274 364 302"/>
+    <path d="M366 312 C 402 300 426 278 432 250 C 398 254 376 274 368 302"/>
+  </g>
+  <!-- 3: heart shaped pair -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M508 460 C 506 404 512 364 518 336"/>
+    <path d="M518 336 C 490 314 466 314 452 330 C 440 344 452 366 484 372 C 500 374 512 360 518 336"/>
+    <path d="M518 336 C 546 314 570 314 584 330 C 596 344 584 366 552 372 C 536 374 524 360 518 336"/>
+  </g>
+  <!-- 4: ruffled leaf on a short stem -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M664 460 C 662 416 668 386 674 366"/>
+    <path d="M674 366 C 640 356 618 336 616 312 C 640 316 656 328 668 348"/>
+    <path d="M674 366 C 708 350 726 326 724 300 C 700 308 684 326 676 350"/>
+    <path d="M674 400 C 646 396 628 384 620 366"/>
+  </g>
+  <!-- 5: small round pair, shortest -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M812 460 C 810 424 816 400 822 384"/>
+    <circle cx="798" cy="372" r="24"/>
+    <circle cx="848" cy="374" r="24"/>
+  </g>
+  <!-- a red stemmed one for the purple in the mix -->
+  <g fill="none" stroke="#6b2a2f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M950 460 C 948 408 954 372 960 350"/>
+    <ellipse cx="934" cy="346" rx="34" ry="16" transform="rotate(-22 934 346)"/>
+    <ellipse cx="990" cy="346" rx="34" ry="16" transform="rotate(22 990 346)"/>
+  </g>
+
+  <!-- the tray -->
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M116 460 H 1058"/>
+    <path d="M150 460 L 172 540 H 1002 L 1024 460"/>
+    <path d="M150 460 L 176 442 H 998 L 1024 460"/>
+  </g>
+  <path d="M190 452 H 984 L 998 460 H 176 Z" fill="#5c4633" fill-opacity="0.14" stroke="#5c4633" stroke-width="3"/>
+
+  <!-- scoop of mixed seed resting on the tray edge -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1046 372 C 1046 424 1082 452 1122 452 C 1160 452 1180 430 1180 400"/>
+    <path d="M1046 372 H 1180"/>
+    <path d="M1132 372 L 1176 340 C 1190 330 1196 340 1186 352 L 1160 372"/>
+  </g>
+  <g fill="none" stroke-width="5">
+    <circle cx="1078" cy="398" r="11" stroke="#1f2419"/>
+    <circle cx="1112" cy="410" r="11" stroke="#8a7e3a"/>
+    <circle cx="1146" cy="398" r="11" stroke="#6b2a2f"/>
+    <circle cx="1096" cy="428" r="11" stroke="#1f2419"/>
+    <circle cx="1132" cy="430" r="11" stroke="#8a7e3a"/>
+  </g>
+</svg>
