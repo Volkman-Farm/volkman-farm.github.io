@@ -5,12 +5,14 @@
   <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
     <path d="M812 160 H 1102 L 1058 258 H 856 Z"/>
     <path d="M1102 160 L 1164 194"/>
-    <path d="M856 258 L 842 306 M1058 258 L 1072 306"/>
-    <path d="M824 306 H 862 M1054 306 H 1092"/>
-    <circle cx="1128" cy="270" r="38"/>
+    <path d="M1058 258 L 1072 306 M1016 258 L 1028 306"/>
+    <path d="M1054 306 H 1092 M1010 306 H 1046"/>
+    <path d="M856 258 L 822 268 M888 258 L 824 282"/>
+    <circle cx="812" cy="274" r="38"/>
+    <circle cx="812" cy="274" r="7"/>
   </g>
 
-  <path d="M792 312 H 1180" fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round"/>
+  <path d="M760 312 H 1180" fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round"/>
 
   <!-- left tray: even stand -->
   <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
