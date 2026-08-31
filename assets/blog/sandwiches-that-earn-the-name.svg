@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a sandwich seen from the side on a plate, its domed top slice held up by a deep tangle of microgreens that spills out past the bread on both sides, with a ruffled layer of meat and a line of cheese beneath, and a knife lying beside the plate">
+  <defs>
+    <g id="sprig" fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M0 0 C -2 -12 -1 -24 1 -34"/>
+      <path d="M1 -30 C -8 -44 -20 -50 -28 -45 C -25 -35 -13 -27 1 -30 Z"/>
+      <path d="M1 -34 C 10 -49 22 -55 30 -49 C 27 -39 15 -31 1 -34 Z"/>
+    </g>
+    <g id="sprig-tall" fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M0 0 C -3 -18 -1 -38 1 -56"/>
+      <path d="M1 -52 C -8 -66 -20 -72 -28 -67 C -25 -57 -13 -49 1 -52 Z"/>
+      <path d="M1 -56 C 10 -71 22 -77 30 -71 C 27 -61 15 -53 1 -56 Z"/>
+    </g>
+  </defs>
+
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- plate -->
+  <g fill="none" stroke="#1f2419" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="560" cy="470" rx="360" ry="74" stroke-width="8"/>
+    <ellipse cx="560" cy="466" rx="284" ry="52" stroke-width="6"/>
+  </g>
+
+  <!-- bottom slice, slightly narrower than the top so the stack is not a pair of boxes -->
+  <path d="M296 394 H 824 C 832 394 837 399 837 407 L 837 436 C 837 448 829 456 816 456 L 304 456 C 291 456 283 448 283 436 L 283 407 C 283 399 288 394 296 394 Z"
+        fill="#f5ead3" stroke="#5c4633" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M294 434 C 294 446 302 450 312 450 H 808 C 818 450 826 446 826 434"
+        fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- cheese -->
+  <path d="M288 386 C 318 378 346 392 376 385 C 406 378 434 392 464 385 C 494 378 522 392 552 385 C 582 378 610 392 640 385 C 670 378 698 390 728 383 C 758 376 790 390 834 383"
+        fill="none" stroke="#8a7e3a" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- meat, a ruffled ribbon with real thickness, overhanging both ends -->
+  <path d="M262 360 C 296 348 328 370 362 359 C 396 348 428 370 462 359 C 496 348 528 370 562 359 C 596 348 628 370 662 359 C 696 348 728 368 762 357 C 796 346 826 368 858 357 L 858 375 C 826 386 796 364 762 375 C 728 386 696 366 662 377 C 628 388 596 366 562 377 C 528 388 496 366 462 377 C 428 388 396 366 362 377 C 328 388 296 366 262 378 Z"
+        fill="#f5ead3" stroke="#6b2a2f" stroke-width="7" stroke-linejoin="round"/>
+
+  <!-- the layer the post is actually about -->
+  <use href="#sprig" transform="translate(296 372) rotate(-16) scale(0.9)"/>
+  <use href="#sprig" transform="translate(348 368) rotate(8) scale(0.95)"/>
+  <use href="#sprig" transform="translate(400 372) rotate(-8) scale(0.88)"/>
+  <use href="#sprig" transform="translate(452 368) rotate(12) scale(0.92)"/>
+  <use href="#sprig" transform="translate(504 372) rotate(-6) scale(0.9)"/>
+  <use href="#sprig" transform="translate(556 368) rotate(10) scale(0.95)"/>
+  <use href="#sprig" transform="translate(608 372) rotate(-12) scale(0.88)"/>
+  <use href="#sprig" transform="translate(660 368) rotate(4) scale(0.92)"/>
+  <use href="#sprig" transform="translate(712 372) rotate(10) scale(0.9)"/>
+  <use href="#sprig" transform="translate(764 368) rotate(-8) scale(0.95)"/>
+  <use href="#sprig" transform="translate(816 372) rotate(18) scale(0.88)"/>
+
+  <use href="#sprig-tall" transform="translate(272 358) rotate(-30) scale(1.0)"/>
+  <use href="#sprig-tall" transform="translate(322 354) rotate(-6) scale(1.05)"/>
+  <use href="#sprig-tall" transform="translate(374 356) rotate(8) scale(1.0)"/>
+  <use href="#sprig-tall" transform="translate(426 352) rotate(-10) scale(1.08)"/>
+  <use href="#sprig-tall" transform="translate(478 356) rotate(4) scale(1.02)"/>
+  <use href="#sprig-tall" transform="translate(530 352) rotate(-6) scale(1.1)"/>
+  <use href="#sprig-tall" transform="translate(582 356) rotate(10) scale(1.04)"/>
+  <use href="#sprig-tall" transform="translate(634 352) rotate(-4) scale(1.08)"/>
+  <use href="#sprig-tall" transform="translate(686 356) rotate(8) scale(1.02)"/>
+  <use href="#sprig-tall" transform="translate(738 352) rotate(-10) scale(1.06)"/>
+  <use href="#sprig-tall" transform="translate(790 356) rotate(12) scale(1.04)"/>
+  <use href="#sprig-tall" transform="translate(840 358) rotate(22) scale(1.0)"/>
+  <use href="#sprig-tall" transform="translate(866 362) rotate(34) scale(0.95)"/>
+
+  <!-- top slice, domed crust -->
+  <path d="M276 265 L 276 239 C 276 203 340 185 560 185 C 780 185 844 203 844 239 L 844 265 Z"
+        fill="#f5ead3" stroke="#5c4633" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M290 261 L 290 241 C 290 213 348 199 560 199 C 772 199 830 213 830 241 L 830 261"
+        fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- knife lying beside the plate: straight spine, belly on the cutting edge -->
+  <g transform="translate(1045 514) scale(1.1) translate(-1045 -514)">
+    <g transform="rotate(-5 1060 512)" fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M1074 498 L 944 507 C 936 509 934 517 944 521 C 988 534 1032 535 1074 532 Z"/>
+      <path d="M1074 496 L 1142 494 C 1158 494 1168 502 1168 512 C 1168 522 1158 530 1142 530 L 1074 534 Z"/>
+    </g>
+  </g>
+</svg>
