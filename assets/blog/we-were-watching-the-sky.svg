@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a chicken run with aviary netting still stretched intact across the top and one wire panel in the side wall pushed down almost to the ground, leaving a gap beneath it">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- ground line -->
+  <path d="M40 545 H 1160" fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- aviary netting over the top, intact the whole way across -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round">
+    <path d="M150 244 Q 295 264 420 244 Q 545 264 670 244 Q 795 264 920 244 Q 1032 260 1140 244"/>
+    <path d="M150 274 Q 295 294 420 274 Q 545 294 670 274 Q 795 294 920 274 Q 1032 290 1140 274"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="3" stroke-linecap="round">
+    <path d="M186 250 L 168 278 M246 258 L 228 286 M306 262 L 288 290 M366 258 L 348 286 M426 248 L 408 276"/>
+    <path d="M486 258 L 468 286 M546 262 L 528 290 M606 258 L 588 286 M666 248 L 648 276"/>
+    <path d="M726 258 L 708 286 M786 262 L 768 290 M846 258 L 828 286 M906 248 L 888 276"/>
+    <path d="M966 254 L 948 282 M1026 258 L 1008 286 M1086 254 L 1068 282"/>
+  </g>
+
+  <!-- fence posts, all still standing -->
+  <g fill="none" stroke="#5c4633" stroke-width="9" stroke-linecap="round">
+    <path d="M170 252 V 545"/>
+    <path d="M420 250 V 545"/>
+    <path d="M670 250 V 545"/>
+    <path d="M920 250 V 545"/>
+    <path d="M1120 250 V 545"/>
+  </g>
+
+  <!-- standing wire panels -->
+  <g fill="none" stroke="#5c4633" stroke-width="4" stroke-linecap="round">
+    <path d="M170 300 H 420 M170 362 H 420 M170 424 H 420 M170 486 H 420"/>
+    <path d="M670 300 H 920 M670 362 H 920 M670 424 H 920 M670 486 H 920"/>
+    <path d="M920 300 H 1120 M920 362 H 1120 M920 424 H 1120 M920 486 H 1120"/>
+  </g>
+  <g fill="none" stroke="#5c4633" stroke-width="3" stroke-linecap="round">
+    <path d="M232 296 V 545 M294 296 V 545 M356 296 V 545"/>
+    <path d="M732 296 V 545 M794 296 V 545 M856 296 V 545"/>
+    <path d="M982 296 V 545 M1044 296 V 545"/>
+  </g>
+
+  <!-- the panel that was pushed down, folded over and lying on the ground -->
+  <g fill="none" stroke="#5c4633" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M420 300 C 452 392 492 462 546 496 C 596 524 634 534 668 538"/>
+    <path d="M420 356 C 448 424 486 478 540 506 C 592 530 634 538 668 541"/>
+    <path d="M420 416 C 444 462 478 496 532 516 C 588 536 634 541 668 543"/>
+  </g>
+  <g fill="none" stroke="#5c4633" stroke-width="3" stroke-linecap="round">
+    <path d="M472 350 L 464 448"/>
+    <path d="M522 428 L 516 504"/>
+    <path d="M572 478 L 568 526"/>
+    <path d="M621 518 L 619 540"/>
+  </g>
+
+  <!-- scuffed ground where it came through -->
+  <g fill="none" stroke="#5c4633" stroke-width="3" stroke-linecap="round">
+    <path d="M486 560 C 522 552 566 550 604 556"/>
+    <path d="M556 574 C 590 566 626 564 658 568"/>
+  </g>
+</svg>

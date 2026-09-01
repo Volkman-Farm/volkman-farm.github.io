@@ -92,6 +92,41 @@ Three subjects, in this priority order:
   evening. Albert approved publishing that in full on 2026-07-28, birth order only per the
   kids rule. Treat it as a one-time approval: ask again before reusing the family's grief
   in another post or on Instagram.
+  **Predator attack, added 2026-09-01. A second and worse loss, over the weekend of Aug 29-30.**
+  Something got into the fixed run: **three birds dead, two badly wounded.** The two wounded were
+  moved to **the brooder** and are being watched. **Nobody saw the animal and no species is known.
+  Never name one, and never let a later post quietly assign a culprit.** The way in was **one side
+  of the fence pushed down**, not the netting: **the aviary net held and is not the failure.** There
+  is **an electric fence on the run**, which had never been published before this post. Albert's read
+  is that **it was probably not doing its job, stated as a suspicion and not proven**; write it that
+  way every time. **No flock count has ever been published, so do not start giving one.** **No
+  prognosis for the two wounded birds was given; do not invent one, and do not assume they lived or
+  died in a later post. Ask Albert.** Repairs: **none were reported**, so do not describe any. The
+  Sep 1 post gives the family **one restrained line with no detail** and puts no child on the page,
+  per Albert's call; the Jul 28 grief approval was **not** reused. **That post promises in print that
+  we will write up whatever we change once it is changed. That promise is owed and unscheduled.**
+  **The rebuild, added 2026-09-01, and it is already done, so the "promise owed" note above is
+  discharged by the Sep 1 post itself.** Albert implemented `poultry-paddock-layout-30ft.pdf`.
+  Verified against that drawing: **electric poultry netting, four nets. Outer perimeter 2 nets
+  (300 ft, 2 sides x 110 ft plus 2 ends x 40 ft). Inner perimeter 2 nets (2 sides x 100 ft, 2 ends
+  x 30 ft, plus a 30 ft center divider). A 5 ft corridor runs between outer and inner on all four
+  sides, which is the predator standoff. Posts every 10 ft. Two paddocks, A and B, each 50 x 30 ft
+  or about 1,500 sq ft**, so the run is roughly **twice its old size**. The divider exists so birds
+  can be moved off a paddock and the ground rested. **The grass along the fence lines was mowed
+  down to about three inches, not scalped to bare dirt (corrected by Albert 2026-09-01)** because
+  green growth on a hot wire bleeds the charge off; that is the mechanism behind
+  the grounding-out suspicion, and it is still **a suspicion, not a proven cause.**
+  **Two cautions.** (1) The PDF's own field notes name a fox or raccoon as a generic illustration of
+  standoff. **That is boilerplate in the drawing and is NOT an identification. Never source a species
+  from it.** (2) **Whether the new paddocks are covered on top is not established.** The old fixed run
+  had aviary netting over it; the new layout is a ground plan and says nothing about a roof. The Sep 1
+  post is deliberately silent on this. **Ask Albert before any post claims the new run is covered or
+  uncovered.**
+  **New chicks: Albert confirmed 2026-09-01 they are intended but nothing is ordered and nothing is
+  scheduled. Write as a plan only, never as birds on the way.**
+  **The flock was new and had only just started laying, about two weeks before the attack** (Albert,
+  2026-09-01). The Sep 1 post uses this as its hardest beat. Do not inflate it and do not reuse it as
+  a set piece in another post without asking.
   Composting history, corrected 2026-07-28: we did own a compost tumbler early on. Once
   the mulch piles and the chicken run were going it stopped getting filled, so we cleaned
   it out and gave it to Albert's in-laws. Never write "we never composted" or "we never
@@ -310,7 +345,7 @@ file back into `posts/`.
 |---|---|---|---|---|
 | Sun Aug 30 | Variety spotlight | What's in the salad mix | **Row swapped on 2026-08-24. Kohlrabi is not in rotation**, so a spotlight with an order CTA on it would have repeated exactly the mistake radish was pulled for on Aug 10. Kohlrabi goes back in the deck for a slot when it is on the rack again; do not resurrect it earlier. Replaced by pulling **Sun Sep 20's "Building a house blend" forward**, because the salad mix is actually growing right now. **Sep 20 is now OPEN.** The mix is True Leaf Market's organic Basic Salad Mix, verified against the product page 2026-08-24: broccoli, kale, kohlrabi, arugula, and cabbage, with red tatsoi or cauliflower substituted by supply. Leads on the fact that a mix is a timing decision and not a flavor one, since one tray gets one cut date, and proves it by showing why cilantro at eighteen to twenty one days could never be in it. Days to harvest are quoted from **our own variety pages**, not the vendor. **The vendor's 18 g per tray rate and its blackout and lighting instructions were deliberately not published**, because our practice is scattering by feel and a 24/7 rack. Says plainly that the mix is the only place kohlrabi is on the shelf this month, and mentions radish as out of rotation without linking it. 533 words. | [x] posts/whats-in-the-salad-mix.md |
 | Mon Aug 31 | In the kitchen | Sandwiches that earn the name | Deli upgrade: micros instead of tired lettuce. **Angle narrowed after a coverage grep**: Aug 10 school lunches already published fat-as-a-wall and the wrap-beats-a-sandwich argument, so this post explicitly hands that off and does not re-run layering. Opens on what the iceberg leaf was actually hired to do and does badly. Body is a match list by sandwich type rather than by variety, which is the shape no kitchen post has used yet. **Recommends the salad mix instead of single kohlrabi**, since kohlrabi is out of rotation. The hot-sandwich rule links Aug 24 and treats a panini press as the extreme case of the same heat rule. 587 words. | [x] posts/sandwiches-that-earn-the-name.md |
-| Tue Sep 1 | Homestead journal | Sketching the fall garden | Beds, spacing, what a Florida fall garden can actually grow. | [ ] |
+| Tue Sep 1 | Homestead journal | We were watching the sky | **Row replaced 2026-09-01. A predator got into the chicken run over the weekend of Aug 29-30: three birds dead, two badly hurt and moved to the brooder.** The scheduled fall garden post was written first, then bumped to Sep 8 when this came in. **Albert gave four calls on 2026-09-01.** (1) **No species is named and the post says plainly we do not know**, because nobody saw it. Do not let a later post quietly assign a culprit. (2) The way in was **one side of the fence pushed down**, and the suspicion is that **the electric fence was not doing its job**. That is written as a suspicion throughout and never as a finding; the post says outright that we have not proven it. (3) **The family gets one restrained line and no detail.** The Jul 28 grief approval was one-time and was not reused: no child appears in this post. (4) The Sep 8 row takes the fall garden post. The spine is a correct-forward on Jul 28, which published "the hawks decided where the birds live" and ended on the netting. **The net held.** The failure came in at ground level, so the post is about armoring the direction you were last hurt from and then not auditing the rest. **The electric fence and the brooder are both new to the blog**, confirmed by grep, and no flock count has ever been published, so none is given here. **No prognosis for the two wounded birds**, deliberately, and no repairs are described because none were reported. 605 words, no CTA. **Rewritten later the same day when Albert reported the rebuild, which was already done: the run doubled to two 50 x 30 ft paddocks, an outer and inner net with a 5 ft standoff corridor, a center divider for resting ground, and the fence lines mowed down to about three inches.** Verified against `poultry-paddock-layout-30ft.pdf`. The grounding-out mechanism is explained but stays **an unproven suspicion**. **Chicks are written as an intention only, nothing ordered.** Added the hardest fact, that **the flock was new and had been laying about two weeks.** The post is **deliberately silent on whether the new paddocks are covered on top**, which is not established. 1009 words, no CTA, one H2. | [x] posts/we-were-watching-the-sky.md |
 | Wed Sep 2 | Permaculture | Guilds: plants that work in teams | Companion planting framed as permaculture. FL examples. | [ ] |
 | Thu Sep 3 | On the route | Why we stay small on purpose | Route capacity, quality, the anti-scale argument. | [ ] |
 | Fri Sep 4 | Growing notes | Seed sourcing: who we buy from and why | Organic non-GMO suppliers, what we look for. | [ ] |
