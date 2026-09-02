@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a planted mound in cross section with a small fruit tree at the top, a shrub beside it, a tall flower, a vining ground cover spilling down the sides, and roots drawn below the soil line">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- mound surface -->
+  <path d="M60 486 Q 340 316 600 314 Q 860 312 1140 486" fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- soil texture below the surface -->
+  <g fill="none" stroke="#5c4633" stroke-width="4" stroke-linecap="round" opacity="0.55">
+    <path d="M150 540 h 70 M270 566 h 58 M400 528 h 64 M700 548 h 66 M840 574 h 56 M960 534 h 62"/>
+  </g>
+
+  <!-- roots under the tree -->
+  <g fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round">
+    <path d="M556 318 C 552 388 528 438 470 486"/>
+    <path d="M560 318 C 560 400 562 470 566 592"/>
+    <path d="M566 318 C 574 386 606 436 668 482"/>
+    <path d="M540 404 C 508 420 486 442 470 470"/>
+    <path d="M584 424 C 616 442 638 462 654 490"/>
+    <path d="M562 500 C 540 522 528 546 524 574"/>
+    <path d="M566 502 C 590 522 604 546 610 576"/>
+  </g>
+
+  <!-- shorter roots under the shrub and the flower -->
+  <g fill="none" stroke="#5c4633" stroke-width="4" stroke-linecap="round">
+    <path d="M846 366 C 842 412 826 442 796 470"/>
+    <path d="M852 366 C 856 412 868 444 894 474"/>
+    <path d="M978 404 C 976 448 972 480 968 520"/>
+    <path d="M974 448 C 950 462 936 480 928 500"/>
+  </g>
+
+  <!-- fruit tree at the top of the mound -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M561 316 V 214"/>
+    <path d="M561 260 L 522 226 M561 244 L 604 214"/>
+    <path d="M561 214 C 496 214 462 178 468 146 C 474 114 512 96 546 108 C 560 78 606 74 626 100 C 664 92 692 122 682 156 C 674 186 632 214 561 214 Z"/>
+  </g>
+  <g fill="none" stroke="#6b2a2f" stroke-width="6" stroke-linecap="round">
+    <circle cx="512" cy="160" r="11"/>
+    <circle cx="606" cy="140" r="11"/>
+    <circle cx="646" cy="174" r="11"/>
+  </g>
+
+  <!-- shrub on the right shoulder -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M849 364 V 316"/>
+    <path d="M849 316 C 792 316 768 288 776 262 C 784 236 818 226 844 240 C 866 220 906 230 912 260 C 918 292 892 316 849 316 Z"/>
+  </g>
+
+  <!-- tall flower on the right slope -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M976 402 C 978 340 976 292 970 250"/>
+    <ellipse cx="1010" cy="330" rx="30" ry="14" transform="rotate(18 1010 330)"/>
+    <ellipse cx="938" cy="298" rx="30" ry="14" transform="rotate(-18 938 298)"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="6" stroke-linecap="round">
+    <circle cx="968" cy="228" r="26"/>
+    <path d="M968 194 V 176 M968 262 V 280 M934 228 H 916 M1002 228 H 1020 M944 204 L 931 191 M992 204 L 1005 191 M944 252 L 931 265 M992 252 L 1005 265"/>
+  </g>
+
+  <!-- vining ground cover spilling down the left flank -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M470 330 C 396 344 336 376 282 418 C 236 452 186 472 132 480"/>
+    <ellipse cx="430" cy="316" rx="26" ry="13" transform="rotate(-14 430 316)"/>
+    <ellipse cx="356" cy="352" rx="26" ry="13" transform="rotate(-20 356 352)"/>
+    <ellipse cx="286" cy="392" rx="26" ry="13" transform="rotate(-24 286 392)"/>
+    <ellipse cx="216" cy="440" rx="26" ry="13" transform="rotate(-18 216 440)"/>
+    <ellipse cx="150" cy="462" rx="24" ry="12" transform="rotate(-10 150 462)"/>
+  </g>
+
+  <!-- low herb clump on the left shoulder -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="6" stroke-linecap="round">
+    <path d="M660 312 C 658 282 664 262 678 244"/>
+    <path d="M676 312 C 680 284 692 266 710 252"/>
+    <path d="M694 312 C 700 288 714 272 734 262"/>
+  </g>
+</svg>
