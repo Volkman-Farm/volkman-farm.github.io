@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a delivery route as a closed loop of road running out from the grow shed and back, with four houses along the loop and a cooler bag set beside each one, and three more houses off to the side that no road reaches">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- the route: one closed loop that leaves home and comes back -->
+  <path d="M210 400 L 230 300 Q 236 268, 274 262 L 470 236 Q 500 232, 528 240 L 700 250 Q 760 254, 812 272 L 900 306 Q 946 324, 944 366 L 938 400 Q 934 440, 880 452 L 700 470 Q 640 476, 580 474 L 380 466 Q 300 462, 258 448 Q 214 434, 210 400 Z"
+        fill="none" stroke="#5c4633" stroke-width="22" stroke-linejoin="round"/>
+  <path d="M210 400 L 230 300 Q 236 268, 274 262 L 470 236 Q 500 232, 528 240 L 700 250 Q 760 254, 812 272 L 900 306 Q 946 324, 944 366 L 938 400 Q 934 440, 880 452 L 700 470 Q 640 476, 580 474 L 380 466 Q 300 462, 258 448 Q 214 434, 210 400 Z"
+        fill="none" stroke="#8a7e3a" stroke-width="4" stroke-linecap="round" stroke-dasharray="24 32"/>
+
+  <!-- the shed the loop starts from, with its drive out to the road -->
+  <path d="M380 390 C 378 415, 376 440, 376 468" fill="none" stroke="#5c4633" stroke-width="14" stroke-linecap="round"/>
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M325 390 H 435"/>
+    <path d="M334 390 V 338 M426 390 V 338"/>
+    <path d="M320 342 L 380 298 L 440 342"/>
+    <path d="M334 342 H 426"/>
+    <path d="M368 390 V 356 H 394 V 390"/>
+    <path d="M342 356 h 18 v 18 h -18 Z"/>
+  </g>
+
+  <!-- the houses the loop reaches, a bag set beside each -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="translate(440,206)">
+      <path d="M-55 0 H 55 M-46 0 V -52 M46 0 V -52 M-60 -48 L 0 -92 L 60 -48 M-46 -48 H 46"/>
+      <path d="M-12 0 V -34 H 14 V 0"/>
+      <path d="M-38 -34 h 18 v 18 h -18 Z"/>
+    </g>
+    <g transform="translate(760,222)">
+      <path d="M-55 0 H 55 M-46 0 V -52 M46 0 V -52 M-60 -48 L 0 -92 L 60 -48 M-46 -48 H 46"/>
+      <path d="M-12 0 V -34 H 14 V 0"/>
+      <path d="M-38 -34 h 18 v 18 h -18 Z"/>
+    </g>
+    <g transform="translate(600,590)">
+      <path d="M-55 0 H 55 M-46 0 V -52 M46 0 V -52 M-60 -48 L 0 -92 L 60 -48 M-46 -48 H 46"/>
+      <path d="M-12 0 V -34 H 14 V 0"/>
+      <path d="M-38 -34 h 18 v 18 h -18 Z"/>
+    </g>
+    <g transform="translate(300,578)">
+      <path d="M-55 0 H 55 M-46 0 V -52 M46 0 V -52 M-60 -48 L 0 -92 L 60 -48 M-46 -48 H 46"/>
+      <path d="M-12 0 V -34 H 14 V 0"/>
+      <path d="M-38 -34 h 18 v 18 h -18 Z"/>
+    </g>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="translate(516,206)">
+      <path d="M-18 0 V -30 h 36 V 0 Z M-11 -30 C -11 -43, 11 -43, 11 -30 M-18 -16 h 36"/>
+    </g>
+    <g transform="translate(836,222)">
+      <path d="M-18 0 V -30 h 36 V 0 Z M-11 -30 C -11 -43, 11 -43, 11 -30 M-18 -16 h 36"/>
+    </g>
+    <g transform="translate(676,590)">
+      <path d="M-18 0 V -30 h 36 V 0 Z M-11 -30 C -11 -43, 11 -43, 11 -30 M-18 -16 h 36"/>
+    </g>
+    <g transform="translate(376,578)">
+      <path d="M-18 0 V -30 h 36 V 0 Z M-11 -30 C -11 -43, 11 -43, 11 -30 M-18 -16 h 36"/>
+    </g>
+  </g>
+
+  <!-- houses past the edge of the loop, with no road running to them -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="translate(1060,292)">
+      <path d="M-55 0 H 55 M-46 0 V -52 M46 0 V -52 M-60 -48 L 0 -92 L 60 -48 M-46 -48 H 46"/>
+      <path d="M-12 0 V -34 H 14 V 0"/>
+      <path d="M-38 -34 h 18 v 18 h -18 Z"/>
+    </g>
+    <g transform="translate(1116,452)">
+      <path d="M-55 0 H 55 M-46 0 V -52 M46 0 V -52 M-60 -48 L 0 -92 L 60 -48 M-46 -48 H 46"/>
+      <path d="M-12 0 V -34 H 14 V 0"/>
+      <path d="M-38 -34 h 18 v 18 h -18 Z"/>
+    </g>
+    <g transform="translate(1024,578)">
+      <path d="M-55 0 H 55 M-46 0 V -52 M46 0 V -52 M-60 -48 L 0 -92 L 60 -48 M-46 -48 H 46"/>
+      <path d="M-12 0 V -34 H 14 V 0"/>
+      <path d="M-38 -34 h 18 v 18 h -18 Z"/>
+    </g>
+  </g>
+</svg>
