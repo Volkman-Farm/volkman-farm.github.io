@@ -1,7 +1,7 @@
 ---
 title: Our greens versus the grocery store's
 description: "The honest answer to how our microgreens differ from the grocery store's: cut the morning it reaches you, three miles away, and never washed or bagged."
-date: 2026-09-12T09:00:00-04:00
+date: 2026-09-04T09:00:00-04:00
 pillar: Reader questions
 hero: /assets/blog/our-greens-versus-the-grocery-store.svg
 hero_alt: "Line drawing of two produce containers side by side: on the left an open tub overflowing with tall fresh microgreens under a small sun, on the right a sealed domed tub with a date sticker and limp drooping greens inside"
