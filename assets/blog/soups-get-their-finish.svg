@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a wide soup bowl with steam rising, a small pile of microgreens set on the surface to one side, and a covered pot in the background">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- table line -->
+  <path d="M60 528 H 1140" fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- pot with its lid on, in the background -->
+  <g fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M902 528 C 890 528 880 518 880 504 V 396 h 216 v 108 c 0 14 -10 24 -22 24 z"/>
+    <path d="M866 386 h 244"/>
+    <path d="M894 386 C 894 340 926 316 988 316 C 1050 316 1082 340 1082 386"/>
+    <path d="M988 316 V 292"/>
+    <path d="M964 292 h 48"/>
+    <path d="M880 424 h -30 M1096 424 h 30"/>
+  </g>
+
+  <!-- wide soup bowl -->
+  <g fill="none" stroke="#1f2419" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M168 400 C 168 490 274 528 396 528 C 518 528 624 490 624 400 Z"/>
+    <ellipse cx="396" cy="400" rx="228" ry="46"/>
+  </g>
+
+  <!-- steam -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="6" stroke-linecap="round">
+    <path d="M300 340 C 274 300 314 276 290 236 C 274 210 300 190 296 168"/>
+    <path d="M400 330 C 374 288 414 264 390 222 C 374 194 400 176 396 152"/>
+    <path d="M500 344 C 474 304 514 280 490 240 C 474 214 500 194 496 172"/>
+  </g>
+
+  <!-- pile of microgreens on the surface, off to one side -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M244 402 C 240 386 246 372 258 362"/>
+    <ellipse cx="248" cy="354" rx="26" ry="12" transform="rotate(-22 248 354)"/>
+    <ellipse cx="296" cy="358" rx="26" ry="12" transform="rotate(20 296 358)"/>
+    <path d="M310 408 C 306 390 312 374 326 362"/>
+    <ellipse cx="316" cy="352" rx="28" ry="13" transform="rotate(-20 316 352)"/>
+    <ellipse cx="368" cy="358" rx="28" ry="13" transform="rotate(20 368 358)"/>
+    <path d="M280 414 C 278 400 284 388 296 380"/>
+  </g>
+  <g fill="none" stroke="#6b2a2f" stroke-width="5" stroke-linecap="round">
+    <path d="M266 408 C 264 392 270 380 282 372"/>
+    <path d="M342 410 C 340 396 346 384 358 376"/>
+  </g>
+</svg>

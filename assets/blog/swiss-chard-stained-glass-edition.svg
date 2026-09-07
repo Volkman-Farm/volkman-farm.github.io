@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a small bunch of chard microgreens with straight upright stems in three different tones under broad rounded leaves">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- cut line the bunch sits on -->
+  <path d="M180 560 H 1020" fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- burgundy stems -->
+  <g fill="none" stroke="#6b2a2f" stroke-width="8" stroke-linecap="round">
+    <path d="M330 556 C 334 452 342 366 352 288"/>
+    <path d="M600 556 C 600 440 600 340 600 246"/>
+    <path d="M872 556 C 868 452 860 372 850 300"/>
+  </g>
+  <!-- olive stems -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="8" stroke-linecap="round">
+    <path d="M420 556 C 422 460 428 386 436 322"/>
+    <path d="M690 556 C 688 452 682 372 674 306"/>
+  </g>
+  <!-- alpine stems -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="8" stroke-linecap="round">
+    <path d="M508 556 C 508 448 508 356 508 268"/>
+    <path d="M782 556 C 780 466 774 392 766 330"/>
+  </g>
+
+  <!-- broad rounded cotyledon leaves -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="316" cy="272" rx="44" ry="21" transform="rotate(-20 316 272)"/>
+    <ellipse cx="394" cy="278" rx="44" ry="21" transform="rotate(18 394 278)"/>
+
+    <ellipse cx="402" cy="308" rx="40" ry="19" transform="rotate(-22 402 308)"/>
+    <ellipse cx="474" cy="314" rx="40" ry="19" transform="rotate(20 474 314)"/>
+
+    <ellipse cx="470" cy="252" rx="46" ry="22" transform="rotate(-18 470 252)"/>
+    <ellipse cx="552" cy="258" rx="46" ry="22" transform="rotate(18 552 258)"/>
+
+    <ellipse cx="558" cy="230" rx="48" ry="23" transform="rotate(-16 558 230)"/>
+    <ellipse cx="646" cy="234" rx="48" ry="23" transform="rotate(16 646 234)"/>
+
+    <ellipse cx="636" cy="292" rx="42" ry="20" transform="rotate(-20 636 292)"/>
+    <ellipse cx="714" cy="296" rx="42" ry="20" transform="rotate(18 714 296)"/>
+
+    <ellipse cx="726" cy="316" rx="42" ry="20" transform="rotate(-20 726 316)"/>
+    <ellipse cx="804" cy="320" rx="42" ry="20" transform="rotate(18 804 320)"/>
+
+    <ellipse cx="812" cy="286" rx="44" ry="21" transform="rotate(-18 812 286)"/>
+    <ellipse cx="892" cy="290" rx="44" ry="21" transform="rotate(18 892 290)"/>
+  </g>
+</svg>

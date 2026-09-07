@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a large seed sack pouring seed into a measuring scoop, with a small kitchen scale on the table beside it">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- table line -->
+  <path d="M60 500 H 1140" fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- paper sack, tipped toward the scoop -->
+  <g fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-9 250 500)">
+    <path d="M132 500 L 150 268 C 151 254 163 244 177 246 L 352 268 C 366 270 374 282 372 296 L 350 500"/>
+    <path d="M150 288 L 371 314"/>
+    <path d="M177 246 L 172 224 L 342 246 L 352 268"/>
+    <path d="M372 296 L 424 306 L 452 344 L 410 372 L 386 330 L 368 322"/>
+  </g>
+
+  <!-- seed spilling out toward the scoop -->
+  <g fill="#1f2419">
+    <circle cx="470" cy="352" r="7"/><circle cx="504" cy="370" r="7"/><circle cx="536" cy="356" r="6"/>
+    <circle cx="566" cy="382" r="7"/><circle cx="598" cy="372" r="6"/><circle cx="624" cy="396" r="7"/>
+    <circle cx="654" cy="386" r="6"/><circle cx="680" cy="408" r="7"/><circle cx="712" cy="400" r="6"/>
+    <circle cx="488" cy="394" r="6"/><circle cx="554" cy="414" r="6"/><circle cx="618" cy="430" r="6"/>
+  </g>
+
+  <!-- measuring scoop sitting on the table -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M690 428 C 690 476 736 498 790 498 C 844 498 890 476 890 428 Z"/>
+    <path d="M690 428 H 890"/>
+    <path d="M890 440 C 928 428 950 420 964 414"/>
+  </g>
+  <g fill="#1f2419">
+    <circle cx="732" cy="452" r="7"/><circle cx="770" cy="468" r="7"/><circle cx="812" cy="454" r="7"/>
+    <circle cx="850" cy="470" r="7"/><circle cx="792" cy="486" r="7"/><circle cx="750" cy="488" r="6"/>
+  </g>
+
+  <!-- small kitchen scale -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1010 500 V 468 H 1146 V 500"/>
+    <path d="M1002 468 H 1154"/>
+    <rect x="1026" y="396" width="104" height="62" rx="10"/>
+    <path d="M1052 428 H 1104"/>
+  </g>
+  <g fill="#1f2419">
+    <circle cx="960" cy="490" r="6"/><circle cx="992" cy="496" r="5"/>
+  </g>
+</svg>

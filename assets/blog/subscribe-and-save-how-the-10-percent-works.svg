@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a phone showing a short message thread beside a stack of two clamshell containers of greens">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- phone -->
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="110" y="96" width="330" height="450" rx="34"/>
+    <path d="M236 130 h 78"/>
+  </g>
+
+  <!-- incoming bubble -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 200 h 210 a 16 16 0 0 1 16 16 v 74 a 16 16 0 0 1 -16 16 h -186 l -40 30 v -30 a 16 16 0 0 1 -0 -16 v -74 a 16 16 0 0 1 16 -16 z"/>
+    <path d="M176 236 h 152 M176 268 h 108"/>
+  </g>
+
+  <!-- outgoing bubble, short reply -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M292 372 h 92 a 16 16 0 0 1 16 16 v 46 a 16 16 0 0 1 -16 16 h -92 a 16 16 0 0 1 -16 -16 v -46 a 16 16 0 0 1 16 -16 z"/>
+    <path d="M304 410 h 60"/>
+  </g>
+
+  <!-- stacked clamshells -->
+  <g fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M628 452 h 400 a 14 14 0 0 1 14 14 v 62 a 14 14 0 0 1 -14 14 h -400 a 14 14 0 0 1 -14 -14 v -62 a 14 14 0 0 1 14 -14 z"/>
+    <path d="M614 486 h 428"/>
+    <path d="M660 344 h 336 a 14 14 0 0 1 14 14 v 62 a 14 14 0 0 1 -14 14 h -336 a 14 14 0 0 1 -14 -14 v -62 a 14 14 0 0 1 14 -14 z"/>
+    <path d="M646 378 h 364"/>
+  </g>
+
+  <!-- greens visible in the top container -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M712 344 C 710 306 718 280 734 258"/>
+    <ellipse cx="712" cy="252" rx="26" ry="12" transform="rotate(-22 712 252)"/>
+    <ellipse cx="762" cy="256" rx="26" ry="12" transform="rotate(22 762 256)"/>
+    <path d="M828 344 C 826 296 834 262 852 236"/>
+    <ellipse cx="826" cy="230" rx="28" ry="13" transform="rotate(-22 826 230)"/>
+    <ellipse cx="882" cy="234" rx="28" ry="13" transform="rotate(22 882 234)"/>
+    <path d="M944 344 C 942 306 950 280 966 258"/>
+    <ellipse cx="944" cy="252" rx="26" ry="12" transform="rotate(-22 944 252)"/>
+    <ellipse cx="994" cy="256" rx="26" ry="12" transform="rotate(22 994 256)"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round">
+    <path d="M770 344 C 768 312 776 292 792 276"/>
+    <path d="M886 344 C 884 308 892 288 908 270"/>
+  </g>
+</svg>
