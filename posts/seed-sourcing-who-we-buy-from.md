@@ -4,11 +4,11 @@ description: "One supplier, two requirements. Why microgreen seed is bought by t
 date: 2026-09-06T09:00:00-04:00
 pillar: Growing notes
 hero: /assets/blog/seed-sourcing-who-we-buy-from.svg
-hero_alt: "Line drawing of a large seed sack pouring seed into a measuring scoop, with a small kitchen scale on the table beside it"
+hero_alt: "Line drawing of a large seed sack standing on a table beside a much smaller garden seed packet, with a scattering of seed on the table between them"
 image: /assets/blog/seed-sourcing-who-we-buy-from.png
 ---
 
-True Leaf Market. That's the list.
+[True Leaf Market](https://www.trueleafmarket.com/). That's the list.
 
 A post called "who we buy from and why" is supposed to have a comparison table in it, and a paragraph about agonizing over 3 vendors. We didn't. One supplier covers what we grow, the seed does what it's supposed to do, and there's been no reason to go looking.
 

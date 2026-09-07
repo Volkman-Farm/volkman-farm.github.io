@@ -1,44 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a large seed sack pouring seed into a measuring scoop, with a small kitchen scale on the table beside it">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a large seed sack standing on a table beside a much smaller garden seed packet, with a scattering of seed on the table between them">
   <rect width="1200" height="630" fill="#f5ead3"/>
 
   <!-- table line -->
-  <path d="M60 500 H 1140" fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round"/>
+  <path d="M70 520 H 1130" fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round"/>
 
-  <!-- paper sack, tipped toward the scoop -->
-  <g fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-9 250 500)">
-    <path d="M132 500 L 150 268 C 151 254 163 244 177 246 L 352 268 C 366 270 374 282 372 296 L 350 500"/>
-    <path d="M150 288 L 371 314"/>
-    <path d="M177 246 L 172 224 L 342 246 L 352 268"/>
-    <path d="M372 296 L 424 306 L 452 344 L 410 372 L 386 330 L 368 322"/>
+  <!-- the sack: what a shed buys -->
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <!-- body, bowing out under its own weight -->
+    <path d="M246 240 C 238 332 232 424 234 498 Q 234 512 248 512 L 512 512 Q 526 512 526 498 C 528 424 522 332 514 240 Z"/>
+    <!-- folded and stitched top -->
+    <path d="M262 190 L 498 190 L 514 240 L 246 240 Z"/>
   </g>
+  <path d="M280 214 H 480" fill="none" stroke="#8a7e3a" stroke-width="6" stroke-linecap="round" stroke-dasharray="16 14"/>
 
-  <!-- seed spilling out toward the scoop -->
-  <g fill="#1f2419">
-    <circle cx="470" cy="352" r="7"/><circle cx="504" cy="370" r="7"/><circle cx="536" cy="356" r="6"/>
-    <circle cx="566" cy="382" r="7"/><circle cx="598" cy="372" r="6"/><circle cx="624" cy="396" r="7"/>
-    <circle cx="654" cy="386" r="6"/><circle cx="680" cy="408" r="7"/><circle cx="712" cy="400" r="6"/>
-    <circle cx="488" cy="394" r="6"/><circle cx="554" cy="414" r="6"/><circle cx="618" cy="430" r="6"/>
-  </g>
-
-  <!-- measuring scoop sitting on the table -->
+  <!-- printed label -->
   <g fill="none" stroke="#3a5a2a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M690 428 C 690 476 736 498 790 498 C 844 498 890 476 890 428 Z"/>
-    <path d="M690 428 H 890"/>
-    <path d="M890 440 C 928 428 950 420 964 414"/>
-  </g>
-  <g fill="#1f2419">
-    <circle cx="732" cy="452" r="7"/><circle cx="770" cy="468" r="7"/><circle cx="812" cy="454" r="7"/>
-    <circle cx="850" cy="470" r="7"/><circle cx="792" cy="486" r="7"/><circle cx="750" cy="488" r="6"/>
+    <rect x="306" y="306" width="148" height="116" rx="10"/>
+    <path d="M380 396 V 352"/>
+    <path d="M380 358 C 358 356 346 344 346 328 C 366 328 379 340 380 358 Z"/>
+    <path d="M380 366 C 402 364 414 352 414 336 C 394 336 381 348 380 366 Z"/>
   </g>
 
-  <!-- small kitchen scale -->
-  <g fill="none" stroke="#8a7e3a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M1010 500 V 468 H 1146 V 500"/>
-    <path d="M1002 468 H 1154"/>
-    <rect x="1026" y="396" width="104" height="62" rx="10"/>
-    <path d="M1052 428 H 1104"/>
-  </g>
+  <!-- seed on the table between them -->
   <g fill="#1f2419">
-    <circle cx="960" cy="490" r="6"/><circle cx="992" cy="496" r="5"/>
+    <circle cx="576" cy="506" r="7"/><circle cx="616" cy="509" r="6"/><circle cx="652" cy="504" r="7"/>
+    <circle cx="694" cy="508" r="6"/><circle cx="726" cy="503" r="6"/><circle cx="764" cy="508" r="7"/>
+    <circle cx="600" cy="493" r="5"/><circle cx="672" cy="492" r="5"/><circle cx="742" cy="491" r="5"/>
+    <circle cx="806" cy="506" r="5"/>
+  </g>
+
+  <!-- the packet: what a garden buys -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="880" y="390" width="104" height="122" rx="7"/>
+    <path d="M880 418 H 984"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M932 472 V 446"/>
+    <path d="M932 452 C 918 451 910 443 910 433 C 923 433 931 441 932 452 Z"/>
+    <path d="M932 457 C 946 456 954 448 954 438 C 941 438 933 446 932 457 Z"/>
+    <path d="M902 490 H 962"/>
+    <path d="M910 502 H 954"/>
   </g>
 </svg>

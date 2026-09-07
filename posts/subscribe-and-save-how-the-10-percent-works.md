@@ -1,6 +1,6 @@
 ---
 title: "Subscribe and save: how the 10% works"
-description: "The standing order discount, explained plainly. What it costs, how the weekly text works, how to skip a week, and why a forecastable order is worth a discount to a grower."
+description: "The standing order discount, explained plainly. What it costs, how the weekly text works, how to skip a week, and why greens grown to order make a forecastable week worth paying for."
 date: 2026-09-05T09:00:00-04:00
 pillar: Reader questions
 hero: /assets/blog/subscribe-and-save-how-the-10-percent-works.svg
@@ -18,7 +18,11 @@ Most people asking about a subscription aren't really asking about the price. Th
 
 Place a first order the normal way and check the box that makes it weekly. That's the last form you fill out.
 
-After that it's the same every week. We text you the day before your delivery to confirm. Reply "skip" and that week is off, no charge. Reply with something different and we bring that instead. Going away for a month? Reply "pause," and we stop texting until you say "resume."
+One thing to be clear about before the mechanics, because it changes what the mechanics mean. Nothing is sitting in a cooler waiting for a buyer. We don't grow greens and then go looking for somebody to take them. A tray gets seeded because an order exists, and yours goes in about a week and a half before it reaches your porch.
+
+So the weekly text isn't an order form. It's a confirmation of something already growing.
+
+It comes the day before your delivery. Reply "skip" and that week is off, no charge. Reply asking for something different and we'll bring it if we have the trays, since a change to what you get every week is a seeding decision and not a shelf decision. The sooner you tell us, the easier it is to plant for. Going away for a month? Reply "pause," and we stop texting until you say "resume."
 
 You pay on delivery, weekly, by Venmo or Zelle or cash. No card on file, no recurring billing, no account to log into. [The whole thing runs on text messages](/blog/the-text-before-the-drop/), same as every other order we take.
 
@@ -26,7 +30,7 @@ You pay on delivery, weekly, by Venmo or Zelle or cash. No card on file, no recu
 
 A discount is never generosity, so it's worth saying what we're buying with it.
 
-A tray is a decision made a week and a half before anybody eats it. Seed goes down, it sits in [blackout](/blog/the-blackout-phase/), it comes up under lights, and somewhere between day 8 and day 14 depending on the variety it's ready whether or not it has anywhere to go. A grower guessing at next Friday plants too much and cuts what nobody wanted, or plants too little and has nothing when somebody asks.
+Go back to that week and a half. Seed goes down, it sits in [blackout](/blog/the-blackout-phase/), it comes up under lights, and somewhere between day 8 and day 14 depending on the variety it's ready whether or not it has anywhere to go. A grower guessing at next Friday plants too much and cuts what nobody wanted, or plants too little and has nothing when somebody asks.
 
 An order we can see coming takes the guess out. That's worth real money on the growing side, and the 10% is us handing that value back instead of pocketing it. It isn't a loyalty program. We're paying you for information.
 
