@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of tall stalks cut partway up, with the cut tops lying flat across the ground below them and short standing stubble left behind">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- ground -->
+  <path d="M40 546 H 1160" fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- standing stubble, cut high -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="7" stroke-linecap="round">
+    <path d="M96 544 V 430"/>
+    <path d="M160 544 V 446"/>
+    <path d="M224 544 V 424"/>
+    <path d="M288 544 V 452"/>
+    <path d="M352 544 V 428"/>
+    <path d="M416 544 V 448"/>
+    <path d="M480 544 V 432"/>
+    <path d="M544 544 V 452"/>
+    <path d="M608 544 V 426"/>
+    <path d="M672 544 V 446"/>
+    <path d="M736 544 V 434"/>
+  </g>
+
+  <!-- cut tops lying across the stubble and on the ground -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="7" stroke-linecap="round">
+    <path d="M74 470 C 190 452 300 456 418 474"/>
+    <path d="M232 448 C 344 434 452 440 560 458"/>
+    <path d="M400 468 C 512 452 616 458 726 476"/>
+    <path d="M110 506 C 232 492 350 496 466 512"/>
+    <path d="M452 500 C 566 486 668 490 762 504"/>
+  </g>
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round">
+    <path d="M88 532 C 208 520 324 524 438 536"/>
+    <path d="M420 524 C 536 512 646 516 748 528"/>
+    <path d="M152 484 L 226 470 M300 520 L 372 508 M508 480 L 578 468 M596 512 L 666 500 M244 462 L 312 450"/>
+  </g>
+
+  <!-- uncut stand still standing at the right -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M846 544 C 844 428 850 330 858 250"/>
+    <ellipse cx="822" cy="300" rx="34" ry="15" transform="rotate(-26 822 300)"/>
+    <ellipse cx="892" cy="278" rx="34" ry="15" transform="rotate(26 892 278)"/>
+    <ellipse cx="828" cy="380" rx="32" ry="14" transform="rotate(-24 828 380)"/>
+    <ellipse cx="886" cy="358" rx="32" ry="14" transform="rotate(24 886 358)"/>
+
+    <path d="M980 544 C 978 448 984 356 992 286"/>
+    <ellipse cx="958" cy="330" rx="32" ry="14" transform="rotate(-26 958 330)"/>
+    <ellipse cx="1024" cy="312" rx="32" ry="14" transform="rotate(26 1024 312)"/>
+    <ellipse cx="962" cy="404" rx="30" ry="13" transform="rotate(-24 962 404)"/>
+    <ellipse cx="1018" cy="386" rx="30" ry="13" transform="rotate(24 1018 386)"/>
+
+    <path d="M1102 544 C 1100 460 1106 384 1114 322"/>
+    <ellipse cx="1082" cy="366" rx="30" ry="13" transform="rotate(-26 1082 366)"/>
+    <ellipse cx="1142" cy="348" rx="30" ry="13" transform="rotate(26 1142 348)"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="6" stroke-linecap="round">
+    <circle cx="862" cy="222" r="22"/>
+    <path d="M862 192 V 178 M862 252 V 266 M832 222 H 818 M892 222 H 906"/>
+  </g>
+</svg>

@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of two low garden beds planted with young greens, a garden fork standing upright in the ground beside them, and an unopened mound of mulch waiting at the right">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- sun -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="6" stroke-linecap="round">
+    <circle cx="176" cy="128" r="42"/>
+    <path d="M176 60 V 34 M176 222 V 248 M108 128 H 82 M244 128 H 270"/>
+    <path d="M128 80 L 110 62 M224 80 L 242 62 M128 176 L 110 194 M224 176 L 242 194"/>
+  </g>
+
+  <!-- ground line -->
+  <path d="M40 545 H 1160" fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- bed one, front board seen side on -->
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M90 468 H 380 V 545 H 90 Z"/>
+    <path d="M90 508 H 380"/>
+  </g>
+
+  <!-- bed two, front board seen side on -->
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M420 468 H 670 V 545 H 420 Z"/>
+    <path d="M420 508 H 670"/>
+  </g>
+
+  <!-- greens standing above bed one -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M142 468 C 140 424 145 392 150 358"/>
+    <ellipse cx="120" cy="352" rx="30" ry="14" transform="rotate(-26 120 352)"/>
+    <ellipse cx="180" cy="352" rx="30" ry="14" transform="rotate(26 180 352)"/>
+
+    <path d="M216 468 C 214 432 218 404 222 378"/>
+    <ellipse cx="196" cy="372" rx="26" ry="12" transform="rotate(-24 196 372)"/>
+    <ellipse cx="248" cy="374" rx="26" ry="12" transform="rotate(24 248 374)"/>
+
+    <path d="M290 468 C 288 418 294 384 300 346"/>
+    <ellipse cx="272" cy="340" rx="30" ry="14" transform="rotate(-28 272 340)"/>
+    <ellipse cx="330" cy="342" rx="30" ry="14" transform="rotate(24 330 342)"/>
+
+    <path d="M352 468 C 350 434 354 408 358 384"/>
+    <ellipse cx="334" cy="378" rx="25" ry="12" transform="rotate(-22 334 378)"/>
+    <ellipse cx="382" cy="380" rx="25" ry="12" transform="rotate(22 382 380)"/>
+  </g>
+
+  <!-- greens standing above bed two -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M466 468 C 464 428 469 398 474 368"/>
+    <ellipse cx="446" cy="362" rx="27" ry="13" transform="rotate(-25 446 362)"/>
+    <ellipse cx="502" cy="364" rx="27" ry="13" transform="rotate(25 502 364)"/>
+
+    <path d="M534 468 C 532 416 538 380 544 344"/>
+    <ellipse cx="516" cy="338" rx="30" ry="14" transform="rotate(-27 516 338)"/>
+    <ellipse cx="574" cy="340" rx="30" ry="14" transform="rotate(25 574 340)"/>
+
+    <path d="M600 468 C 598 436 602 410 606 386"/>
+    <ellipse cx="582" cy="380" rx="25" ry="12" transform="rotate(-23 582 380)"/>
+    <ellipse cx="630" cy="382" rx="25" ry="12" transform="rotate(23 630 382)"/>
+
+    <path d="M648 468 C 646 430 651 400 656 372"/>
+    <ellipse cx="630" cy="366" rx="26" ry="12" transform="rotate(-26 630 366)"/>
+    <ellipse cx="682" cy="368" rx="26" ry="12" transform="rotate(24 682 368)"/>
+  </g>
+
+  <!-- garden marker stake in bed one -->
+  <g fill="none" stroke="#6b2a2f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M114 468 V 420"/>
+    <path d="M114 420 H 156 V 398 H 114 Z"/>
+  </g>
+
+  <!-- unopened mulch pile, cap still on -->
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M792 545 C 824 476 900 396 984 380 C 1068 396 1132 476 1158 545"/>
+  </g>
+  <g fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round">
+    <path d="M856 492 C 898 474 936 470 970 474"/>
+    <path d="M1008 470 C 1046 476 1080 492 1106 512"/>
+    <path d="M880 528 C 928 510 978 504 1026 510"/>
+    <path d="M932 442 C 956 430 978 426 998 428"/>
+    <path d="M1020 434 C 1044 446 1064 460 1080 476"/>
+  </g>
+
+  <!-- garden fork standing in the ground, waiting -->
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M729 296 L 736 500"/>
+    <path d="M726 296 C 708 288 706 266 722 258 C 738 250 756 262 752 280 L 746 298 Z"/>
+    <path d="M700 502 H 772"/>
+    <path d="M704 504 V 542 M722 503 V 543 M740 502 V 543 M758 501 V 542"/>
+  </g>
+</svg>
