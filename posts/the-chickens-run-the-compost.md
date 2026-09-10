@@ -12,7 +12,7 @@ We owned a compost tumbler once. Black barrel on a steel frame, the kind you cra
 
 What happened was that we built the mulch piles and the chicken run, and after that the tumbler stopped getting filled. Everything that used to go in it was going somewhere better. So it went to somebody who would use it.
 
-That is how composting works here. We did not design a system and then execute it. We ended up with one, and the tumbler was the piece that got left out.
+We did not design a system and then execute it. We ended up with one, and the tumbler was the piece that got left out.
 
 This is what happens now.
 
