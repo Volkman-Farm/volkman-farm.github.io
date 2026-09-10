@@ -24,7 +24,7 @@ Sunday afternoon runs downtown, because church is in Parramore and we are alread
 
 Read that back and notice what it is not. It is not a coverage map drawn by picking the densest zip codes. It is a week that a family of five already had, with deliveries laid into the gaps.
 
-That is the actual answer to why we are small. Not modesty, not a philosophy about slow food. The greens go where we were already going.
+That answers why we are small. Not modesty, not a philosophy about slow food. The greens go where we were already going.
 
 ## What the ceiling is made of
 
@@ -36,7 +36,7 @@ The second is time on a Friday morning. A route is not just driving. It is cutti
 
 ## What we would give up
 
-The honest version of the anti scale argument is that scaling is not evil, it is a trade, and here is the trade we would be making.
+The anti scale argument is not that scaling is evil. It is a trade, and this is the trade we would be making.
 
 Cut to porch time is the entire pitch. Greens cut off a rack in Sanford at six in the morning and set on a porch four towns away before lunch are a genuinely different product from greens cut in another state, then boxed, trucked, warehoused, and shelved. That gap is the only real advantage a farm this size has over a distributor, and every unit of scale eats into it. A bigger operation needs a cold chain, a schedule with buffers in it, and eventually a middleman. All three of those exist to absorb time, and time is the thing we are selling.
 
@@ -46,7 +46,7 @@ So when we say small on purpose, that is what we mean. We are not protecting a l
 
 Small has real costs and we are not going to pretend otherwise.
 
-It means the [nine neighborhoods](/delivery/) we deliver to are the nine that fit those three drives, and if you are outside them the honest answer is not yet rather than sure, we will figure something out. It means the price per ounce is what it is, because there is no volume underneath it doing the work that volume does. It means a week where the family calendar changes is a week the route has to change with it.
+It means the [nine neighborhoods](/delivery/) we deliver to are the nine that fit those three drives, and if you are outside them the answer is not yet, not sure, we will figure something out. It means the price per ounce is what it is, because there is no volume underneath it to do what volume does. It means a week where the family calendar changes is a week the route has to change with it.
 
 We would rather own those tradeoffs than the other set. A farm that grows past the family it belongs to is not the same farm anymore. It is just a smaller version of the thing we were trying to be an alternative to.
 

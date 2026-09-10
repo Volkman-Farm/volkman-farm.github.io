@@ -8,7 +8,7 @@ hero_alt: "Line drawing of a hillside cross section with a level swale ditch and
 image: /assets/blog/catching-water-where-it-falls.png
 ---
 
-Yesterday we wrote about [watching sixty thousand gallons leave](/blog/the-rain-we-get-and-the-rain-we-lose/) and doing nothing about it. Today is the other half: what we would actually build.
+Yesterday we wrote about [watching sixty thousand gallons leave](/blog/the-rain-we-get-and-the-rain-we-lose/) and doing nothing about it. Today is the other half: what we would build.
 
 Read this as a list of intentions. Not one of these things exists on our property right now. We are writing it down partly because that is what this blog is for and partly because a list you have published is harder to keep putting off.
 
@@ -36,9 +36,9 @@ A swale is a ditch dug dead level along the contour of a slope, with the dug-out
 
 We have two problems with it here.
 
-The first is that our slope is barely a slope. Level is easy to find on a hill and very hard to find on ground this flat, and a swale that is off level is not a swale, it is a canal that quietly moves your water to one end and dumps it. Cutting one properly here would mean actually surveying the contour rather than eyeballing it.
+The first is that our slope is barely a slope. Level is easy to find on a hill and very hard to find on ground this flat, and a swale that is off level is not a swale, it is a canal that quietly moves your water to one end and dumps it. Cutting one properly here would mean surveying the contour instead of eyeballing it.
 
-The second problem is the one we keep chewing on. A swale works by holding water until the ground underneath takes it. We watched our low spots hold water for two and three days after a storm, and we think that is the water table being full rather than the sand being slow. If that is right, a swale on the wrong part of this lot would not sink anything. It would just be a trench of standing water for three days, in a state with mosquitoes.
+The second problem is the one we keep chewing on. A swale works by holding water until the ground underneath takes it. We watched our low spots hold water for two and three days after a storm, and we think that is the water table being full and not the sand being slow. If that is right, a swale on the wrong part of this lot would not sink anything. It would just be a trench of standing water for three days, in a state with mosquitoes.
 
 So swales stay on the list, on the higher ground only, and behind a real contour survey. We would rather say that out loud than pretend the standard answer fits our yard.
 
@@ -46,7 +46,7 @@ So swales stay on the list, on the higher ground only, and behind a real contour
 
 The shed has a roof. The roof sheds every drop that lands on it, straight onto the ground beside the building, in a concentrated stream, in the one place where we least need concentrated water.
 
-The arithmetic on roofs is friendly. An inch of rain on a square foot of roof is about six tenths of a gallon. Measure your own roof, multiply, and the number gets silly fast. Gutters and a barrel or two would turn an afternoon storm into water we could carry to a bed on a dry week, and it is the only item on this list that stores water rather than just slowing it down.
+The arithmetic on roofs is friendly. An inch of rain on a square foot of roof is about six tenths of a gallon. Measure your own roof, multiply, and the number gets silly fast. Gutters and a barrel or two would turn an afternoon storm into water we could carry to a bed on a dry week, and it is the only item on this list that stores water instead of just slowing it down.
 
 The catch is that a barrel fills and then it is full. Storage is the expensive kind of catchment, which is why a cistern keeps coming up in our conversations about this yard and keeps not getting bought. That one and the well are still where they have been all year: plans, not projects.
 
@@ -54,8 +54,8 @@ The catch is that a barrel fills and then it is full. Storage is the expensive k
 
 One thing we are not going to do is fix the low areas.
 
-They pool because they are low and because the ground below is already saturated. That is not a defect. A spot that reliably holds water for two days after a storm is a growing condition that most of this property does not have, and the correct response is to plant something that wants it rather than to haul in fill and make the whole yard mediocre. The soil survey flagged that pocket as very poorly drained before we ever noticed it ourselves, which is a good reminder that the yard was telling us this for free.
+They pool because they are low and because the ground below is already saturated. That is not a defect. A spot that reliably holds water for two days after a storm is a growing condition that most of this property does not have, and the correct response is to plant something that wants it, not to haul in fill and make the whole yard mediocre. The soil survey flagged that pocket as very poorly drained before we ever noticed it ourselves, which is a good reminder that the yard was telling us this for free.
 
-Nothing on this page is built. The honest state of things is a shed with no gutters, some mounds with no basins, a low spot doing exactly what it has always done, and three or four inches of mulch quietly outperforming all our plans. We will report back when a shovel actually goes in the ground.
+Nothing on this page is built. What we have is a shed with no gutters, some mounds with no basins, a low spot doing exactly what it has always done, and three or four inches of mulch quietly outperforming all our plans. We will report back when a shovel goes in the ground.
 
 In the meantime the greens carry the operation, the way they have all year. [Subscribe and save ten percent](/subscribe/) if you want them showing up without having to think about it.

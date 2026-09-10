@@ -10,9 +10,9 @@ image: /assets/blog/beet-greens-the-pretty-ones.png
 
 There is a tray on our shelves that runs every single week without fail, and it is not the one most people would guess. It is beet.
 
-Beet is a standing order, and the standing order is two people. One chef on the [wholesale side](/restaurants/) takes it every week, and once a restaurant builds a plate around a green, that green stops being optional. The other is one customer on the route who wants beet and means it. That is the whole list. Two orders is enough to put a tray on the shelf every week, so beet runs whether or not anybody else asks for it, which means there is usually some to spare.
+Beet is a standing order, and the standing order is two people. One chef on the [wholesale side](/restaurants/) takes it every week, and once a restaurant builds a plate around a green, that green stops being optional. The other is one customer on the route who wants beet and means it. Two orders is enough to put a tray on the shelf every week, so beet runs whether or not anybody else asks for it, which means there is usually some to spare.
 
-Here is the funny part. It is also the slowest thing we grow, and the one most likely to fail on us.
+The funny part: it is also the slowest thing we grow, and the one most likely to fail on us.
 
 ## Fourteen days and a night in a measuring cup
 
@@ -28,11 +28,11 @@ We should say the harder thing too, because a variety spotlight that only lists 
 
 Two weeks is a long time to keep a tray damp, and that husk we soaked overnight holds water like a sponge long after the seedling has moved on. Add a Florida summer and you have handed mold a warm wet place to live and given it a fortnight to think about it. A fast crop like radish is out of the shed before the trouble starts. Beet sits there the whole time with the door open.
 
-When it turns, it is usually a fuzzy grey bloom down in the mat where the stems crowd together, and it does not stay small. Sometimes we catch it early and sometimes the tray is a write-off. That is the real cost of the pretty ones, and it is the honest reason not every microgreen grower carries beet.
+When it turns, it is usually a fuzzy grey bloom down in the mat where the stems crowd together, and it does not stay small. Sometimes we catch it early and sometimes the tray is a write-off. The pretty ones cost you that, and it is the reason not every microgreen grower carries beet.
 
-Which is why there is an amaranth tray on the shelf right now. Same chef, same problem to solve: he needs color on the plate, and beet is a fourteen-day bet we do not always win. Amaranth is the other magenta in this business, and the hope is that it gives us a second way to put that color in a clamshell on a week when the beet does not come through. It is a trial, not a product. It is not one of our ten varieties and you cannot order it. Ask us again in a couple of weeks and we will tell you honestly whether it worked, including if it did not.
+Which is why there is an amaranth tray on the shelf right now. Same chef, same problem to solve: he needs color on the plate, and beet is a fourteen-day bet we do not always win. Amaranth is the other magenta in this business, and the hope is that it gives us a second way to put that color in a clamshell on a week when the beet does not come through. It is a trial, not a product. It is not one of our ten varieties and you cannot order it. Ask us again in a couple of weeks and we will tell you whether it worked, including if it did not.
 
-## What you actually get
+## What you get
 
 Color, first. The stems come up a deep pink that does not look like it belongs on food, running up into a small tender leaf. It is the most striking thing we cut, and it is the reason a chef puts up with a green that only shows up fourteen days later. A pinch of beet on a plate does what a garnish is supposed to do and almost nothing else in our lineup can.
 
@@ -42,6 +42,6 @@ Nutritionally it carries the betalains, the pigments that make beets pink in the
 
 Use it where the pink can show, which means raw and late. A small pile on goat cheese toast with a drizzle of honey. Scattered over a grain bowl. On top of hummus or labneh with olive oil. Next to the brie on a cheese board. Anywhere you would want a color accent and a mild green underneath it.
 
-One honest caution, and we said this in the [shelf life post](/blog/how-long-do-microgreens-last/): beet is beautiful but it is not the one to leave for last. The fine stems give up before the sturdy varieties do. If a mix lands on your porch Friday, eat down from the tender end and let the [kale](/greens/kale/) wait.
+One caution, and we said this in the [shelf life post](/blog/how-long-do-microgreens-last/): beet is beautiful but it is not the one to leave for last. The fine stems give up before the sturdy varieties do. If a mix lands on your porch Friday, eat down from the tender end and let the [kale](/greens/kale/) wait.
 
 Fourteen days of patience, and it is gone off the plate in about four. That is the trade with the pretty ones. [See what beet looks like this week](/greens/beet/).

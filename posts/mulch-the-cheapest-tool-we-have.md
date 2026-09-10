@@ -10,15 +10,15 @@ image: /assets/blog/mulch-the-cheapest-tool-we-have.png
 
 Everything we have written about this yard for two months has mulch in it somewhere. The [piles that turn into beds](/blog/how-you-know-a-pile-is-finished/). The [basins we dish out and fill](/blog/catching-water-where-it-falls/) so rain sinks in over a root zone instead of running past it. The [post about building for worms instead of ants](/blog/building-for-worms/) that is really an argument for feeding the surface and letting the things underneath do the rest.
 
-We have never actually explained the material. So here is the plain version, the way you would explain it to somebody standing in their driveway looking at a bare yard.
+We have never explained the material. This is the plain version, the way you would explain it to somebody standing in their driveway looking at a bare yard.
 
 ## Where it comes from
 
 Tree crews.
 
-There is a truck working somewhere within a mile of your house most weeks, and it has a chipper on the back, and everything that goes into that chipper has to be driven somewhere and dumped, and dumping costs the crew time and often money. A homeowner who says yes to a load is doing them a favor. That is the whole transaction. It is not a trick and you are not scrounging.
+There is a truck working somewhere within a mile of your house most weeks, and it has a chipper on the back, and everything that goes into that chipper has to be driven somewhere and dumped, and dumping costs the crew time and often money. A homeowner who says yes to a load is doing them a favor. It is not a trick and you are not scrounging.
 
-That is where ours comes from and we have never bought a bag of it.
+Ours comes from exactly that, and we have never bought a bag of it.
 
 Three practical notes. First, you can ask a crew directly when you see one working your street, and you can also sign up with one of the chip drop services that matches crews with people who want the load. Second, understand what you are agreeing to. You do not get to choose the species, you do not get to choose the day, and you do not get a tidy amount. You get whatever came off whatever tree, all at once, in a pile that will look considerably bigger in your driveway than it did in your head. If that pile has to sit for a while before you move it, it will sit fine. It just gets hot in the middle and starts breaking down, which is what you wanted anyway.
 
@@ -26,11 +26,11 @@ Third, take-what-comes is really a first-load rule. Crews work the same few squa
 
 ## How deep
 
-Three to four inches. That is the number, and it is not fussy.
+Three to four inches, and it is not fussy.
 
 Thinner than that and you have decoration. Weeds come through, the sun still reaches the surface, and the first hard rain moves it around. Much thicker and you start creating a layer that sheds water instead of letting it in, which is the opposite of the job.
 
-Three or four inches does the three things you are actually paying for. It shades the surface so the ground under it stops cooking. It slows evaporation, which in a Florida August is most of the value. And it gives the fungi and the worms and everything else a dark damp interface to work at, which is where chips quietly turn into soil.
+Three or four inches does the three things you are paying for. It shades the surface so the ground under it stops cooking. It slows evaporation, which in a Florida August is most of the value. And it gives the fungi and the worms and everything else a dark damp interface to work at, which is where chips quietly turn into soil.
 
 Keep it off the trunks. Pull it back a couple of inches from the stem of anything you care about, so you have a ring of bare ground right at the base. Piled against bark it holds moisture against the one part of the tree that wants to stay dry. You have seen the volcano of mulch heaped up a trunk in a parking lot median. Do not do that.
 
@@ -44,7 +44,7 @@ So top up annually and treat the disappearing act as the receipt.
 
 ## Three ways to get it wrong
 
-**Expecting compost.** Wood chips are not compost and they are not fertilizer. They are a surface covering that becomes soil slowly. Chips laid on top will tie up a little nitrogen right at the contact layer where they are actually rotting, which is fine, because that is a few millimeters and your plant's roots are not up there. Tilling fresh chips into a bed is a different story and a bad idea.
+**Expecting compost.** Wood chips are not compost and they are not fertilizer. They are a surface covering that becomes soil slowly. Chips laid on top will tie up a little nitrogen right at the contact layer where they are rotting, which is fine, because that is a few millimeters and your plant's roots are not up there. Tilling fresh chips into a bed is a different story and a bad idea.
 
 **Being precious about the species.** People worry about what tree it came from. Unless a crew hands you a load that is nothing but freshly chipped invasive seed heads, mixed chips are mixed chips. A load with leaves and small green material in it is better than a load of clean bark, because the green stuff is the nitrogen that gets the pile working. Asking a crew you already know for something particular is a different thing from turning down a free load because you did not like the tree.
 

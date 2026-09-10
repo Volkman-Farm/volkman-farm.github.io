@@ -10,13 +10,13 @@ image: /assets/blog/shade-is-an-asset-not-a-problem.png
 
 Every seed packet says full sun and every seed packet was written somewhere else.
 
-That is not a complaint about seed packets. Six hours of sun in Ohio in June and six hours of sun here in August are not the same six hours, and the packet has no way to know which one you have. What it means by full sun is a light requirement. What we get in the afternoon is a light requirement plus a heat problem, and the two arrive on the same beam.
+None of that is a complaint about seed packets. Six hours of sun in Ohio in June and six hours of sun here in August are not the same six hours, and the packet has no way to know which one you have. What it means by full sun is a light requirement. What we get in the afternoon is a light requirement plus a heat problem, and the two arrive on the same beam.
 
 So the first thing to say about shade on this lot is that we stopped treating it as something to fix.
 
 We [wrote about watching the yard](/blog/mapping-the-yard-before-touching-it/) back in the summer and said the shade pattern turned out to have very little to do with what we assumed from the back door. That post was about learning to look. This one is the next question, which is what the looking is for.
 
-Here is what we have. Mature trees along the edges of the property and down the fence lines. More of them at the south end, over the part of the lot where the chicken run and the mulch piles and the gardens all sit. Then the buildings in the middle of the property, which throw their own shade and move it across the day the way buildings do.
+What we have: mature trees along the edges of the property and down the fence lines. More of them at the south end, over the part of the lot where the chicken run and the mulch piles and the gardens all sit. Then the buildings in the middle of the property, which throw their own shade and move it across the day the way buildings do.
 
 Three different kinds of shade, and they are not interchangeable.
 
@@ -30,10 +30,10 @@ And then there is the part where shade is genuinely a cost, because it is not a 
 
 The front three-quarter acre is the cover crop stand. That mix is rated for eight or more hours of sun and it is doing a job that needs the energy: it is out there making biomass, which is the whole point of putting it in. Shade over that ground would be a straight loss. We would be trading the thing we planted it for. So the front stays open, and if a volunteer tree ever comes up in the middle of it, that tree is in the wrong place regardless of how nice a tree it is.
 
-That is the actual skill, if there is one. Not deciding whether shade is good. Deciding where.
+The skill, if there is one, is not deciding whether shade is good. It is deciding where.
 
-What we would like to do with it is still mostly a list rather than a practice, and we will say that plainly the way we said it about [catching water](/blog/catching-water-where-it-falls/). The clearest one is the shed. It sits out in the open, it is cooled with a portable unit, and every hour of direct afternoon sun on that west wall is an hour the air conditioner has to answer for. Something eventually shading that wall would pay for itself in a way you could measure on a meter. That is a plan and not a planting, and it is the kind of plan that only works if you start it years before you need it.
+What we would like to do with it is still mostly a list and not a practice, and we will say that plainly the way we said it about [catching water](/blog/catching-water-where-it-falls/). The clearest one is the shed. It sits out in the open, it is cooled with a portable unit, and every hour of direct afternoon sun on that west wall is an hour the air conditioner has to answer for. Something eventually shading that wall would pay for itself in a way you could measure on a meter. That is a plan and not a planting, and it is the kind of plan that only works if you start it years before you need it.
 
-The rest of it is quieter. There are spots under the edge trees where nothing much is happening, and the honest reason nothing is happening there is that we have been busy with the open ground. Full sun is where the fast results are. Shade is where the patient stuff goes, and we have not been patient in that particular direction yet.
+The rest of it is quieter. There are spots under the edge trees where nothing much is happening, and the reason nothing is happening there is that we have been busy with the open ground. Full sun is where the fast results are. Shade is where the patient stuff goes, and we have not been patient in that particular direction yet.
 
 We still cut everything you order in [a shed under lights](/greens/), where the sun is not invited at all. Out on the rest of the lot we are still learning where to let it in and where to stand in its way.

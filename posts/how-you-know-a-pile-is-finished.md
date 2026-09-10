@@ -10,9 +10,9 @@ image: /assets/blog/how-you-know-a-pile-is-finished.png
 
 We have now told you twice that a mulch pile sits around for about a year and then it is a garden bed. Once [when we wrote about the chickens](/blog/the-chickens-run-the-compost/) and again [at the start of this month](/blog/august-plans-written-in-pencil/), where we said some of ours are ready and we would know which ones when we pulled the top off and looked.
 
-That is the sentence we keep skipping past. Pulled the top off and looked at what, exactly.
+We keep skipping past that sentence. Pulled the top off and looked at what, exactly.
 
-So here is the part we have not written down, which is the only part that is actually a skill.
+So the part we have not written down is the only part that is a skill.
 
 The first thing to say is that a year is not a test. It is a rough expectation and nothing more. We use it because it is roughly true here, in this heat, with this rain, on piles of this size. Somebody in a dry climate would wait longer. Somebody turning a pile every week would wait less. The calendar is a hint about when to start checking, and people treat it like an answer.
 
@@ -22,7 +22,7 @@ The top of a pile is always going to look unfinished, and that fools people cons
 
 Under it, what we are looking at is whether we can still tell what things were.
 
-That is the whole test, honestly, and everything else is a detail of it. If we pull the cap back and we can still name the leaves, still see the shape of the stems, still identify [the tray material](/greens/) that went in, the pile has more time to do. When it is finished, that stuff is gone. Not gone as in removed. Gone as in you cannot pick a piece out and say what it used to be. It has stopped being a collection of things and turned into one thing.
+Everything else is a detail of that. If we pull the cap back and we can still name the leaves, still see the shape of the stems, still identify [the tray material](/greens/) that went in, the pile has more time to do. When it is finished, that stuff is gone. Not gone as in removed. Gone as in you cannot pick a piece out and say what it used to be. It has stopped being a collection of things and turned into one thing.
 
 The rest of it is smell and feel and temperature, and all three are quick.
 
@@ -36,7 +36,7 @@ Because that is the other half of it. Sometimes you open one up and it is not cl
 
 We do not turn these on any schedule, which we have said before and which is genuinely how it works here. The piles outside the run get turned when somebody walks past with a fork in hand and enough daylight to care. The material inside the run does not get turned by us at all, because the flock handles that, and the flock is more consistent than we are. Piles that get turned a lot finish faster. Ours are on the slow track and that is a trade we made on purpose, or at least a trade we have decided to describe as on purpose.
 
-So going into the fall, some of these are ready. We are saying some because that is the honest count. We know some have put in the time and we know the way this has gone before, which is that [our oldest daughter's second bed](/blog/the-chickens-run-the-compost/) turned out to be finished when nobody was really expecting it to be. She did not build that bed. She opened it.
+So going into the fall, some of these are ready. We are saying some because that is the count we have. We know some have put in the time and we know the way this has gone before, which is that [our oldest daughter's second bed](/blog/the-chickens-run-the-compost/) turned out to be finished when nobody was really expecting it to be. She did not build that bed. She opened it.
 
 We have not gone out and done the checking yet this season. There is no urgency to it either, because a pile that is ready in August is still ready in October. The material does not go backwards.
 
