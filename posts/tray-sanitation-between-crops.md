@@ -14,17 +14,17 @@ A tray finishes its life the morning it gets cut. What comes off the rack after 
 
 Then the tray gets two things done to it, in this order.
 
-First, a garden hose. Nothing clever, just water and pressure. This is the part that does most of the work, because most of what is on a used tray is physical: soil in the corners, root hairs stuck to the bottom, the film that grows anywhere that stayed damp for two weeks. Any sanitizer you spray on top of dirt is mostly wasted on the dirt, so the hose comes first and it is not a rinse. You want the tray actually clean before anything else touches it.
+First, a garden hose. Nothing clever, just water and pressure. This is the part that does most of the work, because most of what is on a used tray is physical: soil in the corners, root hairs stuck to the bottom, the film that grows anywhere that stayed damp for two weeks. Any sanitizer you spray on top of dirt is mostly wasted on the dirt, so the hose comes first and it is not a rinse. You want the tray clean before anything else touches it.
 
 Second, we spray them with ZeroTol HC. It is a BioSafe Systems product, hydrogen peroxide and peroxyacetic acid, and it is labeled for exactly this: greenhouse surfaces and equipment, trays included. It is also OMRI listed, which matters to us for the reasons we laid out when we explained [why we are not USDA Organic certified](/blog/why-were-not-usda-organic-certified/). We are not certified, so the only thing keeping our inputs honest is which products we choose to buy, and a listed one is the easy call.
 
-## Why bother, honestly
+## Why bother
 
 Now the part most people would leave out of a post like this.
 
 We have never traced a bad tray back to a dirty one. Not once. In the whole time we have been running this shed, there is no failure we can point at and say that started with a tray we did not clean well enough.
 
-So we are doing this on the strength of an argument rather than a scar, and we would rather say so. The argument is that the failure mode here does not announce itself. A tray does not fail the way a light fails. You get a patch of something fuzzy in week two, or a stand that comes up thin on one end, and by then the tray it came from has been through your hands, your rack, and your water. There is no forensic step. You never find out which one it was, which means you also never find out that cleaning worked. The evidence for good sanitation is a long run of ordinary weeks, and that is exactly the kind of evidence that is easy to talk yourself out of.
+So we are doing this on the strength of an argument instead of a scar, and we would rather say so. The argument is that the failure mode here does not announce itself. A tray does not fail the way a light fails. You get a patch of something fuzzy in week two, or a stand that comes up thin on one end, and by then the tray it came from has been through your hands, your rack, and your water. There is no forensic step. You never find out which one it was, which means you also never find out that cleaning worked. The evidence for good sanitation is a long run of ordinary weeks, and that is exactly the kind of evidence that is easy to talk yourself out of.
 
 The other half of the argument is that it is cheap. A hose and a sprayer, on a tray we already have in our hands, in a room we are already standing in.
 

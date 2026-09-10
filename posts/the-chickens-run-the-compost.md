@@ -12,9 +12,9 @@ We owned a compost tumbler once. Black barrel on a steel frame, the kind you cra
 
 What happened was that we built the mulch piles and the chicken run, and after that the tumbler stopped getting filled. Everything that used to go in it was going somewhere better. So it went to somebody who would use it.
 
-That is the honest version of how composting works here. We did not design a system and then execute it. We ended up with one, and the tumbler was the piece that got left out.
+That is how composting works here. We did not design a system and then execute it. We ended up with one, and the tumbler was the piece that got left out.
 
-Here is what actually happens now.
+This is what happens now.
 
 Harvest morning ends with a stack of spent trays. Once the greens are cut, what is left is a dense mat of roots holding a slab of growing media together, plus the stems and odd bits that never made it into a clamshell. It is heavy, it is wet, and there is a lot of it every week. That material is the biggest waste stream [the shed](/blog/the-shed-albert-built/) produces, by a wide margin.
 

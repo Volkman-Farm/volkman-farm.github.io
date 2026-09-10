@@ -12,7 +12,7 @@ We have written a lot about how the route works and not much about the places on
 
 [Sanford](/delivery/sanford/) and [Lake Mary](/delivery/lake-mary/) come first for a reason that is not sentiment. They are the shortest clock we run.
 
-## Sanford is where we actually are
+## Sanford is where we are
 
 Sanford is not a delivery zone to us. It is the return address.
 
@@ -26,7 +26,7 @@ There is a second thing about Sanford worth saying plainly. A fair number of our
 
 ## Lake Mary is the first turn out of the driveway
 
-[Lake Mary](/delivery/lake-mary/) sits right next door, and it is the first stop rather than the second town. The Friday route runs south out of Sanford and Lake Mary catches it while the cooler bag is still cold from the shed.
+[Lake Mary](/delivery/lake-mary/) sits right next door, and it is the first stop, not the second town. The Friday route runs south out of Sanford and Lake Mary catches it while the cooler bag is still cold from the shed.
 
 We get all through it: Heathrow, the neighborhoods along Markham Woods Road, Greenwood Lakes, Timacuan, and the streets between Lake Mary Boulevard and Rinehart. Different neighborhoods with pretty different characters, all inside the same fifteen minutes of driving, which is exactly the kind of density a small route wants.
 
@@ -34,9 +34,9 @@ Lake Mary is also where the standing-order habit took hold first. Something abou
 
 ## Why these two are the easy ones
 
-We have said before that [the routes are a family calendar](/blog/do-you-deliver-to-my-street/) rather than a sales territory. Monday and Wednesday evenings exist because of taekwondo and rock climbing. Sunday afternoon exists because church is in Parramore. Friday morning is the exception. Nothing else is pulling us south on a Friday. That route exists purely because it is home, and it is the only one where the driving is the point instead of a byproduct.
+We have said before that [the routes are a family calendar](/blog/do-you-deliver-to-my-street/) and not a sales territory. Monday and Wednesday evenings exist because of taekwondo and rock climbing. Sunday afternoon exists because church is in Parramore. Friday morning is the exception. Nothing else is pulling us south on a Friday. That route exists purely because it is home, and it is the only one where the driving is the point instead of a byproduct.
 
-That is why the Friday clock is so short. Everywhere else on the route map, greens ride a while before the first porch. Here they barely ride at all. We wrote up [what a harvest morning looks like](/blog/harvest-morning-timeline/) and the whole design of it is to keep that first hour short. In Sanford and Lake Mary the first hour is not a design problem. It is just geography doing us a favor.
+The Friday clock is short for that reason. Everywhere else on the route map, greens ride a while before the first porch. Here they barely ride at all. We wrote up [what a harvest morning looks like](/blog/harvest-morning-timeline/) and the whole design of it is to keep that first hour short. In Sanford and Lake Mary the first hour is not a design problem. It is just geography doing us a favor.
 
 If you are in either town and we have not met yet, [start an order](/order/) and pick your Friday. We are probably closer than you think.
 

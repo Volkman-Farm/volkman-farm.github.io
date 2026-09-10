@@ -1,6 +1,6 @@
 ---
 title: Harvest morning timeline
-description: "What cut this morning actually means at Volkman Farm: why we harvest at first light, how the cut works, and why nothing touches the greens after the blade."
+description: "What cut this morning means at Volkman Farm: why we harvest at first light, how the cut works, and why nothing touches the greens after the blade."
 date: 2026-07-24T09:00:00-04:00
 pillar: Growing notes
 hero: /assets/blog/harvest-morning-timeline.svg
@@ -8,7 +8,7 @@ hero_alt: "Line drawing of a blade cutting across a dense tray of microgreens ju
 image: /assets/blog/harvest-morning-timeline.png
 ---
 
-"Cut this morning." We say it on the porch and we mean it literally. It is the one line that separates our greens from a plastic tub that has been sitting at the store, and it is worth slowing down on, because a fair amount of care is packed into three words. Here is what a harvest morning actually looks like, and why the timing is not a slogan. It is the whole product.
+"Cut this morning." We say it on the porch and we mean it literally. It is the one line that separates our greens from a plastic tub that has been sitting at the store, and it is worth slowing down on, because a fair amount of care is packed into three words. This is what a harvest morning looks like, and why the timing is not a slogan. It is the whole product.
 
 We already covered [why the clock on a green starts at the cut](/blog/how-long-do-microgreens-last/), not the sale, so we will not repeat it. The short version: a microgreen is at its best the hour it leaves the tray, and every hour after that is downhill. So the whole morning is built to keep that first hour short.
 
@@ -28,6 +28,6 @@ The order of the trays matters too. The tender ones, [cilantro](/greens/cilantro
 
 ## Everything after is just protecting it
 
-From there it is the part we have written about before: pack the bag, text the route, and drive the [Seminole County loop](/blog/why-we-deliver-to-porches/) nearest to farthest so nothing rides warm. But the piece that makes "cut this morning" honest happens before any of that, in a shed at first light with a blade and an order sheet. Everything downstream is just protecting the head start.
+From there it is the part we have written about before: pack the bag, text the route, and drive the [Seminole County loop](/blog/why-we-deliver-to-porches/) nearest to farthest so nothing rides warm. But the piece that makes "cut this morning" true happens before any of that, in a shed at first light with a blade and an order sheet. Everything downstream is just protecting the head start.
 
-That is what those three words buy you: greens that are actually as young as they look, with the whole week still ahead of them in your kitchen instead of behind them in a truck. If you want that on your porch on a standing basis, [subscribe and save](/subscribe/) puts the same order on the same morning every week.
+Those three words buy you greens that are as young as they look, with the whole week still ahead of them in your kitchen instead of behind them in a truck. If you want that on your porch on a standing basis, [subscribe and save](/subscribe/) puts the same order on the same morning every week.

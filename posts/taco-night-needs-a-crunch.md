@@ -26,13 +26,13 @@ Use more than you think. A pinch is a garnish, and a garnish is not what a taco 
 
 The street taco formula is onion and cilantro and nothing else, and it has been right for a long time. [Cilantro](/greens/cilantro/) micros slot straight into that spot. They are not a watered down version of the herb, so do not go in expecting subtle. The flavor is strong and green and citrusy, more herb and less soap, and the stems are tender enough that there is nothing to chop and no woody bits to pick out.
 
-Here is the part worth saying out loud. Albert was one of the soap people. Cilantro from the store tasted like dish rag to him for years, and he picked it off things, and taco night at our house ran without it. Then we started growing it, and the micro version did not do that at all. It tasted like an actual herb instead, strong and bright, and somewhere in there he stopped picking it off and started asking for it. He is a cilantro guy now, which nobody who knew him ten years ago would believe.
+The part worth saying out loud: Albert was one of the soap people. Cilantro from the store tasted like dish rag to him for years, and he picked it off things, and taco night at our house ran without it. Then we started growing it, and the micro version did not do that at all. It tasted like an actual herb instead, strong and bright, and somewhere in there he stopped picking it off and started asking for it. He is a cilantro guy now, which nobody who knew him ten years ago would believe.
 
-We will not promise that happens for everyone, because plenty of people taste soap in the herb and always will. But if you wrote cilantro off after a bad bunch from the grocery store, the young version is a genuinely different experience, and it is worth one honest try.
+We will not promise that happens for everyone, because plenty of people taste soap in the herb and always will. But if you wrote cilantro off after a bad bunch from the grocery store, the young version is a genuinely different experience, and it is worth one try.
 
 ## Put the bowl on the table
 
-Here is the only technique that matters, and it is the same one we gave for [eggs](/blog/microgreens-on-eggs-three-ways/). The greens go on last, and they go on raw. Steam off a hot tortilla will wilt them flat in about a minute, so building the tacos in the kitchen and carrying the plates out is how you lose the crunch you paid for.
+The only technique that matters is the same one we gave for [eggs](/blog/microgreens-on-eggs-three-ways/). The greens go on last, and they go on raw. Steam off a hot tortilla will wilt them flat in about a minute, so building the tacos in the kitchen and carrying the plates out is how you lose the crunch you paid for.
 
 So we set the greens out in a bowl with the salsa and the lime and let everyone top their own at the table. It also means the kids can see exactly what is going on their food, which turns out to matter more than any argument we could make about it.
 

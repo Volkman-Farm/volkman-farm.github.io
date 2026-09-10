@@ -14,7 +14,7 @@ Cut a tray and the heat is at full volume right then. It is sharp and it goes up
 
 Nothing has gone wrong when that happens. The heat just does not keep.
 
-That single fact runs everything about how we handle this crop. It is cut the morning it goes out, and it goes near the front of the eating order rather than the back. With most varieties the argument for freshness is about texture and shelf life. With mustard it is about the flavor you actually paid for.
+That single fact runs everything about how we handle this crop. It is cut the morning it goes out, and it goes near the front of the eating order instead of the back. With most varieties the argument for freshness is about texture and shelf life. With mustard it is about the flavor you paid for.
 
 ## Where the heat comes from
 
@@ -22,7 +22,7 @@ Mustard carries glucosinolates, mainly sinigrin. Cutting and chewing breaks the 
 
 Those compounds are volatile, which is the plain reason the heat fades. It is leaving.
 
-We wrote up this family of compounds before when [broccoli made the sulforaphane rounds](/blog/broccoli-micros-do-the-heavy-lifting/), and the honest split is worth stating. In broccoli, the glucosinolate story is the one people bring up for health reasons and we hedge it carefully. In mustard, it is the flavor. It is the whole point of the plant. Nobody eats mustard micros by accident.
+We wrote up this family of compounds before when [broccoli made the sulforaphane rounds](/blog/broccoli-micros-do-the-heavy-lifting/), and the split is worth stating. In broccoli, the glucosinolate story is the one people bring up for health reasons and we hedge it carefully. In mustard, it is the flavor. It is the whole point of the plant. Nobody eats mustard micros by accident.
 
 Nutritionally it is high in vitamin K and folate and carries the glucosinolates above. We are going to leave that sitting there, same as always.
 
@@ -30,7 +30,7 @@ Nutritionally it is high in vitamin K and folate and carries the glucosinolates 
 
 Both are peppery, so they get lumped together, and then people use them at the same rate and regret it.
 
-[Arugula](/blog/arugula-before-it-gets-bitter/) is peppery in a nutty, rounded way that lets it work as a salad body. You can eat a whole plate of it. Mustard cannot do that job. It is louder, it is more direct, and a full bowl of it is a dare rather than a dinner.
+[Arugula](/blog/arugula-before-it-gets-bitter/) is peppery in a nutty, rounded way that lets it work as a salad body. You can eat a whole plate of it. Mustard cannot do that job. It is louder, it is more direct, and a full bowl of it is a dare, not a dinner.
 
 So use a smaller hand. Mustard is a condiment that happens to be a plant. Think of it the way you think about the yellow squeeze bottle: nobody drinks that either.
 
