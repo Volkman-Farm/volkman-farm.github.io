@@ -14,7 +14,7 @@ We have 2.17 acres in Sanford. The decimals are the county's, not ours. They als
 
 For a while that made us think the zone chapter only half-applied to us. Then it clicked, and the click is the whole post: zones were never about distance. They are about attention. Zone 1 is not "near the house." It is "the stuff you tend every day," and it sits near the house because walking gets expensive when you do it twenty times a day. The rings are a way of saying: put things where your feet already go, and match each thing's neediness to how often you naturally pass it. On forty acres you measure that in walking. On ours you measure it mostly in habit, though two acres is enough that the far end is a real walk, and we notice it every time it rains.
 
-## Our rings, honestly drawn
+## Our rings
 
 Zone 0 is the kitchen. That part survives at any scale. It is where the greens land, where the scrap container fills, where the day gets decided.
 
@@ -26,6 +26,6 @@ The food forest mounds sit a ring further out, in neediness as much as in steps.
 
 And zone 5. The books say every design should keep a wild place you do not manage at all, where you go to learn instead of work. This is where the acreage finally earns its keep. As we said in [the mapping post](/blog/mapping-the-yard-before-touching-it/), most of this land is still unbuilt, and we have stopped feeling behind about that and started calling it what it is: our zone 5, for now. It is the ground we watch instead of touch. When a piece of it finally teaches us enough, it graduates inward and becomes a bed or a mound, and the wild edge redraws itself. Some of it we expect to stay wild for good, and that is a feature of the design, not a leftover.
 
-So that is our version. Five rings of attention, not five rings of distance, drawn on 2.17 acres and redrawn often. The book diagram survives the rescaling fine, as long as you keep the question that was always underneath it: how often will my feet actually pass this?
+So that is our version. Five rings of attention, not five rings of distance, drawn on 2.17 acres and redrawn often. The book diagram survives the rescaling fine, as long as you keep the question that was always underneath it: how often will my feet pass this?
 
 The innermost ring produces every week no matter what the outer rings are doing. If you want a cut of it on your porch, [subscribe](/subscribe/) and the standing order saves you ten percent.

@@ -34,14 +34,14 @@ Parramore is worth more than a passing mention if we are going to name it as the
 
 The rest of downtown is a different animal from every other stop we have. High rises around Lake Eola, Thornton Park, Mills 50, North Quarter, condo buildings where the porch is a hallway and the delivery instructions are a floor number. Everything about a downtown drop is tighter than a suburban one.
 
-## What the two runs are actually designed around
+## What the two runs are designed around
 
 Different constraints, different answers.
 
 **The north Orlando run is designed around dinner.** We cut in the afternoon and drop by dinner, which was the entire point of putting that route in the evening, and it means College Park at the end of the run still gets greens that were in a tray that same day. Being last on a route costs something, and [we have been straight about what](/blog/meet-winter-springs-and-oviedo/). Here the cost is small, because Casselberry to Maitland to Winter Park to College Park is a short tight line down a corridor we would be driving anyway. Last on this route is a matter of minutes, not hours.
 
-**The downtown run is designed around the week ahead.** Sunday is not a dinner delivery, it is a setup delivery. Greens cut Sunday morning land Sunday afternoon and then sit in a fridge waiting for a Tuesday that has not happened yet. That changes what we would tell you to order. On a Friday route the tender things are fine, because Friday night is right there. On a Sunday drop the sturdier varieties earn their place, [kale](/greens/kale/) and broccoli among them, and the delicate ones want to be eaten early in the week rather than saved.
+**The downtown run is designed around the week ahead.** Sunday is not a dinner delivery, it is a setup delivery. Greens cut Sunday morning land Sunday afternoon and then sit in a fridge waiting for a Tuesday that has not happened yet. That changes what we would tell you to order. On a Friday route the tender things are fine, because Friday night is right there. On a Sunday drop the sturdier varieties earn their place, [kale](/greens/kale/) and broccoli among them, and the delicate ones want to be eaten early in the week instead of saved.
 
 The porch part is the same everywhere and the [clock still starts when the clamshell lands](/blog/when-the-bag-lands-on-your-porch/). Downtown adds one wrinkle, which is that a condo lobby or a shaded breezeway is often better than an actual doorstep, and if that is your building, tell us and we will use it every time.
 
-That is all nine neighborhoods now, across four posts. [The full map, with the day each one runs, is here](/delivery/).
+All nine neighborhoods now, across four posts. [The full map, with the day each one runs, is here](/delivery/).

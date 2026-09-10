@@ -10,7 +10,7 @@ image: /assets/blog/did-the-amaranth-work.png
 
 A week and a half ago we told you to ask us in a month. It has not been a month, and we have enough to report, so we are not going to sit on it.
 
-The setup, quickly. [Beet](/greens/beet/) is the most striking thing we grow and also the crop we lose most often to mold. A [wholesale kitchen](/restaurants/) we deliver to needed a reliable way to get magenta onto a plate, so he moved his standing order off beet and onto amaranth as a hedge. When we wrote about that account we said we would come back with an honest answer on three specific things, including if the answer was bad. Those three: did it hold its color through a Florida summer, did it dodge the mold problem beet has, and is he still ordering it.
+The setup, quickly. [Beet](/greens/beet/) is the most striking thing we grow and also the crop we lose most often to mold. A [wholesale kitchen](/restaurants/) we deliver to needed a reliable way to get magenta onto a plate, so he moved his standing order off beet and onto amaranth as a hedge. When we wrote about that account we said we would come back with an answer on three specific things, including if the answer was bad. Those three: did it hold its color through a Florida summer, did it dodge the mold problem beet has, and is he still ordering it.
 
 Taking them in order.
 
@@ -22,11 +22,11 @@ Taking them in order.
 
 ## The part we do not have
 
-Here is where we have to be straight with you, because two of those three answers are things we watched ourselves and the third is not really a verdict at all.
+We have to be straight with you here, because two of those three answers are things we watched ourselves and the third is not really a verdict at all.
 
 We have not gotten a real critique out of that kitchen. Nobody has sat us down and told us how it plates, how it holds an hour into service, whether it does the job beet was doing or just a similar-looking job. What we have is a repeat order and no complaints.
 
-A repeat order is the most honest signal a grower gets. It is also the cheapest one to over-read. A busy chef who is not calling you is usually a chef with no problem, and sometimes a chef who has not gotten around to it. We would rather tell you we are reading silence than pretend we are reading a review.
+A repeat order is the clearest signal a grower gets. It is also the cheapest one to over-read. A busy chef who is not calling you is usually a chef with no problem, and sometimes a chef who has not gotten around to it. We would rather tell you we are reading silence than pretend we are reading a review.
 
 So: did the amaranth work? On our side of the fence, yes, and clearly. It grows clean, it holds its color, and it is still on the order. On his side we have a green light and no detail behind it. That is a real answer, just not the whole one we booked in print, and we will take the rest of it when we get it.
 

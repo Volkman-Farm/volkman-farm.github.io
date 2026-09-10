@@ -1,6 +1,6 @@
 ---
 title: Mapping the yard before touching it
-description: Before the mounds and the shed pad went in, we spent a year just watching our Sanford yard. Here is what observation actually looks like, and why we still do it.
+description: Before the mounds and the shed pad went in, we spent a year just watching our Sanford yard. What observation looks like, and why we still do it.
 date: 2026-07-15T09:00:00-04:00
 pillar: Homestead journal
 hero: /assets/blog/mapping-the-yard-before-touching-it.svg
@@ -14,7 +14,7 @@ Everybody who buys a house with a yard has the same first instinct. Go get a sho
 
 So we watched. Not in a formal way. No clipboard, no grid, no app. Just a year of paying attention to a place we were already standing in every day.
 
-## What watching actually means
+## What watching means
 
 Mostly it means noticing water. Central Florida does not rain politely. It rains like somebody turned a bucket over, and then it stops, and the yard spends the next while deciding what to do with all of it. That is the good part. A storm is a free survey. Go out during one, or right after, and the ground shows you exactly where water runs, where it sits, and where it never arrives at all. We have places that hold water after a storm and places that do not, and we did not have to guess at any of it. We just had to be outside at the right time, repeatedly, until the pattern stopped being a coincidence and started being a fact.
 
@@ -26,11 +26,11 @@ Then there is the part you cannot see at all. The water table sits high here. We
 
 A year of it is why the mulch piles went where they went, and why the [food forest mounds](/blog/permaculture-without-the-jargon/) are where they are now instead of somewhere we would be regretting. It is why the shed sits on a raised pad. None of those are guesses that happened to work. They are the cheapest kind of correct: the kind you get by not committing until you know something.
 
-And that is the real argument for it, honestly. Observation is not a virtue. It is not patience for its own sake, and we are not naturally patient people. It is just that moving a tree is miserable and watching a yard is free. A bed placed by guesswork gets dug up and moved in two years. A bed placed by a year of watching gets to stay. You are trading a season of doing nothing for not having to redo it later, and that trade is lopsided in your favor every single time.
+And that is the argument for it. Observation is not a virtue. It is not patience for its own sake, and we are not naturally patient people. It is just that moving a tree is miserable and watching a yard is free. A bed placed by guesswork gets dug up and moved in two years. A bed placed by a year of watching gets to stay. You are trading a season of doing nothing for not having to redo it later, and that trade is lopsided in your favor every single time.
 
 Our first post said we were still mapping shade. We are, still. That was not a phase we finished.
 
-Because here is the thing nobody mentions: the map is not done when you start planting. Most of this yard is still unbuilt. The beds we want are not there yet, the rain still leaves in ways we have not caught, and we have a whole list of things we would like to try that are not far enough along to write about honestly. All of that is still in the watching stage. The mounds got their year. The rest of the yard is getting its year right now, while we are busy looking at the parts that are already working.
+Because the thing nobody mentions is that the map is not done when you start planting. Most of this yard is still unbuilt. The beds we want are not there yet, the rain still leaves in ways we have not caught, and we have a whole list of things we would like to try that are not far enough along to write about yet. All of that is still in the watching stage. The mounds got their year. The rest of the yard is getting its year right now, while we are busy looking at the parts that are already working.
 
 Which means the answer to "when do you stop observing" is that you do not. You just stop observing the part you finally understood, and start on the next part.
 

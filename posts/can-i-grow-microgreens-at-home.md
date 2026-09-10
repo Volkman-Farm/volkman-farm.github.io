@@ -1,6 +1,6 @@
 ---
 title: Can I grow microgreens at home?
-description: "Yes, you can grow microgreens at home. Here is the honest starter version from a Sanford farm: what to buy, the ten day method, and what usually goes wrong."
+description: "Yes, you can grow microgreens at home. The starter version from a Sanford farm: what to buy, the ten day method, and what usually goes wrong."
 date: 2026-08-08T09:00:00-04:00
 pillar: Reader questions
 hero: /assets/blog/can-i-grow-microgreens-at-home.svg
@@ -10,13 +10,13 @@ image: /assets/blog/can-i-grow-microgreens-at-home.png
 
 Yes. We grow these for a living and we still say yes.
 
-A tray of microgreens will go from a bag of seed to something you eat in about ten days, on a windowsill, in a house with no yard. That is a real thing to be able to do, and we are not going to talk anybody out of it. So here is the generous version of the answer: the setup we would actually tell a neighbor to buy, the method compressed, and the honest part at the end about where home growing usually stops.
+A tray of microgreens will go from a bag of seed to something you eat in about ten days, on a windowsill, in a house with no yard. That is a real thing to be able to do, and we are not going to talk anybody out of it. This is the generous version of the answer: the setup we would tell a neighbor to buy, the method compressed, and the part at the end about where home growing usually stops.
 
 ## What you need, and what you can skip
 
 Two shallow trays, the standard ten by twenty inch size. One with drain holes, one without. The solid one is a reservoir that the other sits inside, and that is how you will water once the crop is up.
 
-A few cups of potting soil per tray. We use about six cups of Fox Farm Happy Frog, and we use it because it is a clean organic soil. That is the whole reason. The plant spends its entire short life in that inch of mix and you eat what comes out of it, so it is not the place to save three dollars. At home you are making the same decision at a smaller scale. Buy an organic mix, read the bag, and skip anything heavy or full of big bark chunks.
+A few cups of potting soil per tray. We use about six cups of Fox Farm Happy Frog, and we use it because it is a clean organic soil. The plant spends its entire short life in that inch of mix and you eat what comes out of it, so it is not the place to save three dollars. At home you are making the same decision at a smaller scale. Buy an organic mix, read the bag, and skip anything heavy or full of big bark chunks.
 
 Seed is the one place we would tell you to spend. Buy seed sold for microgreens, by the pound or the half pound, from somebody who sells it that way. Ours comes from [True Leaf Market](https://www.trueleafmarket.com/). A garden center rack packet will germinate fine, but it is priced for four feet of row, and microgreens go down far thicker than a garden. You will run out halfway across your first tray and pay dearly for the privilege.
 
