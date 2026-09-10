@@ -34,7 +34,7 @@ The second loop is stranger and better. Scraps the chickens cannot eat go into a
 
 We did not plant into bare Florida sand, because bare Florida sand eats garden plans for breakfast. Instead we piled mulch and let it sit. For a year those piles did the quiet work: breaking down, holding water, turning themselves into soil the sand never offered.
 
-Into those mounds we have planted the first residents of what we hope becomes a food forest: a lemon tree, two mango trees, two blueberry bushes, a banana, a pineapple, sweet potatoes, Seminole pumpkin, okra, butterfly peas, sunflowers, basil, and shampoo ginger. Some of that list is for the table, some is for the soil, some is for the pollinators, and some is there to teach us what this yard will actually grow.
+Into those mounds we have planted the first residents of what we hope becomes a food forest: a lemon tree, two mango trees, two blueberry bushes, a banana, a pineapple, sweet potatoes, Seminole pumpkin, okra, butterfly peas, sunflowers, basil, and shampoo ginger. Some of that list is for the table, some is for the soil, some is for the pollinators, and some is there to teach us what this yard will grow.
 
 The food forest also has a manager, and it is neither of the parents. Our oldest daughter runs it: what goes in, where it goes, what needs water and what needs leaving alone. The kids do more than help around here. Parts of this yard are theirs.
 
@@ -46,10 +46,10 @@ Most gardening advice assumes a place with seasons and soil. Central Florida has
 
 So the permaculture we practice has a Florida accent. Mulch first, plant second. Summer is for cover, compost, and patience. Sand is not a problem to fix in one weekend; it is a soil to build over years, one layer at a time.
 
-## The honest list
+## Running now, and still ahead
 
 What is running right now: the chicken loops, the mulch mounds and their first plantings, and soil that gets a little darker every season. What is still ahead, and will show up here as each one becomes real: catching rain where it falls, and summer cover crops for the beds we have not built yet.
 
-That is permaculture without the seminar. No certificate required, no jargon, one sentence doing all the work.
+Permaculture without the seminar looks like that. No certificate required, no jargon, one sentence doing all the work.
 
 The microgreens pay the bills while the food forest grows up. If you want to taste the working end of the system, [start an order](/order/) and we will hand you the freshest thing you eat all week.

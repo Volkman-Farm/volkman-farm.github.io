@@ -30,7 +30,7 @@ One rule carries over from the [jar salad post](/blog/summer-salads-that-dont-wi
 
 Sturdiness here is structural, not about flavor. Some of our greens are mostly stem and some are almost entirely leaf, and only the first group belongs in a bag that is going to get slung around.
 
-[Pea](/greens/pea/) is the sturdiest thing we grow and also the one kids actually like, sweet enough that ours graze it out of the clamshell before it reaches a plate. [Kale](/greens/kale/) and [broccoli](/greens/broccoli/) both hold their shape through a morning, and broccoli is the closest thing we have to undetectable, mild and faintly nutty with none of the sulfur that gets full-grown broccoli pushed around a plate. [Kohlrabi](/greens/kohlrabi/) gives you crunch without asking anyone to commit to a flavor.
+[Pea](/greens/pea/) is the sturdiest thing we grow and also the one kids like, sweet enough that ours graze it out of the clamshell before it reaches a plate. [Kale](/greens/kale/) and [broccoli](/greens/broccoli/) both hold their shape through a morning, and broccoli is the closest thing we have to undetectable, mild and faintly nutty with none of the sulfur that gets full-grown broccoli pushed around a plate. [Kohlrabi](/greens/kohlrabi/) gives you crunch without asking anyone to commit to a flavor.
 
 Beet, cilantro, mustard, and arugula are the ones to leave out of this. They are wonderful and they are tender, and a tender leaf in a backpack in August is not a fair fight. Those are dinner greens.
 
@@ -38,10 +38,10 @@ And do not chop any of it. They are already the size they are meant to be, and c
 
 ## The two minutes in the morning
 
-Our label says wash before using, so wash the handful going in the wrap and leave the rest of the clamshell dry and closed in the fridge. Then actually dry what you washed, in a spinner or pressed between towels. Water clinging to a leaf will wilt it over five hours all by itself, with no help from a vinaigrette.
+Our label says wash before using, so wash the handful going in the wrap and leave the rest of the clamshell dry and closed in the fridge. Then dry what you washed, in a spinner or pressed between towels. Water clinging to a leaf will wilt it over five hours all by itself, with no help from a vinaigrette.
 
 Then keep the thing cold. An ice pack is doing more for that lunch than any of the packing technique is, especially in a Florida August where a backpack sitting against a wall is closer to an oven than a refrigerator.
 
-We will be honest about what this is. Rolling greens into a wrap so they get eaten without discussion is a workaround, and we said something similar when we wrote up [hiding broccoli in a smoothie](/blog/the-smoothie-you-wont-taste/): it buys you a good lunch, not a settled argument. The bowl still goes on the table at dinner. But a school day is not the place to have the argument, and a wrap that comes home empty is a good enough outcome for a school morning.
+We should say what this is. Rolling greens into a wrap so they get eaten without discussion is a workaround, and we said something similar when we wrote up [hiding broccoli in a smoothie](/blog/the-smoothie-you-wont-taste/): it buys you a good lunch, not a settled argument. The bowl still goes on the table at dinner. But a school day is not the place to have the argument, and a wrap that comes home empty is a good enough outcome for a school morning.
 
 [Order for this week's route](/order/) and roll one up.

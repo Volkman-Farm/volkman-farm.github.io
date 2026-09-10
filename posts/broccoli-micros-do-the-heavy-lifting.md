@@ -1,6 +1,6 @@
 ---
 title: Broccoli micros do the heavy lifting
-description: "Broccoli microgreens taste like almost nothing, grow in eight to ten days, and carry the compound everybody quotes. The workhorse tray on our shelves, honestly explained."
+description: "Broccoli microgreens taste like almost nothing, grow in eight to ten days, and carry the compound everybody quotes. The workhorse tray on our shelves, explained plainly."
 date: 2026-07-26T09:00:00-04:00
 pillar: Variety spotlight
 hero: /assets/blog/broccoli-micros-do-the-heavy-lifting.svg
@@ -14,7 +14,7 @@ It is also the tray we would keep if we could only keep one.
 
 ## The flavor is the feature
 
-Here is the honest description: mild, faintly nutty, a little grassy at the end. None of the sulfur and none of the bitterness that makes kids push full-grown broccoli around a plate. We have handed people a pinch blind and watched them fail to name it. That sounds like a knock on a food. It is the opposite.
+The description: mild, faintly nutty, a little grassy at the end. None of the sulfur and none of the bitterness that makes kids push full-grown broccoli around a plate. We have handed people a pinch blind and watched them fail to name it. That sounds like a knock on a food. It is the opposite.
 
 Everything else in our lineup has an opinion. Radish comes in hot. Mustard has a horseradish kick. [Cilantro](/greens/cilantro/) is unmistakably itself and always will be. Those are wonderful when the dish wants them and a problem when it does not. Broccoli goes anywhere. It disappears into scrambled eggs, and we said as much [when we wrote about eggs](/blog/microgreens-on-eggs-three-ways/). It disappears into guacamole. It disappears into a smoothie completely, which is how a fair number of our customers get greens into a kid who has firm opinions about greens.
 
@@ -32,9 +32,9 @@ This is the variety with a reputation, so let us handle it plainly.
 
 Broccoli microgreens carry sulforaphane, or more precisely they carry glucoraphanin, which becomes sulforaphane when you chew the leaf and break the cell walls. The number that gets quoted is up to forty times the amount in a full-grown head, ounce for ounce. That figure comes out of published lab work on young broccoli seedlings, not out of our shed. We have no way to measure it on a kitchen counter and we are not going to pretend otherwise. What we can say is that the research is real, sulforaphane is one of the most-studied compounds in nutrition science, and the concentration is highest young. Broccoli also is high in vitamin C, vitamin K, and chlorophyll.
 
-That is where we stop. We are not going to tell you what it does for you, because that is not our lane and anyone who does that in a sales pitch should lose your trust. It is a vegetable. It is a very good one. Eat it because it goes on everything.
+We stop there. We are not going to tell you what it does for you, because that is not our lane and anyone who does that in a sales pitch should lose your trust. It is a vegetable. It is a very good one. Eat it because it goes on everything.
 
-## How it actually gets used
+## How it gets used
 
 Raw and late is the rule, same as most of what we grow, but broccoli bends further than the tender varieties. A handful stirred into eggs at the end holds up fine. Scattered on soup right as the bowl goes down, fine. Pressed into avocado toast, mixed into hummus, folded into guacamole, blended into a smoothie where nobody will ever find it.
 

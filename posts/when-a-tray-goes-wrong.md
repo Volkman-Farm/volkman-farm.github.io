@@ -16,15 +16,15 @@ This is the other half, the part that only matters if growing is your job. Somet
 
 This is the common one and it is undramatic. Germination is not even across the tray, so you end up with a stand that has gaps in it. Nothing is sick. There is just less of it than there should be.
 
-Sometimes you can point at a reason. Seed that scattered unevenly, a corner that dried out, a spot the water did not reach the same way. Often you cannot, and the honest answer is that a tray holds more seeds than anybody is going to count and they are not all going to behave identically.
+Sometimes you can point at a reason. Seed that scattered unevenly, a corner that dried out, a spot the water did not reach the same way. Often you cannot, and the answer is that a tray holds more seeds than anybody is going to count and they are not all going to behave identically.
 
-Here is what we do about it: nothing.
+What we do about it: nothing.
 
 We do not restart a thin tray, because it is not sick and the two weeks are already spent. We do not top it up with a second sowing, because you would be harvesting two different ages out of one tray. And we do not stretch it by cutting lower into the stems to make up the weight.
 
 What happens instead is that a thin tray just means less in the clamshell. Not less than you paid for. The clamshell gets filled the way it always does, and the shortfall comes out of how many clamshells that tray fills. The customer never sees a thin tray. The shed absorbs it as yield, which is exactly where a cosmetic problem should land.
 
-That is the whole reason we are careful about promising volume before a crop is cut.
+We are careful about promising volume before a crop is cut for exactly that reason.
 
 ## The tray that molds
 
