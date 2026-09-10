@@ -10,9 +10,9 @@ image: /assets/blog/guilds-plants-that-work-in-teams.png
 
 Lemon. 2 mangoes. 2 blueberries. A banana. Pineapple. Sweet potatoes, Seminole pumpkin, okra, butterfly peas, sunflower, basil, shampoo ginger.
 
-That's what went into our food forest mounds. It's a grocery list, not a design.
+All of that went into our food forest mounds. It's a grocery list, not a design.
 
-Guild is one of those permaculture words that sounds like it needs a certificate. It doesn't. A guild is a group of plants put close together because between them they cover more jobs than any one of them covers alone. The version most people have heard is companion planting, basil next to tomatoes, marigolds at the end of the row. That's usually a two plant claim about pests or flavor, and a lot of it is folklore nobody's tested. A guild asks a bigger question. Not which two plants like each other, but what this patch of ground needs done, and which plants you'd actually want to eat that'll do it.
+Guild is one of those permaculture words that sounds like it needs a certificate. It doesn't. A guild is a group of plants put close together because between them they cover more jobs than any one of them covers alone. The version most people have heard is companion planting, basil next to tomatoes, marigolds at the end of the row. That's usually a two plant claim about pests or flavor, and a lot of it is folklore nobody's tested. A guild asks a bigger question. Not which two plants like each other, but what this patch of ground needs done, and which plants you'd want to eat that'll do it.
 
 Roughly 7 jobs, and people order them differently.
 

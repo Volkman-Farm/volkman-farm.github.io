@@ -16,7 +16,7 @@ Every one of those is a brassica. That is not a coincidence and it is not about 
 
 ## A mix is a timing decision
 
-Here is the thing nobody tells you about mixed trays: you cannot mix whatever you like.
+The thing nobody tells you about mixed trays: you cannot mix whatever you like.
 
 One tray gets one blackout period, one light schedule, one watering routine, and one cut date. So every seed in it has to be ready on the same morning. Broccoli runs eight to ten days. Kale is eight to twelve. Kohlrabi is nine to eleven. Arugula is around eight. Put those together and they all land inside the same window, which is why this particular set of five is a mix and not a mess.
 
@@ -28,7 +28,7 @@ So the mix is not five flavors somebody thought would be nice together. It is fi
 
 Mild, with edges.
 
-Broccoli and cabbage are the quiet middle of it, kale brings the sweetness, kohlrabi brings a stem with real crunch in it, and arugula is the one that shows up with pepper and reminds you the whole family is related to mustard. Cut together, it reads as a fresh green salad rather than as any one of those. It is mostly green with purple and red running through the stems, and it is the thing we would hand somebody who has never bought microgreens and does not want to make five decisions first.
+Broccoli and cabbage are the quiet middle of it, kale brings the sweetness, kohlrabi brings a stem with real crunch in it, and arugula is the one that shows up with pepper and reminds you the whole family is related to mustard. Cut together, it reads as a fresh green salad instead of as any one of those. It is mostly green with purple and red running through the stems, and it is the thing we would hand somebody who has never bought microgreens and does not want to make five decisions first.
 
 It is also, right now, the only place kohlrabi is on the shelf. We are not running kohlrabi as its own tray this month, the same way radish has been out of rotation since early August. Varieties come and go on the rack, and a mix quietly smooths that out.
 

@@ -1,6 +1,6 @@
 ---
 title: Summer salads that don't wilt by noon
-description: "A lunch salad built at seven and eaten at noon does not have to be soup. What actually causes wilt, which microgreens hold up, and the order things go in the jar."
+description: "A lunch salad built at seven and eaten at noon does not have to be soup. What causes wilt, which microgreens hold up, and the order things go in the jar."
 date: 2026-08-03T09:00:00-04:00
 pillar: In the kitchen
 hero: /assets/blog/summer-salads-that-dont-wilt-by-noon.svg
@@ -46,6 +46,6 @@ Our clamshell label says wash before using, and in a packed lunch that step move
 
 Then keep the whole thing cold. An ice pack in the bag is doing more for that salad than the container is. A jar sitting on a desk in August is a slower version of the same failure.
 
-That is the entire method. Dressing at the bottom, sturdy greens on top, dry leaves, cold bag, and nothing mixed until you eat. It is the same rule we gave for [taco night](/blog/taco-night-needs-a-crunch/), just stretched across five hours instead of five minutes. Greens go on last. Everything good about them is on the clock the moment something wet touches them.
+Dressing at the bottom, sturdy greens on top, dry leaves, cold bag, and nothing mixed until you eat. It is the same rule we gave for [taco night](/blog/taco-night-needs-a-crunch/), just stretched across five hours instead of five minutes. Greens go on last. Everything good about them is on the clock the moment something wet touches them.
 
 [Order for this week](/order/) and pack one Monday.

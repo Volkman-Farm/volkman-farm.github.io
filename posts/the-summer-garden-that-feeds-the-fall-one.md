@@ -24,7 +24,7 @@ Then last Thursday it got mowed again, this time for good. The material stayed w
 
 Saturday the next round went out on top of that mowed ground. Broadcast, one fifty pound bag over the front three-quarter acre, which is the bag we had and close enough to what the area wanted.
 
-It is a blend rather than a single crop, and that is the part worth talking about. Four of the eight are legumes: iron clay peas, which are cowpeas, plus aeschynomene, alyce clover, and sunn hemp again. Legumes are the reason anybody plants a cover crop in the first place. They partner with bacteria on their own roots and pull nitrogen out of the air into the ground, for free, in a place where anything you pour on tends to leach past the roots first. We did not have to inoculate the seed, which tells you those bacteria already live out there.
+It is a blend and not a single crop, and that is the part worth talking about. Four of the eight are legumes: iron clay peas, which are cowpeas, plus aeschynomene, alyce clover, and sunn hemp again. Legumes are the reason anybody plants a cover crop in the first place. They partner with bacteria on their own roots and pull nitrogen out of the air into the ground, for free, in a place where anything you pour on tends to leach past the roots first. We did not have to inoculate the seed, which tells you those bacteria already live out there.
 
 The other four are sorghum, sunflower, dwarf corn, and browntop millet. Those are the fast ones. They come up quick and hold the ground while the slower legumes get their feet under them, and they put a different shape of root into the sand. Blends like this get sold as food plot mixes, and what makes a stand good forage, fast and leafy and legume-heavy, is the same thing that makes it good cover.
 
@@ -32,6 +32,6 @@ Because sunn hemp is in the blend, Saturday was not a swap. The stand got wider,
 
 What fall gets out of this is nitrogen, a season of roots working through ground that badly needs the company, and a lot of soft material breaking down into the top few inches. It is the same argument we made about [building this yard for worms instead of ants](/blog/building-for-worms/), just running on a summer schedule.
 
-What we do not have yet is a result. The seed went down Saturday and that mix takes a week to two weeks to come up, so at the moment the front acre is stubble and residue and a lot of seed sitting on top of it. We will report back later this month with what actually germinated, including the parts that did not.
+What we do not have yet is a result. The seed went down Saturday and that mix takes a week to two weeks to come up, so at the moment the front acre is stubble and residue and a lot of seed sitting on top of it. We will report back later this month with what germinated, including the parts that did not.
 
 The greens, meanwhile, keep growing on their own clock indoors. [All ten varieties](/greens/) are cut and out the door most weeks while the front acre takes its slow turn.

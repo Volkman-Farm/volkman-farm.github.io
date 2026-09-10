@@ -8,7 +8,7 @@ hero_alt: "Line drawing of a sandwich seen from the side on a plate, its domed t
 image: /assets/blog/sandwiches-that-earn-the-name.png
 ---
 
-Think about what that leaf of iceberg is actually there for.
+Think about what that leaf of iceberg is there for.
 
 It is not flavor. Nobody has ever tasted a deli sandwich and thought about the lettuce. It is there for two jobs: something cold and crisp against all the soft salty stuff, and a barrier so the tomato does not turn the bread to paste. That is a real assignment. It is just that a flat pale leaf, sliced hours ago and sitting in a hotel pan, does neither one very well by the time it reaches you.
 
@@ -26,7 +26,7 @@ We already wrote the packing side of this in [the school lunch post](/blog/schoo
 
 **Banh mi, or anything with pickled vegetables and chili.** [Cilantro](/greens/cilantro/), obviously. You were going to chop a bunch and use a third of it. Now you are not.
 
-**Grilled cheese, patty melt, anything hot and pressed.** The greens go in after the press, not before. Open it up, add them, close it, eat it. We wrote about [heat off rather than heat on](/blog/pasta-finishing-greens-at-the-last-second/) earlier this week and a panini press is the most extreme version of the same rule. Two minutes under a hot plate turns a tender leaf into a wet green line.
+**Grilled cheese, patty melt, anything hot and pressed.** The greens go in after the press, not before. Open it up, add them, close it, eat it. We wrote about [heat off, not heat on](/blog/pasta-finishing-greens-at-the-last-second/) earlier this week and a panini press is the most extreme version of the same rule. Two minutes under a hot plate turns a tender leaf into a wet green line.
 
 ## Two mechanical things
 

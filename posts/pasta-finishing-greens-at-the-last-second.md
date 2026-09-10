@@ -10,7 +10,7 @@ image: /assets/blog/pasta-finishing-greens-at-the-last-second.png
 
 A correction first, because it is ours to make.
 
-Our own kale page says to stir the greens into pasta in the last thirty seconds of cooking. That is wrong, or at least it is thirty seconds later than it should be. Thirty seconds in a boiling pot is a long time for a leaf that is nine days old. What comes out is dark, soft, and stringy, and it tastes like the idea of a green rather than the green itself.
+Our own kale page says to stir the greens into pasta in the last thirty seconds of cooking. That is wrong, or at least it is thirty seconds later than it should be. Thirty seconds in a boiling pot is a long time for a leaf that is nine days old. What comes out is dark, soft, and stringy, and it tastes like the idea of a green instead of the green itself.
 
 The rule is off the heat, not in it.
 
@@ -24,7 +24,7 @@ If you are plating individual bowls, even easier. Sauce in the pot, greens on to
 
 ## Which ones can take it
 
-[Kale](/greens/kale/) and broccoli are the sturdy end. Their stems have enough substance to sit in a warm bowl and still read as a leaf a minute later, which makes them the right call when the greens are getting tossed through rather than piled on top.
+[Kale](/greens/kale/) and broccoli are the sturdy end. Their stems have enough substance to sit in a warm bowl and still read as a leaf a minute later, which makes them the right call when the greens are getting tossed through instead of piled on top.
 
 Pea shoots wilt fast and that is not a failure, it is just what they do. Toss them in and they go soft and sweet and disappear into the dish. If you wanted the crunch, keep them for the top and add them last.
 
