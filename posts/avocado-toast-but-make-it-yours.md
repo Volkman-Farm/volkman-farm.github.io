@@ -30,4 +30,4 @@ Cilantro is the odd one. It's excellent here but it takes over, so it belongs on
 
 Egg on top is not a complication. It's the same rule as everything else: greens go on after the egg, not under it, because [heat is what kills them](/blog/soups-get-their-finish/) and a runny yolk is hot enough to matter.
 
-Tomorrow morning, make it the way you always do, then put twice as many greens on as feels correct and press them in. That's the version worth having.
+Tomorrow morning, make it the way you always do, then put twice as many greens on as feels correct and press them in.

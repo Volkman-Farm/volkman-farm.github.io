@@ -34,7 +34,7 @@
     <path d="M458 180 L 744 180 L 723 102 L 486 102 Z" fill="none"/>
   </g>
 
-  <!-- cooler bag, doing the work a cold room would do -->
+  <!-- cooler bag, the only cold room in the operation -->
   <g fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
     <rect x="442" y="364" width="120" height="106" rx="10"/>
     <path d="M442 392 H 562"/>

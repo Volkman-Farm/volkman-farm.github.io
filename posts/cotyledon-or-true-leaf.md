@@ -26,7 +26,7 @@ And the stem stretches. Waiting for true leaves means a taller, leggier tray, an
 
 ## It's different per variety
 
-[Broccoli](/blog/broccoli-micros-do-the-heavy-lifting/) we cut right as the first true leaves show, at 8 to 10 days. That's the peak for it.
+[Broccoli](/blog/broccoli-micros-do-the-heavy-lifting/) we cut right as the first true leaves show, at 8 to 10 days, which is its peak.
 
 [Pea](/blog/pea-tendrils-the-gateway-green/) is the exception that proves it. We grow it deliberately taller, 10 to 14 days, because the tendril is the product and a tendril needs length to curl. Cutting pea at the cotyledon stage would be throwing away the reason to buy it.
 

@@ -16,9 +16,9 @@ Everything that leaves here on a delivery morning gets loaded into the same car 
 
 ## What goes in it
 
-Greens get [cut at sunrise](/blog/harvest-morning-timeline/) and packed straight into clamshells. The clamshells go into insulated cooler bags. The bags go in the back. That's the load.
+Greens get [cut at sunrise](/blog/harvest-morning-timeline/) and packed straight into clamshells. The clamshells go into insulated cooler bags. The bags go in the back.
 
-The cooler bag is doing the work a cold room would do, which is why [it never stays on your porch](/blog/when-the-bag-lands-on-your-porch/) and why the clamshell comes out of it at the door. A bag holds its temperature for a morning. It does not hold it for a day, and there's no walk-in waiting at the other end to make up the difference. So the route has to be short enough that the last porch gets greens in roughly the same shape as the first one.
+The cooler bag is the cold room, which is why [it never stays on your porch](/blog/when-the-bag-lands-on-your-porch/) and why the clamshell comes out of it at the door. A bag holds its temperature for a morning. It does not hold it for a day, and there's no walk-in waiting at the other end to make up the difference. So the route has to be short enough that the last porch gets greens in roughly the same shape as the first one.
 
 That's a real constraint and it's a good one. It means we can't build a route that outruns the equipment.
 
@@ -26,7 +26,7 @@ That's a real constraint and it's a good one. It means we can't build a route th
 
 We wrote a couple of weeks ago that [the size of this operation was set by a family calendar](/blog/why-we-stay-small-on-purpose/), which is true. The car is the other half of that answer, and it's the half you can measure.
 
-However many bags fit in the back with the seats down, that's the delivery. Not a target, not a policy. A physical fact about a vehicle. Going bigger doesn't start with wanting more orders. It starts with a second vehicle, or a cold chain, or somebody else driving, and each of those turns this into a different kind of business than the one we're running.
+The delivery is however many bags fit in the back with the seats down. Not a target, not a policy. A physical fact about a vehicle. Going bigger doesn't start with wanting more orders. It starts with a second vehicle, or a cold chain, or somebody else driving, and each of those turns this into a different kind of business than the one we're running.
 
 Plenty of farms make that jump and do it well. We just haven't, and that when you get greens from us they came out of the back of a car that had a booster seat in it the day before.
 

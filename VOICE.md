@@ -72,6 +72,14 @@ contract:
   out of CONTENT-PLAN.md, where it means *do not fabricate facts*. The plan says it so
   the post does not have to. Never narrate that you are declining to make something up.
   Say the plain thing: we have not picked a date.
+- **`doing the work of`, `does the work a X would do`.** A thing is not doing the work
+  of another thing, it is the other thing. `The cooler bag is the cold room.`
+- **The resumptive `that's the ___`.** Broader than the `whole idea / answer / thing`
+  entry above and the more common shape: any short sentence that points back at what
+  you just said and labels it. `The bags go in the back. That's the load.` The list was
+  the answer. Also catches the fronted version, `However many bags fit, that's the
+  delivery`, which is the same pointer with the clause moved in front. State it once.
+  A `that's the ___` that adds a new assertion is fine and stays.
 
 `honest` is on this list twice over now. It was banned in the first version of this
 file and still reached two posts written afterward, so the failure is enforcement and
