@@ -59,6 +59,25 @@ Albert's writing it happens zero times. He states a fact and stops. Rhodes lets 
 emerge late. Salatin asserts and moves. State the thing, then go on to the next thing.
 Do not tell the reader what the thing meant.
 
+Added 2026-09-10, after all four landed in one paragraph of a post written under this
+contract:
+
+- **The promised-post pointer.** `This is that post`, `this is the post we promised`,
+  any opening that announces the payoff of an earlier promise. The link back already
+  does that work. Start the post.
+- **Explaining the name.** `the entire thing is in the name`, `the name says it all`,
+  `it does what it says`. If a name is self-explanatory then use it and move on. The
+  sentences after it are the actual answer and they do not need the introduction.
+- **`invent`, `fabricate`, `made up`** in published prose. This is editorial vocabulary
+  out of CONTENT-PLAN.md, where it means *do not fabricate facts*. The plan says it so
+  the post does not have to. Never narrate that you are declining to make something up.
+  Say the plain thing: we have not picked a date.
+
+`honest` is on this list twice over now. It was banned in the first version of this
+file and still reached two posts written afterward, so the failure is enforcement and
+not the rule. **Run the banned-mannerism grep against the diff before a batch is
+committed, not after it ships.**
+
 ## Person
 
 Default stays "we." BRAND.md is right that this is a family operation.

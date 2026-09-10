@@ -10,7 +10,7 @@ image: /assets/blog/water-why-filtered-matters.png
 
 The trays get water at pH 6.0. It comes off a whole house filter, the same one the kitchen tap runs on, and then through a Kangen unit that sets the number.
 
-We've mentioned that in passing a few times and [promised it a post of its own](/blog/can-i-grow-microgreens-at-home/). This is that post.
+We've mentioned that in passing a few times and [promised it a post of its own](/blog/can-i-grow-microgreens-at-home/).
 
 ## Why a seedling is the hard case
 
