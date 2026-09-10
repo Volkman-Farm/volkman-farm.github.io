@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of the back of a family SUV with the hatch open and two insulated cooler bags loaded inside, a stack of clamshell containers beside them">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- ground -->
+  <path d="M150 578 H 1050" fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- tires, drawn first so the bumper sits over them -->
+  <g fill="none" stroke="#1f2419" stroke-width="8" stroke-linejoin="round">
+    <circle cx="428" cy="524" r="54"/>
+    <circle cx="772" cy="524" r="54"/>
+    <circle cx="428" cy="524" r="17"/>
+    <circle cx="772" cy="524" r="17"/>
+  </g>
+
+  <!-- body -->
+  <path d="M360 470 V 230 Q 360 210 380 210 H 820 Q 840 210 840 230 V 470 Z"
+        fill="#f5ead3" stroke="#5c4633" stroke-width="8" stroke-linejoin="round"/>
+  <rect x="360" y="470" width="480" height="30" rx="10"
+        fill="#f5ead3" stroke="#5c4633" stroke-width="8" stroke-linejoin="round"/>
+
+  <!-- the opening: the whole storage capacity of the operation -->
+  <rect x="420" y="254" width="360" height="216" rx="8"
+        fill="none" stroke="#5c4633" stroke-width="8" stroke-linejoin="round"/>
+
+  <!-- tail lights -->
+  <g fill="none" stroke="#6b2a2f" stroke-width="7" stroke-linejoin="round">
+    <rect x="376" y="290" width="30" height="100" rx="6"/>
+    <rect x="794" y="290" width="30" height="100" rx="6"/>
+  </g>
+
+  <!-- hatch, raised -->
+  <g fill="#f5ead3" stroke="#5c4633" stroke-width="8" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M424 202 L 776 202 L 742 76 L 470 76 Z"/>
+    <path d="M458 180 L 744 180 L 723 102 L 486 102 Z" fill="none"/>
+  </g>
+
+  <!-- cooler bag, doing the work a cold room would do -->
+  <g fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="442" y="364" width="120" height="106" rx="10"/>
+    <path d="M442 392 H 562"/>
+    <path d="M474 364 C 476 334 528 334 530 364"/>
+    <path d="M486 428 H 518"/>
+  </g>
+
+  <!-- second bag -->
+  <g fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="578" y="380" width="104" height="90" rx="9"/>
+    <path d="M578 404 H 682"/>
+    <path d="M606 380 C 608 354 652 354 654 380"/>
+    <path d="M612 434 H 644"/>
+  </g>
+
+  <!-- stacked clamshells, greens showing through the lids -->
+  <g fill="none" stroke="#1f2419" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="692" y="438" width="78" height="32" rx="4"/>
+    <path d="M692 452 H 770"/>
+    <rect x="692" y="406" width="78" height="32" rx="4"/>
+    <path d="M692 420 H 770"/>
+    <rect x="692" y="374" width="78" height="32" rx="4"/>
+    <path d="M692 388 H 770"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M714 386 C 710 378 718 375 724 378"/>
+    <path d="M744 386 C 740 378 748 375 754 378"/>
+    <path d="M714 418 C 710 410 718 407 724 410"/>
+    <path d="M744 418 C 740 410 748 407 754 410"/>
+    <path d="M714 450 C 710 442 718 439 724 442"/>
+    <path d="M744 450 C 740 442 748 439 754 442"/>
+  </g>
+</svg>
