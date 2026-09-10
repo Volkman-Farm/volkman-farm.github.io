@@ -36,4 +36,4 @@ An order we can see coming takes the guess out. That's worth real money on the g
 
 The trade runs both directions and it's small on both ends. You give up a little flexibility (not much, since skip is one word). We give up a little margin.
 
-If you already know what you want most weeks, you're doing the work of a standing order without getting paid for it. [Go set it up](/subscribe/).
+If you already know what you want most weeks, you're already running a standing order without getting paid for it. [Go set it up](/subscribe/).

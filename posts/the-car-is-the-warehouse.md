@@ -20,7 +20,7 @@ Greens get [cut at sunrise](/blog/harvest-morning-timeline/) and packed straight
 
 The cooler bag is the cold room, which is why [it never stays on your porch](/blog/when-the-bag-lands-on-your-porch/) and why the clamshell comes out of it at the door. A bag holds its temperature for a morning. It does not hold it for a day, and there's no walk-in waiting at the other end to make up the difference. So the route has to be short enough that the last porch gets greens in roughly the same shape as the first one.
 
-That's a real constraint and it's a good one. It means we can't build a route that outruns the equipment.
+It's a real constraint and a good one. It means we can't build a route that outruns the equipment.
 
 ## The ceiling nobody sees
 

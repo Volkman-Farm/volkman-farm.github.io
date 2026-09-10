@@ -18,7 +18,7 @@ So the ritual goes away. No oil, no salt, no ten minutes at the sink. It goes on
 
 ## What it tastes like when nothing is tough
 
-Sweeter than you expect, and green in a clean way rather than a bitter one.
+Sweeter than you expect, and green in a clean way, not a bitter one.
 
 The vegetal note that people either love or fight in mature kale is still in there. It just arrives without the chew, and without the edge that a full grown leaf picks up in heat. Kids who have refused a kale salad their whole lives will eat these, which sounds like a sales line and is mostly just what happens when you take the toughness out of a food and leave the flavor.
 

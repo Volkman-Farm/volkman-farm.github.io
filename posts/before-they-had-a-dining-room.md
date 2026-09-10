@@ -18,7 +18,7 @@ We stopped in while they were still building the place out. No dining room, no s
 
 It is a strange moment to walk in holding a bag of microgreens, and the best one. A kitchen still working out what its plates look like can build a green into them from the start. A kitchen that has been open two years has to take something off a plate to make room. Given the choice, we would rather be in the first draft than in the revision.
 
-It is also the part of this business nobody tells you about. We are five people in Sanford with a shed. We do not have a broker, a sales rep, or a line in a distributor's catalog. What we have is the ability to drive somewhere, walk in, and hand a chef something to taste. That is the whole strategy, and it only works because we are small.
+It is also the part of this business nobody tells you about. We are five people in Sanford with a shed. We do not have a broker, a sales rep, or a line in a distributor's catalog. What we have is the ability to drive somewhere, walk in, and hand a chef something to taste. It only works because we are small.
 
 ## What a standing order asks
 

@@ -26,7 +26,7 @@ This is where the sturdier greens shine. [Kale](/greens/kale/) micros keep their
 
 ## Fried, sunny side up: raw on the yolk
 
-The last way is the simplest and, honestly, our favorite. Fry an egg however you like it, keep the yolk runny, and pile the greens on top raw. No cooking at all. The hot white and the broken yolk do all the warming they need, and you get the full crunch and flavor of the green with nothing lost to the pan.
+The last way is the simplest and our favorite. Fry an egg however you like it, keep the yolk runny, and pile the greens on top raw. No cooking at all. The hot white and the broken yolk do all the warming they need, and you get the full crunch and flavor of the green with nothing lost to the pan.
 
 This is the method for the delicate ones. Pea tendrils go here, sweet and crisp against the yolk. So does anything with a bite you want to keep sharp: a pinch of [radish](/greens/radish/) or mustard on a fried egg wakes the whole plate up. Toast underneath, yolk broken over it, greens on top. Hard to do better before the coffee is even poured.
 

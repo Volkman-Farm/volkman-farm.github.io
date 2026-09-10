@@ -24,7 +24,7 @@ Our north Orlando route runs Monday and Wednesday evenings: [Casselberry](/deliv
 
 [Downtown Orlando](/delivery/downtown-orlando/) gets its own Sunday afternoon route, because our church is in Parramore and we are already downtown that day. Greens cut Sunday morning, in your hands before dinner, ready for the week ahead.
 
-That is nine neighborhoods, three routes, and one simple rule: one route a day means nothing rides around in a hot car waiting for the next stop across town.
+Nine neighborhoods, three routes, and one simple rule: one route a day means nothing rides around in a hot car waiting for the next stop across town.
 
 ## Why a porch and not a parking lot
 

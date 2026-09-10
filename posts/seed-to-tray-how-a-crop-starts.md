@@ -8,7 +8,7 @@ hero_alt: "Line drawing of two hands scattering seed over a shallow tray of soil
 image: /assets/blog/seed-to-tray-how-a-crop-starts.png
 ---
 
-Every tray you have read about here started on one morning, at one small table, with a scoop of soil and a handful of seed. We call it seeding day. It is the least dramatic part of the whole operation and the one that decides everything downstream. A crop that goes down wrong on day one does not fix itself later. So here is how a tray actually begins.
+Every tray you have read about here started on one morning, at one small table, with a scoop of soil and a handful of seed. We call it seeding day. It is the least dramatic part of the whole operation and the one that decides everything downstream. A crop that goes down wrong on day one does not fix itself later. So this is how a tray begins.
 
 ## A clean tray and good soil
 

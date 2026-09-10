@@ -1,6 +1,6 @@
 ---
 title: Sand favors ants. We are building for worms.
-description: Bare Florida sand runs hot and dry, which suits ants just fine. The worms we actually want need cool, moist ground. Mulch is how we tip the balance.
+description: Bare Florida sand runs hot and dry, which suits ants just fine. The worms we want need cool, moist ground. Mulch is how we tip the balance.
 date: 2026-07-22T09:00:00-04:00
 pillar: Permaculture in practice
 hero: /assets/blog/building-for-worms.svg
@@ -22,7 +22,7 @@ We [wrote last week](/blog/what-florida-sand-taught-us/) about pouring a bucket 
 
 ## Mulch is the lever
 
-Here is the part that took us a while to trust, because it looks like doing nothing.
+The part that took us a while to trust looks like doing nothing.
 
 You do not fight the ants and you do not truck in a new yard. You put down mulch. Three to four inches of it, a real blanket, not a decorative sprinkle. And then that layer quietly does about four jobs at once.
 

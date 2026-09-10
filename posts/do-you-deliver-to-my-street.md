@@ -8,9 +8,9 @@ hero_alt: "Line drawing of a delivery route map: a road leaving a small grow she
 image: /assets/blog/do-you-deliver-to-my-street.png
 ---
 
-Probably. And if not yet, the honest answer is that it depends less on where you live than on whether we are already driving past you.
+Probably. And if not yet, the answer is that it depends less on where you live than on whether we are already driving past you.
 
-Here is the map as it stands. Nine neighborhoods, three routes. Friday morning is Seminole County: Sanford, Lake Mary, Winter Springs, Oviedo. Monday and Wednesday evenings run north Orlando: Casselberry, Maitland, Winter Park, College Park. Sunday afternoon is downtown. The [full list with days is here](/delivery/).
+The map as it stands: nine neighborhoods, three routes. Friday morning is Seminole County: Sanford, Lake Mary, Winter Springs, Oviedo. Monday and Wednesday evenings run north Orlando: Casselberry, Maitland, Winter Park, College Park. Sunday afternoon is downtown. The [full list with days is here](/delivery/).
 
 People assume there is a service radius behind that, some circle drawn on a map with the shed at the center. There is not. The routes are our week. Monday and Wednesday evenings we are already headed toward north Orlando for taekwondo and rock climbing. Sunday afternoon our church is in Parramore, so we are downtown anyway. Friday morning is home turf. Every route on that list exists because the Telluride was going that direction with or without a cooler bag in it. We explained the porch drops [when we started](/blog/why-we-deliver-to-porches/), and this is the other half of it: the schedule is not a sales territory, it is a family calendar.
 

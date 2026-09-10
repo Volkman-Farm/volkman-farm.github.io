@@ -22,7 +22,7 @@ A base, which is the grain. A protein you did not have to cook tonight: a can of
 
 Greens go on last, on top, right before it goes to the table. We made the long version of that case [back in the jar salad post](/blog/summer-salads-that-dont-wilt-by-noon/), so we will not run it twice. Same principle, different container.
 
-For which ones, it depends what job you want them doing. [Pea tendrils](/greens/pea/) are the easy pick because they are sweet and they have real crunch, and they stand up to a heavier bowl without disappearing into it. Broccoli is the neutral one when the rest of the bowl already has a lot going on. Kohlrabi brings a clean crispness that plays well against beans. And if you want the bowl to actually bite back, a small pinch of mustard does it, though a small pinch is genuinely the instruction there.
+For which ones, it depends what job you want them doing. [Pea tendrils](/greens/pea/) are the easy pick because they are sweet and they have real crunch, and they stand up to a heavier bowl without disappearing into it. Broccoli is the neutral one when the rest of the bowl already has a lot going on. Kohlrabi brings a clean crispness that plays well against beans. And if you want the bowl to bite back, a small pinch of mustard does it, though a small pinch is genuinely the instruction there.
 
 Our label says wash before using, so give the handful a rinse right as it goes on.
 

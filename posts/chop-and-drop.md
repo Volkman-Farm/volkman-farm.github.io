@@ -24,7 +24,7 @@ Leave it where it falls and you get three things instead.
 
 You get mulch, immediately. A layer of cut material lying on the surface shades the ground, and in Florida in September shade on bare dirt is worth more than almost anything else you could put there. It is the same argument we made about [wood chips](/blog/mulch-the-cheapest-tool-we-have/), except this mulch grew itself in place and cost nothing to move.
 
-You get a slow feed. That material breaks down where it lies, and everything in it goes back into the top few inches of soil rather than into a bag. With legumes especially, cutting the top also causes some root dieback underneath, so you are feeding the soil from both directions at once.
+You get a slow feed. That material breaks down where it lies, and everything in it goes back into the top few inches of soil instead of into a bag. With legumes especially, cutting the top also causes some root dieback underneath, so you are feeding the soil from both directions at once.
 
 You get to skip the hauling. This matters more than people admit. A technique you will keep doing beats a better technique you will do once and then quietly abandon in July.
 
