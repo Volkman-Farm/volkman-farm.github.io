@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a thick slice of toast with mashed avocado and a small pile of microgreens on top, a knife resting beside it">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M120 500 H 1080"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M380 470 V 374 Q 380 358 398 358 L 688 358 Q 706 358 706 374 V 470 Z"/>
+    <path d="M402 470 V 380 H 684 V 470"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M384 358 C 412 326 458 340 498 330 C 542 319 590 338 634 329 C 670 322 694 338 704 358"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M474 330 L 473 293"/>
+    <path d="M473 298 C 455 296 444 286 444 273 C 461 273 472 283 473 298 Z"/>
+    <path d="M473 305 C 492 303 502 293 501 280 C 484 280 474 290 473 305 Z"/>
+    <path d="M524 324 L 524 280"/>
+    <path d="M524 286 C 502 284 490 272 490 256 C 510 256 523 268 524 286 Z"/>
+    <path d="M524 294 C 546 292 558 280 558 264 C 538 264 525 276 524 294 Z"/>
+    <path d="M574 330 L 575 290"/>
+    <path d="M575 296 C 555 294 545 283 545 269 C 563 269 575 280 575 296 Z"/>
+    <path d="M575 303 C 595 301 606 290 606 276 C 588 276 576 287 575 303 Z"/>
+    <path d="M500 328 L 501 297"/>
+    <path d="M501 301 C 485 300 477 292 477 280 C 491 280 500 289 501 301 Z"/>
+    <path d="M500 307 C 516 306 524 297 525 286 C 511 286 501 294 500 307 Z"/>
+    <path d="M550 328 L 549 295"/>
+    <path d="M549 300 C 533 298 524 290 524 278 C 539 278 548 287 549 300 Z"/>
+    <path d="M550 306 C 566 304 574 295 574 284 C 559 284 550 292 550 306 Z"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="822" y="466" width="104" height="28" rx="12"/>
+    <path d="M926 470 L 1082 476 L 1082 482 L 926 490 Z"/>
+  </g>
+
+</svg>

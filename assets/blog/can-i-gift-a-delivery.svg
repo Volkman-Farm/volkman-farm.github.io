@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a clamshell of microgreens sitting on a porch step with a small folded card tucked under its edge">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M340 400 H 880"/>
+    <path d="M340 400 V 452"/>
+    <path d="M880 400 V 452"/>
+    <path d="M280 452 H 940"/>
+    <path d="M280 452 V 508"/>
+    <path d="M940 452 V 508"/>
+    <path d="M220 508 H 1000"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M436 404 L 532 390 L 540 408 L 448 422 Z"/>
+    <path d="M488 397 L 496 415"/>
+  </g>
+
+  <g fill="none" stroke="#1f2419" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="480" y="302" width="260" height="98" rx="5"/>
+    <path d="M480 344 H 740"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M516 344 C 510 332 522 328 531 332"/>
+    <path d="M570 344 C 564 332 576 328 585 332"/>
+    <path d="M624 344 C 618 332 630 328 639 332"/>
+    <path d="M678 344 C 672 332 684 328 693 332"/>
+  </g>
+
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a pizza on a wooden peel with two slices cut, a handful of microgreens scattered across the top after baking">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M120 566 H 1080"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="228" y="118" width="452" height="424" rx="40"/>
+    <path d="M680 254 L 1058 266 Q 1076 272 1076 288 L 1076 372 Q 1076 388 1058 394 L 680 406"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="452" cy="330" r="172"/>
+    <circle cx="452" cy="330" r="144"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M452 330 L 452 158"/>
+    <path d="M452 330 L 601 244"/>
+    <path d="M452 330 L 601 416"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M372 244 C 364 228 380 222 392 228"/>
+    <path d="M448 220 C 456 205 440 199 429 205"/>
+    <path d="M522 262 C 515 248 529 242 540 248"/>
+    <path d="M344 320 C 352 305 336 299 325 305"/>
+    <path d="M424 346 C 416 330 432 324 444 330"/>
+    <path d="M506 330 C 513 316 499 310 488 316"/>
+    <path d="M386 412 C 378 397 394 391 405 397"/>
+    <path d="M466 436 C 473 422 459 416 448 422"/>
+    <path d="M548 396 C 541 382 555 377 565 382"/>
+    <path d="M318 388 C 325 374 311 369 301 374"/>
+    <path d="M560 320 C 554 307 566 302 576 307"/>
+    <path d="M400 180 C 406 167 394 162 384 167"/>
+    <path d="M486 166 C 480 154 492 150 501 154"/>
+    <path d="M322 254 C 328 241 316 236 306 241"/>
+    <path d="M470 388 C 463 374 477 369 487 374"/>
+    <path d="M356 458 C 362 446 350 442 341 446"/>
+  </g>
+
+</svg>

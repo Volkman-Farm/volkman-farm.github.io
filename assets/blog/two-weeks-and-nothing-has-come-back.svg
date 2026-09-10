@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of two fenced poultry paddocks side by side with a narrow corridor between the outer and inner fence lines, and short mowed grass along the base">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="180" y="130" width="840" height="330" rx="6"/>
+    <rect x="232" y="182" width="736" height="226" rx="6"/>
+    <path d="M600 182 V 408"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M180 122 V 138"/>
+    <path d="M180 452 V 468"/>
+    <path d="M264 122 V 138"/>
+    <path d="M264 452 V 468"/>
+    <path d="M348 122 V 138"/>
+    <path d="M348 452 V 468"/>
+    <path d="M432 122 V 138"/>
+    <path d="M432 452 V 468"/>
+    <path d="M516 122 V 138"/>
+    <path d="M516 452 V 468"/>
+    <path d="M600 122 V 138"/>
+    <path d="M600 452 V 468"/>
+    <path d="M684 122 V 138"/>
+    <path d="M684 452 V 468"/>
+    <path d="M768 122 V 138"/>
+    <path d="M768 452 V 468"/>
+    <path d="M852 122 V 138"/>
+    <path d="M852 452 V 468"/>
+    <path d="M936 122 V 138"/>
+    <path d="M936 452 V 468"/>
+    <path d="M1020 122 V 138"/>
+    <path d="M1020 452 V 468"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M190 500 V 486"/>
+    <path d="M181 500 V 491"/>
+    <path d="M199 500 V 490"/>
+    <path d="M226 500 V 481"/>
+    <path d="M217 500 V 486"/>
+    <path d="M235 500 V 485"/>
+    <path d="M262 500 V 476"/>
+    <path d="M253 500 V 481"/>
+    <path d="M271 500 V 480"/>
+    <path d="M298 500 V 486"/>
+    <path d="M289 500 V 491"/>
+    <path d="M307 500 V 490"/>
+    <path d="M334 500 V 481"/>
+    <path d="M325 500 V 486"/>
+    <path d="M343 500 V 485"/>
+    <path d="M370 500 V 476"/>
+    <path d="M361 500 V 481"/>
+    <path d="M379 500 V 480"/>
+    <path d="M406 500 V 486"/>
+    <path d="M397 500 V 491"/>
+    <path d="M415 500 V 490"/>
+    <path d="M442 500 V 481"/>
+    <path d="M433 500 V 486"/>
+    <path d="M451 500 V 485"/>
+    <path d="M478 500 V 476"/>
+    <path d="M469 500 V 481"/>
+    <path d="M487 500 V 480"/>
+    <path d="M514 500 V 486"/>
+    <path d="M505 500 V 491"/>
+    <path d="M523 500 V 490"/>
+    <path d="M550 500 V 481"/>
+    <path d="M541 500 V 486"/>
+    <path d="M559 500 V 485"/>
+    <path d="M586 500 V 476"/>
+    <path d="M577 500 V 481"/>
+    <path d="M595 500 V 480"/>
+    <path d="M622 500 V 486"/>
+    <path d="M613 500 V 491"/>
+    <path d="M631 500 V 490"/>
+    <path d="M658 500 V 481"/>
+    <path d="M649 500 V 486"/>
+    <path d="M667 500 V 485"/>
+    <path d="M694 500 V 476"/>
+    <path d="M685 500 V 481"/>
+    <path d="M703 500 V 480"/>
+    <path d="M730 500 V 486"/>
+    <path d="M721 500 V 491"/>
+    <path d="M739 500 V 490"/>
+    <path d="M766 500 V 481"/>
+    <path d="M757 500 V 486"/>
+    <path d="M775 500 V 485"/>
+    <path d="M802 500 V 476"/>
+    <path d="M793 500 V 481"/>
+    <path d="M811 500 V 480"/>
+    <path d="M838 500 V 486"/>
+    <path d="M829 500 V 491"/>
+    <path d="M847 500 V 490"/>
+    <path d="M874 500 V 481"/>
+    <path d="M865 500 V 486"/>
+    <path d="M883 500 V 485"/>
+    <path d="M910 500 V 476"/>
+    <path d="M901 500 V 481"/>
+    <path d="M919 500 V 480"/>
+    <path d="M946 500 V 486"/>
+    <path d="M937 500 V 491"/>
+    <path d="M955 500 V 490"/>
+    <path d="M982 500 V 481"/>
+    <path d="M973 500 V 486"/>
+    <path d="M991 500 V 485"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 520 H 1050"/>
+  </g>
+
+</svg>

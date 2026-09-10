@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of three seedlings side by side at different stages, the first with two rounded seed leaves, the second with a small pointed leaf emerging between them, the third fuller">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="160" y="470" width="880" height="70" rx="6"/>
+    <path d="M160 494 H 1040"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M380 470 V 366"/>
+    <path d="M380 372 C 350 370 332 356 332 336 C 358 334 376 352 380 372 Z"/>
+    <path d="M380 380 C 410 378 428 364 428 344 C 402 342 384 360 380 380 Z"/>
+    <path d="M600 470 V 356"/>
+    <path d="M600 368 C 570 366 552 352 552 332 C 578 330 596 348 600 368 Z"/>
+    <path d="M600 376 C 630 374 648 360 648 340 C 622 338 604 356 600 376 Z"/>
+    <path d="M600 356 C 592 328 594 304 600 290 C 606 304 608 328 600 356 Z"/>
+    <path d="M820 470 V 320"/>
+    <path d="M820 384 C 786 382 765 368 765 348 C 795 346 816 364 820 384 Z"/>
+    <path d="M820 392 C 854 390 875 376 875 356 C 845 354 824 372 820 392 Z"/>
+    <path d="M820 330 C 800 320 782 300 780 272 C 802 274 818 300 820 330 Z"/>
+    <path d="M820 342 C 840 332 858 312 860 284 C 838 286 822 312 820 342 Z"/>
+  </g>
+
+</svg>

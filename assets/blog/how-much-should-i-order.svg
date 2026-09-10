@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of two clamshell containers of different sizes side by side on a counter, with a plate and a fork beside the smaller one">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M90 520 H 1110"/>
+  </g>
+
+  <g fill="none" stroke="#1f2419" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="240" y="350" width="320" height="170" rx="5"/>
+    <path d="M240 422 H 560"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M280 410 C 274 398 286 394 295 398"/>
+    <path d="M340 410 C 334 398 346 394 355 398"/>
+    <path d="M400 410 C 394 398 406 394 415 398"/>
+    <path d="M460 410 C 454 398 466 394 475 398"/>
+    <path d="M510 410 C 504 398 516 394 525 398"/>
+  </g>
+
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="620" y="410" width="180" height="110" rx="5"/>
+    <path d="M620 456 H 800"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M650 452 C 645 442 655 439 662 442"/>
+    <path d="M700 452 C 695 442 705 439 712 442"/>
+    <path d="M750 452 C 745 442 755 439 762 442"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="918" cy="502" rx="112" ry="29"/>
+    <ellipse cx="918" cy="500" rx="84" ry="19"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1066 386 V 502"/>
+    <path d="M1044 386 V 422"/>
+    <path d="M1066 384 V 422"/>
+    <path d="M1088 386 V 422"/>
+    <path d="M1044 422 Q 1066 442 1088 422"/>
+  </g>
+
+</svg>

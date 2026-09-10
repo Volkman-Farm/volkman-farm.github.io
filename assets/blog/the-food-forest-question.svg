@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a planted mound in cross section with a small tree at the top, shrubs at the shoulder, and sprawling ground cover running down the sides">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 520 H 1120"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M200 520 C 300 380 460 336 600 336 C 740 336 900 380 1000 520"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M600 336 V 258"/>
+    <path d="M600 124 C 648 116 690 146 692 184 C 728 196 730 240 694 254 C 672 270 634 270 600 262 C 566 270 528 268 506 252 C 470 238 472 194 508 184 C 510 146 552 116 600 124 Z"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M398 384 C 366 384 348 362 352 340 C 356 310 380 294 398 296 C 416 294 440 310 444 340 C 448 362 430 384 398 384 Z"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M802 384 C 770 384 752 362 756 340 C 760 310 784 294 802 296 C 820 294 844 310 848 340 C 852 362 834 384 802 384 Z"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M330 398 C 283 432 236 454 236 500"/>
+    <path d="M286 430 C 241 464 196 460 196 506"/>
+    <path d="M870 398 C 917 432 964 454 964 500"/>
+    <path d="M914 430 C 959 464 1004 460 1004 506"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M502 352 L 502 330"/>
+    <path d="M502 333 C 491 332 485 326 485 318 C 495 318 502 324 502 333 Z"/>
+    <path d="M502 337 C 513 336 519 330 519 322 C 509 322 502 328 502 337 Z"/>
+    <path d="M690 352 L 690 330"/>
+    <path d="M690 333 C 679 332 673 326 673 318 C 683 318 690 324 690 333 Z"/>
+    <path d="M690 337 C 701 336 707 330 707 322 C 697 322 690 328 690 337 Z"/>
+    <path d="M600 336 L 600 317"/>
+    <path d="M600 319 C 590 318 585 313 585 306 C 594 306 600 311 600 319 Z"/>
+    <path d="M600 323 C 610 322 615 317 615 310 C 606 310 600 315 600 323 Z"/>
+  </g>
+
+</svg>
