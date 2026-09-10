@@ -10,7 +10,7 @@ image: /assets/blog/cover-crop-check-in.png
 
 It came up.
 
-That is the headline and we have been waiting three weeks to be allowed to write it. On the first of August we broadcast a fifty pound bag of Hancock's spring and summer mix over the front three quarters of an acre, straight over the sunn hemp we had mowed two days before. [We wrote it up that week](/blog/the-summer-garden-that-feeds-the-fall-one/) and deliberately reported no result, because seed that goes down on a Saturday takes seven to fourteen days and anything we said before then would have been a guess dressed up as a report.
+We have been waiting three weeks to be allowed to write that headline. On the first of August we broadcast a fifty pound bag of Hancock's spring and summer mix over the front three quarters of an acre, straight over the sunn hemp we had mowed two days before. [We wrote it up that week](/blog/the-summer-garden-that-feeds-the-fall-one/) and deliberately reported no result, because seed that goes down on a Saturday takes seven to fourteen days and anything we said before then would have been a guess dressed up as a report.
 
 Now it is the twenty fifth. The field is green.
 
@@ -30,12 +30,12 @@ Ask us in a few weeks. The sunflowers and the corn will announce themselves by g
 
 You cannot really see the sand anymore.
 
-That is the whole reason we did this. [Florida sand](/blog/what-florida-sand-taught-us/) is not soil in the way people from anywhere else mean the word, and the thing that fixes it over time is roots and shade and material breaking down on top of it, over and over, for years. Bare sand in August is a surface that heats up, sheds water when the rain comes hard, and grows nothing on purpose.
+We did this for exactly that reason. [Florida sand](/blog/what-florida-sand-taught-us/) is not soil in the way people from anywhere else mean the word, and the thing that fixes it over time is roots and shade and material breaking down on top of it, over and over, for years. Bare sand in August is a surface that heats up, sheds water when the rain comes hard, and grows nothing on purpose.
 
 Three weeks in, the ground out there is mostly covered. Not a closed canopy yet, but you have to look for bare spots instead of looking for plants. Under the new growth, the mowed sunn hemp from July is still lying there breaking down, which means the surface is getting shaded from above and fed from below at the same time.
 
-Nothing about that is dramatic. It is the least photogenic possible version of progress. But the whole design of a cover crop is that you spend one bag and one afternoon in the summer and then the field does the work while you go do something else, and the only way to know if it worked is to go out and look at what is standing there in three weeks.
+Nothing about that is dramatic. It is the least photogenic possible version of progress. But the whole design of a cover crop is that you spend one bag and one afternoon in the summer and then the field works while you go do something else, and the only way to know if it worked is to go out and look at what is standing there in three weeks.
 
 It is standing there.
 
-What happens to all of it eventually is its own post, and it is coming in September. For now the front of the property is doing something instead of nothing, which is more than it was doing in June, and the shed out back is still the part of this place that [actually pays for itself](/greens/).
+What happens to all of it eventually is its own post, and it is coming in September. For now the front of the property is doing something instead of nothing, which is more than it was doing in June, and the shed out back is still the part of this place that [pays for itself](/greens/).

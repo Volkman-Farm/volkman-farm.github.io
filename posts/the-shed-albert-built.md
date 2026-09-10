@@ -30,14 +30,14 @@ Every level carries two full-spectrum LED fixtures, so a full rack runs ten ligh
 
 ## Keeping a Florida summer outside
 
-The hardest part of growing here is not the growing. It is the weather. So the shed has its own climate. A small LG air conditioner holds the temperature down, and a Midea Cube dehumidifier pulls the damp out of the air. Together they keep the room steady while it is ninety-five and soupy outside. The lights run constant, and the air conditioner and dehumidifier do the heavy lifting on hot afternoons. We are still measuring what that costs us each month, and when we have a real number we will put it right here rather than guess at it.
+The hardest part of growing here is not the growing. It is the weather. So the shed has its own climate. A small LG air conditioner holds the temperature down, and a Midea Cube dehumidifier pulls the damp out of the air. Together they keep the room steady while it is ninety-five and soupy outside. The lights run constant, and the air conditioner and dehumidifier do the heavy lifting on hot afternoons. We are still measuring what that costs us each month, and when we have a real number we will put it right here instead of guessing at it.
 
 ## What goes in the trays
 
 The growing part is simple on purpose. Each tray gets about six cups of Fox Farm Happy Frog soil, a potting mix we buy two cubic feet at a time. Seed comes from True Leaf Market, all organic. The water is 6.0 pH balanced, exactly what the plants prefer. Small inputs, repeated with care, every single day.
 
-That is the whole machine. A sealed room, two racks, twenty lights, a bag of soil, a seed order, and clean water. Nothing exotic. The work is in doing the same small things right, tray after tray, morning after morning.
+A sealed room, two racks, twenty lights, a bag of soil, a seed order, and clean water. Nothing exotic. The work is in doing the same small things right, tray after tray, morning after morning.
 
 ## Come see what it makes
 
-We will keep writing about the shed as it fills in, including that honest power bill once we have it. For now, the proof is in the greens themselves. [Start an order](/order/) and we will hand you something that was alive in this little room a few hours before it reached your porch.
+We will keep writing about the shed as it fills in, including that power bill once we have it. For now, the proof is in the greens themselves. [Start an order](/order/) and we will hand you something that was alive in this little room a few hours before it reached your porch.

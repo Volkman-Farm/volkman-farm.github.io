@@ -10,7 +10,7 @@ image: /assets/blog/meet-winter-springs-and-oviedo.png
 
 Last week we introduced [Sanford and Lake Mary](/blog/meet-lake-mary-and-sanford/) and said they were the shortest clock we run. [Winter Springs](/delivery/winter-springs/) and [Oviedo](/delivery/oviedo/) are the other end of that same Friday morning. Same trays, same sunrise, several more hours on them by the time the route reaches the far end.
 
-That makes these two the honest ones. Anybody can promise freshness to the house next door.
+That makes these two the real test. Anybody can promise freshness to the house next door.
 
 ## Winter Springs is the easy part of the drive
 
@@ -28,15 +28,15 @@ Oviedo is also a town in the middle of changing, and you can feel it driving thr
 
 We have [a flock of our own](/blog/the-chickens-run-the-compost/), so we have some sympathy for both sides of that. But the reason it is worth mentioning is what it says about the drive. You can still find the old Oviedo out toward Black Hammock, where the road gets narrow and the land opens up. Then you come back in past the new construction and it is a different town in the same city limits. We are a farm delivering to a place that used to be farms. That is most of Central Florida now.
 
-## What the last stop actually costs
+## What the last stop costs
 
-Here is the part we would rather say plainly than let you assume.
+We would rather say this part plainly than let you assume.
 
 The first stop on a Friday is forty minutes off the rack. The last one is closer to lunchtime. That is a real difference and it would be silly to pretend otherwise.
 
-What we do about it is mostly [in how the morning is built](/blog/harvest-morning-timeline/). Everything is cut at sunrise, all of it, before any of it goes anywhere. Clamshells ride in an insulated cooler bag rather than loose in the back, which is the whole reason the last stop of the day is still cold when it lands. The bag comes home with us and the clamshell stays on your step, so the one number that matters after that is how long the box sits outside before somebody brings it in.
+What we do about it is mostly [in how the morning is built](/blog/harvest-morning-timeline/). Everything is cut at sunrise, all of it, before any of it goes anywhere. Clamshells ride in an insulated cooler bag instead of loose in the back, which is the whole reason the last stop of the day is still cold when it lands. The bag comes home with us and the clamshell stays on your step, so the one number that matters after that is how long the box sits outside before somebody brings it in.
 
-And the honest engineering answer is that a few hours in a cold bag is not what ages a green. What ages a green is the days after it reaches your fridge, which is why we keep writing about [storing it dry and cold](/blog/how-long-do-microgreens-last/) instead of bragging about our drive times. Cut this morning is cut this morning whether you are the first stop or the last one. The clock that eats your week starts at your house.
+And the engineering answer is that a few hours in a cold bag is not what ages a green. What ages a green is the days after it reaches your fridge, which is why we keep writing about [storing it dry and cold](/blog/how-long-do-microgreens-last/) instead of bragging about our drive times. Cut this morning is cut this morning whether you are the first stop or the last one. The clock that eats your week starts at your house.
 
 If you are in either town, [pick a Friday and start an order](/order/). We are already coming down 434.
 

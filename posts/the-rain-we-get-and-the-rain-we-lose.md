@@ -12,7 +12,7 @@ August storms here are not weather so much as an event. The sky goes the color o
 
 We have been standing out in it on purpose this month.
 
-Here is the arithmetic that started it. One inch of rain on one acre is a little over 27,000 gallons. We have 2.17 acres. So an inch of rain, which is an ordinary summer afternoon around here and not even a memorable one, drops something close to sixty thousand gallons on this property. Run the numbers yourself if you want, it is not complicated math, and that is sort of the point. Nobody has to be a hydrologist to find this number alarming.
+The arithmetic that started it: one inch of rain on one acre is a little over 27,000 gallons. We have 2.17 acres. So an inch of rain, which is an ordinary summer afternoon around here and not even a memorable one, drops something close to sixty thousand gallons on this property. Run the numbers yourself if you want, it is not complicated math, and that is sort of the point. Nobody has to be a hydrologist to find this number alarming.
 
 Sixty thousand gallons. And we keep none of it.
 
@@ -20,7 +20,7 @@ Not some of it. None. There is no barrel, no cistern, no swale, no basin, nothin
 
 Put those two sentences next to each other and the second one starts to look ridiculous.
 
-## Where it actually goes
+## Where it goes
 
 So we watched. Same as [the year we spent watching before we planted anything](/blog/mapping-the-yard-before-touching-it/), except this time with a narrower question: after the rain stops, where is the water?
 
@@ -44,8 +44,8 @@ The mulch is doing a little. We laid three to four inches down [to build the yar
 
 Back in July we wrote that most of this yard is still in the watching stage and that the rain still leaves in ways we have not caught. That line was doing a lot of quiet work. We knew, and we had not done anything about it.
 
-We have a list now. Where a swale would go if we cut one, which mounds would take a basin, what a gutter on the shed roof would actually be worth in a summer like this one. None of it is built. That is tomorrow's post, and writing it down is most of what we have accomplished so far.
+We have a list now. Where a swale would go if we cut one, which mounds would take a basin, what a gutter on the shed roof would be worth in a summer like this one. None of it is built. That is tomorrow's post, and writing it down is most of what we have accomplished so far.
 
-For now the honest position is this: a good storm rolls through, we go stand in the yard afterward, and we watch sixty thousand gallons decide what to do without us. It is a humbling way to spend a Tuesday.
+For now: a good storm rolls through, we go stand in the yard afterward, and we watch sixty thousand gallons decide what to do without us. It is a humbling way to spend a Tuesday.
 
 Meanwhile the shed does not care what the sky is doing, and the trays get [filtered water on a schedule](/blog/seed-to-tray-how-a-crop-starts/) either way. [Order for this week](/order/) and something green shows up regardless of the forecast.
