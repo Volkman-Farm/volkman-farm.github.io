@@ -43,33 +43,54 @@ def ground(y, x1=120, x2=1080, stroke=BR, w=8):
 FILES={}
 
 # ---------------------------------------------------------------- Sep 11 water
-b =ground(530, 100, 1100)
-b+=g('    <path d="M190 330 L 390 330 L 374 470 Q 372 484 358 484 L 222 484 Q 208 484 206 470 Z"/>\n'
-     '    <path d="M176 330 H 404"/>\n'
-     '    <path d="M228 330 C 238 266 342 266 352 330"/>\n'
-     '    <path d="M390 344 L 486 392"/>\n'
-     '    <path d="M378 372 L 474 420"/>\n'
-     '    <path d="M486 392 L 474 420"/>\n')
-b+=g('    <path d="M484 394 C 518 424 556 448 592 464"/>\n'
-     '    <path d="M470 410 C 500 440 532 462 558 476"/>\n'
-     '    <path d="M456 424 C 480 452 506 474 526 488"/>\n', OL, 6)
-b+=g('    <ellipse cx="612" cy="452" rx="6" ry="9"/>\n'
-     '    <ellipse cx="546" cy="500" rx="5" ry="8"/>\n', OL, 0, OL)
-b+=g('    <rect x="520" y="470" width="380" height="60" rx="6"/>\n'
-     '    <path d="M520 490 H 900"/>\n')
-b+=g("".join(f'    <circle cx="{x}" cy="{506+(i%3)*7}" r="6"/>\n' for i,x in enumerate(range(556,890,38))),
-     DK, 0, DK)
-b+=g('    <rect x="950" y="470" width="140" height="60" rx="28"/>\n'
-     '    <path d="M928 500 H 950"/>\n    <path d="M1090 500 H 1112"/>\n', BR, 7)
-b+=g('    <path d="M986 486 V 514"/>\n    <path d="M1012 484 V 516"/>\n    <path d="M1038 486 V 514"/>\n', OL, 5)
-b+=g('    <circle cx="1010" cy="300" r="72"/>\n'
-     '    <path d="M1010 300 L 1052 256"/>\n', BR, 7)
-b+=g('    <path d="M1010 228 V 214"/>\n    <path d="M1062 248 L 1072 238"/>\n'
-     '    <path d="M958 248 L 948 238"/>\n    <path d="M1082 300 H 1096"/>\n'
-     '    <path d="M938 300 H 924"/>\n', OL, 5)
-b+=g('    <path d="M1010 250 V 232"/>\n', GR, 7)
+def leaf(x, y, ang, L=40, W=13):
+    ux,uy=math.cos(math.radians(ang)),math.sin(math.radians(ang))
+    p=lambda a,w:(x+ux*L*a-uy*w, y+uy*L*a+ux*w)
+    c1,c2,tip,c3,c4=p(.3,W),p(.75,W),p(1,0),p(.75,-W),p(.3,-W)
+    return (f'    <path d="M{x:.0f} {y:.0f} C {c1[0]:.0f} {c1[1]:.0f} {c2[0]:.0f} {c2[1]:.0f} {tip[0]:.0f} {tip[1]:.0f} '
+            f'C {c3[0]:.0f} {c3[1]:.0f} {c4[0]:.0f} {c4[1]:.0f} {x:.0f} {y:.0f} Z"/>\n')
+def drop(x, y):
+    return (f'    <path d="M{x} {y-18} C {x+4} {y-8} {x+11} {y} {x+11} {y+8} '
+            f'C {x+11} {y+15} {x+6} {y+20} {x} {y+20} C {x-6} {y+20} {x-11} {y+15} {x-11} {y+8} '
+            f'C {x-11} {y} {x-4} {y-8} {x} {y-18} Z"/>\n')
+b =ground(400, 80, 1120)
+b+=g('    <path d="M330 400 C 334 450 324 510 330 584"/>\n', BR, 7)
+b+=g('    <path d="M331 418 C 296 426 258 446 222 486"/>\n'
+     '    <path d="M331 418 C 366 428 404 448 440 490"/>\n'
+     '    <path d="M328 468 C 298 480 272 506 256 552"/>\n'
+     '    <path d="M332 468 C 362 482 390 508 404 554"/>\n'
+     '    <path d="M329 528 C 312 544 302 564 298 590"/>\n'
+     '    <path d="M331 528 C 348 546 358 566 362 592"/>\n', BR, 6)
+b+=g('    <path d="M278 440 C 272 460 266 474 264 494"/>\n'
+     '    <path d="M384 440 C 392 460 398 476 402 496"/>\n'
+     '    <path d="M286 500 C 270 506 250 512 232 520"/>\n'
+     '    <path d="M376 500 C 394 506 414 514 430 522"/>\n', BR, 4)
+tom ='    <path d="M330 400 C 324 330 338 250 330 160"/>\n'
+tom+='    <path d="M331 336 C 358 326 386 318 414 318"/>\n'
+tom+='    <path d="M328 276 C 302 266 276 262 250 264"/>\n'
+tom+='    <path d="M331 212 C 352 200 372 188 388 170"/>\n'
+for x,y,angs in ((414,318,(-45,-5,35)),(250,264,(145,185,225)),(388,170,(-95,-50,-5)),
+                 (330,160,(-125,-90,-55)),(372,322,(-80,70)),(290,266,(-100,100)),(360,196,(-120,20))):
+    tom+="".join(leaf(x,y,a) for a in angs)
+tom+='    <path d="M280 266 L 282 290"/>\n    <path d="M392 320 L 394 340"/>\n'
+tom+='    <path d="M274 292 Q 284 286 294 292"/>\n    <path d="M386 342 Q 396 336 406 342"/>\n'
+b+=g(tom, GR, 6)
+b+=g('    <circle cx="284" cy="314" r="24"/>\n    <circle cx="396" cy="362" r="22"/>\n', RD, 7)
+b+=g('    <rect x="700" y="336" width="360" height="64" rx="6"/>\n')
+greens=""; mat=""
+specs=[(0.78,-0.3),(0.90,0.2),(0.72,0.4),(0.86,-0.2),(0.80,0.1),
+       (0.94,-0.4),(0.74,0.3),(0.88,0.0),(0.82,-0.25),(0.76,0.35)]
+for i,(sc,ln) in enumerate(specs):
+    x=730+i*33; d=-1 if i%2 else 1
+    greens+=sprout(x, 336, sc, ln)
+    mat+=f'    <path d="M{x} 342 C {x-7} 356 {x+6} 372 {x-2} 390"/>\n'
+    mat+=f'    <path d="M{x-1} 364 C {x-6*d} 370 {x-12*d} 374 {x-18*d} 382"/>\n'
+mat+='    <path d="M712 388 C 760 382 800 394 850 386 C 900 380 950 392 1000 386 C 1020 384 1040 388 1048 386"/>\n'
+b+=g(greens, GR, 6)
+b+=g(mat, BR, 3)
+b+=g(drop(230,150)+drop(468,118)+drop(820,214)+drop(890,186)+drop(956,222), OL, 0, OL)
 FILES['water-why-filtered-matters']=(
- "Line drawing of a watering can pouring into a seeded tray, with a small inline filter and a pH gauge drawn beside it", b)
+ "Line drawing of a tomato plant with roots spreading deep into the soil beside a shallow tray of microgreens whose roots are a thin mat, with water drops falling over both", b)
 
 # ------------------------------------------------------- Sep 12 how much order
 b =ground(520, 90, 1110)

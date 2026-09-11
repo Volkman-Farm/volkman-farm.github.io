@@ -4,7 +4,7 @@ description: "Every tray in the shed drinks the same water the house does, filte
 date: 2026-09-11T09:00:00-04:00
 pillar: Growing notes
 hero: /assets/blog/water-why-filtered-matters.svg
-hero_alt: "Line drawing of a watering can pouring into a seeded tray, with a small inline filter and a pH gauge drawn beside it"
+hero_alt: "Line drawing of a tomato plant with roots spreading deep into the soil beside a shallow tray of microgreens whose roots are a thin mat, with water drops falling over both"
 image: /assets/blog/water-why-filtered-matters.png
 ---
 
