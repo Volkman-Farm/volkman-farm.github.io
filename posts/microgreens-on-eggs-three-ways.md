@@ -30,6 +30,6 @@ The last way is the simplest and our favorite. Fry an egg however you like it, k
 
 This is the method for the delicate ones. Pea tendrils go here, sweet and crisp against the yolk. So does anything with a bite you want to keep sharp: a pinch of [radish](/greens/radish/) or mustard on a fried egg wakes the whole plate up. Toast underneath, yolk broken over it, greens on top. Hard to do better before the coffee is even poured.
 
-So the whole method is one idea. Cook the eggs, then add the greens. Scrambled, fold them in off the heat. Omelet, tuck them in the fold. Fried, pile them on raw. The more delicate the green, the later it goes in, and the less it should ever meet the pan.
+So it comes down to one idea. Cook the eggs, then add the greens. Scrambled, fold them in off the heat. Omelet, tuck them in the fold. Fried, pile them on raw. The more delicate the green, the later it goes in, and the less it should ever meet the pan.
 
 Ten varieties come off our shelves at $3.50 an ounce, and every one has found its way onto an egg in our kitchen at some point. If you want a standing supply for weekend breakfasts, [subscribe and save ten percent](/subscribe/).

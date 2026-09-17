@@ -8,7 +8,7 @@ hero_alt: "Line drawing of a blade cutting across a dense tray of microgreens ju
 image: /assets/blog/harvest-morning-timeline.png
 ---
 
-"Cut this morning." We say it on the porch and we mean it literally. It is the one line that separates our greens from a plastic tub that has been sitting at the store, and it is worth slowing down on, because a fair amount of care is packed into three words. This is what a harvest morning looks like, and why the timing is not a slogan. It is the whole product.
+"Cut this morning." We say it on the porch and we mean it literally. It is the one line that separates our greens from a plastic tub that has been sitting at the store, and it is worth slowing down on, because a fair amount of care is packed into three words. This is what a harvest morning looks like, and why the timing is not a slogan.
 
 We already covered [why the clock on a green starts at the cut](/blog/how-long-do-microgreens-last/), not the sale, so we will not repeat it. The short version: a microgreen is at its best the hour it leaves the tray, and every hour after that is downhill. So the whole morning is built to keep that first hour short.
 

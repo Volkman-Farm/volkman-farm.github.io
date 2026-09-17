@@ -66,4 +66,4 @@ Growing one tray is a project, and a satisfying one. Having microgreens on the c
 
 Most home setups do not die on the first tray. They die on the fourth.
 
-So grow the tray. If it works you will have eaten something you made in ten days, and if it fails you will know precisely what you are paying us for. Either way you come out of it knowing more about what is in the clamshell. And if you would rather have it cut in the morning and left on the porch, [that is the whole reason we are here](/order/).
+So grow the tray. If it works you will have eaten something you made in ten days, and if it fails you will know precisely what you are paying us for. Either way you come out of it knowing more about what is in the clamshell. And if you would rather have it cut in the morning and left on the porch, [we can do that](/order/).

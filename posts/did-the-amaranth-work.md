@@ -14,7 +14,7 @@ The setup, quickly. [Beet](/greens/beet/) is the most striking thing we grow and
 
 Taking them in order.
 
-**Color: it held.** This was the whole point of the swap and it is the one we are most confident about. The magenta came up strong in the tray and it was still strong at the cut, still strong through the drive, and still strong in the clamshell when we handed it over. That last part matters more than it sounds. Plenty of things look great under shed lights at six in the morning and look tired by the time somebody else opens the lid.
+**Color: it held.** We made the swap for color, and it is the result we are most confident about. The magenta came up strong in the tray and it was still strong at the cut, still strong through the drive, and still strong in the clamshell when we handed it over. That last part matters more than it sounds. Plenty of things look great under shed lights at six in the morning and look tired by the time somebody else opens the lid.
 
 **Mold: clean so far.** Every amaranth tray has come off the rack clean. Not one loss yet. We want to be careful with that sentence, because "so far" is doing real work in it. This is a week and a half of runs in one summer, not a season, and [beet](/blog/beet-greens-the-pretty-ones/) does not fail every week either. It fails often enough to be a planning problem. A week and a half of clean amaranth is genuinely encouraging and it is nowhere near enough to call it a fix. Ask us again in October.
 

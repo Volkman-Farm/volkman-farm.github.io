@@ -40,7 +40,7 @@ Outside the run, the labor comes back.
 
 We keep mulch piles in the backyard, and those we turn ourselves. Not on a schedule. Not on a Saturday rhythm, not every two weeks, not when a book says to. We turn them when somebody walks past with a fork in their hand and enough daylight left to care. Sometimes that is twice in a month and sometimes it is not for a season. The piles are forgiving about it, which is most of why the method survives around here.
 
-A pile that gets left alone long enough stops being mulch. It settles, it darkens, and after about a year it is a garden bed. Our oldest daughter's second bed started life as one of those piles, and she did not so much build it as inherit it. That is the whole trick with [sand like ours](/blog/what-florida-sand-taught-us/). You do not make soil over a weekend. You park something on a spot and come back next year.
+A pile that gets left alone long enough stops being mulch. It settles, it darkens, and after about a year it is a garden bed. Our oldest daughter's second bed started life as one of those piles, and she did not so much build it as inherit it. You do not make soil over a weekend in [sand like ours](/blog/what-florida-sand-taught-us/). You park something on a spot and come back next year.
 
 ## The hawks decided where the birds live
 
@@ -52,7 +52,7 @@ The reason is hawks. Central Florida has plenty of them, they are patient, and a
 
 We learned that the way most people learn it. We lost a bird, and our younger daughter was the one who found her. She cried for a full day. We went out for burgers that evening, which is not a homesteading technique, but it was the only thing anybody could think of that helped.
 
-So we built the fixed run and put aviary netting over the top of it. That net is the whole reason the geography changed, because you cannot net a pen that moves. Cover the birds and the cover decides where they live.
+So we built the fixed run and put aviary netting over the top of it. The net is why the geography changed, because you cannot net a pen that moves. Cover the birds and the cover decides where they live.
 
 The tractor did not go away. It just works inside the fixed run now: same pen, same birds, a much shorter drag, always under the netting. They still get put onto ground they have not wrecked yet. They only do it within a fence with a roof.
 

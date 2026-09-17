@@ -28,7 +28,7 @@ Two ways around that. Go dark, with blueberries or cherries or blackberries, whi
 
 Liquid first, then the greens, then the frozen fruit on top.
 
-The blade needs something thin to move before it will pull anything down, and the frozen fruit riding last is what drives the greens into the blades instead of letting them pack up against the lid. Get the order backward and you get green flecks stuck around the rim, which defeats the whole point.
+The blade needs something thin to move before it will pull anything down, and the frozen fruit riding last is what drives the greens into the blades instead of letting them pack up against the lid. Get the order backward and you get green flecks stuck around the rim, which defeats the point.
 
 Blending breaks a leaf down much the way chewing does. We handled what that does and does not let us claim in the spotlight post, with the limits stated plainly, and we are not going to add anything to it here.
 

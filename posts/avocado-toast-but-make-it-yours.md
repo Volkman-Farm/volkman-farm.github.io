@@ -12,7 +12,7 @@ Avocado toast is the pairing everybody thinks of first, which is exactly why it'
 
 The fix is to stop treating them as a garnish and start treating them as the salad course on top of the bread.
 
-Mash the avocado rougher than looks right. A smooth spread has nothing for the greens to hold onto, and a chunky one grabs them. Salt it, acid it, then pile the greens on in a real handful and press down gently with the back of the fork. That press is the whole technique. It seats the stems into the avocado so the thing is structurally one object instead of two.
+Mash the avocado rougher than looks right. A smooth spread has nothing for the greens to hold onto, and a chunky one grabs them. Salt it, acid it, then pile the greens on in a real handful and press down gently with the back of the fork. That press seats the stems into the avocado so the thing is structurally one object instead of two.
 
 Then eat it immediately, because avocado starts going grey the moment it meets air and greens start wilting the moment they meet salt.
 

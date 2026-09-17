@@ -18,7 +18,7 @@ A vinaigrette is salt and acid and oil. Salt on the outside of a leaf pulls wate
 
 So the leaf is not tired at noon. It has been actively dismantled since seven.
 
-Once you see it that way the whole problem reorganizes. It is not about buying hardier lettuce or eating faster. It is about keeping the dressing off the greens until the moment you eat, and keeping the leaf cold and dry in the meantime. Do those two things and a five hour salad is nearly a fresh one.
+Once you see it that way the problem reorganizes. It is not about buying hardier lettuce or eating faster. It is about keeping the dressing off the greens until the moment you eat, and keeping the leaf cold and dry in the meantime. Do those two things and a five hour salad is nearly a fresh one.
 
 ## Some of our greens are built for the wait
 

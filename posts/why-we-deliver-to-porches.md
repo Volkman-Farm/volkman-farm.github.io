@@ -12,7 +12,7 @@ Most small farms that sell straight to you make you come to them. A folding tabl
 
 ## The freshness clock starts at harvest
 
-A microgreen is at its best the day it leaves the tray. Every hour after that is a small step down. When you drive to a market stall, those greens were usually cut the day before and have been sitting in a cooler since. When we set a clamshell on a neighbor's step, the clock started that morning in the [shed](/blog/the-shed-albert-built/) a few miles away. Short clock, better green. The whole point of buying local is the distance, and a pickup lot quietly adds a day back onto it.
+A microgreen is at its best the day it leaves the tray. Every hour after that is a small step down. When you drive to a market stall, those greens were usually cut the day before and have been sitting in a cooler since. When we set a clamshell on a neighbor's step, the clock started that morning in the [shed](/blog/the-shed-albert-built/) a few miles away. Short clock, better green. Buying local is about the distance, and a pickup lot quietly adds a day back onto it.
 
 ## One route a day
 

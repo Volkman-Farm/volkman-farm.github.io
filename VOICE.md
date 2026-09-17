@@ -52,7 +52,11 @@ These are Claude's, not Albert's, not anyone's. Counts are posts out of 65 conta
 - `honest`, `honestly`, `the honest part` (38)
 - `rather than` as the default contrast (29)
 - A sentence opening `That is` (31)
-- **`That is the whole idea / answer / thing`** (17). Worst offender.
+- **`X is the whole <noun>`** (17 as `the whole idea / answer / thing`, 24 more as
+  `the whole point / reason / trick / product / problem / fix`). Worst offender. The
+  three nouns named first were only the visible form of it, so banning them moved the
+  habit onto other nouns instead of killing it. Any noun counts. Literal uses are fine
+  and stay: `the whole tray`, `the whole time`, `put the whole thing somewhere dark`.
 
 The last one names the real habit: **summarizing your own point.** In 55 sentences of
 Albert's writing it happens zero times. He states a fact and stops. Rhodes lets a thesis

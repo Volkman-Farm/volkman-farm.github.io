@@ -20,7 +20,7 @@ Start with the insect, because most people hear "fly" and picture the wrong anim
 
 A black soldier fly is not a housefly. It is bigger, darker, slower, and closer to a wasp in silhouette than to the thing circling your kitchen. The adult does not have working mouthparts. It cannot bite you and it does not eat. It emerges, mates, lays eggs near something rotting, and dies inside about a week. It has no reason to come indoors and no equipment to be a pest with. Research suggests that material already colonized by soldier fly larvae turns houseflies away, which is the opposite of what anyone expects from a bin full of maggots.
 
-All of the eating happens in the larval stage, and the eating is the whole point. Soldier fly larvae are fast. They go through soft food waste at a rate a quiet pile cannot touch, and they generate their own heat doing it. Stick your hand near a working mass of them and it is warm. Melon rinds, fruit gone over, the vegetable ends that got past the chickens: all of it disappears into them.
+All of the eating happens in the larval stage. Soldier fly larvae are fast. They go through soft food waste at a rate a quiet pile cannot touch, and they generate their own heat doing it. Stick your hand near a working mass of them and it is warm. Melon rinds, fruit gone over, the vegetable ends that got past the chickens: all of it disappears into them.
 
 ## Then they leave
 

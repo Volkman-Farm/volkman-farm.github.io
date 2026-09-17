@@ -1,6 +1,6 @@
 ---
 title: Mustard brings the heat
-description: "Mustard micros peak the moment they are cut and quiet down within a day. Why that makes the cut date the whole product, and how to use a green this loud."
+description: "Mustard micros peak the moment they are cut and quiet down within a day. Why the cut date matters more here than anywhere, and how to use a green this loud."
 date: 2026-08-16T09:00:00-04:00
 pillar: Variety spotlight
 hero: /assets/blog/mustard-brings-the-heat.svg
@@ -22,7 +22,7 @@ Mustard carries glucosinolates, mainly sinigrin. Cutting and chewing breaks the 
 
 Those compounds are volatile, which is the plain reason the heat fades. It is leaving.
 
-We wrote up this family of compounds before when [broccoli made the sulforaphane rounds](/blog/broccoli-micros-do-the-heavy-lifting/), and the split is worth stating. In broccoli, the glucosinolate story is the one people bring up for health reasons and we hedge it carefully. In mustard, it is the flavor. It is the whole point of the plant. Nobody eats mustard micros by accident.
+We wrote up this family of compounds before when [broccoli made the sulforaphane rounds](/blog/broccoli-micros-do-the-heavy-lifting/), and the split is worth stating. In broccoli, the glucosinolate story is the one people bring up for health reasons and we hedge it carefully. In mustard, it is the flavor. Nobody eats mustard micros by accident.
 
 Nutritionally it is high in vitamin K and folate and carries the glucosinolates above. We are going to leave that sitting there, same as always.
 

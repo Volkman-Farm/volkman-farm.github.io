@@ -46,7 +46,7 @@ For everybody else in town, the useful thing to know is that Winter Park sits in
 
 The Friday route is built around a sunrise cut. This one is not, and the difference is deliberate.
 
-Greens for a Monday or Wednesday order come off the rack that afternoon, not the night before and not the morning before. They ride in the insulated cooler bag through the worst of the traffic, which is the whole reason the bag exists, and they reach a porch around dinner.
+Greens for a Monday or Wednesday order come off the rack that afternoon, not the night before and not the morning before. They ride in the insulated cooler bag through the worst of the traffic, which is why the bag exists, and they reach a porch around dinner.
 
 That timing does something for you in August that a midday drop cannot. We have written about [the clock that starts when a clamshell lands on your step](/blog/when-the-bag-lands-on-your-porch/), and a porch in Central Florida is not a refrigerator and the hours it eats are the ones nobody counts. A box that arrives at noon sits through the hottest stretch of the day waiting for somebody to come home. A box that arrives at six lands as the day is letting go, into a house that is far more likely to have somebody in it. The odds of it getting carried inside quickly are simply better at that hour, and those odds are most of what the porch clock comes down to.
 

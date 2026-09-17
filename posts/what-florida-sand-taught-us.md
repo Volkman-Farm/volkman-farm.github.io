@@ -18,7 +18,7 @@ The whole problem is in that one picture. Water that leaves that fast takes ever
 
 Because here is what nobody tells you when you move to Florida with a garden already planted in your head. "Just plant a garden" is advice written for somewhere else. It assumes soil. It assumes the ground is a bank you can make a withdrawal from. Our ground is not a bank. It is closer to an empty lot with very good drainage. The dirt is not the starting point here. The dirt is the project.
 
-So we did not plant. We [piled up mulch and waited a year](/blog/permaculture-without-the-jargon/) instead, which sounds like doing nothing and is the whole fix, just stretched over twelve months instead of one weekend. Sand does not turn into soil because you are frustrated with it. It turns into soil because you keep covering it and feeding it and letting the slow things underground do the slow part. We are still not all the way there. You do not fix a soil in a season, you build one over years.
+So we did not plant. We [piled up mulch and waited a year](/blog/permaculture-without-the-jargon/) instead, which sounds like doing nothing and works, just stretched over twelve months instead of one weekend. Sand does not turn into soil because you are frustrated with it. It turns into soil because you keep covering it and feeding it and letting the slow things underground do the slow part. We are still not all the way there. You do not fix a soil in a season, you build one over years.
 
 Week one taught us to stop arguing with the ground and start building it. Just about everything we grow in the yard now traces back to that one afternoon with a shovel and a bucket of vanishing water.
 

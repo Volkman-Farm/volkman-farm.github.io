@@ -34,7 +34,7 @@ We would rather say this part plainly than let you assume.
 
 The first stop on a Friday is forty minutes off the rack. The last one is closer to lunchtime. That is a real difference and it would be silly to pretend otherwise.
 
-What we do about it is mostly [in how the morning is built](/blog/harvest-morning-timeline/). Everything is cut at sunrise, all of it, before any of it goes anywhere. Clamshells ride in an insulated cooler bag instead of loose in the back, which is the whole reason the last stop of the day is still cold when it lands. The bag comes home with us and the clamshell stays on your step, so the one number that matters after that is how long the box sits outside before somebody brings it in.
+What we do about it is mostly [in how the morning is built](/blog/harvest-morning-timeline/). Everything is cut at sunrise, all of it, before any of it goes anywhere. Clamshells ride in an insulated cooler bag instead of loose in the back, which is why the last stop of the day is still cold when it lands. The bag comes home with us and the clamshell stays on your step, so the one number that matters after that is how long the box sits outside before somebody brings it in.
 
 And the engineering answer is that a few hours in a cold bag is not what ages a green. What ages a green is the days after it reaches your fridge, which is why we keep writing about [storing it dry and cold](/blog/how-long-do-microgreens-last/) instead of bragging about our drive times. Cut this morning is cut this morning whether you are the first stop or the last one. The clock that eats your week starts at your house.
 

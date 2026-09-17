@@ -8,7 +8,7 @@ hero_alt: "Line drawing of a front door with a clamshell of microgreens set on t
 image: /assets/blog/when-the-bag-lands-on-your-porch.png
 ---
 
-Bring it inside. That is the whole answer and everything after this is detail.
+Bring it inside. Everything after this is detail.
 
 One small correction to the question first: no bag lands on your porch. What is sitting there is the clamshell by itself. The insulated cooler bag is ours and it leaves with us, because it is doing its job in the back of the car between stops, not on your step. Once the clamshell is down, nothing is keeping it cold except your porch, and in August your porch is not on your side.
 

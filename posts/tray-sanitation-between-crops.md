@@ -28,6 +28,6 @@ So we are doing this on the strength of an argument instead of a scar, and we wo
 
 The other half of the argument is that it is cheap. A hose and a sprayer, on a tray we already have in our hands, in a room we are already standing in.
 
-One thing we want to be very clear about, because it is the whole reason we write these posts carefully. All of this happens to the tray, and only to the tray. Nothing here touches the greens. The product is cut and it goes straight into the clamshell, and it is not washed, rinsed, or treated by us at any point. Our label asks you to wash before using, and that step is yours, at your sink, right before it goes on the plate.
+One thing we want to be very clear about, because it is why we write these posts carefully. All of this happens to the tray, and only to the tray. Nothing here touches the greens. The product is cut and it goes straight into the clamshell, and it is not washed, rinsed, or treated by us at any point. Our label asks you to wash before using, and that step is yours, at your sink, right before it goes on the plate.
 
 The trays get the hose. You get the greens. [See what is on the rack this week](/greens/).

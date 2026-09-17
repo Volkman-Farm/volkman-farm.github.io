@@ -10,7 +10,7 @@ image: /assets/blog/school-lunches-with-a-secret.png
 
 Lunchboxes are back out this month, which means somebody in this house is packing a meal that will not be eaten for five hours, by a person who is not obligated to eat it.
 
-That second part is the whole problem. At dinner you can put a bowl of greens on the table and let everyone build their own, which is [what we do on taco night](/blog/taco-night-needs-a-crunch/) and what we would still recommend. At 11:40 in a cafeteria you are not there. Nothing gets explained. The lunch either works on its own or it comes home in the bag.
+That second part is where lunches fail. At dinner you can put a bowl of greens on the table and let everyone build their own, which is [what we do on taco night](/blog/taco-night-needs-a-crunch/) and what we would still recommend. At 11:40 in a cafeteria you are not there. Nothing gets explained. The lunch either works on its own or it comes home in the bag.
 
 So a packed lunch is the one place we will happily put greens where nobody has to have an opinion about them first.
 

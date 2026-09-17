@@ -20,7 +20,7 @@ Beet seed does not want to wake up. What you sow is not really a seed but a drie
 
 From there it is about fourteen days from seed to cut. For comparison, radish is out of the shed in six to eight. Beet takes double that, and it spends a long stretch of it in the dark. We wrote about [the blackout phase](/blog/the-blackout-phase/) and how most of our trays sit under a brick for around three days. Beet is one of the slow ones we mentioned there, the seed that wants the long end of that range before it has any business seeing a lamp.
 
-That patience is the whole reason it is worth growing. You cannot rush it and you cannot fake it. A beet tray tells you exactly how disciplined you were two weeks ago.
+That patience is why it's worth growing. You cannot rush it and you cannot fake it. A beet tray tells you exactly how disciplined you were two weeks ago.
 
 ## The part where it goes wrong
 

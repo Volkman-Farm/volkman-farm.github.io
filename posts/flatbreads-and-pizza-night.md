@@ -18,7 +18,7 @@ Pizza has 2 wrinkles the pasta and soup versions don't, and they're the reason a
 
 The fix is a dressing, and barely any of one. Toss the greens in olive oil and lemon or a splash of vinegar, just enough to make them cling to each other and to the cheese. That's the difference between a salad on top of a pizza and greens that fall off a pizza. It also seasons them, which a bare handful of anything on a rich slice badly needs.
 
-What to use. **Arugula** is the classic for a reason and it's better here than the mature stuff, since it brings pepper without the bitterness fighting the tomato. **Mustard** on anything with sausage or a hot honey drizzle. **Pea** on a white pizza or a flatbread with ricotta, where sweet against fat is the whole point. **Broccoli or kale** if the pizza is for kids who will pick off anything with an opinion.
+What to use. **Arugula** is the classic for a reason and it's better here than the mature stuff, since it brings pepper without the bitterness fighting the tomato. **Mustard** on anything with sausage or a hot honey drizzle. **Pea** on a white pizza or a flatbread with ricotta, where the sweetness plays against the fat. **Broccoli or kale** if the pizza is for kids who will pick off anything with an opinion.
 
 Flatbreads are the easier version of all of this. Less cheese, less heat held, more surface. Grill or broil the bread, spread whatever you're spreading, then a dressed handful on top and cut it into strips.
 

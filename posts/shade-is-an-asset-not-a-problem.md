@@ -28,7 +28,7 @@ Building shade is the one we have the most control over and have done the least 
 
 And then there is the part where shade is genuinely a cost, because it is not a free lunch and this post would be dishonest if it stopped at the good news.
 
-The front three-quarter acre is the cover crop stand. That mix is rated for eight or more hours of sun and it is doing a job that needs the energy: it is out there making biomass, which is the whole point of putting it in. Shade over that ground would be a straight loss. We would be trading the thing we planted it for. So the front stays open, and if a volunteer tree ever comes up in the middle of it, that tree is in the wrong place regardless of how nice a tree it is.
+The front three-quarter acre is the cover crop stand. That mix is rated for eight or more hours of sun and it is doing a job that needs the energy: it is out there making biomass. Shade over that ground would be a straight loss. We would be trading the thing we planted it for. So the front stays open, and if a volunteer tree ever comes up in the middle of it, that tree is in the wrong place regardless of how nice a tree it is.
 
 The skill, if there is one, is not deciding whether shade is good. It is deciding where.
 

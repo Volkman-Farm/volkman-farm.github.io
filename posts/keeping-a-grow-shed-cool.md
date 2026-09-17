@@ -42,4 +42,4 @@ There is no clever fix for it. Go in with a list, do everything on the list, com
 
 We said in the shed post that we would publish what all of this costs per month instead of guessing at it, and that promise still stands unpaid. We are still metering. Constant lights, an air conditioner, and a dehumidifier running through a Florida summer is not a small bill, and the only version of that figure worth printing is a real one. When we have it, it goes here.
 
-What we can tell you is that it gets spent so a tray in July looks like a tray in February. That steadiness is the whole reason the shed exists, and it is what shows up on your porch. [Start an order](/order/) and see what a hot month tastes like when the room never noticed it.
+What we can tell you is that it gets spent so a tray in July looks like a tray in February. That steadiness is why the shed exists, and it is what shows up on your porch. [Start an order](/order/) and see what a hot month tastes like when the room never noticed it.

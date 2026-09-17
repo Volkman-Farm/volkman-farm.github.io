@@ -20,4 +20,4 @@ Adding a stop to a route we already drive is easy. It is a few minutes and a cou
 
 So tell us. When you [place an order](/order/), pick the listed neighborhood closest to you and put your actual street in the notes. We will tell you straight whether it works this week, or whether we are one or two neighbors short of making it work. Nobody gets strung along about it.
 
-One thing worth adding, because it comes up: being on a route does not mean being home. You never have to be. The greens ride in an insulated cooler bag, the clamshell goes on the porch, and you get [a text that morning](/blog/the-text-before-the-drop/) with a window. Your street being on the map is the whole ask. The rest is on us.
+One thing worth adding, because it comes up: being on a route does not mean being home. You never have to be. The greens ride in an insulated cooler bag, the clamshell goes on the porch, and you get [a text that morning](/blog/the-text-before-the-drop/) with a window. Your street on the map is all we need from you. The rest is on us.
