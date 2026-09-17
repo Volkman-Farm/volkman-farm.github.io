@@ -150,6 +150,7 @@
   --measure:        60ch;
   --measure-wide:   80ch;
   --measure-page:   68rem;    /* homepage bands, wider than the reading column */
+  --header-height:  88px;     /* fixed bar, desktop only */
   --gutter-mobile:  16px;
   --gutter-desktop: 24px;
   --gutter:         var(--gutter-mobile);   /* live gutter, full-bleed bands negate it */
@@ -349,12 +350,59 @@ a:focus-visible {
 }
 
 
-/* ---------- 8. Header (logo) ---------- */
+/* ---------- 8. Site header ---------- */
+/* Mobile keeps the stacked mark over a centred nav. From 768px up it becomes a
+   fixed single row: mark left, nav centre, order button right. */
+.site-header__brand { display: block; }
+
 #logo {
   display: block;
   margin: var(--space-7) auto var(--space-2);
   width: min(55%, 220px);
   height: auto;
+}
+
+.site-header__actions { text-align: center; }
+
+/* The order button is the nav item for /order/, so it carries the current state. */
+.site-header__actions .btn[aria-current="page"] {
+  background: var(--alpine-deep);
+  border-color: var(--ink);
+}
+
+@media (min-width: 768px) {
+  html { scroll-padding-top: var(--header-height); }
+
+  body { padding-top: var(--header-height); }
+
+  .site-header {
+    position: fixed;
+    inset: 0 0 auto;
+    z-index: var(--z-sticky);
+    height: var(--header-height);
+    padding: 0 var(--gutter);
+    background: rgba(245, 234, 211, 0.95);
+    backdrop-filter: blur(10px);
+    border-bottom: var(--border-hair) solid var(--rule);
+  }
+
+  .site-header__inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-5);
+    width: min(var(--measure-page), 100%);
+    height: 100%;
+    margin: 0 auto;
+  }
+
+  #logo {
+    width: auto;
+    height: 64px;
+    margin: 0;
+  }
+
+  .site-header__actions { text-align: right; }
 }
 
 
@@ -401,6 +449,16 @@ nav[aria-label="Primary"] a[aria-current="page"] {
   color: var(--alpine-deep);
   border-bottom: 2px solid var(--alpine);
   padding-bottom: 2px;
+}
+
+/* In the fixed bar the list is a row in a flex slot, not a centred block. */
+@media (min-width: 768px) {
+  nav[aria-label="Primary"] ul {
+    width: auto;
+    margin: 0;
+    flex-wrap: nowrap;
+    gap: 0;
+  }
 }
 
 
@@ -462,6 +520,13 @@ input[type="submit"]:disabled,
   color: var(--bark);
   border-color: var(--bark);
   cursor: not-allowed;
+}
+
+/* Compact, for the header slot where 220px would crowd the nav. */
+.btn--sm {
+  min-width: 0;
+  padding: 10px 20px;
+  font-size: var(--fs-small);
 }
 
 /* Secondary, used for "Read about each variety" style supporting actions. */
@@ -1191,6 +1256,14 @@ footer p {
     padding: 0;
     background-image: none;
   }
+  .site-header {
+    position: static;
+    height: auto;
+    padding: 0;
+    background: none;
+    border: 0;
+  }
+  .site-header__actions { display: none; }
   nav, footer, .cta-row, input[type="submit"], .banner, .cta-band { display: none; }
   a { color: #000; text-decoration: underline; }
   #logo { width: 220px; }

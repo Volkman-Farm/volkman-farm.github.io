@@ -79,28 +79,34 @@
     </script>
   </head>
   <body{% if page.url == "/restaurants/" %} data-page="wholesale"{% endif %}>
+    <header class="site-header">
+      <div class="site-header__inner">
+        <a class="site-header__brand" href="/" aria-label="Volkman Farm home"><img id="logo" src="/assets/logo.webp" alt="Volkman Farm, Orlando-area microgreens"></a>
+        <nav aria-label="Primary">
+          <ul>
+            <li><a href="/greens/"{% if page.url == "/greens/" %} aria-current="page"{% endif %}>greens</a></li>
+            <li><a href="/delivery/"{% if page.url == "/delivery/" %} aria-current="page"{% endif %}>delivery</a></li>
+            <li><a href="/pricing/"{% if page.url == "/pricing/" %} aria-current="page"{% endif %}>pricing</a></li>
+            <li><a href="/blog/"{% if page.url == "/blog/" %} aria-current="page"{% endif %}>blog</a></li>
+            <li><a href="/about/"{% if page.url == "/about/" %} aria-current="page"{% endif %}>about</a></li>
+          </ul>
+        </nav>
+        <div class="site-header__actions">
+          <a class="btn btn--sm" href="/order/"{% if page.url == "/order/" %} aria-current="page"{% endif %}>Order</a>
+        </div>
+      </div>
+    </header>
     <main>
-      <a href="/" aria-label="Volkman Farm home"><img id="logo" src="/assets/logo.webp" alt="Volkman Farm, Orlando-area microgreens"></a>
-      <nav aria-label="Primary">
-        <ul>
-          <li><a href="/order/"{% if page.url == "/order/" %} aria-current="page"{% endif %}>order</a></li>
-          <li><a href="/greens/"{% if page.url == "/greens/" %} aria-current="page"{% endif %}>greens</a></li>
-          <li><a href="/delivery/"{% if page.url == "/delivery/" %} aria-current="page"{% endif %}>delivery</a></li>
-          <li><a href="/pricing/"{% if page.url == "/pricing/" %} aria-current="page"{% endif %}>pricing</a></li>
-          <li><a href="/blog/"{% if page.url == "/blog/" %} aria-current="page"{% endif %}>blog</a></li>
-          <li><a href="/about/"{% if page.url == "/about/" %} aria-current="page"{% endif %}>about</a></li>
-        </ul>
-      </nav>
       {% unless hero %}<h1>{{ title }}</h1>{% endunless %}
       {{ content }}
-      <footer>
+    </main>
+    <footer>
         <ul>
           <li><a href="/subscribe/">subscribe &amp; save</a></li>
           <li><a href="/restaurants/">for chefs</a></li>
           <li><a href="mailto:micros@volkman.farm">micros@volkman.farm</a></li>
         </ul>
         <p>Volkman Farm · Sanford, FL · family-grown microgreens</p>
-      </footer>
-    </main>
+    </footer>
   </body>
 </html>
