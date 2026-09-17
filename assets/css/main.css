@@ -25,11 +25,12 @@
     18. FAQ disclosure
     19. Blog (post list + post meta)
     20. Footer
-    21. Wholesale variant ([data-page="wholesale"])
-    22. Mobile tweaks
-    23. Larger screens
-    24. Motion preferences
-    25. Print
+    21. Homepage sections (hero, bands, offerings, CTA band)
+    22. Wholesale variant ([data-page="wholesale"])
+    23. Mobile tweaks
+    24. Larger screens
+    25. Motion preferences
+    26. Print
    ============================================================ */
 
 
@@ -148,8 +149,10 @@
   /* Layout */
   --measure:        60ch;
   --measure-wide:   80ch;
+  --measure-page:   68rem;    /* homepage bands, wider than the reading column */
   --gutter-mobile:  16px;
   --gutter-desktop: 24px;
+  --gutter:         var(--gutter-mobile);   /* live gutter, full-bleed bands negate it */
 
   /* Borders */
   --border-hair:  1px;
@@ -183,7 +186,7 @@ html {
 
 body {
   margin: 0;
-  padding: 0 var(--gutter-mobile) var(--space-8);
+  padding: 0 var(--gutter) var(--space-8);
   color: var(--ink);
   background-color: var(--cream);
   font-family: var(--body);
@@ -924,7 +927,192 @@ footer p {
 }
 
 
-/* ---------- 21. Wholesale variant ---------- */
+/* ---------- 21. Homepage sections ---------- */
+/* Full-bleed band. The negative gutter cancels the body padding exactly,
+   so no 100vw and no scrollbar overflow. */
+.band {
+  margin-left: calc(-1 * var(--gutter));
+  margin-right: calc(-1 * var(--gutter));
+  padding: var(--space-9) var(--gutter);
+}
+
+.band--surface { background: var(--surface); }
+
+.band__inner {
+  width: min(var(--measure-page), 100%);
+  margin: 0 auto;
+}
+
+/* Hero. Text left, 4:5 image right, stacked below 768px. */
+.hero {
+  padding-top: var(--space-7);
+  padding-bottom: var(--space-9);
+}
+
+.hero__grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: var(--space-7);
+  align-items: center;
+}
+
+.hero__content { max-width: 34rem; }
+
+.hero .eyebrow {
+  margin: 0 0 var(--space-3);
+  text-align: left;
+}
+
+.hero h1 {
+  width: auto;
+  margin: 0 0 var(--space-5);
+  font-size: clamp(2.25rem, 5vw, 3.5rem);
+  text-align: left;
+}
+
+.hero h1 .accent { color: var(--alpine); }
+
+.hero p {
+  width: auto;
+  margin: 0 0 var(--space-6);
+  font-size: var(--fs-lead);
+  line-height: var(--lh-snug);
+}
+
+.hero__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-4);
+}
+
+.hero__figure { margin: 0; }
+
+/* Offset hard shadow, the same idiom as .card:hover. */
+.hero__figure img {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  box-shadow: 14px 14px 0 0 rgba(138, 126, 58, 0.22);
+}
+
+/* Centred section header: eyebrow, heading, one-line deck. */
+.section-head {
+  width: min(46rem, 100%);
+  margin: 0 auto var(--space-7);
+  text-align: center;
+}
+
+.section-head .eyebrow { margin-top: 0; }
+
+.section-head h2 { width: auto; margin: 0 0 var(--space-3); }
+
+.section-head p {
+  width: auto;
+  margin: 0;
+  color: var(--bark);
+}
+
+/* Three-up offerings. Transparent until hover, so the band stays calm. */
+.offerings {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: var(--space-5);
+}
+
+.offering {
+  display: flex;
+  flex-direction: column;
+  padding: var(--space-6);
+  background: transparent;
+  border: var(--border-hair) solid var(--rule);
+  border-radius: 2px;
+  color: var(--ink);
+  text-decoration: none;
+  transition: background var(--t-normal), border-color var(--t-normal),
+              transform var(--t-normal), box-shadow var(--t-normal);
+}
+
+.offering:hover,
+.offering:focus-visible {
+  background: var(--cream);
+  border-color: var(--alpine);
+  transform: translateY(-4px);
+  box-shadow: 0 12px 28px rgba(31, 36, 25, 0.08);
+}
+
+.offering:focus-visible {
+  outline: var(--focus-ring);
+  outline-offset: var(--focus-offset);
+}
+
+.offering h3 {
+  width: auto;
+  margin: 0 0 var(--space-3);
+  text-align: left;
+}
+
+.offering:hover h3 { color: var(--alpine); }
+
+.offering p {
+  width: auto;
+  margin: 0;
+  flex-grow: 1;
+  text-align: left;
+}
+
+.offering__more {
+  margin-top: var(--space-5);
+  font-family: var(--ui);
+  font-size: var(--fs-small);
+  font-weight: 600;
+  letter-spacing: var(--ls-ui);
+  text-transform: uppercase;
+  color: var(--alpine-deep);
+}
+
+/* Closing call to action, ink band. */
+.cta-band {
+  background: var(--ink);
+  color: var(--cream);
+  text-align: center;
+}
+
+.cta-band h2,
+.cta-band p {
+  width: min(42rem, 100%);
+  margin-left: auto;
+  margin-right: auto;
+  color: var(--cream);
+}
+
+.cta-band h2 { margin-top: 0; }
+
+.cta-band p { margin-bottom: var(--space-6); }
+
+.cta-band .btn {
+  background: var(--cream);
+  border-color: var(--cream);
+  color: var(--ink);
+}
+
+.cta-band .btn:hover {
+  background: var(--alpine);
+  border-color: var(--alpine);
+  color: var(--cream);
+}
+
+.cta-band .btn:focus-visible {
+  outline: 3px solid var(--cream);
+  outline-offset: var(--focus-offset);
+}
+
+@media (min-width: 768px) {
+  .hero__grid { grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); }
+  .offerings { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+
+
+/* ---------- 22. Wholesale variant ---------- */
 /* Per BRAND.md 10.3, the wholesale page uses: cream, ink, alpine, bark.
    No burgundy. No olive. No gator. The body gets
    data-page="wholesale" via the layout. */
@@ -955,9 +1143,9 @@ footer p {
 }
 
 
-/* ---------- 22. Mobile tweaks ---------- */
+/* ---------- 23. Mobile tweaks ---------- */
 @media (max-width: 720px) {
-  body { padding: 0 12px var(--space-7); }
+  body { --gutter: 12px; padding-bottom: var(--space-7); }
   #logo { width: 60%; margin-top: var(--space-5); }
   h1 { margin-top: var(--space-3); }
   p,
@@ -978,13 +1166,13 @@ footer p {
 }
 
 
-/* ---------- 23. Larger screens ---------- */
+/* ---------- 24. Larger screens ---------- */
 @media (min-width: 1024px) {
-  body { padding-left: var(--gutter-desktop); padding-right: var(--gutter-desktop); }
+  body { --gutter: var(--gutter-desktop); }
 }
 
 
-/* ---------- 24. Motion preferences ---------- */
+/* ---------- 25. Motion preferences ---------- */
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,
@@ -995,7 +1183,7 @@ footer p {
 }
 
 
-/* ---------- 25. Print ---------- */
+/* ---------- 26. Print ---------- */
 @media print {
   body {
     background: #fff;
@@ -1003,7 +1191,7 @@ footer p {
     padding: 0;
     background-image: none;
   }
-  nav, footer, .cta-row, input[type="submit"], .banner { display: none; }
+  nav, footer, .cta-row, input[type="submit"], .banner, .cta-band { display: none; }
   a { color: #000; text-decoration: underline; }
   #logo { width: 220px; }
 }

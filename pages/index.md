@@ -3,13 +3,47 @@ title: Fresh Microgreens Delivered Weekly in Orlando
 description: Family-grown microgreens hand-delivered across the Orlando metro, including Lake Mary, Sanford, Winter Park, Oviedo, College Park and more. Ten varieties, organic seeds, harvested the morning we deliver.
 permalink: /
 layout: default
+hero: true
 ---
 
-Grown fresh. Hand-delivered. Alive this morning. Yours by dinner.
+<section class="band hero">
+<div class="band__inner hero__grid">
+<div class="hero__content">
+<span class="eyebrow">Sanford, Florida</span>
+<h1>Grown fresh.<br>Hand-delivered.<br>Alive this morning.<br><span class="accent">Yours by dinner.</span></h1>
+<p>Five Volkmans live in Sanford. We grow ten varieties of microgreens in a shed out back, cut them the morning we deliver, and hand them to neighbors across the Orlando metro. No grocery middleman. No plastic clamshell from Tuesday.</p>
+<div class="hero__actions"><a class="btn" href="/order/">For my kitchen</a><a class="btn btn--secondary" href="/restaurants/">For my restaurant</a></div>
+</div>
+<figure class="hero__figure"><img src="/assets/ig/2026-08-10-broccoli-1.jpg" width="1080" height="1350" alt="A dense tray of broccoli microgreens in the shed, ready to cut"></figure>
+</div>
+</section>
 
-Five Volkmans live in Sanford. We grow ten varieties of microgreens in a shed out back, cut them the morning we deliver, and hand them to neighbors across the Orlando metro. No grocery middleman. No plastic clamshell from Tuesday.
-
-[**For my kitchen →**](/order/) · [**For my restaurant →**](/restaurants/)
+<section class="band band--surface">
+<div class="band__inner">
+<div class="section-head">
+<span class="eyebrow">Three ways to buy</span>
+<h2>Pick the one that fits</h2>
+<p>Same greens, same morning harvest. The difference is who you are buying for.</p>
+</div>
+<div class="offerings">
+<a class="offering" href="/order/">
+<h3>A weekly delivery</h3>
+<p>One fixed day a week for your neighborhood, dropped on the porch. Pick your greens, pay when we hand them over.</p>
+<span class="offering__more">Start an order</span>
+</a>
+<a class="offering" href="/subscribe/">
+<h3>A standing order</h3>
+<p>The same greens on the same day, ten percent off. Skip any week by text. No card on file, no portal to log into.</p>
+<span class="offering__more">Stand an order</span>
+</a>
+<a class="offering" href="/restaurants/">
+<h3>For a kitchen</h3>
+<p>Cut the morning of service and brought straight to the line. Direct chef to grower, with no distributor in between.</p>
+<span class="offering__more">Wholesale</span>
+</a>
+</div>
+</div>
+</section>
 
 ## Why our greens
 
@@ -91,3 +125,11 @@ Five Volkmans live in Sanford. We grow ten varieties of microgreens in a shed ou
 ---
 
 *Are you a chef or restaurant?* We do [wholesale microgreens for Orlando-area kitchens](/restaurants/). Direct chef-to-grower, harvested the morning of service.
+
+<section class="band cta-band">
+<div class="band__inner">
+<h2>Ten varieties, cut the morning we bring them</h2>
+<p>A flat $3.50 an ounce. Tell us your street and we will tell you which day we are on it.</p>
+<a class="btn" href="/order/">Start your order</a>
+</div>
+</section>
