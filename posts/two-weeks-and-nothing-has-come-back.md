@@ -26,9 +26,9 @@ What I'd rather sit with is that the fence was up the whole time in August. It e
 
 They're improving. They're also still in the brooder, 2 weeks on, and I want to be accurate about that because "recovering" and "recovered" are different words and we're only entitled to the first one.
 
-They eat. They move around. They aren't back with the rest of the flock and I'm not going to guess at a date, because the last time I had a confident timeline about these birds I was wrong about it in a way that cost something.
+Sequoia is much further along. Mark got hurt worse and is slowly regrowing her feathers. Mark is a hen, for the record. The kids named her back when they were certain she was a rooster, and the name stayed.
 
-The paddocks held, the fence was the problem, and 2 birds are still in a plastic tub in the shed getting better slowly.
+Some afternoons we let them out for a while to get some movement, then they go back in. They aren't back with the rest of the flock and I'm not going to guess at a date, because the last time I had a confident timeline about these birds I was wrong about it in a way that cost something.
 
 The part I keep turning over is the one from the last post, which is that we'd armored the direction we were last hurt from. Hawks took birds, so we put netting up, and the netting worked exactly as designed while something walked in at ground level through a fence we'd already decided was handled.
 
