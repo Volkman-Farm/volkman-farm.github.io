@@ -190,30 +190,31 @@ b+=g(rain, BR, 5)
 FILES['rain-days-and-route-days']=(
  "Line drawing of a covered porch with a clamshell of greens tucked into a dry corner beside the door, rain falling in straight lines beyond the overhang", b)
 
-# ------------------------------------------------------ Sep 18 seeding by feel
+# ------------------------------------------------------ Sep 18 every tray weighed
 b =ground(540, 100, 1100)
-b+=g('    <rect x="376" y="470" width="464" height="70" rx="6"/>\n'
-     '    <path d="M376 494 H 840"/>\n')
-b+=g('    <path d="M232 168 L 330 244"/>\n    <path d="M286 132 L 384 208"/>\n'
-     '    <path d="M330 244 C 306 274 312 318 344 344 C 378 372 438 372 468 346 '
-     'C 492 326 496 292 478 268 C 460 244 424 232 392 234 C 360 236 348 230 330 244 Z"/>\n'
-     '    <path d="M362 350 C 372 330 374 308 366 292"/>\n'
-     '    <path d="M400 358 C 410 336 410 314 402 298"/>\n'
-     '    <path d="M438 350 C 448 330 446 308 438 294"/>\n'
-     '    <path d="M478 268 C 500 276 510 298 502 318 C 494 336 472 340 458 330"/>\n', BR, 7)
+# scale: base, platform slab, display
+b+=g('    <rect x="280" y="434" width="400" height="106" rx="8"/>\n'
+     '    <rect x="266" y="398" width="428" height="36" rx="8"/>\n'
+     '    <rect x="340" y="456" width="150" height="46" rx="5"/>\n', BR, 8)
+b+=g('    <path d="M366 479 H 388"/>\n    <path d="M400 479 H 424"/>\n'
+     '    <path d="M436 479 H 456"/>\n', OL, 5)
+# bowl of seed sitting on the platform
+b+=g('    <path d="M280 286 C 310 438 650 438 680 286"/>\n'
+     '    <path d="M280 286 H 680"/>\n', BR, 8)
 seeds=""
 import random
-random.seed(7)
-for i in range(26):
-    x=random.randint(360,760); y=random.randint(404,504); r=random.choice((5,6,6,7))
-    seeds+=f'    <circle cx="{x}" cy="{y}" r="{r}"/>\n'
+random.seed(11)
+for i in range(30):
+    x=random.randint(322,638)
+    lift=int(30*(1-abs(x-480)/175.0))
+    y=random.randint(286-max(lift,8), 284)
+    seeds+=f'    <circle cx="{x}" cy="{y}" r="{random.choice((5,6,6,7))}"/>\n'
 b+=g(seeds, DK, 0, DK)
-b+=g('    <rect x="940" y="486" width="190" height="54" rx="10"/>\n'
-     '    <path d="M926 486 H 1144"/>\n'
-     '    <rect x="1042" y="500" width="70" height="26" rx="4"/>\n', BR, 7)
-b+=g('    <path d="M1056 514 H 1070"/>\n    <path d="M1082 514 H 1098"/>\n', OL, 5)
-FILES['seeding-by-feel-not-by-the-gram']=(
- "Line drawing of a hand scattering seed across a shallow tray, with a kitchen scale pushed off to the side and unused", b)
+# the tray it is going into, still bare
+b+=g('    <rect x="800" y="452" width="330" height="88" rx="6"/>\n'
+     '    <path d="M800 482 H 1130"/>\n', BR, 8)
+FILES['every-tray-gets-weighed']=(
+ "Line drawing of a kitchen scale holding a bowl of seed, with a bare seeding tray waiting beside it", b)
 
 # ---------------------------------------------------------- Sep 19 gift card
 b =g('    <path d="M340 400 H 880"/>\n'

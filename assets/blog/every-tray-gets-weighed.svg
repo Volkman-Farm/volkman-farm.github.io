@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a kitchen scale holding a bowl of seed, with a bare seeding tray waiting beside it">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 540 H 1100"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="280" y="434" width="400" height="106" rx="8"/>
+    <rect x="266" y="398" width="428" height="36" rx="8"/>
+    <rect x="340" y="456" width="150" height="46" rx="5"/>
+  </g>
+
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M366 479 H 388"/>
+    <path d="M400 479 H 424"/>
+    <path d="M436 479 H 456"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M280 286 C 310 438 650 438 680 286"/>
+    <path d="M280 286 H 680"/>
+  </g>
+
+  <g fill="#1f2419" stroke="#1f2419" stroke-width="0" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="553" cy="283" r="7"/>
+    <circle cx="582" cy="283" r="6"/>
+    <circle cx="416" cy="283" r="7"/>
+    <circle cx="636" cy="284" r="6"/>
+    <circle cx="370" cy="282" r="6"/>
+    <circle cx="394" cy="272" r="5"/>
+    <circle cx="626" cy="281" r="7"/>
+    <circle cx="637" cy="283" r="6"/>
+    <circle cx="329" cy="284" r="5"/>
+    <circle cx="352" cy="278" r="6"/>
+    <circle cx="445" cy="281" r="5"/>
+    <circle cx="559" cy="275" r="7"/>
+    <circle cx="624" cy="284" r="6"/>
+    <circle cx="587" cy="278" r="6"/>
+    <circle cx="577" cy="273" r="5"/>
+    <circle cx="556" cy="280" r="6"/>
+    <circle cx="530" cy="282" r="5"/>
+    <circle cx="452" cy="271" r="6"/>
+    <circle cx="584" cy="278" r="5"/>
+    <circle cx="357" cy="282" r="5"/>
+    <circle cx="527" cy="268" r="6"/>
+    <circle cx="519" cy="265" r="5"/>
+    <circle cx="322" cy="279" r="6"/>
+    <circle cx="348" cy="281" r="7"/>
+    <circle cx="525" cy="277" r="5"/>
+    <circle cx="611" cy="283" r="6"/>
+    <circle cx="460" cy="270" r="5"/>
+    <circle cx="481" cy="267" r="5"/>
+    <circle cx="531" cy="268" r="6"/>
+    <circle cx="448" cy="284" r="5"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="800" y="452" width="330" height="88" rx="6"/>
+    <path d="M800 482 H 1130"/>
+  </g>
+
+</svg>

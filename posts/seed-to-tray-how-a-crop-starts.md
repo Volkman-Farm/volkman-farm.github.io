@@ -18,7 +18,7 @@ The tray itself is clean. We wash and dry equipment between crops, because a tra
 
 ## How much seed goes down
 
-Then the seed. It all comes from [True Leaf Market](https://www.trueleafmarket.com/), organic, and every variety has its own density. A tray of [radish](/greens/radish/) wants a different amount than a tray of tiny basil, and finding that number is most of the craft. Too little seed and the tray looks thin and grows lonely. Too much and the seedlings crowd, trap moisture against each other, and invite mold. We scatter by hand and by feel, aiming for a single even layer where seeds sit shoulder to shoulder without piling up.
+Then the seed. It all comes from [True Leaf Market](https://www.trueleafmarket.com/), organic, and every variety has its own density. A tray of [radish](/greens/radish/) wants a different amount than a tray of tiny basil, and finding that number is most of the craft. Too little seed and the tray looks thin and grows lonely. Too much and the seedlings crowd, trap moisture against each other, and invite mold. Every tray gets weighed, and then the seed goes down in a single even layer where seeds sit shoulder to shoulder without piling up.
 
 Bigger seeds drink first. Our [peas](/greens/pea/) go for an overnight soak before they ever hit soil, so they swell and sprout in a hurry instead of sitting there deciding. Smaller seed goes down dry, straight onto the leveled bed.
 
