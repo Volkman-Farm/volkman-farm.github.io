@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a closed cardboard shipping box with tape across the top and a wall calendar beside it with several days crossed off">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <path d="M120 560 H 1080" fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- box, three-quarter view -->
+  <g fill="#f5ead3" stroke="#5c4633" stroke-width="8" stroke-linejoin="round">
+    <path d="M220 330 L 440 330 L 440 560 L 220 560 Z"/>
+    <path d="M440 330 L 560 280 L 560 500 L 440 560 Z"/>
+    <path d="M220 330 L 340 280 L 560 280 L 440 330 Z"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="10" stroke-linecap="round">
+    <path d="M280 305 L 500 305"/>
+    <path d="M330 330 V 380"/>
+  </g>
+  <!-- label -->
+  <rect x="258" y="410" width="120" height="70" rx="4" fill="none" stroke="#1f2419" stroke-width="5"/>
+  <g fill="none" stroke="#1f2419" stroke-width="4" stroke-linecap="round">
+    <path d="M274 432 H 360"/><path d="M274 452 H 340"/>
+  </g>
+
+  <!-- calendar -->
+  <path d="M800 90 V 120" stroke="#5c4633" stroke-width="7" stroke-linecap="round"/>
+  <rect x="660" y="120" width="340" height="360" rx="10" fill="#f5ead3" stroke="#1f2419" stroke-width="7"/>
+  <path d="M660 176 H 1000" stroke="#1f2419" stroke-width="6"/>
+  <g fill="none" stroke="#5c4633" stroke-width="4">
+    <path d="M660 252 H 1000"/><path d="M660 328 H 1000"/><path d="M660 404 H 1000"/>
+    <path d="M745 176 V 480"/><path d="M830 176 V 480"/><path d="M915 176 V 480"/>
+  </g>
+  <!-- days gone -->
+  <g fill="none" stroke="#6b2a2f" stroke-width="6" stroke-linecap="round">
+    <path d="M680 196 L 726 234"/><path d="M726 196 L 680 234"/>
+    <path d="M765 196 L 811 234"/><path d="M811 196 L 765 234"/>
+    <path d="M850 196 L 896 234"/><path d="M896 196 L 850 234"/>
+  </g>
+  <!-- the day it gets opened -->
+  <circle cx="957" cy="215" r="26" fill="none" stroke="#3a5a2a" stroke-width="6"/>
+</svg>

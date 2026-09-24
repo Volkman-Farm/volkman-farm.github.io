@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of three kale plants in a row at increasing size, a tiny seedling with two round leaves, a small plant with a few ruffled leaves, and a full grown plant with large curled leaves">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <path d="M100 540 H 1100" fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- micro -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M230 540 V 470"/>
+    <path d="M230 472 C 210 474 196 462 198 450 C 214 446 228 456 230 472"/>
+    <path d="M230 472 C 250 474 264 462 262 450 C 246 446 232 456 230 472"/>
+  </g>
+
+  <!-- baby -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M520 540 V 400"/>
+    <path d="M520 470 C 480 470 452 444 454 410 C 490 414 514 440 520 470"/>
+    <path d="M520 450 C 560 452 588 424 586 390 C 550 394 526 420 520 450"/>
+    <path d="M520 410 C 506 380 508 350 526 334 C 540 356 536 386 520 410"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="3" stroke-linecap="round">
+    <path d="M466 418 l 6 -6 M 478 428 l 6 -6 M 490 440 l 6 -6"/>
+    <path d="M574 398 l -6 -6 M 562 408 l -6 -6 M 550 420 l -6 -6"/>
+  </g>
+
+  <!-- full size -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M880 540 V 260"/>
+    <path d="M880 470 C 800 480 740 440 736 370 C 800 368 860 410 880 470"/>
+    <path d="M880 430 C 960 440 1020 400 1024 330 C 960 328 900 370 880 430"/>
+    <path d="M880 370 C 820 360 780 310 790 250 C 850 262 876 316 880 370"/>
+    <path d="M880 330 C 940 320 980 270 972 210 C 912 222 884 276 880 330"/>
+    <path d="M880 280 C 862 240 864 196 888 170 C 906 200 900 244 880 280"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="4" stroke-linecap="round">
+    <path d="M750 380 l 8 -8 M 770 398 l 8 -8 M 792 414 l 8 -8 M 816 430 l 8 -8"/>
+    <path d="M1010 340 l -8 -8 M 990 358 l -8 -8 M 968 374 l -8 -8 M 944 390 l -8 -8"/>
+    <path d="M798 262 l 9 -4 M 812 286 l 9 -4 M 830 312 l 9 -4"/>
+    <path d="M962 222 l -9 -4 M 948 246 l -9 -4 M 930 272 l -9 -4"/>
+  </g>
+  <!-- day marks -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round">
+    <path d="M200 575 H 260"/><path d="M470 575 H 570"/><path d="M780 575 H 980"/>
+  </g>
+</svg>

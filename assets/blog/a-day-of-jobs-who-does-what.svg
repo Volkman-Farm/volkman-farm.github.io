@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a workbench laid out left to right with a seed scale and an empty tray, a harvest knife beside a cut tray, a stack of closed clamshells, and a set of car keys at the far end">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- shop light over the bench -->
+  <g fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round">
+    <path d="M360 40 V 130"/><path d="M840 40 V 130"/>
+  </g>
+  <rect x="300" y="130" width="600" height="34" rx="10" fill="#f5ead3" stroke="#1f2419" stroke-width="7"/>
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round">
+    <path d="M360 190 L 330 250"/><path d="M480 190 L 470 260"/><path d="M600 190 V 264"/>
+    <path d="M720 190 L 730 260"/><path d="M840 190 L 870 250"/>
+  </g>
+
+  <!-- bench -->
+  <path d="M80 430 H 1120" fill="none" stroke="#5c4633" stroke-width="10" stroke-linecap="round"/>
+  <path d="M80 452 H 1120" fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round"/>
+  <g fill="none" stroke="#5c4633" stroke-width="10" stroke-linecap="round">
+    <path d="M130 452 V 580"/><path d="M1070 452 V 580"/>
+  </g>
+
+  <!-- 1. scale with seed, and an empty tray -->
+  <g fill="#f5ead3" stroke="#1f2419" stroke-width="7" stroke-linejoin="round">
+    <path d="M110 430 L 124 380 H 236 L 250 430 Z"/>
+    <rect x="130" y="358" width="100" height="22" rx="4"/>
+  </g>
+  <rect x="150" y="400" width="60" height="18" rx="3" fill="none" stroke="#8a7e3a" stroke-width="4"/>
+  <g fill="#8a7e3a">
+    <circle cx="160" cy="352" r="4"/><circle cx="176" cy="348" r="4"/><circle cx="192" cy="352" r="4"/>
+    <circle cx="208" cy="349" r="4"/><circle cx="184" cy="342" r="4"/>
+  </g>
+  <rect x="270" y="404" width="150" height="26" rx="4" fill="none" stroke="#5c4633" stroke-width="7"/>
+
+  <!-- 2. cut tray and knife -->
+  <rect x="460" y="396" width="180" height="34" rx="4" fill="none" stroke="#5c4633" stroke-width="7"/>
+  <g fill="none" stroke="#3a5a2a" stroke-width="4" stroke-linecap="round">
+    <path d="M480 396 V 384"/><path d="M500 396 V 386"/><path d="M520 396 V 383"/><path d="M540 396 V 386"/>
+    <path d="M560 396 V 384"/><path d="M580 396 V 386"/><path d="M600 396 V 383"/><path d="M620 396 V 386"/>
+  </g>
+  <g fill="#f5ead3" stroke="#1f2419" stroke-width="6" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M470 360 L 610 348 C 630 346 640 356 632 364 L 470 372 Z"/>
+    <rect x="410" y="358" width="62" height="18" rx="8" stroke="#5c4633"/>
+  </g>
+
+  <!-- 3. clamshells -->
+  <g fill="none" stroke="#1f2419" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="700" y="398" width="110" height="32" rx="4"/><path d="M700 412 H 810"/>
+    <rect x="700" y="366" width="110" height="32" rx="4"/><path d="M700 380 H 810"/>
+    <rect x="700" y="334" width="110" height="32" rx="4"/><path d="M700 348 H 810"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="4" stroke-linecap="round">
+    <path d="M724 346 C 720 338 728 335 734 338"/><path d="M770 346 C 766 338 774 335 780 338"/>
+    <path d="M724 378 C 720 370 728 367 734 370"/><path d="M770 378 C 766 370 774 367 780 370"/>
+    <path d="M724 410 C 720 402 728 399 734 402"/><path d="M770 410 C 766 402 774 399 780 402"/>
+  </g>
+
+  <!-- 4. car keys -->
+  <g fill="none" stroke="#1f2419" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="930" cy="404" r="20"/>
+    <rect x="950" y="398" width="54" height="30" rx="8"/>
+    <path d="M896 410 L 870 424 L 850 424 M 862 424 V 430"/>
+  </g>
+  <circle cx="977" cy="413" r="6" fill="none" stroke="#6b2a2f" stroke-width="4"/>
+</svg>

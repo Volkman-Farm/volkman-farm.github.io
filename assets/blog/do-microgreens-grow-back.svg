@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a tray of short cut stubs above the soil line, with a single pea stem at one end putting out a small new shoot from a leaf joint">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <path d="M100 540 H 1100" fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- tray -->
+  <path d="M180 400 L 200 520 H 1000 L 1020 400" fill="#f5ead3" stroke="#5c4633" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M190 430 H 1010" fill="none" stroke="#5c4633" stroke-width="5" stroke-dasharray="2 18" stroke-linecap="round"/>
+
+  <!-- cut stubs -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round">
+    <path d="M240 430 V 404"/><path d="M280 430 V 408"/><path d="M320 430 V 402"/><path d="M360 430 V 406"/>
+    <path d="M400 430 V 404"/><path d="M440 430 V 408"/><path d="M480 430 V 402"/><path d="M520 430 V 406"/>
+    <path d="M560 430 V 404"/><path d="M600 430 V 408"/><path d="M640 430 V 402"/><path d="M680 430 V 406"/>
+    <path d="M720 430 V 404"/><path d="M760 430 V 408"/><path d="M800 430 V 402"/><path d="M840 430 V 406"/><path d="M920 430 V 404"/><path d="M960 430 V 408"/>
+  </g>
+  <g fill="none" stroke="#1f2419" stroke-width="4" stroke-linecap="round">
+    <path d="M232 402 H 248"/><path d="M312 400 H 328"/><path d="M472 400 H 488"/><path d="M632 400 H 648"/>
+  </g>
+
+  <!-- the pea stem left long, cut above a node -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M880 430 V 250"/>
+    <path d="M880 320 C 850 310 830 290 826 270 C 852 272 872 290 880 320"/>
+  </g>
+  <path d="M870 250 H 890" fill="none" stroke="#1f2419" stroke-width="5" stroke-linecap="round"/>
+  <!-- node and new shoot -->
+  <circle cx="880" cy="320" r="8" fill="#f5ead3" stroke="#1f2419" stroke-width="5"/>
+  <g fill="none" stroke="#8a7e3a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M886 314 C 910 296 920 276 918 254"/>
+    <path d="M918 254 C 930 246 944 250 946 262 C 936 270 922 268 918 254"/>
+    <path d="M918 254 C 914 236 924 222 938 222"/>
+  </g>
+</svg>

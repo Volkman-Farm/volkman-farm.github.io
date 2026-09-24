@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of three wild turkeys in a field of tall mixed cover crop, one tom in the middle with his tail fanned out in a full display">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- ground -->
+  <path d="M80 560 H 1120" fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- back row of cover crop -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round">
+    <path d="M110 560 V 330"/><path d="M110 380 L 86 356"/><path d="M110 420 L 134 396"/>
+    <path d="M170 560 V 360"/><path d="M170 360 C 160 340 180 330 170 316"/>
+    <path d="M1030 560 V 340"/><path d="M1030 400 L 1006 376"/><path d="M1030 440 L 1054 416"/>
+    <path d="M1090 560 V 370"/><path d="M1090 370 C 1080 350 1100 340 1090 326"/>
+  </g>
+  <!-- sunflowers above the stand -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="6" stroke-linecap="round">
+    <circle cx="140" cy="250" r="22"/>
+    <circle cx="1060" cy="262" r="22"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round">
+    <path d="M140 272 V 560"/><path d="M1060 284 V 560"/>
+  </g>
+
+  <!-- tom, fanned tail -->
+  <g fill="#f5ead3" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M430 430 A 170 170 0 0 1 770 430 Z"/>
+  </g>
+  <g fill="none" stroke="#1f2419" stroke-width="5" stroke-linecap="round">
+    <path d="M600 430 L 600 262"/>
+    <path d="M600 430 L 526 277"/><path d="M600 430 L 674 277"/>
+    <path d="M600 430 L 466 318"/><path d="M600 430 L 734 318"/>
+    <path d="M600 430 L 438 378"/><path d="M600 430 L 762 378"/>
+  </g>
+  <path d="M452 406 A 150 150 0 0 1 748 406" fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round"/>
+  <!-- tom body -->
+  <g fill="#f5ead3" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="600" cy="452" rx="92" ry="62"/>
+  </g>
+  <!-- dragging wings -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round">
+    <path d="M520 470 C 530 500 546 512 560 516"/>
+    <path d="M680 470 C 670 500 654 512 640 516"/>
+  </g>
+  <!-- head and neck, tucked into the chest -->
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M600 412 C 588 392 590 366 604 358 C 622 350 632 368 622 384 C 616 392 608 394 604 392"/>
+  </g>
+  <path d="M608 392 C 604 406 600 414 598 424" fill="none" stroke="#6b2a2f" stroke-width="6" stroke-linecap="round"/>
+  <!-- legs -->
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round">
+    <path d="M580 512 V 560"/><path d="M620 512 V 560"/>
+  </g>
+
+  <!-- hen, left, pecking -->
+  <g fill="#f5ead3" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M300 470 C 300 430 350 410 400 420 C 430 426 440 450 430 470 C 420 494 330 500 300 470 Z"/>
+  </g>
+  <g fill="none" stroke="#1f2419" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M308 458 C 288 470 278 490 276 512"/>
+    <path d="M300 440 C 280 430 270 414 272 400"/>
+  </g>
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round">
+    <path d="M350 492 V 560"/><path d="M386 494 V 560"/>
+  </g>
+
+  <!-- hen, right, head up -->
+  <g fill="#f5ead3" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M800 470 C 780 430 830 416 880 424 C 920 432 930 456 918 476 C 900 500 820 500 800 470 Z"/>
+  </g>
+  <g fill="none" stroke="#1f2419" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M900 432 C 912 404 916 380 912 364"/>
+    <path d="M918 440 C 938 430 948 414 946 400"/>
+  </g>
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round">
+    <path d="M846 494 V 560"/><path d="M880 494 V 560"/>
+  </g>
+
+  <!-- hen heads -->
+  <g fill="#f5ead3" stroke="#1f2419" stroke-width="6" stroke-linejoin="round" stroke-linecap="round">
+    <circle cx="276" cy="524" r="12"/>
+    <path d="M268 534 L 262 544"/>
+    <circle cx="914" cy="354" r="12"/>
+    <path d="M926 356 L 940 360 L 926 364"/>
+  </g>
+  <path d="M912 366 C 910 376 906 382 904 388" fill="none" stroke="#6b2a2f" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- front grasses -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round">
+    <path d="M230 560 L 222 520"/><path d="M240 560 L 246 516"/>
+    <path d="M500 560 L 492 528"/><path d="M510 560 L 518 524"/>
+    <path d="M700 560 L 692 526"/><path d="M710 560 L 718 522"/>
+    <path d="M980 560 L 972 520"/><path d="M990 560 L 998 516"/>
+  </g>
+</svg>
