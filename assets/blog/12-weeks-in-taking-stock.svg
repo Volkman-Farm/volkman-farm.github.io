@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing inside the grow shed: a portable floor air conditioner with a box built around its intake, two ribbed hoses running up to a foam board panel fitted in the window, and the edge of a tray rack at the right">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- floor -->
+  <path d="M60 560 H 1140" fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- window frame and sash -->
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="600" y="80" width="360" height="380" rx="4"/>
+    <path d="M600 300 H 960"/>
+    <path d="M780 80 V 300"/>
+  </g>
+
+  <!-- sun through the upper glass -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round">
+    <circle cx="690" cy="180" r="34"/>
+    <path d="M690 124 v -18 M690 236 v 18 M634 180 h -18 M746 180 h 18"/>
+    <path d="M650 140 l -12 -12 M730 220 l 12 12 M730 140 l 12 -12 M650 220 l -12 12"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="4" stroke-linecap="round">
+    <path d="M820 150 q 20 -14 40 0 t 40 0"/>
+    <path d="M830 200 q 20 -14 40 0 t 40 0"/>
+  </g>
+
+  <!-- foam board panel in the lower sash -->
+  <rect x="612" y="312" width="336" height="136" fill="none" stroke="#8a7e3a" stroke-width="6" stroke-linejoin="round"/>
+  <g fill="none" stroke="#8a7e3a" stroke-width="3" stroke-linecap="round" opacity="0.7">
+    <path d="M640 330 l -14 14 M940 420 l -14 14 M660 436 l -14 14 M930 322 l -14 14"/>
+  </g>
+
+  <!-- hoses: outline, fill, ribs -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M420 300 C 520 300, 600 300, 700 380" stroke="#1f2419" stroke-width="44"/>
+    <path d="M420 300 C 520 300, 600 300, 700 380" stroke="#f5ead3" stroke-width="32"/>
+    <path d="M420 300 C 520 300, 600 300, 700 380" stroke="#1f2419" stroke-width="32" stroke-dasharray="3 13" stroke-linecap="butt"/>
+
+    <path d="M486 470 C 600 500, 780 500, 860 380" stroke="#1f2419" stroke-width="44"/>
+    <path d="M486 470 C 600 500, 780 500, 860 380" stroke="#f5ead3" stroke-width="32"/>
+    <path d="M486 470 C 600 500, 780 500, 860 380" stroke="#1f2419" stroke-width="32" stroke-dasharray="3 13" stroke-linecap="butt"/>
+  </g>
+
+  <!-- hose collars at the panel -->
+  <g fill="#f5ead3" stroke="#1f2419" stroke-width="7">
+    <circle cx="700" cy="380" r="30"/>
+    <circle cx="860" cy="380" r="30"/>
+  </g>
+  <g fill="none" stroke="#1f2419" stroke-width="4">
+    <circle cx="700" cy="380" r="16"/>
+    <circle cx="860" cy="380" r="16"/>
+  </g>
+
+  <!-- portable air conditioner -->
+  <g fill="none" stroke="#1f2419" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="230" y="220" width="200" height="316" rx="20" fill="#f5ead3"/>
+    <path d="M262 262 H 398 M262 286 H 398 M262 310 H 398"/>
+    <rect x="290" y="352" width="80" height="36" rx="6"/>
+  </g>
+  <g fill="#1f2419">
+    <circle cx="258" cy="548" r="10"/>
+    <circle cx="402" cy="548" r="10"/>
+  </g>
+  <g fill="#8a7e3a">
+    <circle cx="312" cy="370" r="6"/>
+  </g>
+
+  <!-- plenum box built around the intake -->
+  <g fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M430 420 H 486 V 514 H 430" fill="#f5ead3"/>
+    <path d="M444 420 V 514" stroke-width="3"/>
+  </g>
+
+  <!-- tray rack edge at right -->
+  <g fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round">
+    <path d="M1030 110 V 556 M1150 110 V 556"/>
+    <path d="M1030 230 H 1150 M1030 370 H 1150 M1030 510 H 1150"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round">
+    <path d="M1040 130 H 1140 M1040 270 H 1140 M1040 410 H 1140"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="4" stroke-linecap="round">
+    <path d="M1044 226 V 208 M1056 226 V 204 M1068 226 V 210 M1080 226 V 202 M1092 226 V 208 M1104 226 V 204 M1116 226 V 210 M1128 226 V 206 M1140 226 V 212"/>
+    <path d="M1044 366 V 350 M1056 366 V 346 M1068 366 V 352 M1080 366 V 344 M1092 366 V 350 M1104 366 V 346 M1116 366 V 352 M1128 366 V 348 M1140 366 V 354"/>
+    <path d="M1044 506 V 492 M1056 506 V 488 M1068 506 V 494 M1080 506 V 486 M1092 506 V 492 M1104 506 V 488 M1116 506 V 494 M1128 506 V 490 M1140 506 V 494"/>
+  </g>
+</svg>
