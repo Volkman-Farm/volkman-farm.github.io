@@ -3,7 +3,7 @@ title: Fresh Microgreens Delivered Weekly in Orlando
 description: Family-grown microgreens hand-delivered across the Orlando metro, including Lake Mary, Sanford, Winter Park, Oviedo, College Park and more. Ten varieties, organic seeds, harvested the morning we deliver.
 permalink: /
 layout: default
-hero: true
+home_hero: true
 ---
 
 <section class="band hero">
