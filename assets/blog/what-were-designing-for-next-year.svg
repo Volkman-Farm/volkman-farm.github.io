@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a wooden brooder box with a heat lamp hanging over 2 resting birds, and behind it the bare frame of a chicken tractor and a young tree staked on a low mound">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+
+  <!-- ground line -->
+  <path d="M40 545 H 1160" fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- chicken tractor, bare frame, background -->
+  <g fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M650 545 V 420 H 1000 V 545"/>
+    <path d="M650 420 L 825 370 L 1000 420"/>
+    <path d="M767 420 V 545 M883 420 V 545"/>
+    <path d="M650 420 L 612 404"/>
+  </g>
+  <g fill="none" stroke="#5c4633" stroke-width="4" stroke-linecap="round">
+    <path d="M650 545 L 767 420 M767 545 L 883 420 M883 545 L 1000 420"/>
+    <path d="M825 370 V 420"/>
+  </g>
+  <circle cx="1000" cy="525" r="20" fill="#f5ead3" stroke="#1f2419" stroke-width="6"/>
+
+  <!-- young tree on a low mound -->
+  <path d="M1040 545 Q 1100 505 1160 545" fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round"/>
+  <path d="M1100 520 V 380" fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round"/>
+  <path d="M1122 525 V 400" fill="none" stroke="#8a7e3a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M1100 470 L 1122 460" fill="none" stroke="#8a7e3a" stroke-width="3" stroke-linecap="round"/>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1100 430 Q 1070 410 1062 380 Q 1090 386 1100 420"/>
+    <path d="M1100 405 Q 1130 385 1140 355 Q 1110 360 1100 398"/>
+    <path d="M1100 385 Q 1085 355 1100 330 Q 1112 355 1100 385"/>
+  </g>
+
+  <!-- heat lamp cord and shade -->
+  <path d="M330 60 V 190" fill="none" stroke="#1f2419" stroke-width="4" stroke-linecap="round"/>
+  <path d="M290 245 Q 290 190 330 190 Q 370 190 370 245 Z" fill="none" stroke="#1f2419" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M282 245 H 378" fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round"/>
+  <!-- warm light falling -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="4" stroke-linecap="round" stroke-dasharray="4 16">
+    <path d="M300 262 L 250 350"/>
+    <path d="M330 265 V 360"/>
+    <path d="M360 262 L 410 350"/>
+  </g>
+
+  <!-- brooder box, foreground -->
+  <path d="M120 380 H 540 V 545 H 120 Z" fill="none" stroke="#1f2419" stroke-width="8" stroke-linejoin="round"/>
+  <g fill="none" stroke="#5c4633" stroke-width="4" stroke-linecap="round">
+    <path d="M130 435 H 530"/>
+    <path d="M130 490 H 530"/>
+  </g>
+
+  <!-- 2 birds resting, top halves above the rim -->
+  <g id="bird">
+    <g fill="#f5ead3" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M195 380 L 186 318 L 228 346 Q 262 334 288 338"/>
+    <circle cx="300" cy="318" r="18"/>
+    <path d="M314 330 Q 332 356 324 380"/>
+    <path d="M236 370 Q 264 350 294 366"/>
+    </g>
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M317 312 L 334 318 L 317 324" stroke="#8a7e3a" stroke-width="5"/>
+    </g>
+    <path d="M288 303 q5 -12 10 -2 q5 -12 10 -2 q4 -8 6 4" fill="#6b2a2f" stroke="#6b2a2f" stroke-width="3" stroke-linejoin="round"/>
+    <circle cx="305" cy="314" r="3" fill="#1f2419"/>
+  </g>
+  <use href="#bird" transform="translate(700 0) scale(-1 1)"/>
+</svg>
