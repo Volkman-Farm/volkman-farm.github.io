@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a seeding tray with small sprouts coming up, a jar of round seed beside it, and a few loose seeds beside them">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <path d="M100 540 H 1100" fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round"/>
+
+  <g transform="translate(0 40)">
+  <!-- tray, three-quarter view -->
+  <g fill="#f5ead3" stroke="#5c4633" stroke-width="8" stroke-linejoin="round">
+    <path d="M200 430 L 260 370 L 760 370 L 700 430 Z"/>
+    <path d="M200 430 L 700 430 L 700 500 L 200 500 Z"/>
+    <path d="M700 430 L 760 370 L 760 440 L 700 500 Z"/>
+  </g>
+  <path d="M240 400 L 720 400" fill="none" stroke="#5c4633" stroke-width="4" stroke-linecap="round" stroke-dasharray="2 18"/>
+
+  <!-- sprouts -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round">
+    <path d="M300 410 Q 296 360 304 320"/><path d="M304 320 Q 280 300 262 312"/><path d="M304 320 Q 326 298 346 308"/>
+    <path d="M380 412 Q 386 350 378 300"/><path d="M378 300 Q 352 282 336 296"/><path d="M378 300 Q 400 278 420 290"/>
+    <path d="M460 410 Q 454 366 462 330"/><path d="M462 330 Q 440 312 424 324"/><path d="M462 330 Q 484 310 502 322"/>
+    <path d="M540 412 Q 546 356 540 310"/><path d="M540 310 Q 516 292 500 306"/><path d="M540 310 Q 562 290 582 300"/>
+    <path d="M618 410 Q 612 372 620 344"/><path d="M620 344 Q 600 330 586 340"/><path d="M620 344 Q 640 328 656 338"/>
+  </g>
+  <!-- just breaking soil -->
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round">
+    <path d="M340 414 Q 344 398 352 396"/>
+    <path d="M500 414 Q 504 400 512 398"/>
+    <path d="M660 412 Q 664 398 672 396"/>
+  </g>
+
+  </g>
+
+  <!-- jar of seed -->
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="860" y="250" width="110" height="26" rx="6"/>
+    <path d="M850 290 Q 850 276 866 276 H 964 Q 980 276 980 290 V 520 Q 980 538 962 538 H 868 Q 850 538 850 520 Z"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="5">
+    <circle cx="880" cy="500" r="11"/><circle cx="908" cy="508" r="11"/><circle cx="936" cy="500" r="11"/><circle cx="958" cy="510" r="10"/>
+    <circle cx="890" cy="474" r="11"/><circle cx="918" cy="480" r="11"/><circle cx="946" cy="474" r="11"/>
+    <circle cx="874" cy="450" r="10"/><circle cx="902" cy="452" r="11"/><circle cx="930" cy="448" r="11"/><circle cx="956" cy="452" r="10"/>
+    <circle cx="888" cy="424" r="11"/><circle cx="916" cy="426" r="11"/><circle cx="944" cy="422" r="11"/>
+  </g>
+
+  <!-- loose seed, one split -->
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round">
+    <circle cx="1024" cy="526" r="10"/>
+    <circle cx="1062" cy="528" r="10"/>
+    <path d="M790 530 A 10 10 0 0 1 810 530 Z"/><path d="M816 530 A 10 10 0 0 1 836 530 Z"/>
+  </g>
+</svg>
