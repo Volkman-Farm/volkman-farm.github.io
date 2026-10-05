@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a shelf holding 4 small trays of microgreens, one large group of 4 seedlings in the first tray and a single different seedling in each of the other 3">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="70" y="486" width="1060" height="22" rx="6"/>
+    <path d="M120 508 V 580 M1080 508 V 580"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 406 H 430 L 420 486 H 110 Z"/>
+    <path d="M470 406 H 660 L 650 486 H 480 Z"/>
+    <path d="M690 406 H 880 L 870 486 H 700 Z"/>
+    <path d="M910 406 H 1100 L 1090 486 H 920 Z"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 406 L 149 340"/>
+    <path d="M149 349 C 116 346 98 328 98 304 C 128 304 147 322 149 349 Z"/>
+    <path d="M149 361 C 182 358 200 340 200 316 C 170 316 151 334 149 361 Z"/>
+    <path d="M222 406 L 222 340"/>
+    <path d="M222 349 C 189 346 171 328 171 304 C 201 304 220 322 222 349 Z"/>
+    <path d="M222 361 C 255 358 273 340 273 316 C 243 316 223 334 222 361 Z"/>
+    <path d="M294 406 L 294 340"/>
+    <path d="M294 349 C 261 346 243 328 243 304 C 273 304 293 322 294 349 Z"/>
+    <path d="M294 361 C 327 358 345 340 345 316 C 315 316 296 334 294 361 Z"/>
+    <path d="M366 406 L 367 340"/>
+    <path d="M367 349 C 334 346 316 328 316 304 C 346 304 366 322 367 349 Z"/>
+    <path d="M367 361 C 400 358 418 340 418 316 C 388 316 368 334 367 361 Z"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M565 406 V 300"/>
+    <circle cx="531" cy="292" r="24"/>
+    <circle cx="599" cy="292" r="24"/>
+    <circle cx="565" cy="262" r="22"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M785 406 V 250"/>
+    <path d="M785 380 Q 759 374 741 358"/>
+    <path d="M785 380 Q 811 374 829 358"/>
+    <path d="M785 354 Q 762 348 746 332"/>
+    <path d="M785 354 Q 808 348 824 332"/>
+    <path d="M785 328 Q 765 322 751 306"/>
+    <path d="M785 328 Q 805 322 819 306"/>
+    <path d="M785 302 Q 768 296 756 280"/>
+    <path d="M785 302 Q 802 296 814 280"/>
+    <path d="M785 276 Q 771 270 761 254"/>
+    <path d="M785 276 Q 799 270 809 254"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1005 406 V 300 C 1005 262 1052 262 1052 296"/>
+    <path d="M1005 330 C 970 322 944 300 946 266 C 980 262 1004 292 1005 330 Z"/>
+  </g>
+
+</svg>
