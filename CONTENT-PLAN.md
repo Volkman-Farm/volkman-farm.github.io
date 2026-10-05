@@ -408,12 +408,30 @@ file back into `posts/`.
 | Tue Sep 29 | Homestead journal | 12 weeks in: taking stock | **Retitled 2026-09-25, Albert's call**: Jul 7 to Sep 29 is 84 days, not 90, and there have been 84 posts, one a day. **Wins picked by Albert 2026-09-25**: spent trays to the chickens, the front-field cover crop, the paddock rebuild. **Redo picked by Albert: the shed A/C**, so the single-hose story is partly spent here (mechanism, plenum, foam board panel, the lesson that the unit needed outside air from day 1). No unit model, dates, temperatures, or crop loss, none of which were given. **Sales left out entirely, Albert's call**: no buyer count, no demand language. Opens on the Jul 7 promise to report deaths and the Aug 29-30 loss as the kept version of it; no family grief reused. Names the Aug 25 species inventory as still owed. Closes on a job: count the hoses. 800 words, one H2, no CTA. Approved by Albert 2026-09-25 as drafted. **Code pushed 2026-09-25 in c731e9b; the page stays hidden by the future-date guard until the first push on or after Sep 29.** | [x] posts/12-weeks-in-taking-stock.md |
 | Wed Sep 30 | Permaculture | What we're designing for next year | Forward look. Water, trees, maybe animals. Plans framed as plans. **Facts from Albert 2026-09-28**: the list runs brooder, then chicks, then a second tractor; the paddock net is published for the first time; water is named as not next year; trees with no species, placed by the published contour and open-front-field rules. Oldest daughter's beds stay hers, no crops listed. 515 words, one H2, no CTA. | [x] posts/what-were-designing-for-next-year.md |
 | Thu Oct 1 | On the route | Holiday greens start in November | **Reframed 2026-10-01**: "standing orders before the rush" claims demand that does not exist. Argued as lead time: cilantro 18-21 days puts a Thanksgiving tray in around Nov 5, so an early order or a standing order tells us what to seed. **Holiday schedule from Albert 2026-10-01: Christmas and New Year's Day Friday routes skipped; the other routes run as usual.** 410 words, one H2 plus a closing H2, one CTA (/subscribe/). **Unconfirmed: "Thanksgiving week runs as usual" and Sun/Mon/Wed running both holiday weeks were inferred, not stated by Albert.** Approved and **code pushed 2026-10-01 in 9a4bf1b**. | [x] posts/holiday-greens-start-in-november.md |
-| Fri Oct 2 | Growing notes | The shed in October | Season shift inside the grow room. | [ ] |
-| Sat Oct 3 | Reader questions | What should we write about next? | Ask readers. Collect topics for the next quarter's plan. | [ ] |
+| Fri Oct 2 | Growing notes | The shed in October | **Facts from Albert 2026-10-05: the A/C runs less, humidity is lower, grow times are longer.** No temperatures, no day counts, no reason given for the longer grow times. Turns into lead time: the variety-page day ranges are summer clocks. 299 words, one H2, no CTA beyond texting a date. | [x] posts/the-shed-in-october.md |
+| Sat Oct 3 | Reader questions | What should we write about next? | Topics by **email (micros@volkman.farm), Albert's call 2026-10-05**. Feeds the next-quarter planning session. 185 words, no H2. | [x] posts/what-should-we-write-about-next.md |
+
+
+### Week 14 · Oct 4 - Oct 11 · added 2026-10-05
+
+Proposed by Claude, slate approved by Albert 2026-10-05. Full notes in `plan-oct-2-11-batch.md`.
+**Radish, kohlrabi and chard are still out, with no plan to order until someone requests them**
+(Albert 2026-10-05), so Sunday variety rows run as non-spotlight posts.
+
+| Date | Pillar | Topic | Notes | Status |
+|---|---|---|---|---|
+| Sun Oct 4 | Variety spotlight | Four families on one shelf | Non-spotlight. Mustard family (arugula, broccoli, kale, mustard), beet (amaranth family), cilantro (carrot family), pea (legume). Swap within a family. 367 words. | [x] posts/four-families-on-one-shelf.md |
+| Mon Oct 5 | In the kitchen | Pesto, and other things you blend at home | Raw use; wash before using as the customer's step. Links the freezing post. 365 words. | [x] posts/pesto-and-other-things-you-blend.md |
+| Tue Oct 6 | Homestead journal | Back with the flock | **Facts from Albert 2026-10-05: the 2 hurt birds moved in with the flock Sun Oct 4; next week is the wedding anniversary, chick planning comes after; cover crop mowed again the week of Sep 28; no solid next plan, ask readers.** Corrects Sep 30's "order as soon as the brooder empties" forward. Species inventory still owed. Anniversary flagged for review. 328 words. | [ ] drafted 2026-10-05 at posts/back-with-the-flock.md, not committed |
+| Wed Oct 7 | Permaculture | The edges we keep | Holmgren's "use edges and value the marginal" against the parcel GIS: property line ~1,230 ft, front field ~830 ft of edge, run fence ~150 ft before the rebuild vs 300 ft outer + 290 ft inner now. Oldest daughter's first bed on the lowest point. 669 words. | [ ] drafted 2026-10-05 at posts/the-edges-we-keep.md, not committed |
+| Thu Oct 8 | On the route | A 64 oz clamshell, sold by the ounce | **Replaces "why each route runs on the day it does", which is spent across 7 posts.** Fluid ounces vs weight ounces. No fill weight given. 304 words. | [ ] drafted 2026-10-05 at posts/a-64-oz-clamshell-sold-by-the-ounce.md, not committed |
+| Fri Oct 9 | Growing notes | Root hairs or mold? | **Albert 2026-10-05: he has had to tell them apart, by smell and appearance.** Builds on the Aug 8 paragraph. 347 words. | [ ] drafted 2026-10-05 at posts/root-hairs-or-mold.md, not committed |
+| Sat Oct 10 | Reader questions | Are microgreens more nutritious than the grown-up plant? | Research pass: Xiao 2012, Weber 2017, Pinto 2015, Choe 2018, cited in a Sources list. No blanket multiplier; nitrate left out. 479 words. | [ ] drafted 2026-10-05 at posts/are-microgreens-more-nutritious.md, not committed |
+| Sun Oct 11 | Variety spotlight | Seven greens, seven clocks | Non-spotlight. Day ranges from `_data/varieties.js`, framed as summer clocks after Oct 2. 346 words. | [ ] drafted 2026-10-05 at posts/seven-greens-seven-clocks.md, not committed |
 
 ---
 
-## After Oct 4
+## After Oct 11
 
 Run a planning session: review which pillars got traction (GA4), ask readers (the Oct 4
 post), and draft the next quarter's calendar in this same format.
