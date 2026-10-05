@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a blender jar holding a swirl of green sauce, with a small bowl of pesto, a garlic bulb, and a scattering of loose microgreens beside it">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 540 H 1140"/>
+  </g>
+
+  <g fill="#f5ead3" stroke="#1f2419" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M300 150 H 520 L 490 400 H 330 Z"/>
+    <path d="M286 150 H 534 V 120 H 286 Z"/>
+    <path d="M392 120 V 98 H 430 V 120"/>
+  </g>
+
+  <g fill="#f5ead3" stroke="#1f2419" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="310" y="400" width="200" height="130" rx="16"/>
+    <circle cx="410" cy="465" r="22"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M340 386 C 380 404 450 404 484 386 L 490 366 C 440 380 390 380 336 366 Z"/>
+    <path d="M346 340 C 380 316 450 316 480 340 C 450 354 380 354 346 340 Z"/>
+    <path d="M366 300 C 396 276 436 276 462 300 C 436 312 396 312 366 300 Z"/>
+    <path d="M404 262 C 414 238 438 246 430 260 C 424 270 408 266 414 256"/>
+  </g>
+
+  <g fill="#f5ead3" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M650 450 H 890 C 890 508 850 534 770 534 C 690 534 650 508 650 450 Z"/>
+    <ellipse cx="770" cy="450" rx="120" ry="16"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M700 452 C 730 436 770 468 800 450 C 826 438 846 450 852 452"/>
+    <path d="M730 472 C 760 460 790 478 820 466"/>
+    <path d="M740 444 C 734 433 746 429 754 433"/>
+    <path d="M800 440 C 806 429 794 425 786 429"/>
+  </g>
+
+  <g fill="#f5ead3" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1010 330 C 950 350 930 450 960 500 C 975 526 1045 526 1060 500 C 1090 450 1070 350 1010 330 Z"/>
+    <path d="M1010 330 C 1008 310 1016 296 1030 290"/>
+    <path d="M1010 336 C 990 380 988 460 1000 522 M1010 336 C 1030 380 1032 460 1022 522"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="rotate(-80 590 528)">
+    <path d="M590 528 L 590 504"/>
+    <path d="M590 507 C 578 506 571 499 571 491 C 582 491 589 497 590 507 Z"/>
+    <path d="M590 512 C 602 510 609 504 609 495 C 598 495 591 502 590 512 Z"/>
+    </g>
+    <g transform="rotate(70 930 534)">
+    <path d="M930 534 L 930 512"/>
+    <path d="M930 515 C 919 514 913 508 913 500 C 923 500 930 506 930 515 Z"/>
+    <path d="M930 519 C 941 518 947 512 947 504 C 937 504 930 510 930 519 Z"/>
+    </g>
+    <g transform="rotate(-65 1100 536)">
+    <path d="M1100 536 L 1100 512"/>
+    <path d="M1100 515 C 1088 514 1081 507 1081 499 C 1092 499 1099 505 1100 515 Z"/>
+    <path d="M1100 520 C 1112 518 1119 512 1119 503 C 1108 503 1101 510 1100 520 Z"/>
+    </g>
+    <path d="M600 520 C 594 509 606 505 614 509"/>
+    <path d="M570 490 C 575 480 565 477 558 480"/>
+    <path d="M920 510 C 915 500 925 497 932 500"/>
+    <path d="M1090 512 C 1095 502 1085 499 1078 502"/>
+    <path d="M590 455 C 585 445 595 442 602 445"/>
+  </g>
+
+</svg>
