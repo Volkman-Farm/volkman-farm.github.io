@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of an empty wooden brooder box with its lid propped open in the foreground, and behind it a run fenced with netting where a small group of hens scratches at the ground">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M600 470 H 1140"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M640 470 V 250 M880 470 V 250 M1110 470 V 250 M640 262 H 1110"/>
+  </g>
+
+  <g fill="none" stroke="#8a7e3a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <clipPath id="run"><rect x="644" y="266" width="462" height="204"/></clipPath>
+    <g clip-path="url(#run)">
+    <path d="M640 262 L 760 470"/>
+    <path d="M640 262 L 520 470"/>
+    <path d="M670 262 L 790 470"/>
+    <path d="M670 262 L 550 470"/>
+    <path d="M700 262 L 820 470"/>
+    <path d="M700 262 L 580 470"/>
+    <path d="M730 262 L 850 470"/>
+    <path d="M730 262 L 610 470"/>
+    <path d="M760 262 L 880 470"/>
+    <path d="M760 262 L 640 470"/>
+    <path d="M790 262 L 910 470"/>
+    <path d="M790 262 L 670 470"/>
+    <path d="M820 262 L 940 470"/>
+    <path d="M820 262 L 700 470"/>
+    <path d="M850 262 L 970 470"/>
+    <path d="M850 262 L 730 470"/>
+    <path d="M880 262 L 1000 470"/>
+    <path d="M880 262 L 760 470"/>
+    <path d="M910 262 L 1030 470"/>
+    <path d="M910 262 L 790 470"/>
+    <path d="M940 262 L 1060 470"/>
+    <path d="M940 262 L 820 470"/>
+    <path d="M970 262 L 1090 470"/>
+    <path d="M970 262 L 850 470"/>
+    <path d="M1000 262 L 1120 470"/>
+    <path d="M1000 262 L 880 470"/>
+    <path d="M1030 262 L 1150 470"/>
+    <path d="M1030 262 L 910 470"/>
+    <path d="M1060 262 L 1180 470"/>
+    <path d="M1060 262 L 940 470"/>
+    <path d="M1090 262 L 1210 470"/>
+    <path d="M1090 262 L 970 470"/>
+    <path d="M1120 262 L 1240 470"/>
+    <path d="M1120 262 L 1000 470"/>
+    </g>
+  </g>
+
+  <g fill="#1f2419" stroke="#1f2419" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M672 436 C 654 414 660 404 676 414 C 690 402 714 404 726 422 C 734 436 720 456 700 456 C 680 456 674 446 672 436 Z"/>
+    <path d="M724 422 C 736 426 740 440 738 452 L 746 460"/>
+    <path d="M815 439 C 831 419 826 410 812 419 C 799 408 777 410 767 426 C 759 439 772 457 790 457 C 808 457 813 448 815 439 Z"/>
+    <path d="M770 423 C 770 408 761 401 758 408 L 749 410 L 758 416"/>
+    <path d="M988 436 C 1006 414 1000 404 984 414 C 970 402 946 404 934 422 C 926 436 940 456 960 456 C 980 456 986 446 988 436 Z"/>
+    <path d="M936 422 C 924 426 920 440 922 452 L 914 460"/>
+    <path d="M1023 438 C 1006 417 1012 407 1027 417 C 1040 405 1063 407 1075 424 C 1082 438 1069 456 1050 456 C 1031 456 1025 447 1023 438 Z"/>
+    <path d="M1071 420 C 1071 405 1080 398 1084 405 L 1094 407 L 1084 413"/>
+  </g>
+
+  <g fill="none" stroke="#1f2419" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M696 456 V 466 M708 456 V 466"/>
+    <path d="M794 457 V 466 M783 457 V 466"/>
+    <path d="M964 456 V 466 M952 456 V 466"/>
+    <path d="M1046 456 V 466 M1058 456 V 466"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M600 470 H 640 M1110 470 H 1140"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 572 H 1140"/>
+  </g>
+
+  <g fill="#f5ead3" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M170 410 H 520 V 556 H 170 Z"/>
+    <path d="M170 458 H 520 M170 506 H 520"/>
+    <path d="M170 410 L 222 370 H 570 L 520 410"/>
+    <path d="M570 370 V 516 L 520 556"/>
+  </g>
+
+  <g fill="#f5ead3" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M222 370 L 252 238 H 600 L 570 370 Z"/>
+    <path d="M232 322 H 586 M240 280 H 594"/>
+  </g>
+
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M470 410 L 440 300"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M200 386 H 500"/>
+    <path d="M196 530 q 12 -10 26 0"/>
+  </g>
+
+</svg>
