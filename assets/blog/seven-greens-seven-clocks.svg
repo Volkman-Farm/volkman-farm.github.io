@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of 7 small trays in a row, the seedlings in each one a step taller than the last from left to right, under a simple clock face">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 548 H 1140"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M70 470 H 200 L 190 548 H 80 Z"/>
+    <path d="M218 470 H 348 L 338 548 H 228 Z"/>
+    <path d="M366 470 H 496 L 486 548 H 376 Z"/>
+    <path d="M514 470 H 644 L 634 548 H 524 Z"/>
+    <path d="M662 470 H 792 L 782 548 H 672 Z"/>
+    <path d="M810 470 H 940 L 930 548 H 820 Z"/>
+    <path d="M958 470 H 1088 L 1078 548 H 968 Z"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M108 470 L 107 452"/>
+    <path d="M107 454 C 98 453 93 448 92 441 C 101 441 107 446 107 454 Z"/>
+    <path d="M107 457 C 117 457 121 452 121 445 C 113 445 108 450 107 457 Z"/>
+    <path d="M162 470 L 163 452"/>
+    <path d="M163 454 C 153 453 149 448 149 441 C 157 441 163 446 163 454 Z"/>
+    <path d="M163 457 C 172 457 177 452 177 445 C 169 445 163 450 163 457 Z"/>
+    <path d="M256 470 L 255 444"/>
+    <path d="M255 448 C 242 446 235 439 235 430 C 247 430 254 437 255 448 Z"/>
+    <path d="M255 452 C 268 451 275 444 275 435 C 263 435 256 442 255 452 Z"/>
+    <path d="M310 470 L 311 444"/>
+    <path d="M311 448 C 298 446 291 439 291 430 C 303 430 310 437 311 448 Z"/>
+    <path d="M311 452 C 324 451 331 444 331 435 C 319 435 311 442 311 452 Z"/>
+    <path d="M404 470 L 403 437"/>
+    <path d="M403 441 C 387 440 377 430 377 418 C 392 418 402 427 403 441 Z"/>
+    <path d="M403 447 C 420 446 429 437 429 424 C 414 424 404 434 403 447 Z"/>
+    <path d="M458 470 L 459 437"/>
+    <path d="M459 441 C 442 440 433 430 433 418 C 449 418 458 427 459 441 Z"/>
+    <path d="M459 447 C 475 446 485 437 485 424 C 470 424 460 434 459 447 Z"/>
+    <path d="M552 470 L 551 429"/>
+    <path d="M551 435 C 531 433 519 422 519 407 C 538 407 550 418 551 435 Z"/>
+    <path d="M551 442 C 572 440 583 429 583 414 C 564 414 552 425 551 442 Z"/>
+    <path d="M606 470 L 607 429"/>
+    <path d="M607 435 C 586 433 575 422 576 407 C 594 407 606 418 607 435 Z"/>
+    <path d="M607 442 C 627 440 638 429 639 414 C 620 414 608 425 607 442 Z"/>
+    <path d="M700 470 L 699 422"/>
+    <path d="M699 428 C 675 426 662 413 661 395 C 683 395 698 408 699 428 Z"/>
+    <path d="M699 437 C 724 435 737 422 736 404 C 714 404 700 417 699 437 Z"/>
+    <path d="M754 470 L 755 422"/>
+    <path d="M755 428 C 731 426 718 413 718 395 C 740 395 754 408 755 428 Z"/>
+    <path d="M755 437 C 779 435 792 422 792 404 C 770 404 756 417 755 437 Z"/>
+    <path d="M848 470 L 847 414"/>
+    <path d="M847 422 C 819 419 804 404 804 384 C 829 384 846 399 847 422 Z"/>
+    <path d="M847 432 C 875 429 890 414 890 394 C 865 394 848 409 847 432 Z"/>
+    <path d="M902 470 L 903 414"/>
+    <path d="M903 422 C 875 419 860 404 860 384 C 885 384 902 399 903 422 Z"/>
+    <path d="M903 432 C 931 429 946 414 946 394 C 921 394 904 409 903 432 Z"/>
+    <path d="M996 470 L 995 407"/>
+    <path d="M995 415 C 964 412 946 395 946 372 C 975 372 994 389 995 415 Z"/>
+    <path d="M995 427 C 1027 424 1044 407 1044 384 C 1015 384 997 401 995 427 Z"/>
+    <path d="M1050 470 L 1051 407"/>
+    <path d="M1051 415 C 1019 412 1002 395 1002 372 C 1031 372 1050 389 1051 415 Z"/>
+    <path d="M1051 427 C 1082 424 1100 407 1100 384 C 1071 384 1052 401 1051 427 Z"/>
+  </g>
+
+  <g fill="#f5ead3" stroke="#1f2419" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="600" cy="170" r="100"/>
+    <circle cx="600" cy="170" r="84"/>
+  </g>
+
+  <g fill="none" stroke="#1f2419" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M668 170 L 680 170"/>
+    <path d="M659 204 L 669 210"/>
+    <path d="M634 229 L 640 239"/>
+    <path d="M600 238 L 600 250"/>
+    <path d="M566 229 L 560 239"/>
+    <path d="M541 204 L 531 210"/>
+    <path d="M532 170 L 520 170"/>
+    <path d="M541 136 L 531 130"/>
+    <path d="M566 111 L 560 101"/>
+    <path d="M600 102 L 600 90"/>
+    <path d="M634 111 L 640 101"/>
+    <path d="M659 136 L 669 130"/>
+  </g>
+
+  <g fill="none" stroke="#1f2419" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M600 170 V 112"/>
+    <path d="M600 170 L 640 194"/>
+  </g>
+
+  <g fill="#6b2a2f" stroke="#6b2a2f" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="600" cy="170" r="7"/>
+  </g>
+
+</svg>
