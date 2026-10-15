@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label=" Line drawing of a single wooden grow rack holding a few seed trays under one strip light, with a snail crossing the floor in front of it">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <defs>
+    <g id="sp" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M0 0 V-34" fill="none" stroke="#3a5a2a" stroke-width="4"/>
+      <path d="M0 -32 C-12 -36 -17 -46 -11 -51 C-4 -49 0 -41 0 -32 Z" fill="#3a5a2a" stroke="#3a5a2a" stroke-width="3"/>
+      <path d="M0 -32 C12 -36 17 -46 11 -51 C4 -49 0 -41 0 -32 Z" fill="#3a5a2a" stroke="#3a5a2a" stroke-width="3"/>
+    </g>
+  </defs>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 500 H1100"/>
+    <path d="M330 110 V500 M870 110 V500 M330 112 H870"/>
+    <path d="M320 330 H880 M320 440 H880"/>
+    <path d="M330 220 L400 112 M870 220 L800 112" stroke-width="5"/>
+  </g>
+  <g fill="none" stroke="#5c4633" stroke-width="4" stroke-linecap="round">
+    <path d="M440 114 V140 M760 114 V140"/>
+  </g>
+  <rect x="380" y="140" width="440" height="22" rx="11" fill="#8a7e3a" stroke="#8a7e3a" stroke-width="4"/>
+  <g fill="none" stroke="#8a7e3a" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 12">
+    <path d="M410 176 L380 296 M500 176 L490 296 M600 176 V296 M700 176 L710 296 M790 176 L820 296"/>
+  </g>
+  <g stroke="#1f2419" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" fill="#1f2419">
+    <path d="M360 330 V300 H500 V330 Z"/>
+    <path d="M530 330 V300 H670 V330 Z"/>
+    <path d="M700 330 V300 H840 V330 Z"/>
+    <path d="M520 440 V410 H660 V440 Z"/>
+  </g>
+  <use href="#sp" transform="translate(385 300)"/><use href="#sp" transform="translate(430 300)"/><use href="#sp" transform="translate(475 300)"/>
+  <use href="#sp" transform="translate(555 300)"/><use href="#sp" transform="translate(600 300)"/><use href="#sp" transform="translate(645 300)"/>
+  <use href="#sp" transform="translate(725 300)"/><use href="#sp" transform="translate(770 300)"/><use href="#sp" transform="translate(815 300)"/>
+  <use href="#sp" transform="translate(550 410)"/><use href="#sp" transform="translate(595 410)"/><use href="#sp" transform="translate(640 410)"/>
+  <g fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round">
+    <path d="M200 575 H1000" stroke-dasharray="1 0"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-dasharray="3 12">
+    <path d="M440 568 H590"/>
+  </g>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M590 570 C590 556 610 554 640 554 C700 554 704 570 690 570 Z" fill="#8a7e3a" stroke="#8a7e3a" stroke-width="5"/>
+    <path d="M690 570 C706 560 712 546 710 532 M698 568 C714 566 724 556 722 540" fill="none" stroke="#8a7e3a" stroke-width="5"/>
+    <circle cx="640" cy="536" r="24" fill="#f5ead3" stroke="#1f2419" stroke-width="7"/>
+    <path d="M640 536 m-12 0 a12 12 0 1 1 12 12 a7 7 0 1 1 -7 -7 a3 3 0 0 1 4 2" fill="none" stroke="#1f2419" stroke-width="5"/>
+  </g>
+</svg>
