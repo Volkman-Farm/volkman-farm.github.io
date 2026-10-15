@@ -423,15 +423,27 @@ Proposed by Claude, slate approved by Albert 2026-10-05. Full notes in `plan-oct
 | Sun Oct 4 | Variety spotlight | Four families on one shelf | Non-spotlight. Mustard family (arugula, broccoli, kale, mustard), beet (amaranth family), cilantro (carrot family), pea (legume). Swap within a family. 367 words. | [x] posts/four-families-on-one-shelf.md, **pushed and live 2026-10-05 at 5401682** |
 | Mon Oct 5 | In the kitchen | Pesto, and other things you blend at home | Raw use; wash before using as the customer's step. Links the freezing post. 365 words. | [x] posts/pesto-and-other-things-you-blend.md, **pushed and live 2026-10-05 at d586570** |
 | Tue Oct 6 | Homestead journal | Back with the flock | **Facts from Albert 2026-10-05: the 2 hurt birds moved in with the flock Sun Oct 4; next week is the wedding anniversary, chick planning comes after; cover crop mowed again the week of Sep 28; no solid next plan, ask readers.** Corrects Sep 30's "order as soon as the brooder empties" forward. Species inventory still owed. Anniversary flagged for review. 311 words (owed-count line cut in review). | [x] posts/back-with-the-flock.md, **pushed and live 2026-10-06 at eb01b0f** |
-| Wed Oct 7 | Permaculture | The edges we keep | Holmgren's "use edges and value the marginal" against the parcel GIS: property line ~1,230 ft, front field ~830 ft of edge, run fence ~150 ft before the rebuild vs 300 ft outer + 290 ft inner now. Oldest daughter's first bed on the lowest point. 669 words. | [ ] drafted 2026-10-05 at posts/the-edges-we-keep.md, not committed |
-| Thu Oct 8 | On the route | A 64 oz clamshell, sold by the ounce | **Replaces "why each route runs on the day it does", which is spent across 7 posts.** Fluid ounces vs weight ounces. No fill weight given. 304 words. | [ ] drafted 2026-10-05 at posts/a-64-oz-clamshell-sold-by-the-ounce.md, not committed |
-| Fri Oct 9 | Growing notes | Root hairs or mold? | **Albert 2026-10-05: he has had to tell them apart, by smell and appearance.** Builds on the Aug 8 paragraph. 347 words. | [ ] drafted 2026-10-05 at posts/root-hairs-or-mold.md, not committed |
-| Sat Oct 10 | Reader questions | Are microgreens more nutritious than the grown-up plant? | Research pass: Xiao 2012, Weber 2017, Pinto 2015, Choe 2018, cited in a Sources list. No blanket multiplier; nitrate left out. 479 words. | [ ] drafted 2026-10-05 at posts/are-microgreens-more-nutritious.md, not committed |
-| Sun Oct 11 | Variety spotlight | Seven greens, seven clocks | Non-spotlight. Day ranges from `_data/varieties.js`, framed as summer clocks after Oct 2. 346 words. | [ ] drafted 2026-10-05 at posts/seven-greens-seven-clocks.md, not committed |
+| Wed Oct 7 | Permaculture | The edges we keep | Holmgren's "use edges and value the marginal" against the parcel GIS: property line ~1,230 ft, front field ~830 ft of edge, run fence ~150 ft before the rebuild vs 300 ft outer + 290 ft inner now. Oldest daughter's first bed on the lowest point. 669 words. | [x] posts/the-edges-we-keep.md, **reviewed and pushed 2026-10-15 at a5640dc** |
+| Thu Oct 8 | On the route | A 64 oz clamshell, sold by the ounce | **Replaces "why each route runs on the day it does", which is spent across 7 posts.** Fluid ounces vs weight ounces. No fill weight given. 304 words. | [x] posts/a-64-oz-clamshell-sold-by-the-ounce.md, **reviewed and pushed 2026-10-15 at 3ded0e0** |
+| Fri Oct 9 | Growing notes | Root hairs or mold? | **Albert 2026-10-05: he has had to tell them apart, by smell and appearance.** Builds on the Aug 8 paragraph. 347 words. | [x] posts/root-hairs-or-mold.md, **reviewed and pushed 2026-10-15 at 37583ff** |
+| Sat Oct 10 | Reader questions | Are microgreens more nutritious than the grown-up plant? | Research pass: Xiao 2012, Weber 2017, Pinto 2015, Choe 2018, cited in a Sources list. No blanket multiplier; nitrate left out. 479 words. | [x] posts/are-microgreens-more-nutritious.md, **reviewed and pushed 2026-10-15 at d1b5969** |
+| Sun Oct 11 | Variety spotlight | Seven greens, seven clocks | Non-spotlight. Day ranges from `_data/varieties.js`, framed as summer clocks after Oct 2. 346 words. | [x] posts/seven-greens-seven-clocks.md, **reviewed and pushed 2026-10-15 at d10765f** |
+
+### Week 15 · Oct 12 - Oct 15 · added 2026-10-15
+
+Backfill. Slate proposed by Claude, approved by Albert 2026-10-15. Oct 7-11 stay on their
+calendar dates (Albert 2026-10-15: backdate). Full notes in `plan-oct-12-15-batch.md`.
+
+| Date | Pillar | Topic | Notes | Status |
+|---|---|---|---|---|
+| Mon Oct 12 | In the kitchen | Stir-fry and fried rice: in at the very end | Off-heat finishing; pea tendrils the only one in the pan; wash and dry as the customer's step. 373 words. | [x] posts/stir-fry-and-fried-rice.md, **reviewed and pushed 2026-10-15 at c0e09a9** |
+| Tue Oct 13 | Homestead journal | A quiet week in the run | **Albert 2026-10-15: the 2 birds reintegrated without issue; chick plan still in progress; no changes on cover crop or food forest.** Anniversary and trip left out. 160 words. | [x] posts/a-quiet-week-in-the-run.md, **reviewed and pushed 2026-10-15 at f3a108e** |
+| Wed Oct 14 | Permaculture | Small and slow solutions | Holmgren principle 9 against published facts only. A test strip and 2 or 3 trees offered as options, not plans. 521 words. | [x] posts/small-and-slow-solutions.md, **reviewed and pushed 2026-10-15 at 21b210a** |
+| Thu Oct 15 | On the route | What happens after you hit send | **Albert 2026-10-15: the form emails him, then he reaches out.** No payment method, no response time, no usage claim either way. 290 words. | [x] posts/what-happens-after-you-hit-send.md, **reviewed and pushed 2026-10-15 at c6ed4d6** |
 
 ---
 
-## After Oct 11
+## After Oct 15
 
-Run a planning session: review which pillars got traction (GA4), ask readers (the Oct 4
+Run a planning session: review which pillars got traction (GA4), ask readers (the Oct 3
 post), and draft the next quarter's calendar in this same format.
