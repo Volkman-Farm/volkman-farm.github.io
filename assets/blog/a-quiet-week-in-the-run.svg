@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label=" Line drawing of a small group of hens scratching at the ground inside a netted run, with a feeder hanging from a post and no bird standing apart from the others">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <defs>
+    <g id="hen" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-42 -42 C-42 -74 0 -84 30 -62 C42 -52 42 -40 30 -30 C10 -14 -30 -14 -42 -42 Z" fill="#1f2419" stroke="#1f2419" stroke-width="5"/>
+      <path d="M-42 -44 L-64 -82 L-36 -66 Z" fill="#1f2419" stroke="#1f2419" stroke-width="5"/>
+      <path d="M26 -62 C40 -58 48 -46 52 -34" fill="none" stroke="#1f2419" stroke-width="12"/>
+      <circle cx="54" cy="-30" r="9" fill="#1f2419" stroke="#1f2419" stroke-width="3"/>
+      <path d="M60 -26 L74 -18" fill="none" stroke="#8a7e3a" stroke-width="5"/>
+      <path d="M50 -40 C52 -48 58 -48 58 -38" fill="none" stroke="#6b2a2f" stroke-width="5"/>
+      <path d="M-4 -16 L-8 0 M-8 0 l-8 2 M-8 0 l8 2 M10 -16 L16 0 M16 0 l-8 2 M16 0 l8 2" fill="none" stroke="#5c4633" stroke-width="5"/>
+    </g>
+    <clipPath id="run"><rect x="304" y="216" width="792" height="264"/></clipPath>
+  </defs>
+  <circle cx="170" cy="150" r="46" fill="none" stroke="#8a7e3a" stroke-width="6"/>
+  <g fill="none" stroke="#8a7e3a" stroke-width="2" stroke-linecap="round">
+    <g clip-path="url(#run)">
+      <path d="M300 200 L 420 480 M340 200 L 460 480 M380 200 L 500 480 M420 200 L 540 480 M460 200 L 580 480 M500 200 L 620 480 M540 200 L 660 480 M580 200 L 700 480 M620 200 L 740 480 M660 200 L 780 480 M700 200 L 820 480 M740 200 L 860 480 M780 200 L 900 480 M820 200 L 940 480 M860 200 L 980 480 M900 200 L 1020 480 M940 200 L 1060 480 M980 200 L 1100 480 M1020 200 L 1140 480"/>
+      <path d="M300 480 L 420 200 M340 480 L 460 200 M380 480 L 500 200 M420 480 L 540 200 M460 480 L 580 200 M500 480 L 620 200 M540 480 L 660 200 M580 480 L 700 200 M620 480 L 740 200 M660 480 L 780 200 M700 480 L 820 200 M740 480 L 860 200 M780 480 L 900 200 M820 480 L 940 200 M860 480 L 980 200 M900 480 L 1020 200 M940 480 L 1060 200 M980 480 L 1100 200 M1020 480 L 1140 200"/>
+    </g>
+  </g>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 480 H1120"/>
+    <path d="M300 480 V200 M700 480 V200 M1100 480 V200 M300 212 H1100"/>
+  </g>
+  <g fill="none" stroke="#5c4633" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M700 214 V310"/>
+    <path d="M700 310 L670 330 M700 310 L730 330"/>
+  </g>
+  <path d="M664 330 H736 L752 366 H648 Z" fill="#5c4633" stroke="#5c4633" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M672 346 H728" stroke="#8a7e3a" stroke-width="4" stroke-linecap="round"/>
+  <use href="#hen" transform="translate(440 470) scale(1.15)"/>
+  <use href="#hen" transform="translate(630 472) scale(-1.15 1.15)"/>
+  <use href="#hen" transform="translate(770 470) scale(1.15)"/>
+  <use href="#hen" transform="translate(960 472) scale(-1.15 1.15)"/>
+  <g fill="none" stroke="#5c4633" stroke-width="4" stroke-linecap="round">
+    <path d="M520 492 l16 -4 M640 494 l16 -4 M850 492 l16 -4 M560 500 l14 -3 M880 500 l14 -3 M420 496 l14 -4"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 480 C150 450 140 440 130 430 M150 480 C154 450 164 440 176 432 M150 480 V440"/>
+  </g>
+</svg>
