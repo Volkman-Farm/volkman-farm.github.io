@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing seen from above of a property outline, with a large open field at the front, a doubled fence line around a small rectangular run at the back, and a low wet spot marked by short grass tufts">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#5c4633" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M200 70 L 1000 82 L 1010 560 L 190 548 Z"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="600" y="104" width="300" height="130" rx="4"/>
+    <rect x="624" y="128" width="252" height="82" rx="3"/>
+  </g>
+
+  <g fill="#f5ead3" stroke="#1f2419" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="600" cy="104" r="5"/>
+    <circle cx="600" cy="234" r="5"/>
+    <circle cx="650" cy="104" r="5"/>
+    <circle cx="650" cy="234" r="5"/>
+    <circle cx="700" cy="104" r="5"/>
+    <circle cx="700" cy="234" r="5"/>
+    <circle cx="750" cy="104" r="5"/>
+    <circle cx="750" cy="234" r="5"/>
+    <circle cx="800" cy="104" r="5"/>
+    <circle cx="800" cy="234" r="5"/>
+    <circle cx="850" cy="104" r="5"/>
+    <circle cx="850" cy="234" r="5"/>
+    <circle cx="900" cy="104" r="5"/>
+    <circle cx="900" cy="234" r="5"/>
+    <circle cx="600" cy="104" r="5"/>
+    <circle cx="900" cy="104" r="5"/>
+    <circle cx="600" cy="169" r="5"/>
+    <circle cx="900" cy="169" r="5"/>
+    <circle cx="600" cy="234" r="5"/>
+    <circle cx="900" cy="234" r="5"/>
+  </g>
+
+  <g fill="none" stroke="#8a7e3a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M640 170 H 700 M760 150 H 840 M720 190 H 800" stroke-dasharray="2 14"/>
+  </g>
+
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="14 12">
+    <path d="M270 150 C 300 120 400 116 450 150 C 490 180 470 250 400 262 C 330 272 260 240 270 150 Z"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M310 160 V 142 M302 160 L 298 146 M318 160 L 322 146"/>
+    <path d="M360 146 V 128 M352 146 L 348 132 M368 146 L 372 132"/>
+    <path d="M410 160 V 142 M402 160 L 398 146 M418 160 L 422 146"/>
+    <path d="M440 196 V 178 M432 196 L 428 182 M448 196 L 452 182"/>
+    <path d="M330 200 V 182 M322 200 L 318 186 M338 200 L 342 186"/>
+    <path d="M386 196 V 178 M378 196 L 374 182 M394 196 L 398 182"/>
+    <path d="M300 232 V 214 M292 232 L 288 218 M308 232 L 312 218"/>
+    <path d="M360 236 V 218 M352 236 L 348 222 M368 236 L 372 222"/>
+    <path d="M420 238 V 220 M412 238 L 408 224 M428 238 L 432 224"/>
+  </g>
+
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3 14">
+    <path d="M232 330 C 250 300 420 290 560 312 C 720 336 900 296 960 326 V 498 C 900 530 720 508 560 520 C 400 532 270 520 232 498 Z"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M270 372 C 400 358 520 386 640 372 S 880 360 930 376"/>
+    <path d="M270 420 C 400 406 520 434 640 420 S 880 408 930 424"/>
+    <path d="M270 468 C 400 454 520 482 640 468 S 880 456 930 472"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M330 400 V 386 M323 400 L 320 389 M337 400 L 340 389"/>
+    <path d="M520 440 V 426 M513 440 L 510 429 M527 440 L 530 429"/>
+    <path d="M700 396 V 382 M693 396 L 690 385 M707 396 L 710 385"/>
+    <path d="M860 446 V 432 M853 446 L 850 435 M867 446 L 870 435"/>
+    <path d="M430 490 V 476 M423 490 L 420 479 M437 490 L 440 479"/>
+    <path d="M760 486 V 472 M753 486 L 750 475 M767 486 L 770 475"/>
+  </g>
+
+</svg>
