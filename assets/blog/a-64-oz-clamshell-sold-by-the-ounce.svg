@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a clear clamshell container loosely filled with microgreens sitting on a small kitchen scale, with a measuring cup beside it">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 540 H 1140"/>
+  </g>
+
+  <g fill="#f5ead3" stroke="#1f2419" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M300 380 H 700 V 520 Q 700 540 680 540 H 320 Q 300 540 300 520 Z"/>
+    <circle cx="500" cy="460" r="52"/>
+    <rect x="320" y="368" width="360" height="14" rx="6"/>
+  </g>
+
+  <g fill="none" stroke="#1f2419" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M465 440 L 457 435"/>
+    <path d="M476 428 L 471 420"/>
+    <path d="M492 421 L 490 411"/>
+    <path d="M508 421 L 510 411"/>
+    <path d="M524 428 L 529 420"/>
+    <path d="M535 440 L 543 435"/>
+  </g>
+
+  <g fill="none" stroke="#6b2a2f" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M500 460 L 526 432"/>
+  </g>
+
+  <g fill="#f5ead3" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="340" y="270" width="320" height="98" rx="10"/>
+    <path d="M340 316 H 660"/>
+    <path d="M340 316 H 660"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M372 364 L 371 337"/>
+    <path d="M371 340 C 357 339 350 332 349 322 C 361 322 370 329 371 340 Z"/>
+    <path d="M371 345 C 385 344 392 337 391 327 C 379 327 371 334 371 345 Z"/>
+    <path d="M410 364 L 410 332"/>
+    <path d="M410 337 C 394 335 385 327 385 315 C 399 315 409 324 410 337 Z"/>
+    <path d="M410 342 C 426 341 434 332 434 321 C 420 321 410 329 410 342 Z"/>
+    <path d="M448 364 L 448 328"/>
+    <path d="M448 333 C 430 331 421 321 421 308 C 437 308 448 318 448 333 Z"/>
+    <path d="M448 339 C 466 338 476 328 476 315 C 460 315 449 325 448 339 Z"/>
+    <path d="M486 364 L 487 337"/>
+    <path d="M487 340 C 473 339 466 332 467 322 C 479 322 487 329 487 340 Z"/>
+    <path d="M487 345 C 501 344 508 337 509 327 C 496 327 488 334 487 345 Z"/>
+    <path d="M524 364 L 523 332"/>
+    <path d="M523 337 C 507 335 498 327 498 315 C 512 315 522 324 523 337 Z"/>
+    <path d="M523 342 C 539 341 547 332 547 321 C 532 321 523 329 523 342 Z"/>
+    <path d="M562 364 L 562 328"/>
+    <path d="M562 333 C 544 331 534 321 534 308 C 550 308 561 318 562 333 Z"/>
+    <path d="M562 339 C 580 338 589 328 589 315 C 573 315 562 325 562 339 Z"/>
+    <path d="M600 364 L 600 337"/>
+    <path d="M600 340 C 587 339 579 332 580 322 C 592 322 600 329 600 340 Z"/>
+    <path d="M600 345 C 614 344 621 337 622 327 C 609 327 601 334 600 345 Z"/>
+    <path d="M638 364 L 639 332"/>
+    <path d="M639 337 C 623 335 615 327 615 315 C 630 315 639 324 639 337 Z"/>
+    <path d="M639 342 C 655 341 664 332 664 321 C 650 321 640 329 639 342 Z"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M352 346 C 400 334 440 354 500 342 C 560 330 600 352 648 340"/>
+  </g>
+
+  <g fill="#f5ead3" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M810 380 H 950 L 936 520 Q 934 540 916 540 H 844 Q 826 540 824 520 Z"/>
+    <path d="M950 410 H 990 Q 1016 410 1016 440 V 456 Q 1016 484 986 484 H 944"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M818 420 H 842 M822 460 H 846 M826 500 H 850"/>
+  </g>
+
+</svg>
