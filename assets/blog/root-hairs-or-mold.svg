@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of 2 close-up seedlings side by side, the left with fine even fuzz along its root just above the soil, the right with a grey web spreading across the soil between stems">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="80" y="70" width="480" height="490" rx="24"/>
+    <rect x="640" y="70" width="480" height="490" rx="24"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M110 420 H 530"/>
+    <path d="M670 420 H 1090"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="130" cy="450" r="2"/>
+    <circle cx="690" cy="450" r="2"/>
+    <circle cx="168" cy="510" r="2"/>
+    <circle cx="728" cy="510" r="2"/>
+    <circle cx="190" cy="490" r="2"/>
+    <circle cx="750" cy="490" r="2"/>
+    <circle cx="228" cy="470" r="2"/>
+    <circle cx="788" cy="470" r="2"/>
+    <circle cx="250" cy="450" r="2"/>
+    <circle cx="810" cy="450" r="2"/>
+    <circle cx="288" cy="510" r="2"/>
+    <circle cx="848" cy="510" r="2"/>
+    <circle cx="310" cy="490" r="2"/>
+    <circle cx="870" cy="490" r="2"/>
+    <circle cx="348" cy="470" r="2"/>
+    <circle cx="908" cy="470" r="2"/>
+    <circle cx="370" cy="450" r="2"/>
+    <circle cx="930" cy="450" r="2"/>
+    <circle cx="408" cy="510" r="2"/>
+    <circle cx="968" cy="510" r="2"/>
+    <circle cx="430" cy="490" r="2"/>
+    <circle cx="990" cy="490" r="2"/>
+    <circle cx="468" cy="470" r="2"/>
+    <circle cx="1028" cy="470" r="2"/>
+    <circle cx="490" cy="450" r="2"/>
+    <circle cx="1050" cy="450" r="2"/>
+    <circle cx="528" cy="510" r="2"/>
+    <circle cx="1088" cy="510" r="2"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M320 420 V 190"/>
+    <path d="M320 196 L 320 130"/>
+    <path d="M320 139 C 287 136 269 118 269 94 C 299 94 318 112 320 139 Z"/>
+    <path d="M320 151 C 353 148 371 130 371 106 C 341 106 322 124 320 151 Z"/>
+  </g>
+
+  <g fill="none" stroke="#8a7e3a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M320 332 l -22 -6 M320 332 l 22 -6"/>
+    <path d="M320 341 l -22 -6 M320 341 l 22 -6"/>
+    <path d="M320 350 l -22 -6 M320 350 l 22 -6"/>
+    <path d="M320 359 l -22 -6 M320 359 l 22 -6"/>
+    <path d="M320 368 l -22 -6 M320 368 l 22 -6"/>
+    <path d="M320 377 l -22 -6 M320 377 l 22 -6"/>
+    <path d="M320 386 l -22 -6 M320 386 l 22 -6"/>
+    <path d="M320 395 l -22 -6 M320 395 l 22 -6"/>
+    <path d="M320 404 l -22 -6 M320 404 l 22 -6"/>
+    <path d="M320 413 l -22 -6 M320 413 l 22 -6"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M820 420 V 220"/>
+    <path d="M820 226 L 819 164"/>
+    <path d="M819 173 C 788 170 771 153 771 131 C 799 131 818 148 819 173 Z"/>
+    <path d="M819 184 C 850 181 867 164 867 142 C 839 142 821 159 819 184 Z"/>
+    <path d="M980 420 V 220"/>
+    <path d="M980 226 L 981 164"/>
+    <path d="M981 173 C 950 170 933 153 934 131 C 962 131 980 148 981 173 Z"/>
+    <path d="M981 184 C 1011 181 1028 164 1029 142 C 1001 142 982 159 981 184 Z"/>
+  </g>
+
+  <g fill="none" stroke="#1f2419" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M900 412 L 740 412"/>
+    <path d="M900 412 L 750 403"/>
+    <path d="M900 412 L 777 395"/>
+    <path d="M900 412 L 820 389"/>
+    <path d="M900 412 L 872 386"/>
+    <path d="M900 412 L 928 386"/>
+    <path d="M900 412 L 980 389"/>
+    <path d="M900 412 L 1023 395"/>
+    <path d="M900 412 L 1050 403"/>
+    <path d="M900 412 L 1060 412"/>
+    <path d="M849 412 L 853 409 L 857 406 L 869 404 L 889 403 L 909 403 L 925 404 L 941 406 L 957 409 L 962 412"/>
+    <path d="M799 412 L 806 406 L 813 400 L 838 396 L 879 394 L 919 394 L 949 396 L 981 400 L 1013 406 L 1025 412"/>
+    <path d="M755 412 L 765 403 L 776 395 L 811 389 L 870 386 L 926 386 L 970 389 L 1016 395 L 1062 403 L 1078 412"/>
+    <path d="M830 414 C 826 380 832 340 826 300 M830 400 C 842 372 846 340 840 310 M970 410 C 974 372 966 340 972 300 M960 410 C 950 372 954 336 960 306"/>
+  </g>
+
+</svg>
