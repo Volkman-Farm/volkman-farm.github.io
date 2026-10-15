@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label=" Line drawing of a phone showing a short form with a send button, a dotted line running from it to an open envelope, and a 64 oz clamshell of microgreens beyond">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <defs>
+    <g id="sp" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M0 0 V-34" fill="none" stroke="#3a5a2a" stroke-width="4"/>
+      <path d="M0 -32 C-12 -36 -17 -46 -11 -51 C-4 -49 0 -41 0 -32 Z" fill="#3a5a2a" stroke="#3a5a2a" stroke-width="3"/>
+      <path d="M0 -32 C12 -36 17 -46 11 -51 C4 -49 0 -41 0 -32 Z" fill="#3a5a2a" stroke="#3a5a2a" stroke-width="3"/>
+    </g>
+  </defs>
+  <path d="M60 500 H1140" fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round"/>
+  <rect x="100" y="110" width="190" height="390" rx="28" fill="none" stroke="#1f2419" stroke-width="9"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M170 134 H220" stroke="#1f2419" stroke-width="6"/>
+    <rect x="118" y="160" width="154" height="320" rx="8" stroke="#5c4633" stroke-width="3"/>
+    <rect x="132" y="184" width="126" height="34" rx="6" stroke="#5c4633" stroke-width="5"/>
+    <rect x="132" y="242" width="126" height="34" rx="6" stroke="#5c4633" stroke-width="5"/>
+    <rect x="132" y="300" width="126" height="84" rx="6" stroke="#5c4633" stroke-width="5"/>
+    <path d="M144 201 H190 M144 259 H200 M144 320 H238 M144 340 H220 M144 360 H180" stroke="#8a7e3a" stroke-width="5"/>
+  </g>
+  <rect x="132" y="414" width="126" height="40" rx="10" fill="#3a5a2a" stroke="#3a5a2a" stroke-width="5"/>
+  <path d="M175 434 H212 M202 424 L214 434 L202 444" fill="none" stroke="#f5ead3" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="none" stroke="#8a7e3a" stroke-width="6" stroke-linecap="round" stroke-dasharray="2 16">
+    <path d="M304 420 C360 300 420 300 468 420"/>
+    <path d="M692 420 C750 300 800 300 846 410"/>
+  </g>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M470 370 L575 290 L680 370 Z" fill="#f5ead3" stroke="#5c4633" stroke-width="8"/>
+    <rect x="510" y="318" width="130" height="100" fill="#f5ead3" stroke="#8a7e3a" stroke-width="5"/>
+    <path d="M530 336 H620 M530 352 H600" fill="none" stroke="#8a7e3a" stroke-width="4"/>
+    <path d="M470 370 H680 V500 H470 Z" fill="#f5ead3" stroke="#5c4633" stroke-width="8"/>
+    <path d="M470 500 L555 430 M680 500 L595 430" fill="none" stroke="#5c4633" stroke-width="6"/>
+  </g>
+  <use href="#sp" transform="translate(900 442)"/><use href="#sp" transform="translate(945 442)"/><use href="#sp" transform="translate(990 442)"/><use href="#sp" transform="translate(1035 442)"/>
+  <use href="#sp" transform="translate(922 442) scale(0.8)"/><use href="#sp" transform="translate(968 442) scale(0.8)"/><use href="#sp" transform="translate(1012 442) scale(0.8)"/>
+  <g fill="none" stroke="#1f2419" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M866 440 L882 500 H1058 L1074 440"/>
+    <path d="M850 440 H1090 M950 440 V462 H990 V440"/>
+    <path d="M866 440 C866 370 1074 370 1074 440"/>
+  </g>
+  <g fill="none" stroke="#5c4633" stroke-width="4" stroke-linecap="round">
+    <path d="M920 456 V490 M970 456 V490 M1020 456 V490"/>
+  </g>
+</svg>
