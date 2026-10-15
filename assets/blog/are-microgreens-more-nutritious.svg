@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a balance scale with a small pinch of microgreens on one pan and a full-grown leafy head on the other, the beam sitting level">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 548 H 1140"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M600 190 V 520"/>
+    <path d="M520 548 L 548 520 H 652 L 680 548"/>
+  </g>
+
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M560 168 H 640 L 600 190 Z"/>
+  </g>
+
+  <g fill="none" stroke="#1f2419" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M270 150 H 930"/>
+  </g>
+
+  <g fill="#f5ead3" stroke="#6b2a2f" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="600" cy="150" r="14"/>
+  </g>
+
+  <g fill="none" stroke="#5c4633" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M270 150 L 160 410 M270 150 L 380 410"/>
+    <path d="M930 150 L 820 410 M930 150 L 1040 410"/>
+  </g>
+
+  <g fill="#f5ead3" stroke="#1f2419" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M140 410 H 400 C 400 450 360 470 270 470 C 180 470 140 450 140 410 Z"/>
+    <path d="M800 410 H 1060 C 1060 450 1020 470 930 470 C 840 470 800 450 800 410 Z"/>
+  </g>
+
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M230 410 L 229 377"/>
+    <path d="M229 382 C 213 380 204 371 203 359 C 218 359 228 368 229 382 Z"/>
+    <path d="M229 388 C 246 386 255 377 254 365 C 239 365 230 374 229 388 Z"/>
+    <path d="M272 410 L 272 370"/>
+    <path d="M272 376 C 252 374 242 363 242 349 C 260 349 271 360 272 376 Z"/>
+    <path d="M272 383 C 292 381 303 370 303 356 C 285 356 273 367 272 383 Z"/>
+    <path d="M312 410 L 313 379"/>
+    <path d="M313 383 C 297 382 289 374 290 362 C 304 362 312 371 313 383 Z"/>
+    <path d="M313 389 C 328 388 337 379 337 368 C 323 368 314 376 313 389 Z"/>
+    <path d="M204 408 C 199 398 209 395 216 398"/>
+    <path d="M340 408 C 345 398 335 395 328 398"/>
+  </g>
+
+  <g fill="#f5ead3" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="930" cy="291" r="32"/>
+    <circle cx="960" cy="304" r="32"/>
+    <circle cx="967" cy="333" r="32"/>
+    <circle cx="946" cy="356" r="32"/>
+    <circle cx="914" cy="356" r="32"/>
+    <circle cx="893" cy="333" r="32"/>
+    <circle cx="900" cy="304" r="32"/>
+  </g>
+
+  <g fill="#f5ead3" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="930" cy="325" r="34"/>
+    <path d="M930 408 V 340 M930 372 L 906 350 M930 372 L 954 350"/>
+  </g>
+
+</svg>
