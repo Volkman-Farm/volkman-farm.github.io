@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a produce knife with a green handle held level just above the soil line of a seed tray, with a row of cut stems falling to one side and the roots left in the soil below">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+<g transform="translate(0 -60)">
+  <defs>
+    <g id="stem" fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M0 0 V-80"/>
+      <path d="M0 -80 C-10 -100 -34 -98 -34 -84 C-30 -72 -10 -72 0 -80 Z"/>
+      <path d="M0 -80 C10 -100 34 -98 34 -84 C30 -72 10 -72 0 -80 Z"/>
+    </g>
+  </defs>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M160 430 H1040 L1008 560 H192 Z"/>
+    <path d="M230 560 V585 M970 560 V585"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M240 440 C230 470 250 480 238 510"/>
+    <path d="M320 440 C310 470 330 480 318 510"/>
+    <path d="M400 440 C390 470 410 480 398 510"/>
+    <path d="M480 440 C470 470 490 480 478 510"/>
+    <path d="M560 440 C550 470 570 480 558 510"/>
+    <path d="M640 440 C630 470 650 480 638 510"/>
+    <path d="M720 440 C710 470 730 480 718 510"/>
+    <path d="M800 440 C790 470 810 480 798 510"/>
+    <path d="M880 440 C870 470 890 480 878 510"/>
+    <path d="M960 440 C950 470 970 480 958 510"/>
+    <path d="M260 440 C268 462 258 476 266 496 M340 440 C348 462 338 476 346 496 M420 440 C428 462 418 476 426 496 M500 440 C508 462 498 476 506 496 M580 440 C588 462 578 476 586 496 M660 440 C668 462 658 476 666 496 M740 440 C748 462 738 476 746 496 M820 440 C828 462 818 476 826 496 M900 440 C908 462 898 476 906 496"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round">
+    <path d="M240 430 V414 M320 430 V414 M400 430 V414 M480 430 V414 M560 430 V414 M640 430 V414 M720 430 V414 M800 430 V414 M880 430 V414 M960 430 V414"/>
+  </g>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M400 372 H650 C676 372 696 386 708 404 L400 404 Z" fill="#1f2419" stroke="#1f2419" stroke-width="6"/>
+    <rect x="236" y="364" width="164" height="48" rx="20" fill="#3a5a2a" stroke="#3a5a2a" stroke-width="6"/>
+    <g fill="#f5ead3"><circle cx="290" cy="388" r="6"/><circle cx="350" cy="388" r="6"/></g>
+  </g>
+  <use href="#stem" transform="translate(760 330) rotate(62)"/>
+  <use href="#stem" transform="translate(800 290) rotate(-72)"/>
+  <use href="#stem" transform="translate(860 340) rotate(80)"/>
+  <use href="#stem" transform="translate(900 265) rotate(-50)"/>
+  <use href="#stem" transform="translate(960 365) rotate(88)"/>
+  <use href="#stem" transform="translate(1000 300) rotate(70)"/>
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round">
+    <path d="M730 300 l-26 -6 M745 262 l-22 -10 M830 238 l-14 -18"/>
+  </g>
+</g>
+</svg>
