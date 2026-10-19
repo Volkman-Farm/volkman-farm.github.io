@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a row of 3 identical clamshells of different microgreens on a kitchen scale bench, each with the same small blank price tag">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+<g transform="translate(0 -80)">
+  <defs>
+    <g id="shell" fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M0 0 H230 L212 76 H18 Z"/>
+      <path d="M0 0 C0 -110 230 -110 230 0"/>
+      <path d="M115 -86 V0"/>
+    </g>
+    <g id="tag" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M0 0 C-4 14 4 20 0 30" fill="none" stroke="#5c4633" stroke-width="4"/>
+      <path d="M-18 30 H18 V74 H-18 Z M-18 30 L-8 22 H8 L18 30" fill="#f5ead3" stroke="#5c4633" stroke-width="5"/>
+      <circle cx="0" cy="40" r="4" fill="none" stroke="#5c4633" stroke-width="3"/>
+    </g>
+  </defs>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 480 H1140 M60 506 H1140 M120 506 V590 M1080 506 V590"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M140 400 V340 M165 400 V320 M190 400 V335 M215 400 V318 M240 400 V338 M265 400 V325 M290 400 V342 M315 400 V330"/>
+    <path d="M140 340 l-8 -12 M165 320 l-8 -12 M190 335 l8 -12 M215 318 l8 -12 M240 338 l-8 -12 M265 325 l8 -12 M290 342 l-8 -12 M315 330 l8 -12"/>
+    <path d="M440 400 V358 M470 400 V350 M500 400 V360 M530 400 V348 M560 400 V358 M590 400 V352"/>
+    <circle cx="440" cy="348" r="12"/><circle cx="470" cy="338" r="12"/><circle cx="500" cy="350" r="12"/><circle cx="530" cy="336" r="12"/><circle cx="560" cy="348" r="12"/><circle cx="590" cy="340" r="12"/>
+    <path d="M740 400 C735 370 750 355 742 330 M770 400 C780 370 764 350 774 325 M800 400 C795 372 812 352 802 328 M830 400 C838 374 822 354 832 330 M860 400 C855 372 872 356 862 334 M890 400 C898 380 884 360 894 338"/>
+    <path d="M742 330 l-10 -8 M742 330 l10 -10 M774 325 l-10 -8 M774 325 l10 -10 M802 328 l-10 -8 M802 328 l10 -10 M832 330 l-10 -8 M832 330 l10 -10 M862 334 l-10 -8 M862 334 l10 -10"/>
+  </g>
+  <use href="#shell" transform="translate(110 404)"/>
+  <use href="#shell" transform="translate(410 404)"/>
+  <use href="#shell" transform="translate(710 404)"/>
+  <use href="#tag" transform="translate(300 440)"/>
+  <use href="#tag" transform="translate(600 440)"/>
+  <use href="#tag" transform="translate(900 440)"/>
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M990 480 V420 H1110 V480"/>
+    <path d="M980 420 H1120 M1020 420 V400 M1080 420 V400 M1000 400 H1100"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round">
+    <path d="M1010 465 C1010 440 1090 440 1090 465"/>
+    <path d="M1050 465 L1068 446"/>
+    <path d="M1020 452 l4 6 M1050 446 v8 M1080 452 l-4 6"/>
+  </g>
+</g>
+</svg>
