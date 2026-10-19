@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Line drawing seen from above of a round plate with a pale slice of fish, a small tuft of microgreens on pink stems at one side, and a curl of pea tendril standing up at the other">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="600" cy="315" r="270"/>
+    <circle cx="600" cy="315" r="214" stroke-width="5"/>
+  </g>
+  <g stroke-linecap="round" stroke-linejoin="round" transform="translate(620 330) scale(.72) rotate(-8) translate(-600 -320)">
+    <path d="M470 275 C540 255 660 255 730 275 C752 300 752 340 730 365 C660 385 540 385 470 365 C448 340 448 300 470 275 Z" fill="#f5ead3" stroke="#5c4633" stroke-width="7"/>
+    <g fill="none" stroke="#8a7e3a" stroke-width="5">
+      <path d="M500 290 C540 310 560 340 548 366"/>
+      <path d="M570 275 C610 305 630 340 618 378"/>
+      <path d="M645 272 C682 300 702 330 694 372"/>
+    </g>
+  </g>
+  <g transform="translate(450 385) scale(.8) translate(-345 -400)"><g fill="none" stroke="#6b2a2f" stroke-width="6" stroke-linecap="round">
+    <path d="M330 400 L270 330 M335 400 L300 310 M340 400 L340 300 M345 400 L380 308 M350 400 L410 330 M338 400 L248 372"/>
+  </g>
+  <g fill="#3a5a2a" stroke="#3a5a2a" stroke-width="4" stroke-linejoin="round">
+    <circle cx="262" cy="322" r="14"/><circle cx="294" cy="300" r="14"/><circle cx="340" cy="290" r="14"/><circle cx="386" cy="300" r="14"/><circle cx="418" cy="324" r="14"/><circle cx="238" cy="372" r="12"/>
+  </g></g>
+  <g transform="translate(745 400) scale(.85) translate(-865 -420)"><g fill="none" stroke="#3a5a2a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M865 420 C855 370 880 340 872 300 C866 270 888 240 920 238 C950 238 962 266 946 284 C932 298 910 290 914 272 C916 262 930 260 934 270"/>
+    <path d="M872 330 C846 322 836 300 846 286 C864 290 874 306 872 330 Z"/>
+    <path d="M868 380 C894 372 906 350 896 336 C878 340 866 358 868 380 Z"/>
+  </g></g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round">
+    <path d="M520 440 l30 8 M580 452 l34 0 M650 444 l30 -8 M470 215 l24 -10 M720 205 l20 12"/>
+  </g>
+</svg>
