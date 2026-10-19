@@ -449,9 +449,9 @@ interview. Full notes in `plan-oct-16-20-batch.md`. No reader emails came in fro
 | Date | Pillar | Topic | Notes | Status |
 |---|---|---|---|---|
 | Fri Oct 16 | Growing notes | Where the knife goes | **Albert 2026-10-15: Mercer Culinary Millennia 6-inch produce knife; cut as close to the soil as possible without roots or dirt, same for every variety.** 284 words. | [x] posts/where-the-knife-goes.md, **reviewed and pushed 2026-10-16 at 8554202** |
-| Sat Oct 17 | Reader questions | Why does every green cost the same? | **Albert 2026-10-15: consistency; effort and cost differences between varieties are mostly negligible.** Replaces the per-pound-vs-lettuce idea. No cost figures. | [ ] drafted 2026-10-15 at posts/why-does-every-green-cost-the-same.md, not committed |
-| Sun Oct 18 | Variety spotlight | Color on the plate | Non-spotlight. Beet pink stems, pea curl, curly kale, thin cilantro stems, all from `_data/varieties.js`. 302 words. | [ ] drafted 2026-10-15 at posts/color-on-the-plate.md, not committed |
-| Mon Oct 19 | In the kitchen | Roast vegetables, finished cold | Off-heat finishing; wash as the customer's step. 309 words. | [ ] drafted 2026-10-15 at posts/roast-vegetables-finished-cold.md, not committed |
+| Sat Oct 17 | Reader questions | Why does every green cost the same? | **Albert 2026-10-15: consistency; effort and cost differences between varieties are mostly negligible.** Replaces the per-pound-vs-lettuce idea. No cost figures. | [x] posts/why-does-every-green-cost-the-same.md, **reviewed and pushed 2026-10-19 at 7db42ef** |
+| Sun Oct 18 | Variety spotlight | Color on the plate | Non-spotlight. Beet pink stems, pea curl, curly kale, thin cilantro stems, all from `_data/varieties.js`. 302 words. | [x] posts/color-on-the-plate.md, **reviewed and pushed 2026-10-19 at 1058a93** |
+| Mon Oct 19 | In the kitchen | Roast vegetables, finished cold | Off-heat finishing; wash as the customer's step. 309 words. | [x] posts/roast-vegetables-finished-cold.md, **reviewed and pushed 2026-10-19 at fc65fb2** |
 | Tue Oct 20 | Homestead journal | Picking a date for chicks | **Albert 2026-10-15: picking a time around holidays and future travel.** Travel kept general; flagged for review. 180 words. | [ ] drafted 2026-10-15 at posts/picking-a-date-for-chicks.md, not committed |
 
 ---
