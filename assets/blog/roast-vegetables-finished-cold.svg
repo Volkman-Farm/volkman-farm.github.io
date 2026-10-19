@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a sheet pan of roasted sweet potato wedges and halved brussels sprouts, with a small heap of fresh microgreens piled on one corner">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <defs>
+    <g id="wedge" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M-55 0 Q0 -34 55 0 Q0 30 -55 0 Z" stroke="#5c4633" stroke-width="6"/>
+      <path d="M-38 0 Q0 -14 38 0" stroke="#8a7e3a" stroke-width="5"/>
+      <path d="M-22 -14 l4 6 M16 -14 l4 6" stroke="#1f2419" stroke-width="4"/>
+    </g>
+    <g id="sprout" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#3a5a2a" stroke-width="5">
+      <path d="M0 -30 C24 -30 32 -6 26 10 C20 28 -20 28 -26 10 C-32 -6 -24 -30 0 -30 Z" stroke-width="6"/>
+      <path d="M0 -22 V18 M-12 -14 C-18 0 -14 10 -8 16 M12 -14 C18 0 14 10 8 16"/>
+      <path d="M-4 4 l-6 0 M4 -4 l6 0" stroke="#8a7e3a" stroke-width="4"/>
+    </g>
+  </defs>
+  <g fill="none" stroke="#5c4633" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="170" y="110" width="860" height="420" rx="26"/>
+    <rect x="196" y="136" width="808" height="368" rx="14" stroke-width="5"/>
+  </g>
+  <use href="#wedge" transform="translate(300 220) rotate(-18) scale(1.25)"/>
+  <use href="#wedge" transform="translate(470 175) rotate(12) scale(1.25)"/>
+  <use href="#wedge" transform="translate(640 220) rotate(-6) scale(1.25)"/>
+  <use href="#wedge" transform="translate(330 330) rotate(24) scale(1.25)"/>
+  <use href="#wedge" transform="translate(520 300) rotate(-14) scale(1.25)"/>
+  <use href="#wedge" transform="translate(710 330) rotate(8) scale(1.25)"/>
+  <use href="#wedge" transform="translate(430 450) rotate(-10) scale(1.25)"/>
+  <use href="#wedge" transform="translate(640 445) rotate(18) scale(1.25)"/>
+  <use href="#sprout" transform="translate(250 420) rotate(20)"/>
+  <use href="#sprout" transform="translate(570 190) rotate(-25)"/>
+  <use href="#sprout" transform="translate(410 255) rotate(40)"/>
+  <use href="#sprout" transform="translate(770 440) rotate(-15)"/>
+  <use href="#sprout" transform="translate(790 240) rotate(10)"/>
+  <use href="#sprout" transform="translate(232 195) rotate(-40)"/>
+  <use href="#sprout" transform="translate(600 360) rotate(30)"/>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M850 330 C870 300 940 290 960 330 C975 345 960 360 940 358 C900 362 860 356 850 330 Z" fill="#f5ead3"/>
+    <path d="M870 330 C860 290 880 270 900 250 M900 335 C905 290 925 265 945 245 M930 335 C940 300 965 285 985 270 M885 335 C895 310 880 290 868 275 M915 335 C925 305 910 280 918 258"/>
+    <circle cx="900" cy="250" r="9"/><circle cx="946" cy="245" r="9"/><circle cx="985" cy="270" r="9"/><circle cx="868" cy="275" r="9"/><circle cx="918" cy="256" r="9"/>
+    <path d="M880 345 C900 335 920 335 940 345"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round">
+    <path d="M110 560 H1090"/>
+  </g>
+</svg>
