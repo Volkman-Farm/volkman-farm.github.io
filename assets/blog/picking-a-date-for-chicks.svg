@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a wall calendar with a few squares circled, hanging above an empty wooden brooder box with a heat lamp switched off">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g transform="translate(-130 0)">
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M320 80 L485 28 L650 80"/>
+    <rect x="320" y="80" width="330" height="224" rx="10"/>
+    <path d="M320 126 H650" />
+  </g>
+  <circle cx="485" cy="28" r="8" fill="#5c4633"/>
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round">
+    <path d="M380 70 V94 M485 70 V94 M590 70 V94"/>
+  </g>
+  <g fill="none" stroke="#5c4633" stroke-width="3.5" stroke-linejoin="round">
+    <path d="M342 142 h54 v36 h-54 Z M396 142 h54 v36 h-54 Z M450 142 h54 v36 h-54 Z M504 142 h54 v36 h-54 Z M558 142 h54 v36 h-54 Z"/>
+    <path d="M342 178 h54 v36 h-54 Z M396 178 h54 v36 h-54 Z M450 178 h54 v36 h-54 Z M504 178 h54 v36 h-54 Z M558 178 h54 v36 h-54 Z"/>
+    <path d="M342 214 h54 v36 h-54 Z M396 214 h54 v36 h-54 Z M450 214 h54 v36 h-54 Z M504 214 h54 v36 h-54 Z M558 214 h54 v36 h-54 Z"/>
+    <path d="M342 250 h54 v36 h-54 Z M396 250 h54 v36 h-54 Z M450 250 h54 v36 h-54 Z M504 250 h54 v36 h-54 Z"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="423" cy="196" rx="30" ry="22"/>
+    <ellipse cx="531" cy="232" rx="30" ry="22"/>
+    <ellipse cx="369" cy="268" rx="30" ry="22"/>
+  </g>
+  </g>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M250 410 H690 L720 440 M250 410 L230 440 M230 440 H720"/>
+    <path d="M230 440 V548 H720 V440"/>
+    <path d="M230 484 H720 M230 516 H720" stroke-width="5"/>
+    <path d="M260 548 V572 M690 548 V572"/>
+    <path d="M110 572 H1090"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round">
+    <path d="M300 425 H640"/>
+  </g>
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M700 410 V250 C700 215 660 205 620 205"/>
+    <path d="M620 205 V228"/>
+    <path d="M608 228 H632 V258 H608 Z"/>
+    <path d="M570 302 C570 254 670 254 670 302 Z"/>
+    <path d="M570 302 C590 312 650 312 670 302"/>
+    <circle cx="620" cy="326" r="12" stroke="#8a7e3a" stroke-width="5"/>
+    <path d="M684 400 H716 V424 H684 Z"/>
+  </g>
+</svg>
