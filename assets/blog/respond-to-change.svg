@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a run of electric poultry netting on posts, with a strip of short mowed grass along its base and a reel mower parked at the end of the line">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 520 H1140"/>
+  </g>
+  <g fill="none" stroke="#5c4633" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 520 V230"/>
+    <path d="M330 520 V230"/>
+    <path d="M510 520 V230"/>
+    <path d="M690 520 V230"/>
+    <path d="M860 520 V230"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M141 232 H159"/>
+    <path d="M321 232 H339"/>
+    <path d="M501 232 H519"/>
+    <path d="M681 232 H699"/>
+    <path d="M851 232 H869"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 250 H860"/><path d="M150 300 H860"/><path d="M150 350 H860"/><path d="M150 400 H860"/><path d="M150 450 H860"/><path d="M150 495 H860"/>
+    <path d="M195 250 V520"/><path d="M240 250 V520"/><path d="M285 250 V520"/><path d="M375 250 V520"/><path d="M420 250 V520"/><path d="M465 250 V520"/><path d="M555 250 V520"/><path d="M600 250 V520"/><path d="M645 250 V520"/><path d="M735 250 V520"/><path d="M780 250 V520"/><path d="M825 250 V520"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M70 520 V508"/><path d="M83 520 V507"/><path d="M94 520 V507"/><path d="M106 520 V513"/><path d="M118 520 V512"/><path d="M133 520 V509"/><path d="M142 520 V513"/><path d="M151 520 V512"/><path d="M163 520 V506"/><path d="M177 520 V513"/><path d="M188 520 V509"/><path d="M201 520 V507"/><path d="M212 520 V506"/><path d="M221 520 V506"/><path d="M235 520 V514"/><path d="M244 520 V512"/><path d="M258 520 V509"/><path d="M270 520 V506"/><path d="M283 520 V509"/><path d="M298 520 V513"/><path d="M310 520 V514"/><path d="M320 520 V511"/><path d="M330 520 V509"/><path d="M345 520 V513"/><path d="M356 520 V506"/><path d="M368 520 V514"/><path d="M382 520 V507"/><path d="M392 520 V510"/><path d="M401 520 V511"/><path d="M415 520 V514"/><path d="M427 520 V514"/><path d="M442 520 V509"/><path d="M453 520 V510"/><path d="M466 520 V513"/><path d="M481 520 V514"/><path d="M493 520 V506"/><path d="M505 520 V509"/><path d="M519 520 V512"/><path d="M531 520 V508"/><path d="M542 520 V514"/><path d="M556 520 V511"/><path d="M565 520 V513"/><path d="M579 520 V514"/><path d="M588 520 V508"/><path d="M601 520 V512"/><path d="M612 520 V513"/><path d="M626 520 V506"/><path d="M638 520 V506"/><path d="M649 520 V512"/><path d="M663 520 V508"/><path d="M673 520 V514"/><path d="M683 520 V506"/><path d="M698 520 V509"/><path d="M711 520 V514"/><path d="M721 520 V512"/><path d="M734 520 V511"/><path d="M749 520 V511"/><path d="M761 520 V510"/><path d="M775 520 V514"/><path d="M788 520 V506"/><path d="M800 520 V514"/><path d="M815 520 V508"/><path d="M828 520 V514"/><path d="M838 520 V512"/><path d="M847 520 V513"/><path d="M862 520 V511"/><path d="M875 520 V514"/><path d="M885 520 V514"/><path d="M897 520 V513"/><path d="M912 520 V511"/><path d="M924 520 V511"/><path d="M933 520 V514"/><path d="M946 520 V511"/><path d="M958 520 V506"/><path d="M973 520 V509"/><path d="M987 520 V508"/><path d="M1000 520 V508"/><path d="M1015 520 V507"/><path d="M1030 520 V514"/><path d="M1045 520 V510"/><path d="M1054 520 V507"/><path d="M1063 520 V506"/><path d="M1075 520 V506"/><path d="M1090 520 V510"/><path d="M1100 520 V510"/><path d="M1109 520 V508"/><path d="M1120 520 V510"/><path d="M1129 520 V508"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M70 534 H900 M120 546 H850" stroke-dasharray="26 18"/>
+  </g>
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="1010" cy="484" r="36"/>
+    <circle cx="1010" cy="484" r="8"/>
+    <circle cx="930" cy="494" r="26"/>
+    <path d="M930 468 V520 M904 494 H956 M912 476 L948 512 M948 476 L912 512"/>
+    <path d="M930 494 H1010"/>
+    <path d="M1010 484 L1046 410 L1100 250"/>
+    <path d="M1100 250 H1138"/>
+    <path d="M1034 436 H1070"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1025 472 L1060 420"/>
+  </g>
+</svg>
