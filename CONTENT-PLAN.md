@@ -465,8 +465,8 @@ ever run; the route days show availability.** Two rows stay open for lack of a r
 
 | Date | Pillar | Topic | Notes | Status |
 |---|---|---|---|---|
-| Wed Oct 21 | Permaculture | Respond to change | Holmgren principle 12 against published facts: paddock rebuild, the chick plan moving twice, the front-field succession, October clocks. 577 words. | [ ] drafted 2026-10-20 at posts/respond-to-change.md, not committed |
-| Thu Oct 22 | On the route | OPEN | "Thanksgiving week on the route" dropped: it describes a route running on a date, and none has ever run. Oct 1 already printed the holiday availability. | [ ] open |
+| Wed Oct 21 | Permaculture | Respond to change | Holmgren principle 12 against published facts: paddock rebuild, the chick plan moving twice, the front-field succession, October clocks. 577 words. | [x] posts/respond-to-change.md, **reviewed and pushed 2026-10-22 at dd5a764** |
+| Thu Oct 22 | On the route | After the clamshell | **Albert 2026-10-22: WebstaurantStore Choice 64 oz rPET clamshell; no take-backs; no reuse at home.** PET, 30% post-consumer rPET, cold use; Seminole and Orlando lists quoted, neither names clamshells, so no acceptance claim. 247 words. | [x] posts/after-the-clamshell.md, **reviewed and pushed 2026-10-22 at c2b0d8e** |
 | Fri Oct 23 | Growing notes | 10 gallons a day | **Albert 2026-10-20: portable replaced by a window unit Oct 9; it seems to have resolved the A/C issues; the old unit filled a 5 gallon bucket twice daily.** Corrects Oct 2 forward. No model, no temperatures. 314 words. | [ ] drafted 2026-10-20 at posts/10-gallons-a-day.md, not committed |
 | Sat Oct 24 | Reader questions | Can you eat the roots? | Builds on the knife post; for home growers. 216 words. | [ ] drafted 2026-10-20 at posts/can-you-eat-the-roots.md, not committed |
 | Sun Oct 25 | Variety spotlight | Seven on the rack | **Albert 2026-10-20: radish, kohlrabi, chard let go; grown only on request.** Pays off Sep 13's "we'll say so when they're back." Does not say nobody has asked. 175 words. | [ ] drafted 2026-10-20 at posts/seven-on-the-rack.md, not committed |

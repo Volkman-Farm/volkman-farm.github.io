@@ -50,3 +50,13 @@ Claude, facts from the same-day interview. The next-quarter planning session is 
 
 Heroes via a Sonnet agent; `npx @11ty/eleventy`; all five are future-dated, so verify with
 a fake-clock build. No browser opened. Mark rows, commit after review, stop. No push.
+
+## Thu Oct 22, filled 2026-10-22
+
+Albert picked "After the clamshell" for the open On the route row. Interview: the clamshell is
+WebstaurantStore Choice 64 oz clear rPET hinged deli container (127CH64); no take-backs; nobody
+at home reuses the empties. Maker spec: PET, minimum 30% post-consumer rPET, "Usage: Cold",
+recyclable "under some recycling programs". Seminole County curbside takes "plastic bottles, cups,
+and containers", rinsed, loose, dry; City of Orlando takes "bottles and containers, empty and clean".
+Neither names clamshells, so the post never says they're accepted. No reuse claims for us; resin
+code given as PET's #1 without claiming what's stamped. Backdated to Oct 22.
