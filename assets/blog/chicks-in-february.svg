@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a closed cardboard chick box with round air holes sitting on a wooden bench, next to a jar waterer on its base">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#8a7e3a" stroke-width="6" stroke-linecap="round">
+    <circle cx="1010" cy="120" r="46"/>
+    <path d="M1010 44 V30 M1010 196 V210 M934 120 H920 M1086 120 H1100 M956 66 L946 56 M1064 66 L1074 56 M956 174 L946 184 M1064 174 L1074 184"/>
+  </g>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M200 420 H960"/>
+    <path d="M200 446 H960"/>
+    <path d="M200 420 V446 M960 420 V446"/>
+    <path d="M250 446 V572 M910 446 V572 M290 446 V572 M870 446 V572" stroke-width="7"/>
+    <path d="M250 520 H290 M870 520 H910" stroke-width="5"/>
+    <path d="M100 572 H1100"/>
+  </g>
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M300 420 V250 H660 V420"/>
+    <path d="M300 250 L340 210 H700 L660 250"/>
+    <path d="M700 210 V380 L660 420"/>
+    <path d="M480 250 L520 210"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5">
+    <circle cx="360" cy="300" r="12"/>
+    <circle cx="420" cy="300" r="12"/>
+    <circle cx="540" cy="300" r="12"/>
+    <circle cx="600" cy="300" r="12"/>
+    <circle cx="360" cy="360" r="12"/>
+    <circle cx="420" cy="360" r="12"/>
+    <circle cx="540" cy="360" r="12"/>
+    <circle cx="600" cy="360" r="12"/>
+    <circle cx="680" cy="270" r="9"/>
+    <circle cx="680" cy="340" r="9"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M790 400 V300 C790 280 800 270 815 266 V250 H865 V266 C880 270 890 280 890 300 V400"/>
+    <path d="M758 400 H922 C922 412 912 420 900 420 H780 C768 420 758 412 758 400 Z"/>
+    <path d="M800 340 H880" stroke="#8a7e3a" stroke-width="5"/>
+  </g>
+</svg>
