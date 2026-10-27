@@ -471,7 +471,7 @@ ever run; the route days show availability.** Two rows stay open for lack of a r
 | Sat Oct 24 | Reader questions | Can you eat the roots? | Builds on the knife post; for home growers. 216 words. | [x] posts/can-you-eat-the-roots.md, **reviewed and pushed 2026-10-26 at ddb776b** |
 | Sun Oct 25 | Variety spotlight | Seven on the rack | **Albert 2026-10-20: radish, kohlrabi, chard let go; grown only on request.** Pays off Sep 13's "we'll say so when they're back." Does not say nobody has asked. 175 words. | [x] posts/seven-on-the-rack.md, **reviewed and pushed 2026-10-26 at 2124c3f** |
 | Mon Oct 26 | In the kitchen | Slaw that holds | Hero redrawn 2026-10-26 at Albert's request: overhead split bowl. Raw use; kale, broccoli, pea folded in, mustard and cilantro on top; wash and dry as the customer's step. 328 words. | [x] posts/slaw-that-holds.md, **reviewed and pushed 2026-10-26 at 0a9934d** |
-| Tue Oct 27 | Homestead journal | Chicks in February | **Albert 2026-10-27: chicks come from Lazzzy D Farm; earliest hatchlings Dec 5, which clashes with the holiday schedule; waiting until February.** Corrects Oct 20 forward. Second tractor still after chicks, no date. 234 words. | [x] posts/chicks-in-february.md |
+| Tue Oct 27 | Homestead journal | Chicks in February | **Albert 2026-10-27: chicks come from Lazzzy D Farm; earliest hatchlings Dec 5, which clashes with the holiday schedule; waiting until February.** Corrects Oct 20 forward. Second tractor still after chicks, no date. 234 words. | [x] posts/chicks-in-february.md, **reviewed and pushed 2026-10-27 at 5616fb0** |
 
 ---
 
