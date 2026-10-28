@@ -481,7 +481,7 @@ stay open for lack of a topic.
 
 | Date | Pillar | Topic | Notes | Status |
 |---|---|---|---|---|
-| Wed Oct 28 | Permaculture | What still goes in the trash | Holmgren principle 6 (verified at permacultureprinciples.com). **Albert 2026-10-28: spent trays still go to the flock in the new paddocks; the BSF bin still runs; the window unit drains outside; shed trash is soil bags, seed packets, paper towels, gloves.** No material or recyclability claims for those 4, no reason given for gloves or towels. Clamshells as the off-site end. 559 words, 3 H2s, no CTA. | [x] posts/what-still-goes-in-the-trash.md |
+| Wed Oct 28 | Permaculture | What still goes in the trash | Holmgren principle 6 (verified at permacultureprinciples.com). **Albert 2026-10-28: spent trays still go to the flock in the new paddocks; the BSF bin still runs; the window unit drains outside; shed trash is soil bags, seed packets, paper towels, gloves.** No material or recyclability claims for those 4, no reason given for gloves or towels. Clamshells as the off-site end. 559 words, 3 H2s, no CTA. | [x] posts/what-still-goes-in-the-trash.md, **reviewed and pushed 2026-10-28 at b8a1067** |
 | Thu Oct 29 | On the route | 4 weeks to Thanksgiving | **Albert 2026-10-28: Thanksgiving week no change from Oct 1.** Corrects Oct 1's Nov 5 cilantro date forward: count from the delivery day (Fri Nov 20 means Oct 30) and October runs long. No October day count. 282 words, one CTA (/order/). | [x] posts/4-weeks-to-thanksgiving.md |
 | Fri Oct 30 | Growing notes | OPEN | Days-to-cut idea dropped: the variety pages are the numbers (Albert 2026-10-28). Needs a topic. | [ ] |
 | Sat Oct 31 | Reader questions | OPEN | No emails. Needs a topic. | [ ] |
