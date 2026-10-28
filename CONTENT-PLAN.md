@@ -473,6 +473,22 @@ ever run; the route days show availability.** Two rows stay open for lack of a r
 | Mon Oct 26 | In the kitchen | Slaw that holds | Hero redrawn 2026-10-26 at Albert's request: overhead split bowl. Raw use; kale, broccoli, pea folded in, mustard and cilantro on top; wash and dry as the customer's step. 328 words. | [x] posts/slaw-that-holds.md, **reviewed and pushed 2026-10-26 at 0a9934d** |
 | Tue Oct 27 | Homestead journal | Chicks in February | **Albert 2026-10-27: chicks come from Lazzzy D Farm; earliest hatchlings Dec 5, which clashes with the holiday schedule; waiting until February.** Corrects Oct 20 forward. Second tractor still after chicks, no date. 234 words. | [x] posts/chicks-in-february.md, **reviewed and pushed 2026-10-27 at 5616fb0** |
 
+### Week 18 · Oct 28 - Nov 3 · added 2026-10-28
+
+Albert asked for the full week 2026-10-28 after the calendar ran out. Slate proposed by Claude; facts
+from the same-day interview. Full notes in `plan-oct-28-nov-3-batch.md`. No reader emails. Fri and Sat
+stay open for lack of a topic.
+
+| Date | Pillar | Topic | Notes | Status |
+|---|---|---|---|---|
+| Wed Oct 28 | Permaculture | What still goes in the trash | Holmgren principle 6 (verified at permacultureprinciples.com). **Albert 2026-10-28: spent trays still go to the flock in the new paddocks; the BSF bin still runs; the window unit drains outside; shed trash is soil bags, seed packets, paper towels, gloves.** No material or recyclability claims for those 4, no reason given for gloves or towels. Clamshells as the off-site end. 559 words, 3 H2s, no CTA. | [x] posts/what-still-goes-in-the-trash.md |
+| Thu Oct 29 | On the route | 4 weeks to Thanksgiving | **Albert 2026-10-28: Thanksgiving week no change from Oct 1.** Corrects Oct 1's Nov 5 cilantro date forward: count from the delivery day (Fri Nov 20 means Oct 30) and October runs long. No October day count. 282 words, one CTA (/order/). | [x] posts/4-weeks-to-thanksgiving.md |
+| Fri Oct 30 | Growing notes | OPEN | Days-to-cut idea dropped: the variety pages are the numbers (Albert 2026-10-28). Needs a topic. | [ ] |
+| Sat Oct 31 | Reader questions | OPEN | No emails. Needs a topic. | [ ] |
+| Sun Nov 1 | Variety spotlight | Seven greens, one Thanksgiving table | Non-spotlight. One green per dish, uses from `_data/varieties.js` and published kitchen posts. 298 words, no H2. | [x] posts/seven-greens-one-thanksgiving-table.md |
+| Mon Nov 2 | In the kitchen | Thanksgiving greens go on last | Prep Wednesday night (wash and dry as the customer's step), greens after the oven, leftovers sandwich. 342 words. | [x] posts/thanksgiving-greens-go-on-last.md |
+| Tue Nov 3 | Homestead journal | A quiet start to November | **Albert 2026-10-28: nothing new.** 166 words, no H2. | [x] posts/a-quiet-start-to-november.md |
+
 ---
 
 ## After Oct 20

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a trash can holding a folded soil bag, a seed packet, a crumpled paper towel, and a glove, its lid leaning beside it, with a wheelbarrow of spent tray mats heading the other way">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 548 H1140"/>
+  </g>
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M190 330 L206 548 H434 L450 330"/><path d="M190 330 H450"/><path d="M240 370 V510 M320 370 V510 M400 370 V510" stroke-width="5"/><path d="M110 548 H134 L166 380 H142 Z"/>
+  </g>
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M200 330 V270 H262 V330"/><path d="M200 286 H262" stroke-width="4"/><path d="M216 270 V258 H246 V270"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M276 330 V240 L312 236 L314 330"/><path d="M276 256 L312 252" stroke-width="4"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M288 300 C294 282 306 282 304 300" />
+  </g>
+  <g fill="none" stroke="#1f2419" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M328 330 L324 300 L336 284 L332 268 L350 274 L362 262 L372 282 L384 296 L378 330"/><path d="M342 300 L352 292 L360 306" stroke-width="4"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M398 330 V286 C398 276 410 276 410 286 V270 C410 260 422 260 422 270 V280 C422 270 434 270 434 282 V330"/><path d="M398 300 L388 290" />
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round">
+    <path d="M478 498 H540 M498 518 H570 M470 538 H530"/>
+  </g>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M930 508 L540 440"/>
+    <path d="M540 440 L506 434" stroke-width="12"/>
+    <path d="M690 466 L676 546"/>
+    <path d="M850 462 L930 508"/>
+  </g>
+  <g fill="#1f2419" stroke="#1f2419" stroke-width="5" stroke-linejoin="round">
+    <rect x="668" y="350" width="206" height="28" rx="7" transform="rotate(-3 771 364)"/>
+    <rect x="694" y="322" width="168" height="26" rx="7" transform="rotate(4 778 335)"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M730 322 C726 308 732 300 740 296 M780 320 C784 306 778 298 770 292 M826 324 C824 312 830 306 838 304"/>
+  </g>
+  <g fill="#f5ead3" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M630 378 L670 462 H850 L920 378 Z"/>
+  </g>
+  <g fill="none" stroke="#5c4633" stroke-width="5" stroke-linecap="round">
+    <path d="M648 400 H896"/>
+  </g>
+  <g fill="#f5ead3" stroke="#1f2419" stroke-width="7">
+    <circle cx="930" cy="508" r="40"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="4" stroke-linecap="round">
+    <path d="M930 472 V544 M894 508 H966 M905 483 L955 533 M955 483 L905 533"/>
+  </g>
+  <circle cx="930" cy="508" r="7" fill="#1f2419"/>
+</svg>
