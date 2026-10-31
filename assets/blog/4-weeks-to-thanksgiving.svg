@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a wall calendar with four weeks of squares, the last Thursday circled, and a single tray of young cilantro on a shelf beneath it">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M260 548 H940"/><path d="M300 520 H900"/><path d="M340 520 V548 M860 520 V548"/>
+  </g>
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="380" y="50" width="440" height="290" rx="10"/><path d="M380 108 H820"/><path d="M442 126 V326" stroke-width="4"/><path d="M505 126 V326" stroke-width="4"/><path d="M568 126 V326" stroke-width="4"/><path d="M631 126 V326" stroke-width="4"/><path d="M694 126 V326" stroke-width="4"/><path d="M757 126 V326" stroke-width="4"/><path d="M394 176 H806" stroke-width="4"/><path d="M394 226 H806" stroke-width="4"/><path d="M394 276 H806" stroke-width="4"/>
+  </g>
+  <g fill="none" stroke="#1f2419" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M470 40 V70 M730 40 V70"/>
+  </g>
+  <g fill="none" stroke="#6b2a2f" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="662" cy="301" r="24"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M590 82 H610"/>
+  </g>
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M420 520 L428 450 H772 L780 520"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M460 450 V410"/><path d="M460 410 C452 394 436 398 439 408 C444 416 453 414 460 410 Z"/><path d="M460 410 C468 394 484 398 480 408 C476 416 466 414 460 410 Z"/><path d="M500 450 V398"/><path d="M500 398 C492 382 476 386 479 396 C484 404 493 402 500 398 Z"/><path d="M500 398 C508 382 524 386 520 396 C516 404 506 402 500 398 Z"/><path d="M540 450 V410"/><path d="M540 410 C532 394 516 398 519 408 C524 416 533 414 540 410 Z"/><path d="M540 410 C548 394 564 398 560 408 C556 416 546 414 540 410 Z"/><path d="M580 450 V396"/><path d="M580 396 C572 380 556 384 559 394 C564 402 573 400 580 396 Z"/><path d="M580 396 C588 380 604 384 600 394 C596 402 586 400 580 396 Z"/><path d="M620 450 V408"/><path d="M620 408 C612 392 596 396 599 406 C604 414 613 412 620 408 Z"/><path d="M620 408 C628 392 644 396 640 406 C636 414 626 412 620 408 Z"/><path d="M660 450 V396"/><path d="M660 396 C652 380 636 384 639 394 C644 402 653 400 660 396 Z"/><path d="M660 396 C668 380 684 384 680 394 C676 402 666 400 660 396 Z"/><path d="M700 450 V410"/><path d="M700 410 C692 394 676 398 679 408 C684 416 693 414 700 410 Z"/><path d="M700 410 C708 394 724 398 720 408 C716 416 706 414 700 410 Z"/><path d="M740 450 V400"/><path d="M740 400 C732 384 716 388 719 398 C724 406 733 404 740 400 Z"/><path d="M740 400 C748 384 764 388 760 398 C756 406 746 404 740 400 Z"/>
+  </g>
+</svg>

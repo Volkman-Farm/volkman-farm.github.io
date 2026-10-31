@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Two trays of seedlings with an open notebook and pencil">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <defs>
+    <g id="seedling" fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M0 0 Q4 -25 0 -52 M0 -40 C-23 -41 -27 -60 -18 -62 C-8 -64 0 -52 0 -40 M1 -47 C11 -65 26 -62 23 -53 C20 -44 10 -43 1 -47"/>
+    </g>
+  </defs>
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M105 432 H1095 M155 433 V555 M1045 433 V555"/>
+  </g>
+  <g fill="#f5ead3" stroke="#1f2419" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M140 312 L183 281 H515 L546 312 L521 410 H165 Z"/>
+    <path d="M654 312 L697 281 H1029 L1060 312 L1035 410 H679 Z"/>
+    <path d="M140 312 H546 M654 312 H1060" fill="none"/>
+    <path d="M169 339 H518 M683 339 H1032" fill="none" stroke-width="3"/>
+  </g>
+  <g>
+    <use href="#seedling" transform="translate(203 289)"/>
+    <use href="#seedling" transform="translate(259 289)"/>
+    <use href="#seedling" transform="translate(315 289)"/>
+    <use href="#seedling" transform="translate(371 289)"/>
+    <use href="#seedling" transform="translate(427 289)"/>
+    <use href="#seedling" transform="translate(483 289)"/>
+    <use href="#seedling" transform="translate(716 289)"/>
+    <use href="#seedling" transform="translate(754 289)"/>
+    <use href="#seedling" transform="translate(792 289)"/>
+    <use href="#seedling" transform="translate(830 289)"/>
+    <use href="#seedling" transform="translate(868 289)"/>
+    <use href="#seedling" transform="translate(906 289)"/>
+    <use href="#seedling" transform="translate(944 289)"/>
+    <use href="#seedling" transform="translate(982 289)"/>
+    <use href="#seedling" transform="translate(1020 289)"/>
+  </g>
+  <g fill="#f5ead3" stroke="#8a7e3a" stroke-width="4" stroke-linejoin="round">
+    <rect x="303" y="354" width="78" height="36" rx="4"/>
+    <rect x="818" y="354" width="78" height="36" rx="4"/>
+  </g>
+  <g fill="#8a7e3a">
+    <circle cx="342" cy="372" r="5"/>
+    <circle cx="847" cy="372" r="5"/><circle cx="868" cy="372" r="5"/>
+  </g>
+  <g stroke="#5c4633" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M433 466 Q505 444 600 463 Q695 444 767 466 L787 558 Q694 537 600 557 Q507 537 413 558 Z" fill="#f5ead3"/>
+    <path d="M600 463 V557 M458 482 Q517 470 576 482 M451 507 Q517 495 576 508 M445 531 Q515 520 576 532 M625 482 Q683 470 743 482 M625 508 Q684 495 750 508 M625 532 Q685 520 756 532" fill="none" stroke-width="3"/>
+    <path d="M824 496 L909 455 L916 469 L831 510 L812 511 Z" fill="#8a7e3a"/>
+    <path d="M824 496 L831 510 M901 459 L908 473" fill="none"/>
+  </g>
+</svg>

@@ -477,14 +477,14 @@ ever run; the route days show availability.** Two rows stay open for lack of a r
 
 Albert asked for the full week 2026-10-28 after the calendar ran out. Slate proposed by Claude; facts
 from the same-day interview. Full notes in `plan-oct-28-nov-3-batch.md`. No reader emails. Fri and Sat
-stay open for lack of a topic.
+were left open for lack of a topic; evergreen drafts added 2026-10-31 at Albert's request.
 
 | Date | Pillar | Topic | Notes | Status |
 |---|---|---|---|---|
 | Wed Oct 28 | Permaculture | What still goes in the trash | Holmgren principle 6 (verified at permacultureprinciples.com). **Albert 2026-10-28: spent trays still go to the flock in the new paddocks; the BSF bin still runs; the window unit drains outside; shed trash is soil bags, seed packets, paper towels, gloves.** No material or recyclability claims for those 4, no reason given for gloves or towels. Clamshells as the off-site end. 559 words, 3 H2s, no CTA. | [x] posts/what-still-goes-in-the-trash.md, **reviewed and pushed 2026-10-28 at b8a1067** |
-| Thu Oct 29 | On the route | 4 weeks to Thanksgiving | **Albert 2026-10-28: Thanksgiving week no change from Oct 1.** Corrects Oct 1's Nov 5 cilantro date forward: count from the delivery day (Fri Nov 20 means Oct 30) and October runs long. No October day count. 282 words, one CTA (/order/). | [x] posts/4-weeks-to-thanksgiving.md |
-| Fri Oct 30 | Growing notes | OPEN | Days-to-cut idea dropped: the variety pages are the numbers (Albert 2026-10-28). Needs a topic. | [ ] |
-| Sat Oct 31 | Reader questions | OPEN | No emails. Needs a topic. | [ ] |
+| Thu Oct 29 | On the route | 4 weeks to Thanksgiving | **Albert 2026-10-28: Thanksgiving week no change from Oct 1.** Corrects Oct 1's Nov 5 cilantro date forward: count from the delivery day (Fri Nov 20 means Oct 30) and October runs long. No October day count. 282 words, one CTA (/order/). | [x] posts/4-weeks-to-thanksgiving.md, **reviewed and approved for publication 2026-10-31** |
+| Fri Oct 30 | Growing notes | Two trays, one change | Drafted 2026-10-31. A suggested home-growing comparison, not a trial we ran: use supplier guidance, vary one input, keep notes, repeat. Known farm inputs from the guardrails and Sep 18. No seed weights or trial results claimed. | [x] posts/two-trays-one-change.md, **reviewed and approved for publication 2026-10-31** |
+| Sat Oct 31 | Reader questions | Can any vegetable be a microgreen? | Drafted 2026-10-31. Evergreen FAQ, not a submitted question. Suitable crops and seed selection; Illinois Extension on nightshades, University of Saskatchewan on fungicide-treated seed. Sources linked in the post. | [x] posts/can-any-vegetable-be-a-microgreen.md, **reviewed and approved for publication 2026-10-31** |
 | Sun Nov 1 | Variety spotlight | Seven greens, one Thanksgiving table | Non-spotlight. One green per dish, uses from `_data/varieties.js` and published kitchen posts. 298 words, no H2. | [x] posts/seven-greens-one-thanksgiving-table.md |
 | Mon Nov 2 | In the kitchen | Thanksgiving greens go on last | Prep Wednesday night (wash and dry as the customer's step), greens after the oven, leftovers sandwich. 342 words. | [x] posts/thanksgiving-greens-go-on-last.md |
 | Tue Nov 3 | Homestead journal | A quiet start to November | **Albert 2026-10-28: nothing new.** 166 words, no H2. | [x] posts/a-quiet-start-to-november.md |

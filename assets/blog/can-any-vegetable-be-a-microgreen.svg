@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Kale and pea seed packets beside a tray, with a tomato packet set apart">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#5c4633" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M110 504 H1090 M159 504 V552 M1041 504 V552"/>
+  </g>
+  <g stroke="#1f2419" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="#f5ead3">
+    <path d="M178 161 L349 144 L372 389 L201 407 Z"/>
+    <path d="M181 191 L352 174 M198 377 L369 360" fill="none" stroke-width="3"/>
+    <path d="M403 146 L574 162 L551 407 L380 391 Z"/>
+    <path d="M400 177 L571 193 M383 362 L554 378" fill="none" stroke-width="3"/>
+    <path d="M876 183 L1047 200 L1024 445 L853 428 Z"/>
+    <path d="M873 214 L1044 231 M856 398 L1027 415" fill="none" stroke-width="3"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M276 342 Q271 300 282 225 M276 323 C251 334 231 321 239 308 C217 300 228 282 242 280 C224 261 246 248 257 253 C247 232 267 219 283 226 C296 214 314 229 304 244 C325 245 332 265 312 274 C331 287 316 305 303 302 C310 319 290 330 276 323 Z"/>
+    <path d="M276 306 L254 288 M279 277 L298 257" stroke-width="3"/>
+    <path d="M440 327 C427 288 456 238 511 225 C524 259 502 315 440 327 Z M443 322 Q473 280 507 231"/>
+    <circle cx="455" cy="306" r="9"/><circle cx="474" cy="282" r="10"/><circle cx="492" cy="257" r="9"/>
+  </g>
+  <g fill="#f5ead3" stroke="#6b2a2f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M954 272 C931 252 903 275 906 303 C910 335 936 348 954 340 C973 352 1005 332 1006 304 C1008 277 980 256 954 272 Z"/>
+    <path d="M953 270 L938 260 L948 278 L930 283 L953 287 L966 279 L978 275 L962 270 L961 254" fill="none" stroke="#3a5a2a" stroke-width="4"/>
+    <circle cx="955" cy="301" r="83" fill="none"/>
+    <path d="M897 242 L1014 360" fill="none"/>
+  </g>
+  <g fill="#f5ead3" stroke="#1f2419" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M298 442 L334 420 H671 L704 442 L686 501 H316 Z"/>
+    <path d="M298 442 H704" fill="none"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M365 425 V390 M365 397 Q338 397 345 382 Q361 379 365 397 Q372 376 387 384 Q391 398 365 397"/>
+    <path d="M421 425 V382 M421 390 Q396 389 402 375 Q419 371 421 390 Q429 370 444 378 Q444 391 421 390"/>
+    <path d="M477 425 V388 M477 396 Q452 396 457 382 Q472 377 477 396 Q485 375 499 382 Q501 397 477 396"/>
+    <path d="M533 425 V382 M533 390 Q508 389 514 375 Q531 371 533 390 Q541 370 556 378 Q556 391 533 390"/>
+    <path d="M589 425 V388 M589 396 Q564 396 569 382 Q584 377 589 396 Q597 375 611 382 Q613 397 589 396"/>
+    <path d="M645 425 V390 M645 397 Q618 397 625 382 Q641 379 645 397 Q652 376 667 384 Q671 398 645 397"/>
+  </g>
+</svg>
