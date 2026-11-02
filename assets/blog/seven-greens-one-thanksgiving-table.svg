@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a holiday table seen from above, with seven dishes arranged around a platter and a small pinch of greens on each dish">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="150" y="40" width="900" height="550" rx="30"/>
+  </g>
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="600" cy="315" rx="150" ry="95"/><ellipse cx="600" cy="315" rx="112" ry="64" stroke-width="5"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M550 315 C575 295 625 295 650 315 C625 335 575 335 550 315 Z"/>
+  </g>
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="600" cy="110" r="48"/><circle cx="600" cy="110" r="32" stroke="#5c4633" stroke-width="4"/><circle cx="858" cy="187" r="48"/><circle cx="858" cy="187" r="32" stroke="#5c4633" stroke-width="4"/><circle cx="922" cy="361" r="48"/><circle cx="922" cy="361" r="32" stroke="#5c4633" stroke-width="4"/><circle cx="743" cy="500" r="48"/><circle cx="743" cy="500" r="32" stroke="#5c4633" stroke-width="4"/><circle cx="457" cy="500" r="48"/><circle cx="457" cy="500" r="32" stroke="#5c4633" stroke-width="4"/><circle cx="278" cy="361" r="48"/><circle cx="278" cy="361" r="32" stroke="#5c4633" stroke-width="4"/><circle cx="342" cy="187" r="48"/><circle cx="342" cy="187" r="32" stroke="#5c4633" stroke-width="4"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M600 114 C592 98 576 102 579 112 C584 120 593 118 600 114 Z"/><path d="M600 114 C608 98 624 102 620 112 C616 120 606 118 600 114 Z"/><path d="M600 114 V124"/><path d="M858 191 C850 175 834 179 837 189 C842 197 851 195 858 191 Z"/><path d="M858 191 C866 175 882 179 878 189 C874 197 864 195 858 191 Z"/><path d="M858 191 V201"/><path d="M921 364 C913 348 897 352 900 362 C905 370 914 368 921 364 Z"/><path d="M921 364 C929 348 945 352 941 362 C937 370 927 368 921 364 Z"/><path d="M921 364 V374"/><path d="M743 503 C735 487 719 491 722 501 C727 509 736 507 743 503 Z"/><path d="M743 503 C751 487 767 491 763 501 C759 509 749 507 743 503 Z"/><path d="M743 503 V513"/><path d="M456 503 C448 487 432 491 435 501 C440 509 449 507 456 503 Z"/><path d="M456 503 C464 487 480 491 476 501 C472 509 462 507 456 503 Z"/><path d="M456 503 V513"/><path d="M278 364 C270 348 254 352 257 362 C262 370 271 368 278 364 Z"/><path d="M278 364 C286 348 302 352 298 362 C294 370 284 368 278 364 Z"/><path d="M278 364 V374"/><path d="M341 191 C333 175 317 179 320 189 C325 197 334 195 341 191 Z"/><path d="M341 191 C349 175 365 179 361 189 C357 197 347 195 341 191 Z"/><path d="M341 191 V201"/>
+  </g>
+</svg>

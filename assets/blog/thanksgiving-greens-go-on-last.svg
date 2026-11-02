@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a covered glass container of greens on a refrigerator shelf, next to a carving board and knife waiting on the counter">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M60 580 H1140"/>
+  </g>
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="190" y="60" width="380" height="520" rx="8"/><rect x="214" y="84" width="332" height="472" stroke-width="5"/><path d="M190 60 L100 92 V548 L190 580"/><path d="M100 300 V340" stroke-width="10"/><path d="M214 210 H546 M214 360 H546 M214 490 H546"/>
+  </g>
+  <g fill="none" stroke="#1f2419" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="260" y="280" width="240" height="80" rx="8"/><path d="M260 298 H500" stroke-width="5"/><path d="M360 280 V268 H400 V280"/>
+  </g>
+  <g fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M300 336 C293 322 279 326 281 334 C286 341 294 340 300 336 Z"/><path d="M300 336 C307 322 321 326 318 334 C314 341 305 340 300 336 Z"/><path d="M350 326 C343 312 329 316 331 324 C336 331 344 330 350 326 Z"/><path d="M350 326 C357 312 371 316 368 324 C364 331 355 330 350 326 Z"/><path d="M400 338 C393 324 379 328 381 336 C386 343 394 342 400 338 Z"/><path d="M400 338 C407 324 421 328 418 336 C414 343 405 342 400 338 Z"/><path d="M450 326 C443 312 429 316 431 324 C436 331 444 330 450 326 Z"/><path d="M450 326 C457 312 471 316 468 324 C464 331 455 330 450 326 Z"/><path d="M300 336 V350 M350 326 V350 M400 338 V350 M450 326 V350"/>
+  </g>
+  <g fill="none" stroke="#5c4633" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M640 440 H1140"/><rect x="640" y="440" width="500" height="140"/><path d="M890 440 V580" stroke-width="5"/>
+  </g>
+  <g fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M700 440 V414 H1080 V440"/><path d="M700 414 L740 370 H1120 L1080 414"/><path d="M1080 440 V414 M1120 370 V396 L1080 440"/>
+  </g>
+  <g fill="none" stroke="#1f2419" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M780 398 L950 388 L968 394 L950 404 L780 404 Z" fill="#1f2419"/><path d="M968 396 H1050" stroke-width="12"/>
+  </g>
+</svg>
