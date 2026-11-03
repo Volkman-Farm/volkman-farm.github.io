@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of two pieces of toast on a plate, each topped with a different microgreen, beside a fork">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="565" cy="322" rx="405" ry="236" stroke="#1f2419" stroke-width="8"/>
+    <ellipse cx="565" cy="322" rx="374" ry="207" stroke="#5c4633" stroke-width="4"/>
+    <path d="M269 251 Q256 221 274 199 Q288 184 310 190 Q326 157 354 169 Q376 151 402 170 Q431 159 447 190 Q474 185 485 212 L480 391 Q476 420 449 422 L305 422 Q279 421 275 392 Z" stroke="#5c4633" stroke-width="8"/>
+    <path d="M645 251 Q632 221 650 199 Q664 184 686 190 Q702 157 730 169 Q752 151 778 170 Q807 159 823 190 Q850 185 861 212 L856 391 Q852 420 825 422 L681 422 Q655 421 651 392 Z" stroke="#5c4633" stroke-width="8"/>
+    <path d="M322 234 Q372 211 431 232 M316 373 Q375 390 441 369 M698 234 Q748 211 807 232 M692 373 Q751 390 817 369" stroke="#8a7e3a" stroke-width="5"/>
+    <g stroke="#3a5a2a" stroke-width="6">
+      <path d="M376 348 Q375 296 359 258 M376 348 Q388 303 411 276 M359 274 Q335 267 331 248 Q351 241 359 274 Z M362 288 Q365 260 385 252 Q393 270 362 288 Z M402 291 Q399 268 417 256 Q430 269 402 291 Z"/>
+      <path d="M751 348 Q747 300 727 260 M751 348 Q766 306 791 276 M729 278 Q704 272 702 252 Q724 247 729 278 Z M739 294 Q744 267 764 260 Q773 279 739 294 Z M783 291 Q782 270 802 260 Q814 277 783 291 Z"/>
+      <path d="M341 332 Q323 311 316 291 M405 341 Q422 315 437 307 M718 335 Q698 312 692 291 M784 340 Q801 316 816 307"/>
+    </g>
+    <path d="M1020 196 L1020 420 M992 194 L992 247 Q992 268 1020 268 Q1048 268 1048 247 L1048 194 M1010 194 L1010 243 M1030 194 L1030 243" stroke="#1f2419" stroke-width="7"/>
+  </g>
+</svg>
