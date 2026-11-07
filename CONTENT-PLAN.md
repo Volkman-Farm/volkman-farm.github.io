@@ -489,6 +489,12 @@ were left open for lack of a topic; evergreen drafts added 2026-10-31 at Albert'
 | Mon Nov 2 | In the kitchen | Thanksgiving greens go on last | Prep Wednesday night (wash and dry as the customer's step), greens after the oven, leftovers sandwich. 342 words. | [x] posts/thanksgiving-greens-go-on-last.md |
 | Tue Nov 3 | Homestead journal | A quiet start to November | **Albert 2026-10-28: nothing new.** 166 words, no H2. | [x] posts/a-quiet-start-to-november.md |
 
+### November additions · added 2026-11-07
+
+| Date | Pillar | Topic | Notes | Status |
+|---|---|---|---|---|
+| Sat Nov 7 | Reader questions | How do you wash just a handful? | Customer preparation: wash only the portion being eaten, dry gently, and keep the remainder cold and dry. FDA, FoodSafety.gov, and University of Minnesota Extension sources linked in the post. | [x] posts/how-do-you-wash-just-a-handful.md |
+
 ---
 
 ## After Oct 20
