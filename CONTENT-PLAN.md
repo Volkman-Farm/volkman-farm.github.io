@@ -501,3 +501,9 @@ were left open for lack of a topic; evergreen drafts added 2026-10-31 at Albert'
 
 Run a planning session: review which pillars got traction (GA4), ask readers (the Oct 3
 post), and draft the next quarter's calendar in this same format.
+
+### Nov 8 · buyer-facing post
+
+| Date | Pillar | Topic | Notes | Status |
+|---|---|---|---|---|
+| Sun Nov 8 | In the kitchen | One green, 3 roles | Pea tendrils as a noodle-bowl topping, sandwich filling, and salad base. Customer washing guidance checked against FDA. Original three-meal line illustration. | [x] posts/one-green-three-roles.md, **reviewed and approved for publication 2026-11-08** |

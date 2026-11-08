@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of pea tendrils on a noodle bowl, inside a sandwich, and filling a small salad bowl">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <defs>
+    <g id="pea" fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M0 0 C-8 -26 14 -52 3 -78 C-3 -94 8 -108 20 -103 C32 -98 26 -85 17 -90"/>
+      <path d="M1 -37 C-22 -35 -31 -48 -29 -63 C-9 -66 3 -54 1 -37 Z M6 -57 C29 -51 37 -66 33 -81 C14 -84 5 -71 6 -57 Z"/>
+    </g>
+  </defs>
+  <g fill="none" stroke="#5c4633" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 470 H1116" stroke-width="4"/>
+    <ellipse cx="245" cy="326" rx="145" ry="49" stroke-width="6"/>
+    <path d="M100 326 C115 405 163 453 245 453 C327 453 375 405 390 326" stroke-width="7"/>
+    <path d="M207 453 L202 468 H288 L283 453" stroke-width="5"/>
+    <g stroke="#8a7e3a" stroke-width="4">
+      <path d="M136 326 C162 303 169 350 193 326 C213 306 223 348 246 326 C269 305 280 348 304 325 C325 307 337 336 354 326"/>
+      <path d="M149 342 C169 325 178 356 199 342 M281 343 C305 326 321 356 341 340"/>
+    </g>
+    <path d="M458 370 L600 324 L743 371 L601 425 Z" stroke-width="7" fill="#f5ead3"/>
+    <path d="M458 370 L460 402 L601 450 L741 402 L743 371 M601 425 V450" stroke-width="5"/>
+    <path d="M469 355 L600 313 L733 356" stroke="#8a7e3a" stroke-width="6"/>
+    <path d="M452 312 L599 249 L749 312 L601 366 Z" stroke-width="7" fill="#f5ead3"/>
+    <path d="M452 312 L454 335 L601 390 L747 337 L749 312 M601 366 V390" stroke-width="5"/>
+    <path d="M480 310 L599 270 L720 311" stroke="#8a7e3a" stroke-width="4"/>
+    <ellipse cx="955" cy="337" rx="147" ry="53" stroke-width="6"/>
+  </g>
+  <use href="#pea" transform="translate(217 313) rotate(-43) scale(.72)"/>
+  <use href="#pea" transform="translate(265 315) rotate(34) scale(.76)"/>
+  <use href="#pea" transform="translate(487 359) rotate(-65) scale(.55)"/>
+  <use href="#pea" transform="translate(704 361) rotate(67) scale(.55)"/>
+  <use href="#pea" transform="translate(866 349) rotate(-38) scale(.9)"/>
+  <use href="#pea" transform="translate(902 351) rotate(-16) scale(1.05)"/>
+  <use href="#pea" transform="translate(947 350) rotate(10) scale(1.13)"/>
+  <use href="#pea" transform="translate(991 350) rotate(30) scale(1.05)"/>
+  <use href="#pea" transform="translate(1030 348) rotate(47) scale(.9)"/>
+  <path d="M808 337 C828 418 883 455 955 455 C1027 455 1082 418 1102 337 C1058 384 852 384 808 337 Z" fill="#f5ead3" stroke="#5c4633" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M913 455 L909 468 H1001 L997 455" fill="none" stroke="#5c4633" stroke-width="5" stroke-linejoin="round"/>
+</svg>
