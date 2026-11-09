@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Overhead line drawing of two separate bowls of microgreens, each with its own serving tongs">
+  <rect width="1200" height="630" fill="#f5ead3"/>
+  <defs>
+    <g id="shoot" fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M0 0 Q5 -34 0 -60"/>
+      <path d="M0 -56 C-31 -40 -43 -66 -29 -78 C-17 -90 1 -77 0 -56 Z M1 -48 C30 -35 43 -61 28 -72 C13 -83 0 -67 1 -48 Z"/>
+    </g>
+  </defs>
+  <g fill="none" stroke="#5c4633" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="80" y="78" width="1040" height="474" rx="26" stroke-width="5"/>
+    <circle cx="350" cy="320" r="166" stroke-width="7"/>
+    <circle cx="350" cy="320" r="146" stroke-width="3"/>
+    <circle cx="850" cy="320" r="166" stroke-width="7"/>
+    <circle cx="850" cy="320" r="146" stroke-width="3"/>
+  </g>
+  <use href="#shoot" transform="translate(310 300) rotate(-35) scale(.9)"/>
+  <use href="#shoot" transform="translate(373 282) rotate(18) scale(.9)"/>
+  <use href="#shoot" transform="translate(417 335) rotate(65) scale(.9)"/>
+  <use href="#shoot" transform="translate(350 368) rotate(4) scale(1.03)"/>
+  <use href="#shoot" transform="translate(290 368) rotate(-58) scale(.84)"/>
+  <use href="#shoot" transform="translate(391 411) rotate(112) scale(.82)"/>
+  <use href="#shoot" transform="translate(327 412) rotate(-126) scale(.75)"/>
+  <use href="#shoot" transform="translate(820 314) rotate(-28) scale(1.05)"/>
+  <use href="#shoot" transform="translate(879 301) rotate(20) scale(.95)"/>
+  <use href="#shoot" transform="translate(927 355) rotate(73) scale(.9)"/>
+  <use href="#shoot" transform="translate(865 390) rotate(12) scale(1.05)"/>
+  <use href="#shoot" transform="translate(795 379) rotate(-73) scale(.95)"/>
+  <g fill="#f5ead3" stroke="#1f2419" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M542 195 C543 167 577 167 578 195 L586 430 Q577 445 568 430 L560 237 L552 430 Q543 445 534 430 Z"/>
+    <path d="M620 430 C621 458 655 458 656 430 L664 195 Q655 180 646 195 L638 388 L630 195 Q621 180 612 195 Z"/>
+  </g>
+  <g fill="none" stroke="#8a7e3a" stroke-width="3" stroke-linecap="round">
+    <path d="M539 406 L550 407 M538 417 L551 418 M571 406 L583 405 M571 417 L584 416"/>
+    <path d="M617 218 L628 219 M616 207 L629 208 M649 218 L661 217 M649 207 L662 206"/>
+  </g>
+</svg>

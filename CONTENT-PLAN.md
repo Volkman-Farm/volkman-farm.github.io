@@ -507,3 +507,9 @@ post), and draft the next quarter's calendar in this same format.
 | Date | Pillar | Topic | Notes | Status |
 |---|---|---|---|---|
 | Sun Nov 8 | In the kitchen | One green, 3 roles | Pea tendrils as a noodle-bowl topping, sandwich filling, and salad base. Customer washing guidance checked against FDA. Original three-meal line illustration. | [x] posts/one-green-three-roles.md, **reviewed and approved for publication 2026-11-08** |
+
+### Nov 9 · buyer-facing post
+
+| Date | Pillar | Topic | Notes | Status |
+|---|---|---|---|---|
+| Mon Nov 9 | In the kitchen | Pass the greens separately | Serving a table with different tastes: mild and sharp greens in separate bowls, clear names, and optional dressing. FDA produce and buffet guidance checked. Original two-bowl line illustration. | [x] posts/pass-the-greens-separately.md, **reviewed and approved for publication 2026-11-09** |
