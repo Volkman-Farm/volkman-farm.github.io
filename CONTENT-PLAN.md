@@ -513,3 +513,9 @@ post), and draft the next quarter's calendar in this same format.
 | Date | Pillar | Topic | Notes | Status |
 |---|---|---|---|---|
 | Mon Nov 9 | In the kitchen | Pass the greens separately | Serving a table with different tastes: mild and sharp greens in separate bowls, clear names, and optional dressing. FDA produce and buffet guidance checked. Original two-bowl line illustration. | [x] posts/pass-the-greens-separately.md, **reviewed and approved for publication 2026-11-09** |
+
+### Nov 10 · buyer-facing post
+
+| Date | Pillar | Topic | Notes | Status |
+|---|---|---|---|---|
+| Tue Nov 10 | Reader questions | The fridge dial isn't a thermometer | Evergreen fallback: verify refrigerator temperature with an appliance thermometer. FDA guidance checked; corrects July's appearance/smell safety claim forward without editing the older post. Original fridge-shelf illustration. | [x] posts/the-fridge-dial-isnt-a-thermometer.md, **reviewed and approved for publication 2026-11-10** |

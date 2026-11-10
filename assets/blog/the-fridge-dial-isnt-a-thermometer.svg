@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Line drawing of a closed clamshell of microgreens beside a freestanding thermometer on a refrigerator shelf">
+<rect width="1200" height="630" fill="#f5ead3"/>
+<defs>
+ <g id="shoot" fill="none" stroke="#3a5a2a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M0 0 Q7 -37 0 -66"/>
+  <path d="M0 -59 C-33 -43 -44 -73 -27 -83 C-11 -91 3 -74 0 -59 Z M2 -51 C33 -36 45 -66 28 -76 C13 -84 0 -67 2 -51 Z"/>
+ </g>
+</defs>
+<g fill="none" stroke="#5c4633" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M123 496 V126 Q123 87 162 87 H1038 Q1077 87 1077 126 V496" stroke-width="8"/>
+ <path d="M151 489 H1050 M151 508 H1050" stroke-width="6"/>
+ <path d="M176 126 H1024 M176 145 H1024" stroke-width="3"/>
+ <path d="M173 224 H198 M173 264 H198 M173 304 H198 M1002 224 H1027 M1002 264 H1027 M1002 304 H1027" stroke-width="4"/>
+</g>
+<g fill="none" stroke="#1f2419" stroke-width="5" stroke-linejoin="round">
+ <path d="M255 341 L674 341 L697 459 Q697 477 678 477 H275 Q257 477 255 459 L231 355 Q229 341 255 341 Z"/>
+ <path d="M236 341 L277 269 Q282 259 298 259 H653 Q665 259 669 274 L697 341 Z"/>
+ <path d="M245 349 H689 M264 458 H679" stroke-width="3"/>
+ <path d="M272 333 L301 282 H648 L666 333" stroke-width="3"/>
+</g>
+<use href="#shoot" transform="translate(314 419) rotate(-14) scale(.9)"/>
+<use href="#shoot" transform="translate(383 423) rotate(8) scale(1.05)"/>
+<use href="#shoot" transform="translate(453 420) rotate(-11) scale(.9)"/>
+<use href="#shoot" transform="translate(527 421) rotate(14) scale(1.02)"/>
+<use href="#shoot" transform="translate(601 420) rotate(-12) scale(.88)"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M823 270 V239 Q823 211 850 211 H877" stroke="#1f2419" stroke-width="7"/>
+ <rect x="785" y="263" width="130" height="187" rx="22" stroke="#1f2419" stroke-width="6"/>
+ <path d="M801 452 L790 477 H911 L899 452" stroke="#1f2419" stroke-width="6"/>
+ <path d="M831 302 V392 A19 19 0 1 0 857 392 V302 Q857 289 844 289 Q831 289 831 302 Z" stroke="#3a5a2a" stroke-width="5"/>
+ <path d="M844 402 V357" stroke="#6b2a2f" stroke-width="8"/>
+ <path d="M870 310 H886 M870 332 H880 M870 354 H886 M870 376 H880" stroke="#8a7e3a" stroke-width="4"/>
+</g>
+</svg>
