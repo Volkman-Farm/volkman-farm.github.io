@@ -519,3 +519,9 @@ post), and draft the next quarter's calendar in this same format.
 | Date | Pillar | Topic | Notes | Status |
 |---|---|---|---|---|
 | Tue Nov 10 | Reader questions | The fridge dial isn't a thermometer | Evergreen fallback: verify refrigerator temperature with an appliance thermometer. FDA guidance checked; corrects July's appearance/smell safety claim forward without editing the older post. Original fridge-shelf illustration. | [x] posts/the-fridge-dial-isnt-a-thermometer.md, **reviewed and approved for publication 2026-11-10** |
+
+### Nov 11 · buyer-facing post
+
+| Date | Pillar | Topic | Notes | Status |
+|---|---|---|---|---|
+| Wed Nov 11 | Reader questions | Before you reorder, name the meal | A second-order feedback exercise: distinguish flavor, quantity and changed meal plans. No availability, shelf-life or nutrition promises. Reuses the existing variety illustration. | [x] posts/before-you-reorder-name-the-meal.md, **reviewed and approved for publication 2026-11-11** |
