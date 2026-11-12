@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630"><rect width="1200" height="630" fill="#f5ead3"/><g fill="none" stroke="#5c4633" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"><!-- Hinged kraft takeout carton: separate lid, opening, and tapered walls. -->
+<path d="M160 300 130 170 Q128 158 141 156 L386 132 Q398 131 401 144 L430 270Z" fill="#ead9b8"/>
+<path d="M174 271 153 179 380 157 402 250Z" stroke-width="4"/>
+<path d="M160 300 430 270 491 363 213 401Z" fill="#fff8e7"/>
+<path d="M160 300 213 401 230 490 181 386Z" fill="#dfc49a"/>
+<path d="M213 401 491 363 463 462 230 490Z" fill="#ead9b8"/>
+<path d="M430 270 491 363 463 462"/>
+<path d="M326 386 328 401 363 396 366 381" fill="#fff8e7" stroke-width="4"/>
+<path d="M245 434 439 408" stroke-width="3"/>
+<ellipse cx="790" cy="426" rx="240" ry="86"/><ellipse cx="790" cy="426" rx="195" ry="57"/></g><g fill="none" stroke="#3a5a2a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"><path d="M700 420Q705 350 750 304 M746 440Q776 365 836 316 M814 438Q853 367 900 348"/><path d="M729 337Q680 290 685 260Q735 258 739 322 M750 304Q746 255 785 245Q811 282 750 304 M800 343Q760 320 775 282Q817 283 817 331 M836 316Q830 266 870 260Q893 299 836 316 M868 370Q846 327 858 304Q899 315 890 355 M900 348Q907 305 945 312Q953 350 900 348"/></g><path d="M110 515H1090" fill="none" stroke="#8a7e3a" stroke-width="5" stroke-linecap="round"/></svg>
