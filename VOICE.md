@@ -190,3 +190,8 @@ still binds. Nothing here loosens them:
 - No gator, German, or Bavarian references.
 - Kids: no names, no ages, no faces. Birth-order and role only.
 - The banned word list in BRAND.md section 4 stands in full.
+
+
+## November 13 style correction
+
+Albert approved the final revision of `posts/keep-the-lettuce.md` as the model for future posts. Write in clear, natural conversational prose with concrete details. Avoid turning every post into instructions or a checklist. Warmth should come from an unforced point of view, not an invented scene, personified ingredients, tidy slogans or a polished moral at the end. Real stories are welcome when their facts are verified; do not manufacture farm or customer experiences to create a storytelling tone. Read the draft aloud for cadence and cut phrases that sound like an assistant explaining a lesson.

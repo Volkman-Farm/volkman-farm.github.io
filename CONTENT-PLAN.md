@@ -525,3 +525,9 @@ post), and draft the next quarter's calendar in this same format.
 | Date | Pillar | Topic | Notes | Status |
 |---|---|---|---|---|
 | Wed Nov 11 | Reader questions | Before you reorder, name the meal | A second-order feedback exercise: distinguish flavor, quantity and changed meal plans. No availability, shelf-life or nutrition promises. Reuses the existing variety illustration. | [x] posts/before-you-reorder-name-the-meal.md, **reviewed and approved for publication 2026-11-11** |
+
+### Nov 13 · buyer-facing post
+
+| Date | Pillar | Topic | Notes | Status |
+|---|---|---|---|---|
+| Fri Nov 13 | In the kitchen | Keep the lettuce | Revised again at Albert's request: removed contrived imagined scene and polished slogans; shorter conversational explanation. No invented farm anecdote. FDA preparation guidance checked. Original salad-bowl illustration. | [x] posts/keep-the-lettuce.md, **reviewed and approved for publication 2026-11-13** |
