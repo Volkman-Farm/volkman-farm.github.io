@@ -545,3 +545,9 @@ post), and draft the next quarter's calendar in this same format.
 |---|---|---|---|---|
 | Sun Nov 15 | In the kitchen | A baked potato is enough | A familiar potato dinner with mustard or arugula, without replacing favorite toppings. Natural conversational voice; no invented experiences or availability claims. FDA produce preparation guidance checked. Original potato line illustration. | [x] posts/a-baked-potato-is-enough.md, **reviewed and approved for publication 2026-11-16** |
 
+
+### Nov 17 · buyer-facing draft
+
+| Date | Pillar | Topic | Notes | Status |
+|---|---|---|---|---|
+| Tue Nov 17 | In the kitchen | Mustard greens on deviled eggs | A small Thanksgiving trial without changing a familiar filling. Distinct from July breakfast eggs; no invented farm anecdote or availability claim. FDA produce and egg safety checked. Original sparse cream/brown/green illustration. | [x] posts/mustard-greens-on-deviled-eggs.md, **reviewed and approved for publication 2026-11-17** |
