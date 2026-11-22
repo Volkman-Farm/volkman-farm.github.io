@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#f6eedf"/>
+<g fill="none" stroke="#694830" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="602" cy="323" rx="377" ry="209"/>
+<ellipse cx="602" cy="323" rx="335" ry="172" stroke-width="2"/>
+<path fill="#e6a36b" d="M345 317Q312 294 352 274Q405 258 565 281L805 317Q844 330 806 341L530 345Q408 347 345 317Z"/>
+<path fill="#ecb080" d="M404 226Q374 203 432 188Q509 172 656 215L812 265Q843 282 800 284L570 264Q442 253 404 226Z"/>
+<path fill="#ecb080" d="M385 389Q348 370 401 356Q480 341 645 367L813 393Q844 402 798 419L590 438Q453 433 385 389Z"/>
+<path d="m412 285 11 18m41-16 11 16m71-11 8 13m-74-98 8 16m57-4 10 13m-106 153 13 16m64-12 12 11m55-10 9 11" stroke-width="3"/>
+<path d="m805 341 32-5m-38 84 33-10m-27-130 25-3" stroke="#9c6346" stroke-width="3"/>
+</g>
+<g fill="#87946b" stroke="#395139" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+<path fill="none" d="M721 336Q729 305 747 283m-9 49q24-18 47-15m-54 16q-18-23-41-28m46 11q2-37-8-53m31 68q12-9 36-4"/>
+<path d="M746 284Q750 254 778 260Q779 282 746 284ZM728 269Q702 257 710 235Q730 236 728 269ZM701 309Q681 314 667 292Q689 281 701 309ZM783 317Q798 296 820 307Q813 325 783 317ZM795 327Q809 317 830 332Q809 346 795 327Z"/>
+</g>
+</svg>
